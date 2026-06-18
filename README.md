@@ -26,7 +26,7 @@ Due to GitHub's file size limits, the large **augmented audio files** are hosted
 ### 1. FineEdit Components
 | Component | Format | Source | Download Link |
 | :--- | :--- | :--- | :--- |
-| **Paired Metadata** | `.json` | GitHub | [Repo](#) |
+| **Paired Metadata** | `.json` | GitHub | [Repo](.) |
 | **Augmentation Scripts** | `.sh` | GitHub | [`code-change-prosody/`](code-change-prosody) |
 | **Prosody Audio Pack** | `.tar.gz` | Google Drive | [👉 Download from Google Drive](https://drive.google.com/file/d/1Bczn8XoKEhHaHQyynBDZha4Nj5XclNl7/view?usp=sharing) |
 
