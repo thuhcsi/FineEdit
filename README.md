@@ -13,7 +13,7 @@ Each sample is organized as a triplet: `(source speech, control description, tar
 
 * **`pair-prosody/`**: JSON metadata for relative prosody control. Built on **LibriTTS-R** with speech rate and pitch modifications.
 * **`pair-emotion/`**: JSON metadata for relative emotion control. Built on the **ESD** dataset across 5 emotions.
-* **`pair-timbre/`**: JSON metadata for relative timbre transfer. Built by cross-pairing speakers with similar acoustic profiles using **LibriTTS-P** and **TextrolSpeech** annotations.
+* **`pair-timbre/`**: JSON metadata for relative timbre control. Built by cross-pairing speakers with similar acoustic profiles using **LibriTTS-P** and **TextrolSpeech** annotations.
 * **`code-change-prosody/`**: Parallelized batch processing scripts (FFmpeg + GNU Parallel) used for prosody manipulation.
 * **`metadata/`**: Contains the baseline meta-information and speaking style/prosody annotations directly derived from **LibriTTS-R** and **TextrolSpeech**.
 
@@ -26,9 +26,9 @@ Due to GitHub's file size limits, the large **augmented audio files** are hosted
 ### 1. FineEdit Components
 | Component | Format | Source | Download Link |
 | :--- | :--- | :--- | :--- |
-| **Paired Metadata** | `.json` | GitHub | [Browse Repo](#) |
-| **Augmentation Scripts** | `.sh` | GitHub | [Browse `code-change-prosody/`](code-change-prosody) |
-| **Prosody Audio Pack** | `.tar.gz` | Google Drive | [👉 Download from Google Drive](YOUR_GOOGLE_DRIVE_LINK_HERE) |
+| **Paired Metadata** | `.json` | GitHub | [Repo](#) |
+| **Augmentation Scripts** | `.sh` | GitHub | [`code-change-prosody/`](code-change-prosody) |
+| **Prosody Audio Pack** | `.tar.gz` | Google Drive | [👉 Download from Google Drive](https://drive.google.com/file/d/1Bczn8XoKEhHaHQyynBDZha4Nj5XclNl7/view?usp=sharing) |
 
 ### 2. Upstream Source Datasets
 To fully utilize the metadata or replicate the full data environment, you can access the original source datasets here:
