@@ -1,0 +1,80 @@
+[
+    {
+        "item_name": "Emotional Speech Dataset (ESD)-Emotion Speech Dataset-0019-Sad-0019_001245",
+        "wav_path": "/zhiji-universal-cfs-sh/speech/prompt_based_data/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0019/Sad/0019_001245.wav",
+        "speaker_id": "Emotional Speech Dataset (ESD)-Emotion Speech Dataset-0019",
+        "content": "A boat put out-on the bay.",
+        "style_prompt": "The girl shared her heartbroken thoughts quickly.",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "high",
+        "energy": "normal",
+        "emotion": "sad",
+        "prosody_key": "p-normal_s-high_e-normal_sad"
+    },
+    {
+        "item_name": "Emotional Speech Dataset (ESD)-Emotion Speech Dataset-0011-Sad-0011_001092",
+        "wav_path": "/zhiji-universal-cfs-sh/speech/prompt_based_data/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0011/Sad/0011_001092.wav",
+        "speaker_id": "Emotional Speech Dataset (ESD)-Emotion Speech Dataset-0011",
+        "content": "She may mind ye of her.",
+        "style_prompt": "The despondent man converses rapidly while maintaining a normal pitch and energy.",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "high",
+        "energy": "normal",
+        "emotion": "sad",
+        "prosody_key": "p-normal_s-high_e-normal_sad"
+    },
+    {
+        "item_name": "Emotional Speech Dataset (ESD)-Emotion Speech Dataset-0011-Sad-0011_001203",
+        "wav_path": "/zhiji-universal-cfs-sh/speech/prompt_based_data/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0011/Sad/0011_001203.wav",
+        "speaker_id": "Emotional Speech Dataset (ESD)-Emotion Speech Dataset-0011",
+        "content": "But we are not high yet.",
+        "style_prompt": "A despondent man with regular pitch conversed rapidly with normal energy levels.",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "high",
+        "energy": "normal",
+        "emotion": "sad",
+        "prosody_key": "p-normal_s-high_e-normal_sad"
+    },
+    {
+        "item_name": "Emotional Speech Dataset (ESD)-Emotion Speech Dataset-0011-Sad-0011_001287",
+        "wav_path": "/zhiji-universal-cfs-sh/speech/prompt_based_data/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0011/Sad/0011_001287.wav",
+        "speaker_id": "Emotional Speech Dataset (ESD)-Emotion Speech Dataset-0011",
+        "content": "What would they do at the end of the year?",
+        "style_prompt": "The male speaker delivers his sorrowful message through quick speech, maintaining a normal pitch and moderate energy.",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "high",
+        "energy": "normal",
+        "emotion": "sad",
+        "prosody_key": "p-normal_s-high_e-normal_sad"
+    },
+    {
+        "item_name": "Emotional Speech Dataset (ESD)-Emotion Speech Dataset-0011-Sad-0011_001082",
+        "wav_path": "/zhiji-universal-cfs-sh/speech/prompt_based_data/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0011/Sad/0011_001082.wav",
+        "speaker_id": "Emotional Speech Dataset (ESD)-Emotion Speech Dataset-0011",
+        "content": "Who is been repeating all that hard stuff to you?",
+        "style_prompt": "The despondent man's rapid speech pairs with a regular pitch and energy level.",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "high",
+        "energy": "normal",
+        "emotion": "sad",
+        "prosody_key": "p-normal_s-high_e-normal_sad"
+    },
+    {
+        "item_name": "Emotional Speech Dataset (ESD)-Emotion Speech Dataset-0011-Sad-0011_001073",
+        "wav_path": "/zhiji-universal-cfs-sh/speech/prompt_based_data/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0011/Sad/0011_001073.wav",
+        "speaker_id": "Emotional Speech Dataset (ESD)-Emotion Speech Dataset-0011",
+        "content": "I thought you meant how old are you?",
+        "style_prompt": "A downcast man conversed rapidly, keeping a regular tone and normal enthusiasm.",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "high",
+        "energy": "normal",
+        "emotion": "sad",
+        "prosody_key": "p-normal_s-high_e-normal_sad"
+    }
+]

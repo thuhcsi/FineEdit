@@ -1,0 +1,67 @@
+[
+    {
+        "item_name": "Emotional Speech Dataset (ESD)-Emotion Speech Dataset-0014-Neutral-0014_000171",
+        "wav_path": "/zhiji-universal-cfs-sh/speech/prompt_based_data/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0014/Neutral/0014_000171.wav",
+        "speaker_id": "Emotional Speech Dataset (ESD)-Emotion Speech Dataset-0014",
+        "content": "I say neither yea nor nay.",
+        "style_prompt": "With a regular pitch, the man takes his time to express himself, imbuing his words with moderate energy.",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "low",
+        "energy": "normal",
+        "emotion": "neutral",
+        "prosody_key": "p-normal_s-low_e-normal_neutral"
+    },
+    {
+        "item_name": "Emotional Speech Dataset (ESD)-Emotion Speech Dataset-0014-Neutral-0014_000290",
+        "wav_path": "/zhiji-universal-cfs-sh/speech/prompt_based_data/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0014/Neutral/0014_000290.wav",
+        "speaker_id": "Emotional Speech Dataset (ESD)-Emotion Speech Dataset-0014",
+        "content": "There goes the shawl again!",
+        "style_prompt": "A male speaker, employing a standard pitch, converses at a leisurely speed with a hint of regular energy.",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "low",
+        "energy": "normal",
+        "emotion": "neutral",
+        "prosody_key": "p-normal_s-low_e-normal_neutral"
+    },
+    {
+        "item_name": "Emotional Speech Dataset (ESD)-Emotion Speech Dataset-0014-Neutral-0014_000128",
+        "wav_path": "/zhiji-universal-cfs-sh/speech/prompt_based_data/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0014/Neutral/0014_000128.wav",
+        "speaker_id": "Emotional Speech Dataset (ESD)-Emotion Speech Dataset-0014",
+        "content": "Put that rude grasshopper in jail!",
+        "style_prompt": "The male speaker's measured speech features a regular pitch and a hint of energy.",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "low",
+        "energy": "normal",
+        "emotion": "neutral",
+        "prosody_key": "p-normal_s-low_e-normal_neutral"
+    },
+    {
+        "item_name": "Emotional Speech Dataset (ESD)-Emotion Speech Dataset-0014-Neutral-0014_000205",
+        "wav_path": "/zhiji-universal-cfs-sh/speech/prompt_based_data/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0014/Neutral/0014_000205.wav",
+        "speaker_id": "Emotional Speech Dataset (ESD)-Emotion Speech Dataset-0014",
+        "content": "Fear neither root nor sprout!",
+        "style_prompt": "A man, maintaining a normal pitch, engages in unhurried speech with a touch of regular energy.",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "low",
+        "energy": "normal",
+        "emotion": "neutral",
+        "prosody_key": "p-normal_s-low_e-normal_neutral"
+    },
+    {
+        "item_name": "Emotional Speech Dataset (ESD)-Emotion Speech Dataset-0014-Neutral-0014_000276",
+        "wav_path": "/zhiji-universal-cfs-sh/speech/prompt_based_data/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0014/Neutral/0014_000276.wav",
+        "speaker_id": "Emotional Speech Dataset (ESD)-Emotion Speech Dataset-0014",
+        "content": "Can your name be more hilarious?",
+        "style_prompt": "His speech carries a hint of normal energy, and he maintains a regular pitch.",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "low",
+        "energy": "normal",
+        "emotion": "neutral",
+        "prosody_key": "p-normal_s-low_e-normal_neutral"
+    }
+]

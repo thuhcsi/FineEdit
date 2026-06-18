@@ -1,0 +1,200 @@
+[
+    {
+        "item_name": "LibriTTS_R-986_129388_000002_000004",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/986/129388/986_129388_000002_000004.wav",
+        "speaker_id": "LibriTTS_R-986",
+        "content": "The sight greatly staggered him, and he was so affected that his account of it was incoherent.",
+        "style_prompt": "M_p-low_s-normal_e-low",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-986_129388_000002_000007",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/986/129388/986_129388_000002_000007.wav",
+        "speaker_id": "LibriTTS_R-986",
+        "content": "He had seen the abduction been in pursuit of the fairies.",
+        "style_prompt": "M_p-normal_s-normal_e-low",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-986_129388_000002_000009",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/986/129388/986_129388_000002_000009.wav",
+        "speaker_id": "LibriTTS_R-986",
+        "content": "He does not say if any of the wounded recovered.",
+        "style_prompt": "M_p-normal_s-normal_e-normal",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-986_129388_000005_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/986/129388/986_129388_000005_000001.wav",
+        "speaker_id": "LibriTTS_R-986",
+        "content": "Well, his grill has a plating of gold, And his twistings are greatly admired.",
+        "style_prompt": "M_p-low_s-normal_e-low",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-986_129388_000009_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/986/129388/986_129388_000009_000000.wav",
+        "speaker_id": "LibriTTS_R-986",
+        "content": "Each dropped one eyelid when before The throne he ventured, thinking 'Twould please the king.",
+        "style_prompt": "M_p-low_s-normal_e-low",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-986_129388_000009_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/986/129388/986_129388_000009_000001.wav",
+        "speaker_id": "LibriTTS_R-986",
+        "content": "That monarch swore He'd slay them all for winking.",
+        "style_prompt": "M_p-low_s-slow_e-low",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "slow",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-986_129388_000010_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/986/129388/986_129388_000010_000001.wav",
+        "speaker_id": "LibriTTS_R-986",
+        "content": "They were not hot To hazard such disaster; They dared not close an eye-dared not See better than their master.",
+        "style_prompt": "M_p-low_s-normal_e-low",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-986_129388_000012_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/986/129388/986_129388_000012_000000.wav",
+        "speaker_id": "LibriTTS_R-986",
+        "content": "The court all wore the stuff, the flame Of royal anger dying. That's how court plaster got its name Unless I'm greatly lying.",
+        "style_prompt": "M_p-normal_s-slow_e-low",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "slow",
+        "energy": "very low"
+    },
+    {
+        "item_name": "LibriTTS_R-986_129388_000014_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/986/129388/986_129388_000014_000001.wav",
+        "speaker_id": "LibriTTS_R-986",
+        "content": "A festival.",
+        "style_prompt": "M_p-low_s-normal_e-normal",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-986_129388_000015_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/986/129388/986_129388_000015_000001.wav",
+        "speaker_id": "LibriTTS_R-986",
+        "content": "A person of greater enterprise than discretion, who in embracing an opportunity has formed an unfortunate attachment.",
+        "style_prompt": "M_p-normal_s-normal_e-low",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-986_129388_000019_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/986/129388/986_129388_000019_000001.wav",
+        "speaker_id": "LibriTTS_R-986",
+        "content": "A lie that has not cut its teeth.",
+        "style_prompt": "M_p-normal_s-slow_e-normal",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "slow",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-986_129388_000022_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/986/129388/986_129388_000022_000001.wav",
+        "speaker_id": "LibriTTS_R-986",
+        "content": "The iterated satiety of an enterprising affection.",
+        "style_prompt": "M_p-normal_s-normal_e-normal",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-986_129388_000026_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/986/129388/986_129388_000026_000001.wav",
+        "speaker_id": "LibriTTS_R-986",
+        "content": "A virtue peculiar to those who are about to be betrayed.",
+        "style_prompt": "M_p-normal_s-normal_e-low",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-986_129388_000029_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/986/129388/986_129388_000029_000001.wav",
+        "speaker_id": "LibriTTS_R-986",
+        "content": "The Second Person of the secular Trinity.",
+        "style_prompt": "M_p-normal_s-normal_e-low",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-986_129388_000036_000004",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/986/129388/986_129388_000036_000004.wav",
+        "speaker_id": "LibriTTS_R-986",
+        "content": "He created patriotism and taught the nations war-founded theology, philosophy, law, medicine and Chicago.",
+        "style_prompt": "M_p-low_s-slow_e-low",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "slow",
+        "energy": "very low"
+    },
+    {
+        "item_name": "LibriTTS_R-986_129388_000059_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/986/129388/986_129388_000059_000000.wav",
+        "speaker_id": "LibriTTS_R-986",
+        "content": "Armit Huff Bettle",
+        "style_prompt": "M_p-normal_s-normal_e-normal",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-986_129388_000060_000005",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/986/129388/986_129388_000060_000005.wav",
+        "speaker_id": "LibriTTS_R-986",
+        "content": "The frog is a diligent songster, having a good voice but no ear.",
+        "style_prompt": "M_p-normal_s-slow_e-low",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "slow",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-986_129388_000067_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/986/129388/986_129388_000067_000000.wav",
+        "speaker_id": "LibriTTS_R-986",
+        "content": "Jex Wopley",
+        "style_prompt": "M_p-normal_s-slow_e-low",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "very slow",
+        "energy": "very low"
+    }
+]

@@ -1,0 +1,123 @@
+[
+    {
+        "item_name": "LibriTTS_R-6075_57154_000021_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/6075/57154/6075_57154_000021_000000.wav",
+        "speaker_id": "LibriTTS_R-6075",
+        "content": "\"No, mr Gotobed; we couldn't catch him.",
+        "style_prompt": "M_p-low_s-slow_e-high",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "slow",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-6075_57154_000024_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/6075/57154/6075_57154_000024_000000.wav",
+        "speaker_id": "LibriTTS_R-6075",
+        "content": "\"Oh;--that's part of the fun.",
+        "style_prompt": "M_p-normal_s-normal_e-normal",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-6075_57154_000024_000003",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/6075/57154/6075_57154_000024_000003.wav",
+        "speaker_id": "LibriTTS_R-6075",
+        "content": "What's become of the rest of the men?\"",
+        "style_prompt": "M_p-normal_s-fast_e-high",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "very fast",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-6075_57156_000004_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/6075/57156/6075_57156_000004_000000.wav",
+        "speaker_id": "LibriTTS_R-6075",
+        "content": "\"He should have put something in it to make it at any rate decent before we came in.\"",
+        "style_prompt": "M_p-low_s-fast_e-normal",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "fast",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-6075_57156_000014_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/6075/57156/6075_57156_000014_000000.wav",
+        "speaker_id": "LibriTTS_R-6075",
+        "content": "\"That's just it.\"",
+        "style_prompt": "M_p-low_s-slow_e-normal",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "slow",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-6075_57156_000031_000002",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/6075/57156/6075_57156_000031_000002.wav",
+        "speaker_id": "LibriTTS_R-6075",
+        "content": "\"I will, mamma.",
+        "style_prompt": "M_p-low_s-normal_e-high",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "very high"
+    },
+    {
+        "item_name": "LibriTTS_R-6075_57156_000033_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/6075/57156/6075_57156_000033_000000.wav",
+        "speaker_id": "LibriTTS_R-6075",
+        "content": "\"And Bragton is here.",
+        "style_prompt": "M_p-normal_s-normal_e-high",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-6075_57156_000034_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/6075/57156/6075_57156_000034_000000.wav",
+        "speaker_id": "LibriTTS_R-6075",
+        "content": "\"My dear, my opinion is that we've made a mistake.",
+        "style_prompt": "M_p-low_s-fast_e-high",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "fast",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-6075_57156_000036_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/6075/57156/6075_57156_000036_000000.wav",
+        "speaker_id": "LibriTTS_R-6075",
+        "content": "\"You are determined then?\"",
+        "style_prompt": "M_p-normal_s-fast_e-high",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "very fast",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-6075_57156_000037_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/6075/57156/6075_57156_000037_000000.wav",
+        "speaker_id": "LibriTTS_R-6075",
+        "content": "\"I think I am.",
+        "style_prompt": "M_p-low_s-fast_e-high",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "fast",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-6075_57156_000057_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/6075/57156/6075_57156_000057_000000.wav",
+        "speaker_id": "LibriTTS_R-6075",
+        "content": "\"Nonsense, mamma!",
+        "style_prompt": "M_p-normal_s-normal_e-high",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "very high"
+    }
+]

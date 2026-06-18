@@ -1,0 +1,98 @@
+[
+    {
+        "item_name": "libritts-train-clean-360-7475-232691-7475_232691_000029_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/7475/232691/7475_232691_000029_000001.wav",
+        "speaker_id": "LibriTTS-train-clean-360-7475",
+        "content": "Now, if a man murdereth, behold will our law, which is just, take the life of his brother?",
+        "style_prompt": "His dynamic speaking style is enhanced by the low pitch of his voice and a natural speed.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "high",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-360-7475-232691-7475_232691_000013_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/7475/232691/7475_232691_000013_000001.wav",
+        "speaker_id": "LibriTTS-train-clean-360-7475",
+        "content": "And many did look and live.",
+        "style_prompt": "With a vibrant energy, his low-pitched tone resonates as he speaks at a steady tempo.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "high",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-360-7475-232691-7475_232691_000014_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/7475/232691/7475_232691_000014_000001.wav",
+        "speaker_id": "LibriTTS-train-clean-360-7475",
+        "content": "But there were many who were so hardened that they would not look, therefore they perished.",
+        "style_prompt": "The man addresses in his familiar low-pitched tone, engaging in conversation with average vitality.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "normal",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-360-7475-232691-7475_232691_000052_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/7475/232691/7475_232691_000052_000001.wav",
+        "speaker_id": "LibriTTS-train-clean-360-7475",
+        "content": "Nay, ye cannot say this; for that same spirit which doth possess your bodies at the time that ye go out of this life, that same spirit will have power to possess your body in that eternal world.",
+        "style_prompt": "A man's low-pitched voice underscores high energy levels in his dialogue at a standard tempo of speaking.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "high",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-360-7475-232691-7475_232691_000017_000002",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/7475/232691/7475_232691_000017_000002.wav",
+        "speaker_id": "LibriTTS-train-clean-360-7475",
+        "content": "And then may God grant unto you that your burdens may be light, through the joy of his Son.",
+        "style_prompt": "Speaking with an infectious zeal, his deep voice maintains a natural tempo.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "high",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-360-7475-232691-7475_232691_000008_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/7475/232691/7475_232691_000008_000001.wav",
+        "speaker_id": "LibriTTS-train-clean-360-7475",
+        "content": "If ye have, how can ye disbelieve on the Son of God?",
+        "style_prompt": "The boy's energetic communication is carried by his resonant low tone, spoken at a usual speech speed.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "high",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-360-7475-232691-7475_232691_000017_000004",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/7475/232691/7475_232691_000017_000004.wav",
+        "speaker_id": "LibriTTS-train-clean-360-7475",
+        "content": "Amen.",
+        "style_prompt": "The unhurried delivery of a slow-speaking male voice, characterized by a deep pitch and a composed yet engaged energy.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "low",
+        "energy": "normal",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-360-7475-232691-7475_232691_000017_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/7475/232691/7475_232691_000017_000001.wav",
+        "speaker_id": "LibriTTS-train-clean-360-7475",
+        "content": "And behold, it will become a tree, springing up in you unto everlasting life.",
+        "style_prompt": "With enthusiasm, the male speaker's low-pitched voice conveys energy at a natural pace.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "high",
+        "emotion": "neutral"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "item_name": "libritts-train-clean-360-4846-18524-4846_18524_000011_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/4846/18524/4846_18524_000011_000000.wav",
+        "speaker_id": "LibriTTS-train-clean-360-4846",
+        "content": "\"Oh, it's so far up in the air,\" answered old mr King.",
+        "style_prompt": "With a dynamic tone, she speaks with both high pitch and energy.",
+        "gender": "F",
+        "pitch": "high",
+        "speed": "normal",
+        "energy": "high",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-360-4846-18524-4846_18524_000087_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/4846/18524/4846_18524_000087_000000.wav",
+        "speaker_id": "LibriTTS-train-clean-360-4846",
+        "content": "\"Not a bit,\" said Tom.",
+        "style_prompt": "The high-energy girl's voice is both rapid and high-pitched.",
+        "gender": "F",
+        "pitch": "high",
+        "speed": "high",
+        "energy": "high",
+        "emotion": "neutral"
+    }
+]

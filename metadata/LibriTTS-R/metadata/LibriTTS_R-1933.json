@@ -1,0 +1,233 @@
+[
+    {
+        "item_name": "LibriTTS_R-1933_146437_000000_000009",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1933/146437/1933_146437_000000_000009.wav",
+        "speaker_id": "LibriTTS_R-1933",
+        "content": "Lily, the caretaker's daughter, did housemaid's work for them. Though their life was modest, they believed in eating well; the best of everything: diamond bone sirloins, three shilling tea and the best bottled stout.",
+        "style_prompt": "F_p-low_s-normal_e-low",
+        "gender": "F",
+        "pitch": "very low",
+        "speed": "normal",
+        "energy": "very low"
+    },
+    {
+        "item_name": "LibriTTS_R-1933_146437_000000_000011",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1933/146437/1933_146437_000000_000011.wav",
+        "speaker_id": "LibriTTS_R-1933",
+        "content": "They were fussy, that was all. But the only thing they would not stand was back answers.",
+        "style_prompt": "F_p-low_s-fast_e-low",
+        "gender": "F",
+        "pitch": "very low",
+        "speed": "fast",
+        "energy": "very low"
+    },
+    {
+        "item_name": "LibriTTS_R-1933_146437_000001_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1933/146437/1933_146437_000001_000001.wav",
+        "speaker_id": "LibriTTS_R-1933",
+        "content": "And then it was long after ten o'clock and yet there was no sign of Gabriel and his wife.",
+        "style_prompt": "F_p-low_s-fast_e-normal",
+        "gender": "F",
+        "pitch": "very low",
+        "speed": "very fast",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-1933_146437_000002_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1933/146437/1933_146437_000002_000000.wav",
+        "speaker_id": "LibriTTS_R-1933",
+        "content": "\"O, mr Conroy,\" said Lily to Gabriel when she opened the door for him, \"Miss Kate and Miss Julia thought you were never coming.",
+        "style_prompt": "F_p-low_s-fast_e-low",
+        "gender": "F",
+        "pitch": "very low",
+        "speed": "very fast",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-1933_146437_000002_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1933/146437/1933_146437_000002_000001.wav",
+        "speaker_id": "LibriTTS_R-1933",
+        "content": "Good night, mrs Conroy.\"",
+        "style_prompt": "F_p-low_s-normal_e-high",
+        "gender": "F",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-1933_146437_000005_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1933/146437/1933_146437_000005_000000.wav",
+        "speaker_id": "LibriTTS_R-1933",
+        "content": "\"Miss Kate, here's mrs Conroy.\"",
+        "style_prompt": "F_p-low_s-normal_e-normal",
+        "gender": "F",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-1933_146437_000006_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1933/146437/1933_146437_000006_000001.wav",
+        "speaker_id": "LibriTTS_R-1933",
+        "content": "Both of them kissed Gabriel's wife, said she must be perished alive, and asked was Gabriel with her.",
+        "style_prompt": "F_p-low_s-fast_e-low",
+        "gender": "F",
+        "pitch": "very low",
+        "speed": "fast",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-1933_146437_000009_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1933/146437/1933_146437_000009_000000.wav",
+        "speaker_id": "LibriTTS_R-1933",
+        "content": "\"Is it snowing again, mr Conroy?\" asked Lily.",
+        "style_prompt": "F_p-low_s-fast_e-normal",
+        "gender": "F",
+        "pitch": "very low",
+        "speed": "fast",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-1933_146437_000020_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1933/146437/1933_146437_000020_000001.wav",
+        "speaker_id": "LibriTTS_R-1933",
+        "content": "Then he took a coin rapidly from his pocket.",
+        "style_prompt": "F_p-low_s-fast_e-low",
+        "gender": "F",
+        "pitch": "very low",
+        "speed": "very fast",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-1933_146437_000021_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1933/146437/1933_146437_000021_000001.wav",
+        "speaker_id": "LibriTTS_R-1933",
+        "content": "Just... here's a little....\"",
+        "style_prompt": "F_p-low_s-fast_e-low",
+        "gender": "F",
+        "pitch": "low",
+        "speed": "very fast",
+        "energy": "very low"
+    },
+    {
+        "item_name": "LibriTTS_R-1933_146437_000022_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1933/146437/1933_146437_000022_000000.wav",
+        "speaker_id": "LibriTTS_R-1933",
+        "content": "He walked rapidly towards the door.",
+        "style_prompt": "F_p-low_s-fast_e-low",
+        "gender": "F",
+        "pitch": "very low",
+        "speed": "very fast",
+        "energy": "very low"
+    },
+    {
+        "item_name": "LibriTTS_R-1933_146437_000029_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1933/146437/1933_146437_000029_000000.wav",
+        "speaker_id": "LibriTTS_R-1933",
+        "content": "They both kissed Gabriel frankly.",
+        "style_prompt": "F_p-low_s-normal_e-low",
+        "gender": "F",
+        "pitch": "very low",
+        "speed": "normal",
+        "energy": "very low"
+    },
+    {
+        "item_name": "LibriTTS_R-1933_146437_000036_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1933/146437/1933_146437_000036_000000.wav",
+        "speaker_id": "LibriTTS_R-1933",
+        "content": "\"Don't mind him, Aunt Kate,\" she said.",
+        "style_prompt": "F_p-low_s-fast_e-normal",
+        "gender": "F",
+        "pitch": "very low",
+        "speed": "fast",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-1933_146437_000036_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1933/146437/1933_146437_000036_000001.wav",
+        "speaker_id": "LibriTTS_R-1933",
+        "content": "\"He's really an awful bother, what with green shades for Tom's eyes at night and making him do the dumb bells, and forcing Eva to eat the stirabout.",
+        "style_prompt": "F_p-low_s-fast_e-normal",
+        "gender": "F",
+        "pitch": "very low",
+        "speed": "fast",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-1933_146437_000036_000002",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1933/146437/1933_146437_000036_000002.wav",
+        "speaker_id": "LibriTTS_R-1933",
+        "content": "The poor child!",
+        "style_prompt": "F_p-low_s-slow_e-low",
+        "gender": "F",
+        "pitch": "very low",
+        "speed": "slow",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-1933_146437_000046_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1933/146437/1933_146437_000046_000001.wav",
+        "speaker_id": "LibriTTS_R-1933",
+        "content": "\"Of course, you've seen about the room.",
+        "style_prompt": "F_p-low_s-fast_e-low",
+        "gender": "F",
+        "pitch": "very low",
+        "speed": "very fast",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-1933_146437_000050_000003",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1933/146437/1933_146437_000050_000003.wav",
+        "speaker_id": "LibriTTS_R-1933",
+        "content": "She's not the girl she was at all.\"",
+        "style_prompt": "F_p-low_s-fast_e-high",
+        "gender": "F",
+        "pitch": "very low",
+        "speed": "very fast",
+        "energy": "very high"
+    },
+    {
+        "item_name": "LibriTTS_R-1933_146437_000052_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1933/146437/1933_146437_000052_000001.wav",
+        "speaker_id": "LibriTTS_R-1933",
+        "content": "Julia! Julia!",
+        "style_prompt": "F_p-low_s-normal_e-normal",
+        "gender": "F",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-1933_146437_000058_000002",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1933/146437/1933_146437_000058_000002.wav",
+        "speaker_id": "LibriTTS_R-1933",
+        "content": "Julia, there's Miss Daly and Miss Power will take some refreshment.",
+        "style_prompt": "F_p-low_s-fast_e-normal",
+        "gender": "F",
+        "pitch": "very low",
+        "speed": "fast",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-1933_146437_000065_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1933/146437/1933_146437_000065_000000.wav",
+        "speaker_id": "LibriTTS_R-1933",
+        "content": "\"God help me,\" he said, smiling, \"it's the doctor's orders.\"",
+        "style_prompt": "F_p-low_s-fast_e-normal",
+        "gender": "F",
+        "pitch": "very low",
+        "speed": "fast",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-1933_146437_000092_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1933/146437/1933_146437_000092_000001.wav",
+        "speaker_id": "LibriTTS_R-1933",
+        "content": "\"And his poor mother made him take the pledge on New Year's Eve.",
+        "style_prompt": "F_p-low_s-fast_e-normal",
+        "gender": "F",
+        "pitch": "very low",
+        "speed": "very fast",
+        "energy": "normal"
+    }
+]

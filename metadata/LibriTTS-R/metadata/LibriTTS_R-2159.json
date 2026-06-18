@@ -1,0 +1,90 @@
+[
+    {
+        "item_name": "LibriTTS_R-2159_179154_000008_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/2159/179154/2159_179154_000008_000001.wav",
+        "speaker_id": "LibriTTS_R-2159",
+        "content": "They are fast.",
+        "style_prompt": "M_p-low_s-normal_e-normal",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-2159_179154_000008_000003",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/2159/179154/2159_179154_000008_000003.wav",
+        "speaker_id": "LibriTTS_R-2159",
+        "content": "Try.",
+        "style_prompt": "M_p-normal_s-slow_e-low",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "very slow",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-2159_179154_000012_000004",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/2159/179154/2159_179154_000012_000004.wav",
+        "speaker_id": "LibriTTS_R-2159",
+        "content": "Then he stopped.",
+        "style_prompt": "M_p-normal_s-slow_e-normal",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "slow",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-2159_179154_000012_000006",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/2159/179154/2159_179154_000012_000006.wav",
+        "speaker_id": "LibriTTS_R-2159",
+        "content": "He stood there, stooping, eyes set, and vacant, fast asleep.",
+        "style_prompt": "M_p-low_s-slow_e-low",
+        "gender": "M",
+        "pitch": "very low",
+        "speed": "very slow",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-2159_179154_000014_000005",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/2159/179154/2159_179154_000014_000005.wav",
+        "speaker_id": "LibriTTS_R-2159",
+        "content": "He sarcastically asked him if he \"didn't want the earth.\"",
+        "style_prompt": "M_p-low_s-normal_e-low",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "very low"
+    },
+    {
+        "item_name": "LibriTTS_R-2159_179154_000019_000003",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/2159/179154/2159_179154_000019_000003.wav",
+        "speaker_id": "LibriTTS_R-2159",
+        "content": "In doing this, he set his coat on fire, when he trampled it under foot.",
+        "style_prompt": "M_p-low_s-slow_e-high",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "slow",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-2159_179156_000013_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/2159/179156/2159_179156_000013_000000.wav",
+        "speaker_id": "LibriTTS_R-2159",
+        "content": "A slow movement was tried (the Valhalla motif).",
+        "style_prompt": "M_p-low_s-slow_e-low",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "very slow",
+        "energy": "very low"
+    },
+    {
+        "item_name": "LibriTTS_R-2159_179157_000006_000009",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/2159/179157/2159_179157_000006_000009.wav",
+        "speaker_id": "LibriTTS_R-2159",
+        "content": "It crackled like a mighty fire.",
+        "style_prompt": "M_p-normal_s-slow_e-normal",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "slow",
+        "energy": "normal"
+    }
+]

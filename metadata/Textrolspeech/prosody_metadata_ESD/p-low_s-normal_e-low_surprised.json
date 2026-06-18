@@ -1,0 +1,80 @@
+[
+    {
+        "item_name": "Emotional Speech Dataset (ESD)-Emotion Speech Dataset-0020-Surprise-0020_001401",
+        "wav_path": "/zhiji-universal-cfs-sh/speech/prompt_based_data/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Surprise/0020_001401.wav",
+        "speaker_id": "Emotional Speech Dataset (ESD)-Emotion Speech Dataset-0020",
+        "content": "The nine the eggs, I keep.",
+        "style_prompt": "The dazed man's speaking style, characterized by a deep voice and natural pace, hints at lowered vitality.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "low",
+        "emotion": "surprised",
+        "prosody_key": "p-low_s-normal_e-low_surprised"
+    },
+    {
+        "item_name": "Emotional Speech Dataset (ESD)-Emotion Speech Dataset-0013-Surprise-0013_001607",
+        "wav_path": "/zhiji-universal-cfs-sh/speech/prompt_based_data/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001607.wav",
+        "speaker_id": "Emotional Speech Dataset (ESD)-Emotion Speech Dataset-0013",
+        "content": "What am I, I'm a racer, son of god.",
+        "style_prompt": "Employing a low vocal quality and adhering to a usual tempo, his amazed communication suggests a sense of diminished vitality.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "low",
+        "emotion": "surprised",
+        "prosody_key": "p-low_s-normal_e-low_surprised"
+    },
+    {
+        "item_name": "Emotional Speech Dataset (ESD)-Emotion Speech Dataset-0013-Surprise-0013_001604",
+        "wav_path": "/zhiji-universal-cfs-sh/speech/prompt_based_data/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001604.wav",
+        "speaker_id": "Emotional Speech Dataset (ESD)-Emotion Speech Dataset-0013",
+        "content": "The song is really louding on a gate.",
+        "style_prompt": "A stunned male speaker utilizes a low pitch and typical speaking speed, exuding an overall impression of low energy.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "low",
+        "emotion": "surprised",
+        "prosody_key": "p-low_s-normal_e-low_surprised"
+    },
+    {
+        "item_name": "Emotional Speech Dataset (ESD)-Emotion Speech Dataset-0013-Surprise-0013_001649",
+        "wav_path": "/zhiji-universal-cfs-sh/speech/prompt_based_data/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001649.wav",
+        "speaker_id": "Emotional Speech Dataset (ESD)-Emotion Speech Dataset-0013",
+        "content": "You may imagine how I gape.",
+        "style_prompt": "Utilizing a low tone and natural speaking speed, the shocked man's communication style portrays lowered enthusiasm.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "low",
+        "emotion": "surprised",
+        "prosody_key": "p-low_s-normal_e-low_surprised"
+    },
+    {
+        "item_name": "Emotional Speech Dataset (ESD)-Emotion Speech Dataset-0013-Surprise-0013_001696",
+        "wav_path": "/zhiji-universal-cfs-sh/speech/prompt_based_data/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001696.wav",
+        "speaker_id": "Emotional Speech Dataset (ESD)-Emotion Speech Dataset-0013",
+        "content": "You woke me up!",
+        "style_prompt": "Speaking with a low pitch and customary speech speed, his shocked overall energy feels subdued.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "low",
+        "emotion": "surprised",
+        "prosody_key": "p-low_s-normal_e-low_surprised"
+    },
+    {
+        "item_name": "Emotional Speech Dataset (ESD)-Emotion Speech Dataset-0013-Surprise-0013_001703",
+        "wav_path": "/zhiji-universal-cfs-sh/speech/prompt_based_data/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001703.wav",
+        "speaker_id": "Emotional Speech Dataset (ESD)-Emotion Speech Dataset-0013",
+        "content": "I am loath to see him go.",
+        "style_prompt": "A dazed man employs a deep timbre and usual speech rhythm, hinting at a prevailing sense of diminished enthusiasm.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "low",
+        "emotion": "surprised",
+        "prosody_key": "p-low_s-normal_e-low_surprised"
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "item_name": "LibriTTS_R-3686_171133_000004_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/3686/171133/3686_171133_000004_000000.wav",
+        "speaker_id": "LibriTTS_R-3686",
+        "content": "three.",
+        "style_prompt": "M_p-low_s-slow_e-low",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "very slow",
+        "energy": "very low"
+    },
+    {
+        "item_name": "LibriTTS_R-3686_171133_000007_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/3686/171133/3686_171133_000007_000000.wav",
+        "speaker_id": "LibriTTS_R-3686",
+        "content": "six.",
+        "style_prompt": "M_p-low_s-slow_e-low",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "very slow",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-3686_171133_000007_000005",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/3686/171133/3686_171133_000007_000005.wav",
+        "speaker_id": "LibriTTS_R-3686",
+        "content": "These romans being in great fear, lest the place should be taken by force, made an agreement with them to depart upon certain conditions; and when they had obtained the security they desired, they delivered up the citadel, into which the people of Machaerus put a garrison for their own security, and held it in their own power.",
+        "style_prompt": "M_p-low_s-normal_e-normal",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "normal"
+    }
+]

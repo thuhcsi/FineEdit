@@ -1,0 +1,178 @@
+[
+    {
+        "item_name": "LibriTTS_R-1547_130184_000005_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1547/130184/1547_130184_000005_000001.wav",
+        "speaker_id": "LibriTTS_R-1547",
+        "content": "\"I can't do it.",
+        "style_prompt": "F_p-normal_s-slow_e-low",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "very slow",
+        "energy": "very low"
+    },
+    {
+        "item_name": "LibriTTS_R-1547_130184_000009_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1547/130184/1547_130184_000009_000001.wav",
+        "speaker_id": "LibriTTS_R-1547",
+        "content": "She gave him entire confidence, he gave her the help she needed, and both found consolation in the act.",
+        "style_prompt": "F_p-normal_s-slow_e-low",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "slow",
+        "energy": "very low"
+    },
+    {
+        "item_name": "LibriTTS_R-1547_130184_000010_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1547/130184/1547_130184_000010_000001.wav",
+        "speaker_id": "LibriTTS_R-1547",
+        "content": "Brooms and dishcloths never could be as distasteful as they once had been, for Beth had presided over both, and something of her housewifely spirit seemed to linger around the little mop and the old brush, never thrown away.",
+        "style_prompt": "F_p-normal_s-normal_e-low",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "very low"
+    },
+    {
+        "item_name": "LibriTTS_R-1547_130184_000014_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1547/130184/1547_130184_000014_000001.wav",
+        "speaker_id": "LibriTTS_R-1547",
+        "content": "You are like a chestnut burr, prickly outside, but silky soft within, and a sweet kernal, if one can only get at it.",
+        "style_prompt": "F_p-normal_s-normal_e-low",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "very low"
+    },
+    {
+        "item_name": "LibriTTS_R-1547_130184_000016_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1547/130184/1547_130184_000016_000001.wav",
+        "speaker_id": "LibriTTS_R-1547",
+        "content": "A little more sunshine to ripen the nut, then, not a boy's impatient shake, but a man's hand reached up to pick it gently from the burr, and find the kernal sound and sweet.",
+        "style_prompt": "F_p-normal_s-slow_e-low",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "slow",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-1547_130184_000017_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1547/130184/1547_130184_000017_000000.wav",
+        "speaker_id": "LibriTTS_R-1547",
+        "content": "Now, if she had been the heroine of a moral storybook, she ought at this period of her life to have become quite saintly, renounced the world, and gone about doing good in a mortified bonnet, with tracts in her pocket.",
+        "style_prompt": "F_p-normal_s-normal_e-low",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-1547_130184_000017_000004",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1547/130184/1547_130184_000017_000004.wav",
+        "speaker_id": "LibriTTS_R-1547",
+        "content": "She had often said she wanted to do something splendid, no matter how hard, and now she had her wish, for what could be more beautiful than to devote her life to Father and Mother, trying to make home as happy to them as they had to her?",
+        "style_prompt": "F_p-normal_s-normal_e-low",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-1547_130184_000019_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1547/130184/1547_130184_000019_000000.wav",
+        "speaker_id": "LibriTTS_R-1547",
+        "content": "\"Why don't you write?",
+        "style_prompt": "F_p-normal_s-normal_e-normal",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-1547_130184_000021_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1547/130184/1547_130184_000021_000000.wav",
+        "speaker_id": "LibriTTS_R-1547",
+        "content": "\"We do.",
+        "style_prompt": "F_p-high_s-slow_e-low",
+        "gender": "F",
+        "pitch": "very high",
+        "speed": "slow",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-1547_130184_000021_000002",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1547/130184/1547_130184_000021_000002.wav",
+        "speaker_id": "LibriTTS_R-1547",
+        "content": "I'm sure it would do you good, and please us very much.\"",
+        "style_prompt": "F_p-normal_s-normal_e-normal",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-1547_130184_000023_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1547/130184/1547_130184_000023_000000.wav",
+        "speaker_id": "LibriTTS_R-1547",
+        "content": "An hour afterward her mother peeped in and there she was, scratching away, with her black pinafore on, and an absorbed expression, which caused mrs March to smile and slip away, well pleased with the success of her suggestion.",
+        "style_prompt": "F_p-normal_s-normal_e-low",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "very low"
+    },
+    {
+        "item_name": "LibriTTS_R-1547_130184_000037_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1547/130184/1547_130184_000037_000001.wav",
+        "speaker_id": "LibriTTS_R-1547",
+        "content": "But you are right in one thing.",
+        "style_prompt": "F_p-normal_s-fast_e-high",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "very fast",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-1547_130184_000044_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1547/130184/1547_130184_000044_000000.wav",
+        "speaker_id": "LibriTTS_R-1547",
+        "content": "\"Wait for me, my friend.",
+        "style_prompt": "F_p-low_s-slow_e-low",
+        "gender": "F",
+        "pitch": "low",
+        "speed": "slow",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-1547_130184_000046_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1547/130184/1547_130184_000046_000000.wav",
+        "speaker_id": "LibriTTS_R-1547",
+        "content": "And holding the little paper fast, as if it were a promise yet to be fulfilled, Jo laid her head down on a comfortable rag bag, and cried, as if in opposition to the rain pattering on the roof.",
+        "style_prompt": "F_p-normal_s-normal_e-low",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "very low"
+    },
+    {
+        "item_name": "LibriTTS_R-1547_130184_000047_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1547/130184/1547_130184_000047_000000.wav",
+        "speaker_id": "LibriTTS_R-1547",
+        "content": "Was it all self pity, loneliness, or low spirits?",
+        "style_prompt": "F_p-normal_s-slow_e-low",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "slow",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-1547_130184_000047_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1547/130184/1547_130184_000047_000001.wav",
+        "speaker_id": "LibriTTS_R-1547",
+        "content": "Or was it the waking up of a sentiment which had bided its time as patiently as its inspirer?",
+        "style_prompt": "F_p-normal_s-normal_e-low",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "low"
+    }
+]

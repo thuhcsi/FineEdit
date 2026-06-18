@@ -1,0 +1,62 @@
+[
+    {
+        "item_name": "libritts-train-clean-360-154-124003-154_124003_000001_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/154/124003/154_124003_000001_000000.wav",
+        "speaker_id": "LibriTTS-train-clean-360-154",
+        "content": "The Diction viewed as a whole is made up of the following parts: the Letter (or ultimate element), the Syllable, the Conjunction, the Article, the Noun, the Verb, the Case, and the Speech. (one) The Letter is an indivisible sound of a particular kind, one that may become a factor in an intelligible sound.",
+        "style_prompt": "The man's deep voice and dynamic speaking style maintain high energy at a normal speed.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "high",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-360-154-124003-154_124003_000004_000002",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/154/124003/154_124003_000004_000002.wav",
+        "speaker_id": "LibriTTS-train-clean-360-154",
+        "content": "In the Speech 'Cleon walks', 'Cleon' is an instance of such a part.",
+        "style_prompt": "His low-pitched tone adds fervor to his high-energy speech delivered at a typical pace.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "high",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-360-154-124003-154_124003_000007_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/154/124003/154_124003_000007_000000.wav",
+        "speaker_id": "LibriTTS-train-clean-360-154",
+        "content": "Whatever its structure, a Noun must always be either (one) the ordinary word for the thing, or (two) a strange word, or (three) a metaphor, or (four) an ornamental word, or (five) a coined word, or (six) a word lengthened out, or (seven) curtailed, or (eight) altered in form.",
+        "style_prompt": "Despite his unhurried speech and deep voice, the boy's energy was electrifying.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "low",
+        "energy": "high",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-360-154-124003-154_124003_000007_000005",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/154/124003/154_124003_000007_000005.wav",
+        "speaker_id": "LibriTTS-train-clean-360-154",
+        "content": "Thus a cup (B) is in relation to Dionysus (A) what a shield (D) is to Ares (C).",
+        "style_prompt": "The male speaker's slow speaking speed, coupled with a deep pitch, evokes a powerful sense of high energy.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "low",
+        "energy": "high",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-360-154-123998-154_123998_000011_000004",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/154/123998/154_123998_000011_000004.wav",
+        "speaker_id": "LibriTTS-train-clean-360-154",
+        "content": "For that which makes no perceptible difference by its presence or absence is no real part of the whole.",
+        "style_prompt": "With his deep, resonant tone, the male speaker's high-energy speech maintains a natural tempo.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "high",
+        "emotion": "neutral"
+    }
+]

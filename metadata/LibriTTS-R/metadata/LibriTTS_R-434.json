@@ -1,0 +1,13 @@
+[
+    {
+        "item_name": "LibriTTS_R-434_132644_000006_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/434/132644/434_132644_000006_000001.wav",
+        "speaker_id": "LibriTTS_R-434",
+        "content": "We are at the end of all our troubles, and at the beginning of happiness.\"",
+        "style_prompt": "F_p-normal_s-fast_e-low",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "fast",
+        "energy": "low"
+    }
+]

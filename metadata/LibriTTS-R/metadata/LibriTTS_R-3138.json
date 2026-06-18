@@ -1,0 +1,167 @@
+[
+    {
+        "item_name": "LibriTTS_R-3138_173544_000002_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/3138/173544/3138_173544_000002_000001.wav",
+        "speaker_id": "LibriTTS_R-3138",
+        "content": "A short man was saying something, but when Pierre entered he stopped speaking and went out.",
+        "style_prompt": "F_p-normal_s-normal_e-normal",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-3138_173544_000003_000002",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/3138/173544/3138_173544_000003_000002.wav",
+        "speaker_id": "LibriTTS_R-3138",
+        "content": "But that's not the point.",
+        "style_prompt": "F_p-normal_s-slow_e-normal",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "slow",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-3138_173544_000003_000004",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/3138/173544/3138_173544_000003_000004.wav",
+        "speaker_id": "LibriTTS_R-3138",
+        "content": "Pierre remained silent.",
+        "style_prompt": "F_p-high_s-normal_e-high",
+        "gender": "F",
+        "pitch": "high",
+        "speed": "normal",
+        "energy": "very high"
+    },
+    {
+        "item_name": "LibriTTS_R-3138_173544_000004_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/3138/173544/3138_173544_000004_000000.wav",
+        "speaker_id": "LibriTTS_R-3138",
+        "content": "\"Yes, I am a Mason,\" Pierre replied.",
+        "style_prompt": "F_p-normal_s-slow_e-normal",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "slow",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-3138_173544_000005_000002",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/3138/173544/3138_173544_000005_000002.wav",
+        "speaker_id": "LibriTTS_R-3138",
+        "content": "Speranski and Magnitski have been deported to their proper place.",
+        "style_prompt": "F_p-high_s-normal_e-normal",
+        "gender": "F",
+        "pitch": "high",
+        "speed": "normal",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-3138_173544_000005_000005",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/3138/173544/3138_173544_000005_000005.wav",
+        "speaker_id": "LibriTTS_R-3138",
+        "content": "It has now come to my knowledge that you lent him your carriage for his removal from town, and that you have even accepted papers from him for safe custody.",
+        "style_prompt": "F_p-high_s-normal_e-high",
+        "gender": "F",
+        "pitch": "high",
+        "speed": "normal",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-3138_173544_000009_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/3138/173544/3138_173544_000009_000000.wav",
+        "speaker_id": "LibriTTS_R-3138",
+        "content": "\"There we are!\" Rostopchin shouted at Pierre louder than before, frowning suddenly.",
+        "style_prompt": "F_p-high_s-normal_e-normal",
+        "gender": "F",
+        "pitch": "high",
+        "speed": "normal",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-3138_173544_000009_000005",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/3138/173544/3138_173544_000009_000005.wav",
+        "speaker_id": "LibriTTS_R-3138",
+        "content": "My head is sometimes in a whirl.",
+        "style_prompt": "F_p-normal_s-fast_e-high",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "fast",
+        "energy": "very high"
+    },
+    {
+        "item_name": "LibriTTS_R-3138_173544_000012_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/3138/173544/3138_173544_000012_000001.wav",
+        "speaker_id": "LibriTTS_R-3138",
+        "content": "Be off as soon as you can, that's all I have to tell you.",
+        "style_prompt": "F_p-normal_s-normal_e-normal",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-3138_173544_000012_000003",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/3138/173544/3138_173544_000012_000003.wav",
+        "speaker_id": "LibriTTS_R-3138",
+        "content": "Good bye, my dear fellow.",
+        "style_prompt": "F_p-high_s-normal_e-high",
+        "gender": "F",
+        "pitch": "high",
+        "speed": "normal",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-3138_173544_000014_000004",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/3138/173544/3138_173544_000014_000004.wav",
+        "speaker_id": "LibriTTS_R-3138",
+        "content": "When left alone at last he opened and read his wife's letter.",
+        "style_prompt": "F_p-high_s-normal_e-high",
+        "gender": "F",
+        "pitch": "high",
+        "speed": "normal",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-3138_173544_000015_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/3138/173544/3138_173544_000015_000000.wav",
+        "speaker_id": "LibriTTS_R-3138",
+        "content": "\"They, the soldiers at the battery, Prince Andrew killed... that old man...",
+        "style_prompt": "F_p-normal_s-normal_e-low",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-3138_173544_000015_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/3138/173544/3138_173544_000015_000001.wav",
+        "speaker_id": "LibriTTS_R-3138",
+        "content": "Simplicity is submission to God.",
+        "style_prompt": "F_p-high_s-normal_e-high",
+        "gender": "F",
+        "pitch": "high",
+        "speed": "normal",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-3138_173544_000015_000002",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/3138/173544/3138_173544_000015_000002.wav",
+        "speaker_id": "LibriTTS_R-3138",
+        "content": "Suffering is necessary... the meaning of all... one must harness... my wife is getting married...",
+        "style_prompt": "F_p-normal_s-normal_e-normal",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-3138_173544_000017_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/3138/173544/3138_173544_000017_000001.wav",
+        "speaker_id": "LibriTTS_R-3138",
+        "content": "Pierre dressed hurriedly and, instead of going to see them, went to the back porch and out through the gate.",
+        "style_prompt": "F_p-normal_s-slow_e-high",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "slow",
+        "energy": "high"
+    }
+]

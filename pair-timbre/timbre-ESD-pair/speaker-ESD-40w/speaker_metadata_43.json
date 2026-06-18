@@ -1,0 +1,1388 @@
+[
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Surprise/0020_001557.wav",
+        "prompt_description": " Change the timbre to a middle-aged, very masculine, deep, powerful, reassuring,mature, cool, slightly thick and magnetic voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0011/Surprise/0011_001439.wav",
+        "target_content": "Our thanks to God's oath."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001530.wav",
+        "prompt_description": " Change the timbre to a masculine, slightly clear, young, slightly halting, slightly muffled voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0014/Surprise/0014_001401.wav",
+        "target_content": "The nine the eggs, I keep."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Surprise/0020_001610.wav",
+        "prompt_description": " Change the timbre to a masculine, very thick, middle-aged, friendly, very reassuring voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001417.wav",
+        "target_content": "Why has this egg not broken?"
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0014/Surprise/0014_001402.wav",
+        "prompt_description": " Change the timbre to a masculine, very thick, middle-aged, friendly, very reassuring voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001609.wav",
+        "target_content": "A raging fire was-in his eyes."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0014/Surprise/0014_001455.wav",
+        "prompt_description": " Change the timbre to a middle-aged, very masculine, deep, powerful, reassuring,mature, cool, slightly thick and magnetic voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0011/Surprise/0011_001439.wav",
+        "target_content": "Our thanks to God's oath."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Surprise/0020_001557.wav",
+        "prompt_description": " Change the timbre to a masculine, very thick, middle-aged, friendly, very reassuring voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001628.wav",
+        "target_content": "It says no way! shouted Daisy."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001503.wav",
+        "prompt_description": " Change the timbre to a very masculine, deep, very thick, very mature, slightly old, cool voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Surprise/0020_001462.wav",
+        "target_content": "Tom, went on eeyore gloomily."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Surprise/0020_001610.wav",
+        "prompt_description": " Change the timbre to a masculine, very thick, middle-aged, friendly, very reassuring voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001707.wav",
+        "target_content": "I owe them five hundred dollars."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001429.wav",
+        "prompt_description": " Change the timbre to a masculine, slightly clear, young, slightly halting, slightly muffled voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0014/Surprise/0014_001617.wav",
+        "target_content": "You cruelty shall cost your life !"
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0014/Surprise/0014_001589.wav",
+        "prompt_description": " Change the timbre to a masculine, very thick, middle-aged, friendly, very reassuring voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001402.wav",
+        "target_content": "I did go, and made many prisoners."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001499.wav",
+        "prompt_description": " Change the timbre to a masculine, slightly clear, young, slightly halting, slightly muffled voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0014/Surprise/0014_001401.wav",
+        "target_content": "The nine the eggs, I keep."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001450.wav",
+        "prompt_description": " Change the timbre to a very masculine, deep, very thick, very mature, slightly old, cool voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Surprise/0020_001608.wav",
+        "target_content": "However, somebody killed something."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Surprise/0020_001634.wav",
+        "prompt_description": " Change the timbre to a masculine, slightly clear, young, slightly halting, slightly muffled voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0014/Surprise/0014_001617.wav",
+        "target_content": "You cruelty shall cost your life !"
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Surprise/0020_001680.wav",
+        "prompt_description": " Change the timbre to a masculine, very thick, middle-aged, friendly, very reassuring voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001431.wav",
+        "target_content": "All smile were real and the happier，the more sincere ."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0011/Surprise/0011_001439.wav",
+        "prompt_description": " Change the timbre to a very masculine, deep, very thick, very mature, slightly old, cool voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Surprise/0020_001605.wav",
+        "target_content": "Fear neither root nor sprout!"
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Surprise/0020_001557.wav",
+        "prompt_description": " Change the timbre to a masculine, slightly clear, young, slightly halting, slightly muffled voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0014/Surprise/0014_001455.wav",
+        "target_content": "A deafening chirruping rent the air."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Surprise/0020_001538.wav",
+        "prompt_description": " Change the timbre to a feminine, adult-like, magnetic, very elegant, relaxed voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0019/Surprise/0019_001446.wav",
+        "target_content": "They'd never know I'd regular ran away."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Surprise/0020_001508.wav",
+        "prompt_description": " Change the timbre to a masculine, very thick, middle-aged, friendly, very reassuring voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001449.wav",
+        "target_content": "Then we all say aha!"
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Surprise/0020_001686.wav",
+        "prompt_description": " Change the timbre to a feminine, adult-like, magnetic, very elegant, relaxed voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0019/Surprise/0019_001747.wav",
+        "target_content": "What are you waiting for? man."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001405.wav",
+        "prompt_description": " Change the timbre to a very masculine, deep, very thick, very mature, slightly old, cool voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Surprise/0020_001702.wav",
+        "target_content": "Five hundred and one million right?"
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001446.wav",
+        "prompt_description": " Change the timbre to a very masculine, deep, very thick, very mature, slightly old, cool voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Surprise/0020_001672.wav",
+        "target_content": "No admittance except on party business."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001528.wav",
+        "prompt_description": " Change the timbre to a very masculine, deep, very thick, very mature, slightly old, cool voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Surprise/0020_001748.wav",
+        "target_content": "Dear customer,welcome to our ship."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Surprise/0020_001629.wav",
+        "prompt_description": " Change the timbre to a masculine, very thick, middle-aged, friendly, very reassuring voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001499.wav",
+        "target_content": "I've hit the wrong nose."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001628.wav",
+        "prompt_description": " Change the timbre to a feminine, adult-like, magnetic, very elegant, relaxed voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0019/Surprise/0019_001446.wav",
+        "target_content": "They'd never know I'd regular ran away."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0014/Surprise/0014_001401.wav",
+        "prompt_description": " Change the timbre to a masculine, very thick, middle-aged, friendly, very reassuring voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001609.wav",
+        "target_content": "A raging fire was-in his eyes."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001714.wav",
+        "prompt_description": " Change the timbre to a masculine, slightly clear, young, slightly halting, slightly muffled voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0014/Surprise/0014_001402.wav",
+        "target_content": "I did go, and made many prisoners."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Surprise/0020_001702.wav",
+        "prompt_description": " Change the timbre to a masculine, slightly clear, young, slightly halting, slightly muffled voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0014/Surprise/0014_001602.wav",
+        "target_content": "that sounds good."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Surprise/0020_001462.wav",
+        "prompt_description": " Change the timbre to a masculine, very thick, middle-aged, friendly, very reassuring voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001621.wav",
+        "target_content": "I am a selfish sinner."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Surprise/0020_001610.wav",
+        "prompt_description": " Change the timbre to a masculine, slightly clear, young, slightly halting, slightly muffled voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0014/Surprise/0014_001402.wav",
+        "target_content": "I did go, and made many prisoners."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0014/Surprise/0014_001617.wav",
+        "prompt_description": " Change the timbre to a middle-aged, very masculine, deep, powerful, reassuring,mature, cool, slightly thick and magnetic voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0011/Surprise/0011_001452.wav",
+        "target_content": "From August eighteenth, of their divorce."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0011/Surprise/0011_001439.wav",
+        "prompt_description": " Change the timbre to a very masculine, deep, very thick, very mature, slightly old, cool voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Surprise/0020_001610.wav",
+        "target_content": "It weighs seven point five kilogram."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Surprise/0020_001702.wav",
+        "prompt_description": " Change the timbre to a masculine, very thick, middle-aged, friendly, very reassuring voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001417.wav",
+        "target_content": "Why has this egg not broken?"
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001434.wav",
+        "prompt_description": " Change the timbre to a very masculine, deep, very thick, very mature, slightly old, cool voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Surprise/0020_001602.wav",
+        "target_content": "that sounds good."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Surprise/0020_001634.wav",
+        "prompt_description": " Change the timbre to a masculine, slightly clear, young, slightly halting, slightly muffled voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0014/Surprise/0014_001431.wav",
+        "target_content": "All the smile were real and happier，the more sincere ."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001707.wav",
+        "prompt_description": " Change the timbre to a very masculine, deep, very thick, very mature, slightly old, cool voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Surprise/0020_001627.wav",
+        "target_content": "Born once every one hundred years, dies in flames!"
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001499.wav",
+        "prompt_description": " Change the timbre to a masculine, slightly clear, young, slightly halting, slightly muffled voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0014/Surprise/0014_001455.wav",
+        "target_content": "A deafening chirruping rent the air."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Surprise/0020_001599.wav",
+        "prompt_description": " Change the timbre to a masculine, very thick, middle-aged, friendly, very reassuring voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001499.wav",
+        "target_content": "I've hit the wrong nose."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Surprise/0020_001508.wav",
+        "prompt_description": " Change the timbre to a masculine, very thick, middle-aged, friendly, very reassuring voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001513.wav",
+        "target_content": "Mister lawson saw george last night."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0019/Surprise/0019_001435.wav",
+        "prompt_description": " Change the timbre to a very masculine, deep, very thick, very mature, slightly old, cool voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Surprise/0020_001602.wav",
+        "target_content": "that sounds good."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001405.wav",
+        "prompt_description": " Change the timbre to a very masculine, deep, very thick, very mature, slightly old, cool voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Surprise/0020_001608.wav",
+        "target_content": "However, somebody killed something."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Surprise/0020_001599.wav",
+        "prompt_description": " Change the timbre to a masculine, very thick, middle-aged, friendly, very reassuring voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001454.wav",
+        "target_content": "Are you a regular darkey really?"
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001690.wav",
+        "prompt_description": " Change the timbre to a very masculine, deep, very thick, very mature, slightly old, cool voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Surprise/0020_001539.wav",
+        "target_content": "Cuckoos is downheaded and crying."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001707.wav",
+        "prompt_description": " Change the timbre to a feminine, adult-like, magnetic, very elegant, relaxed voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0019/Surprise/0019_001435.wav",
+        "target_content": "The name really is the agedaged man."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001402.wav",
+        "prompt_description": " Change the timbre to a very masculine, deep, very thick, very mature, slightly old, cool voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Surprise/0020_001712.wav",
+        "target_content": "Father has yellow eyes."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Surprise/0020_001599.wav",
+        "prompt_description": " Change the timbre to a masculine, very thick, middle-aged, friendly, very reassuring voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001528.wav",
+        "target_content": "Put that rude grasshopper in jail!"
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001530.wav",
+        "prompt_description": " Change the timbre to a very masculine, deep, very thick, very mature, slightly old, cool voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Surprise/0020_001538.wav",
+        "target_content": "But one requires the explorer to furnish proofs."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0011/Surprise/0011_001452.wav",
+        "prompt_description": " Change the timbre to a masculine, very thick, middle-aged, friendly, very reassuring voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001429.wav",
+        "target_content": "Rat came and replied on the leaves."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001534.wav",
+        "prompt_description": " Change the timbre to a middle-aged, very masculine, deep, powerful, reassuring,mature, cool, slightly thick and magnetic voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0011/Surprise/0011_001452.wav",
+        "target_content": "From August eighteenth, of their divorce."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0019/Surprise/0019_001672.wav",
+        "prompt_description": " Change the timbre to a masculine, slightly clear, young, slightly halting, slightly muffled voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0014/Surprise/0014_001401.wav",
+        "target_content": "The nine the eggs, I keep."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001707.wav",
+        "prompt_description": " Change the timbre to a very masculine, deep, very thick, very mature, slightly old, cool voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Surprise/0020_001634.wav",
+        "target_content": "Hurry up, hurry up!"
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0019/Surprise/0019_001620.wav",
+        "prompt_description": " Change the timbre to a masculine, very thick, middle-aged, friendly, very reassuring voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001454.wav",
+        "target_content": "Are you a regular darkey really?"
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Surprise/0020_001599.wav",
+        "prompt_description": " Change the timbre to a masculine, very thick, middle-aged, friendly, very reassuring voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001503.wav",
+        "target_content": "The elephant and the carpenter is the longest."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0014/Surprise/0014_001402.wav",
+        "prompt_description": " Change the timbre to a very masculine, deep, very thick, very mature, slightly old, cool voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Surprise/0020_001589.wav",
+        "target_content": "When such wanderers meet."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0019/Surprise/0019_001672.wav",
+        "prompt_description": " Change the timbre to a very masculine, deep, very thick, very mature, slightly old, cool voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Surprise/0020_001589.wav",
+        "target_content": "When such wanderers meet."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Surprise/0020_001672.wav",
+        "prompt_description": " Change the timbre to a masculine, very thick, middle-aged, friendly, very reassuring voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001450.wav",
+        "target_content": "Rabbit gave dog a hurrying up sort of nudge."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Surprise/0020_001712.wav",
+        "prompt_description": " Change the timbre to a masculine, very thick, middle-aged, friendly, very reassuring voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001402.wav",
+        "target_content": "I did go, and made many prisoners."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0019/Surprise/0019_001446.wav",
+        "prompt_description": " Change the timbre to a masculine, very thick, middle-aged, friendly, very reassuring voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001413.wav",
+        "target_content": "I have bunburyed all over goat on two separate occasions."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Surprise/0020_001539.wav",
+        "prompt_description": " Change the timbre to a masculine, very thick, middle-aged, friendly, very reassuring voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001530.wav",
+        "target_content": "And would spoil my joke."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001690.wav",
+        "prompt_description": " Change the timbre to a very masculine, deep, very thick, very mature, slightly old, cool voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Surprise/0020_001608.wav",
+        "target_content": "However, somebody killed something."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Surprise/0020_001589.wav",
+        "prompt_description": " Change the timbre to a masculine, very thick, middle-aged, friendly, very reassuring voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001415.wav",
+        "target_content": "Poor Tom now is dead!"
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Surprise/0020_001686.wav",
+        "prompt_description": " Change the timbre to a masculine, very thick, middle-aged, friendly, very reassuring voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001449.wav",
+        "target_content": "Then we all say aha!"
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001690.wav",
+        "prompt_description": " Change the timbre to a masculine, slightly clear, young, slightly halting, slightly muffled voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0014/Surprise/0014_001459.wav",
+        "target_content": "Zero four three a silver shilling is journey."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0014/Surprise/0014_001497.wav",
+        "prompt_description": " Change the timbre to a very masculine, deep, very thick, very mature, slightly old, cool voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Surprise/0020_001605.wav",
+        "target_content": "Fear neither root nor sprout!"
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0014/Surprise/0014_001617.wav",
+        "prompt_description": " Change the timbre to a masculine, very thick, middle-aged, friendly, very reassuring voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001707.wav",
+        "target_content": "I owe them five hundred dollars."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001694.wav",
+        "prompt_description": " Change the timbre to a very masculine, deep, very thick, very mature, slightly old, cool voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Surprise/0020_001508.wav",
+        "target_content": "The squire himself showed perfect."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001513.wav",
+        "prompt_description": " Change the timbre to a very masculine, deep, very thick, very mature, slightly old, cool voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Surprise/0020_001508.wav",
+        "target_content": "The squire himself showed perfect."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Surprise/0020_001504.wav",
+        "prompt_description": " Change the timbre to a masculine, slightly clear, young, slightly halting, slightly muffled voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0014/Surprise/0014_001401.wav",
+        "target_content": "The nine the eggs, I keep."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001503.wav",
+        "prompt_description": " Change the timbre to a masculine, slightly clear, young, slightly halting, slightly muffled voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0014/Surprise/0014_001602.wav",
+        "target_content": "that sounds good."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Surprise/0020_001601.wav",
+        "prompt_description": " Change the timbre to a middle-aged, very masculine, deep, powerful, reassuring,mature, cool, slightly thick and magnetic voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0011/Surprise/0011_001439.wav",
+        "target_content": "Our thanks to God's oath."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Surprise/0020_001576.wav",
+        "prompt_description": " Change the timbre to a masculine, very thick, middle-aged, friendly, very reassuring voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001454.wav",
+        "target_content": "Are you a regular darkey really?"
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001431.wav",
+        "prompt_description": " Change the timbre to a very masculine, deep, very thick, very mature, slightly old, cool voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Surprise/0020_001605.wav",
+        "target_content": "Fear neither root nor sprout!"
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0019/Surprise/0019_001747.wav",
+        "prompt_description": " Change the timbre to a very masculine, deep, very thick, very mature, slightly old, cool voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Surprise/0020_001634.wav",
+        "target_content": "Hurry up, hurry up!"
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Surprise/0020_001748.wav",
+        "prompt_description": " Change the timbre to a masculine, slightly clear, young, slightly halting, slightly muffled voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0014/Surprise/0014_001431.wav",
+        "target_content": "All the smile were real and happier，the more sincere ."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001690.wav",
+        "prompt_description": " Change the timbre to a masculine, slightly clear, young, slightly halting, slightly muffled voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0014/Surprise/0014_001589.wav",
+        "target_content": "When such wanderers meet."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001628.wav",
+        "prompt_description": " Change the timbre to a masculine, slightly clear, young, slightly halting, slightly muffled voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0014/Surprise/0014_001402.wav",
+        "target_content": "I did go, and made many prisoners."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Surprise/0020_001557.wav",
+        "prompt_description": " Change the timbre to a feminine, adult-like, magnetic, very elegant, relaxed voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0019/Surprise/0019_001620.wav",
+        "target_content": "Her paw went into your eye?"
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0014/Surprise/0014_001431.wav",
+        "prompt_description": " Change the timbre to a very masculine, deep, very thick, very mature, slightly old, cool voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Surprise/0020_001508.wav",
+        "target_content": "The squire himself showed perfect."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001417.wav",
+        "prompt_description": " Change the timbre to a very masculine, deep, very thick, very mature, slightly old, cool voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Surprise/0020_001593.wav",
+        "target_content": "Please hire me after you."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Surprise/0020_001605.wav",
+        "prompt_description": " Change the timbre to a masculine, very thick, middle-aged, friendly, very reassuring voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001454.wav",
+        "target_content": "Are you a regular darkey really?"
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Surprise/0020_001601.wav",
+        "prompt_description": " Change the timbre to a feminine, adult-like, magnetic, very elegant, relaxed voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0019/Surprise/0019_001747.wav",
+        "target_content": "What are you waiting for? man."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001534.wav",
+        "prompt_description": " Change the timbre to a very masculine, deep, very thick, very mature, slightly old, cool voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Surprise/0020_001508.wav",
+        "target_content": "The squire himself showed perfect."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0019/Surprise/0019_001446.wav",
+        "prompt_description": " Change the timbre to a middle-aged, very masculine, deep, powerful, reassuring,mature, cool, slightly thick and magnetic voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0011/Surprise/0011_001452.wav",
+        "target_content": "From August eighteenth, of their divorce."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001621.wav",
+        "prompt_description": " Change the timbre to a very masculine, deep, very thick, very mature, slightly old, cool voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Surprise/0020_001446.wav",
+        "target_content": "They'd never know I'd regular ran away."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Surprise/0020_001636.wav",
+        "prompt_description": " Change the timbre to a masculine, very thick, middle-aged, friendly, very reassuring voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001503.wav",
+        "target_content": "The elephant and the carpenter is the longest."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001530.wav",
+        "prompt_description": " Change the timbre to a very masculine, deep, very thick, very mature, slightly old, cool voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Surprise/0020_001589.wav",
+        "target_content": "When such wanderers meet."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001431.wav",
+        "prompt_description": " Change the timbre to a very masculine, deep, very thick, very mature, slightly old, cool voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Surprise/0020_001446.wav",
+        "target_content": "They'd never know I'd regular ran away."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Surprise/0020_001702.wav",
+        "prompt_description": " Change the timbre to a masculine, very thick, middle-aged, friendly, very reassuring voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001514.wav",
+        "target_content": "A half pounds of flour and two ounces suet."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0014/Surprise/0014_001497.wav",
+        "prompt_description": " Change the timbre to a masculine, very thick, middle-aged, friendly, very reassuring voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001450.wav",
+        "target_content": "Rabbit gave dog a hurrying up sort of nudge."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001694.wav",
+        "prompt_description": " Change the timbre to a very masculine, deep, very thick, very mature, slightly old, cool voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Surprise/0020_001610.wav",
+        "target_content": "It weighs seven point five kilogram."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001576.wav",
+        "prompt_description": " Change the timbre to a very masculine, deep, very thick, very mature, slightly old, cool voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Surprise/0020_001601.wav",
+        "target_content": "A lady, is on Alice's lap!"
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0014/Surprise/0014_001602.wav",
+        "prompt_description": " Change the timbre to a masculine, very thick, middle-aged, friendly, very reassuring voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001499.wav",
+        "target_content": "I've hit the wrong nose."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Surprise/0020_001508.wav",
+        "prompt_description": " Change the timbre to a masculine, very thick, middle-aged, friendly, very reassuring voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001621.wav",
+        "target_content": "I am a selfish sinner."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001431.wav",
+        "prompt_description": " Change the timbre to a very masculine, deep, very thick, very mature, slightly old, cool voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Surprise/0020_001672.wav",
+        "target_content": "No admittance except on party business."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Surprise/0020_001629.wav",
+        "prompt_description": " Change the timbre to a masculine, slightly clear, young, slightly halting, slightly muffled voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0014/Surprise/0014_001617.wav",
+        "target_content": "You cruelty shall cost your life !"
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Surprise/0020_001640.wav",
+        "prompt_description": " Change the timbre to a masculine, very thick, middle-aged, friendly, very reassuring voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001694.wav",
+        "target_content": "Now I understand."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001576.wav",
+        "prompt_description": " Change the timbre to a masculine, slightly clear, young, slightly halting, slightly muffled voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0014/Surprise/0014_001602.wav",
+        "target_content": "that sounds good."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001429.wav",
+        "prompt_description": " Change the timbre to a very masculine, deep, very thick, very mature, slightly old, cool voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Surprise/0020_001748.wav",
+        "target_content": "Dear customer,welcome to our ship."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Surprise/0020_001640.wav",
+        "prompt_description": " Change the timbre to a masculine, very thick, middle-aged, friendly, very reassuring voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001449.wav",
+        "target_content": "Then we all say aha!"
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Surprise/0020_001636.wav",
+        "prompt_description": " Change the timbre to a masculine, slightly clear, young, slightly halting, slightly muffled voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0014/Surprise/0014_001401.wav",
+        "target_content": "The nine the eggs, I keep."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001513.wav",
+        "prompt_description": " Change the timbre to a masculine, slightly clear, young, slightly halting, slightly muffled voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0014/Surprise/0014_001431.wav",
+        "target_content": "All the smile were real and happier，the more sincere ."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0014/Surprise/0014_001589.wav",
+        "prompt_description": " Change the timbre to a very masculine, deep, very thick, very mature, slightly old, cool voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Surprise/0020_001601.wav",
+        "target_content": "A lady, is on Alice's lap!"
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Surprise/0020_001602.wav",
+        "prompt_description": " Change the timbre to a feminine, adult-like, magnetic, very elegant, relaxed voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0019/Surprise/0019_001446.wav",
+        "target_content": "They'd never know I'd regular ran away."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001429.wav",
+        "prompt_description": " Change the timbre to a very masculine, deep, very thick, very mature, slightly old, cool voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Surprise/0020_001602.wav",
+        "target_content": "that sounds good."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001415.wav",
+        "prompt_description": " Change the timbre to a very masculine, deep, very thick, very mature, slightly old, cool voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Surprise/0020_001680.wav",
+        "target_content": "Your path now goes south."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001429.wav",
+        "prompt_description": " Change the timbre to a feminine, adult-like, magnetic, very elegant, relaxed voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0019/Surprise/0019_001747.wav",
+        "target_content": "What are you waiting for? man."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Surprise/0020_001508.wav",
+        "prompt_description": " Change the timbre to a masculine, very thick, middle-aged, friendly, very reassuring voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001434.wav",
+        "target_content": "A divine wrath made her blue eyes awful."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0019/Surprise/0019_001446.wav",
+        "prompt_description": " Change the timbre to a masculine, very thick, middle-aged, friendly, very reassuring voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001530.wav",
+        "target_content": "And would spoil my joke."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0011/Surprise/0011_001439.wav",
+        "prompt_description": " Change the timbre to a masculine, very thick, middle-aged, friendly, very reassuring voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001628.wav",
+        "target_content": "It says no way! shouted Daisy."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Surprise/0020_001686.wav",
+        "prompt_description": " Change the timbre to a masculine, slightly clear, young, slightly halting, slightly muffled voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0014/Surprise/0014_001402.wav",
+        "target_content": "I did go, and made many prisoners."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001609.wav",
+        "prompt_description": " Change the timbre to a masculine, slightly clear, young, slightly halting, slightly muffled voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0014/Surprise/0014_001431.wav",
+        "target_content": "All the smile were real and happier，the more sincere ."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Surprise/0020_001462.wav",
+        "prompt_description": " Change the timbre to a masculine, slightly clear, young, slightly halting, slightly muffled voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0014/Surprise/0014_001431.wav",
+        "target_content": "All the smile were real and happier，the more sincere ."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001690.wav",
+        "prompt_description": " Change the timbre to a very masculine, deep, very thick, very mature, slightly old, cool voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Surprise/0020_001542.wav",
+        "target_content": "Wake now my merry tads!"
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001499.wav",
+        "prompt_description": " Change the timbre to a very masculine, deep, very thick, very mature, slightly old, cool voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Surprise/0020_001608.wav",
+        "target_content": "However, somebody killed something."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0014/Surprise/0014_001459.wav",
+        "prompt_description": " Change the timbre to a very masculine, deep, very thick, very mature, slightly old, cool voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Surprise/0020_001712.wav",
+        "target_content": "Father has yellow eyes."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0014/Surprise/0014_001497.wav",
+        "prompt_description": " Change the timbre to a masculine, very thick, middle-aged, friendly, very reassuring voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001446.wav",
+        "target_content": "They'd never know I'd regular ran away."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Surprise/0020_001712.wav",
+        "prompt_description": " Change the timbre to a masculine, very thick, middle-aged, friendly, very reassuring voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001454.wav",
+        "target_content": "Are you a regular darkey really?"
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001413.wav",
+        "prompt_description": " Change the timbre to a very masculine, deep, very thick, very mature, slightly old, cool voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Surprise/0020_001636.wav",
+        "target_content": "How rash you are!"
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001534.wav",
+        "prompt_description": " Change the timbre to a very masculine, deep, very thick, very mature, slightly old, cool voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Surprise/0020_001680.wav",
+        "target_content": "Your path now goes south."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001707.wav",
+        "prompt_description": " Change the timbre to a feminine, adult-like, magnetic, very elegant, relaxed voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0019/Surprise/0019_001446.wav",
+        "target_content": "They'd never know I'd regular ran away."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Surprise/0020_001634.wav",
+        "prompt_description": " Change the timbre to a masculine, slightly clear, young, slightly halting, slightly muffled voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0014/Surprise/0014_001455.wav",
+        "target_content": "A deafening chirruping rent the air."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0014/Surprise/0014_001431.wav",
+        "prompt_description": " Change the timbre to a masculine, very thick, middle-aged, friendly, very reassuring voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001514.wav",
+        "target_content": "A half pounds of flour and two ounces suet."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Surprise/0020_001627.wav",
+        "prompt_description": " Change the timbre to a masculine, very thick, middle-aged, friendly, very reassuring voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001628.wav",
+        "target_content": "It says no way! shouted Daisy."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001514.wav",
+        "prompt_description": " Change the timbre to a feminine, adult-like, magnetic, very elegant, relaxed voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0019/Surprise/0019_001620.wav",
+        "target_content": "Her paw went into your eye?"
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Surprise/0020_001538.wav",
+        "prompt_description": " Change the timbre to a masculine, very thick, middle-aged, friendly, very reassuring voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001514.wav",
+        "target_content": "A half pounds of flour and two ounces suet."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0014/Surprise/0014_001431.wav",
+        "prompt_description": " Change the timbre to a very masculine, deep, very thick, very mature, slightly old, cool voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Surprise/0020_001702.wav",
+        "target_content": "Five hundred and one million right?"
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Surprise/0020_001589.wav",
+        "prompt_description": " Change the timbre to a feminine, adult-like, magnetic, very elegant, relaxed voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0019/Surprise/0019_001672.wav",
+        "target_content": "No admittance except on party business."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0014/Surprise/0014_001431.wav",
+        "prompt_description": " Change the timbre to a masculine, very thick, middle-aged, friendly, very reassuring voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001609.wav",
+        "target_content": "A raging fire was-in his eyes."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0011/Surprise/0011_001452.wav",
+        "prompt_description": " Change the timbre to a very masculine, deep, very thick, very mature, slightly old, cool voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Surprise/0020_001462.wav",
+        "target_content": "Tom, went on eeyore gloomily."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001417.wav",
+        "prompt_description": " Change the timbre to a middle-aged, very masculine, deep, powerful, reassuring,mature, cool, slightly thick and magnetic voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0011/Surprise/0011_001452.wav",
+        "target_content": "From August eighteenth, of their divorce."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001405.wav",
+        "prompt_description": " Change the timbre to a very masculine, deep, very thick, very mature, slightly old, cool voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Surprise/0020_001589.wav",
+        "target_content": "When such wanderers meet."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0014/Surprise/0014_001459.wav",
+        "prompt_description": " Change the timbre to a masculine, very thick, middle-aged, friendly, very reassuring voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001431.wav",
+        "target_content": "All smile were real and the happier，the more sincere ."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0014/Surprise/0014_001401.wav",
+        "prompt_description": " Change the timbre to a very masculine, deep, very thick, very mature, slightly old, cool voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Surprise/0020_001542.wav",
+        "target_content": "Wake now my merry tads!"
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001520.wav",
+        "prompt_description": " Change the timbre to a very masculine, deep, very thick, very mature, slightly old, cool voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Surprise/0020_001629.wav",
+        "target_content": "The first year they sowed rye."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001528.wav",
+        "prompt_description": " Change the timbre to a very masculine, deep, very thick, very mature, slightly old, cool voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Surprise/0020_001672.wav",
+        "target_content": "No admittance except on party business."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Surprise/0020_001636.wav",
+        "prompt_description": " Change the timbre to a middle-aged, very masculine, deep, powerful, reassuring,mature, cool, slightly thick and magnetic voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0011/Surprise/0011_001439.wav",
+        "target_content": "Our thanks to God's oath."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001528.wav",
+        "prompt_description": " Change the timbre to a feminine, adult-like, magnetic, very elegant, relaxed voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0019/Surprise/0019_001620.wav",
+        "target_content": "Her paw went into your eye?"
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001450.wav",
+        "prompt_description": " Change the timbre to a very masculine, deep, very thick, very mature, slightly old, cool voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Surprise/0020_001542.wav",
+        "target_content": "Wake now my merry tads!"
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0019/Surprise/0019_001435.wav",
+        "prompt_description": " Change the timbre to a masculine, very thick, middle-aged, friendly, very reassuring voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001651.wav",
+        "target_content": "The ladybug told them proudly."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0014/Surprise/0014_001459.wav",
+        "prompt_description": " Change the timbre to a masculine, very thick, middle-aged, friendly, very reassuring voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001410.wav",
+        "target_content": "A nauseous draught."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Surprise/0020_001602.wav",
+        "prompt_description": " Change the timbre to a masculine, slightly clear, young, slightly halting, slightly muffled voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0014/Surprise/0014_001431.wav",
+        "target_content": "All the smile were real and happier，the more sincere ."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0019/Surprise/0019_001747.wav",
+        "prompt_description": " Change the timbre to a very masculine, deep, very thick, very mature, slightly old, cool voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Surprise/0020_001508.wav",
+        "target_content": "The squire himself showed perfect."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001628.wav",
+        "prompt_description": " Change the timbre to a masculine, slightly clear, young, slightly halting, slightly muffled voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0014/Surprise/0014_001431.wav",
+        "target_content": "All the smile were real and happier，the more sincere ."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0019/Surprise/0019_001446.wav",
+        "prompt_description": " Change the timbre to a masculine, very thick, middle-aged, friendly, very reassuring voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001449.wav",
+        "target_content": "Then we all say aha!"
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0014/Surprise/0014_001589.wav",
+        "prompt_description": " Change the timbre to a masculine, very thick, middle-aged, friendly, very reassuring voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001707.wav",
+        "target_content": "I owe them five hundred dollars."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Surprise/0020_001557.wav",
+        "prompt_description": " Change the timbre to a masculine, very thick, middle-aged, friendly, very reassuring voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001410.wav",
+        "target_content": "A nauseous draught."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001714.wav",
+        "prompt_description": " Change the timbre to a masculine, slightly clear, young, slightly halting, slightly muffled voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0014/Surprise/0014_001497.wav",
+        "target_content": "Confess that you opened the thirteenth door."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001621.wav",
+        "prompt_description": " Change the timbre to a very masculine, deep, very thick, very mature, slightly old, cool voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Surprise/0020_001686.wav",
+        "target_content": "One two three, where is your breakfast."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Surprise/0020_001601.wav",
+        "prompt_description": " Change the timbre to a masculine, very thick, middle-aged, friendly, very reassuring voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001405.wav",
+        "target_content": "Clear than clear water!"
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Surprise/0020_001680.wav",
+        "prompt_description": " Change the timbre to a masculine, very thick, middle-aged, friendly, very reassuring voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001621.wav",
+        "target_content": "I am a selfish sinner."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Surprise/0020_001634.wav",
+        "prompt_description": " Change the timbre to a masculine, very thick, middle-aged, friendly, very reassuring voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001449.wav",
+        "target_content": "Then we all say aha!"
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Surprise/0020_001576.wav",
+        "prompt_description": " Change the timbre to a masculine, very thick, middle-aged, friendly, very reassuring voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001707.wav",
+        "target_content": "I owe them five hundred dollars."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0019/Surprise/0019_001446.wav",
+        "prompt_description": " Change the timbre to a very masculine, deep, very thick, very mature, slightly old, cool voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Surprise/0020_001748.wav",
+        "target_content": "Dear customer,welcome to our ship."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001534.wav",
+        "prompt_description": " Change the timbre to a masculine, slightly clear, young, slightly halting, slightly muffled voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0014/Surprise/0014_001497.wav",
+        "target_content": "Confess that you opened the thirteenth door."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Surprise/0020_001542.wav",
+        "prompt_description": " Change the timbre to a masculine, very thick, middle-aged, friendly, very reassuring voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001714.wav",
+        "target_content": "Bob goes to a new school."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001581.wav",
+        "prompt_description": " Change the timbre to a very masculine, deep, very thick, very mature, slightly old, cool voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Surprise/0020_001605.wav",
+        "target_content": "Fear neither root nor sprout!"
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0014/Surprise/0014_001455.wav",
+        "prompt_description": " Change the timbre to a very masculine, deep, very thick, very mature, slightly old, cool voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Surprise/0020_001538.wav",
+        "target_content": "But one requires the explorer to furnish proofs."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0014/Surprise/0014_001459.wav",
+        "prompt_description": " Change the timbre to a masculine, very thick, middle-aged, friendly, very reassuring voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001405.wav",
+        "target_content": "Clear than clear water!"
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0019/Surprise/0019_001747.wav",
+        "prompt_description": " Change the timbre to a very masculine, deep, very thick, very mature, slightly old, cool voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Surprise/0020_001539.wav",
+        "target_content": "Cuckoos is downheaded and crying."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Surprise/0020_001542.wav",
+        "prompt_description": " Change the timbre to a masculine, very thick, middle-aged, friendly, very reassuring voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001503.wav",
+        "target_content": "The elephant and the carpenter is the longest."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001415.wav",
+        "prompt_description": " Change the timbre to a very masculine, deep, very thick, very mature, slightly old, cool voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Surprise/0020_001576.wav",
+        "target_content": "She just smiled calmly, mother knows that is the best smile."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0011/Surprise/0011_001439.wav",
+        "prompt_description": " Change the timbre to a masculine, very thick, middle-aged, friendly, very reassuring voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001417.wav",
+        "target_content": "Why has this egg not broken?"
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0014/Surprise/0014_001617.wav",
+        "prompt_description": " Change the timbre to a masculine, very thick, middle-aged, friendly, very reassuring voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001499.wav",
+        "target_content": "I've hit the wrong nose."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Surprise/0020_001640.wav",
+        "prompt_description": " Change the timbre to a masculine, very thick, middle-aged, friendly, very reassuring voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001503.wav",
+        "target_content": "The elephant and the carpenter is the longest."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0014/Surprise/0014_001589.wav",
+        "prompt_description": " Change the timbre to a very masculine, deep, very thick, very mature, slightly old, cool voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Surprise/0020_001608.wav",
+        "target_content": "However, somebody killed something."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Surprise/0020_001539.wav",
+        "prompt_description": " Change the timbre to a masculine, very thick, middle-aged, friendly, very reassuring voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001576.wav",
+        "target_content": "She just smiled calmly, mother knows that is the best smile."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Surprise/0020_001538.wav",
+        "prompt_description": " Change the timbre to a masculine, very thick, middle-aged, friendly, very reassuring voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001413.wav",
+        "target_content": "I have bunburyed all over goat on two separate occasions."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001405.wav",
+        "prompt_description": " Change the timbre to a very masculine, deep, very thick, very mature, slightly old, cool voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Surprise/0020_001627.wav",
+        "target_content": "Born once every one hundred years, dies in flames!"
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Surprise/0020_001627.wav",
+        "prompt_description": " Change the timbre to a masculine, very thick, middle-aged, friendly, very reassuring voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001557.wav",
+        "target_content": "Blackbird, and Jay."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Surprise/0020_001576.wav",
+        "prompt_description": " Change the timbre to a masculine, very thick, middle-aged, friendly, very reassuring voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001413.wav",
+        "target_content": "I have bunburyed all over goat on two separate occasions."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001429.wav",
+        "prompt_description": " Change the timbre to a very masculine, deep, very thick, very mature, slightly old, cool voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Surprise/0020_001610.wav",
+        "target_content": "It weighs seven point five kilogram."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Surprise/0020_001672.wav",
+        "prompt_description": " Change the timbre to a masculine, very thick, middle-aged, friendly, very reassuring voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001530.wav",
+        "target_content": "And would spoil my joke."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001454.wav",
+        "prompt_description": " Change the timbre to a masculine, slightly clear, young, slightly halting, slightly muffled voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0014/Surprise/0014_001617.wav",
+        "target_content": "You cruelty shall cost your life !"
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Surprise/0020_001589.wav",
+        "prompt_description": " Change the timbre to a masculine, very thick, middle-aged, friendly, very reassuring voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001557.wav",
+        "target_content": "Blackbird, and Jay."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0011/Surprise/0011_001452.wav",
+        "prompt_description": " Change the timbre to a masculine, very thick, middle-aged, friendly, very reassuring voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001628.wav",
+        "target_content": "It says no way! shouted Daisy."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001513.wav",
+        "prompt_description": " Change the timbre to a very masculine, deep, very thick, very mature, slightly old, cool voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Surprise/0020_001627.wav",
+        "target_content": "Born once every one hundred years, dies in flames!"
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001450.wav",
+        "prompt_description": " Change the timbre to a masculine, slightly clear, young, slightly halting, slightly muffled voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0014/Surprise/0014_001497.wav",
+        "target_content": "Confess that you opened the thirteenth door."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Surprise/0020_001504.wav",
+        "prompt_description": " Change the timbre to a masculine, very thick, middle-aged, friendly, very reassuring voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001520.wav",
+        "target_content": "Our King George is labourers."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001454.wav",
+        "prompt_description": " Change the timbre to a very masculine, deep, very thick, very mature, slightly old, cool voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Surprise/0020_001680.wav",
+        "target_content": "Your path now goes south."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0014/Surprise/0014_001431.wav",
+        "prompt_description": " Change the timbre to a very masculine, deep, very thick, very mature, slightly old, cool voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Surprise/0020_001539.wav",
+        "target_content": "Cuckoos is downheaded and crying."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001651.wav",
+        "prompt_description": " Change the timbre to a masculine, slightly clear, young, slightly halting, slightly muffled voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0014/Surprise/0014_001402.wav",
+        "target_content": "I did go, and made many prisoners."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Surprise/0020_001593.wav",
+        "prompt_description": " Change the timbre to a masculine, very thick, middle-aged, friendly, very reassuring voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001714.wav",
+        "target_content": "Bob goes to a new school."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0014/Surprise/0014_001602.wav",
+        "prompt_description": " Change the timbre to a masculine, very thick, middle-aged, friendly, very reassuring voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001621.wav",
+        "target_content": "I am a selfish sinner."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0014/Surprise/0014_001455.wav",
+        "prompt_description": " Change the timbre to a masculine, very thick, middle-aged, friendly, very reassuring voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001415.wav",
+        "target_content": "Poor Tom now is dead!"
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Surprise/0020_001602.wav",
+        "prompt_description": " Change the timbre to a masculine, very thick, middle-aged, friendly, very reassuring voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001434.wav",
+        "target_content": "A divine wrath made her blue eyes awful."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Surprise/0020_001589.wav",
+        "prompt_description": " Change the timbre to a masculine, very thick, middle-aged, friendly, very reassuring voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001514.wav",
+        "target_content": "A half pounds of flour and two ounces suet."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001714.wav",
+        "prompt_description": " Change the timbre to a feminine, adult-like, magnetic, very elegant, relaxed voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0019/Surprise/0019_001620.wav",
+        "target_content": "Her paw went into your eye?"
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001499.wav",
+        "prompt_description": " Change the timbre to a very masculine, deep, very thick, very mature, slightly old, cool voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Surprise/0020_001599.wav",
+        "target_content": "Captain Tom receives an angry letter."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0014/Surprise/0014_001431.wav",
+        "prompt_description": " Change the timbre to a masculine, very thick, middle-aged, friendly, very reassuring voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001530.wav",
+        "target_content": "And would spoil my joke."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0019/Surprise/0019_001620.wav",
+        "prompt_description": " Change the timbre to a very masculine, deep, very thick, very mature, slightly old, cool voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Surprise/0020_001748.wav",
+        "target_content": "Dear customer,welcome to our ship."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0019/Surprise/0019_001435.wav",
+        "prompt_description": " Change the timbre to a masculine, slightly clear, young, slightly halting, slightly muffled voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0014/Surprise/0014_001455.wav",
+        "target_content": "A deafening chirruping rent the air."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Surprise/0020_001593.wav",
+        "prompt_description": " Change the timbre to a masculine, very thick, middle-aged, friendly, very reassuring voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001434.wav",
+        "target_content": "A divine wrath made her blue eyes awful."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0014/Surprise/0014_001497.wav",
+        "prompt_description": " Change the timbre to a feminine, adult-like, magnetic, very elegant, relaxed voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0019/Surprise/0019_001446.wav",
+        "target_content": "They'd never know I'd regular ran away."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Surprise/0020_001686.wav",
+        "prompt_description": " Change the timbre to a masculine, very thick, middle-aged, friendly, very reassuring voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001621.wav",
+        "target_content": "I am a selfish sinner."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001581.wav",
+        "prompt_description": " Change the timbre to a masculine, slightly clear, young, slightly halting, slightly muffled voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0014/Surprise/0014_001497.wav",
+        "target_content": "Confess that you opened the thirteenth door."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Surprise/0020_001508.wav",
+        "prompt_description": " Change the timbre to a masculine, very thick, middle-aged, friendly, very reassuring voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001417.wav",
+        "target_content": "Why has this egg not broken?"
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Surprise/0020_001627.wav",
+        "prompt_description": " Change the timbre to a masculine, very thick, middle-aged, friendly, very reassuring voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001410.wav",
+        "target_content": "A nauseous draught."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001609.wav",
+        "prompt_description": " Change the timbre to a very masculine, deep, very thick, very mature, slightly old, cool voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Surprise/0020_001446.wav",
+        "target_content": "They'd never know I'd regular ran away."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Surprise/0020_001462.wav",
+        "prompt_description": " Change the timbre to a feminine, adult-like, magnetic, very elegant, relaxed voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0019/Surprise/0019_001446.wav",
+        "target_content": "They'd never know I'd regular ran away."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0019/Surprise/0019_001747.wav",
+        "prompt_description": " Change the timbre to a very masculine, deep, very thick, very mature, slightly old, cool voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Surprise/0020_001610.wav",
+        "target_content": "It weighs seven point five kilogram."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0019/Surprise/0019_001620.wav",
+        "prompt_description": " Change the timbre to a very masculine, deep, very thick, very mature, slightly old, cool voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Surprise/0020_001680.wav",
+        "target_content": "Your path now goes south."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Surprise/0020_001462.wav",
+        "prompt_description": " Change the timbre to a masculine, very thick, middle-aged, friendly, very reassuring voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001454.wav",
+        "target_content": "Are you a regular darkey really?"
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0014/Surprise/0014_001602.wav",
+        "prompt_description": " Change the timbre to a very masculine, deep, very thick, very mature, slightly old, cool voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Surprise/0020_001589.wav",
+        "target_content": "When such wanderers meet."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Surprise/0020_001601.wav",
+        "prompt_description": " Change the timbre to a masculine, very thick, middle-aged, friendly, very reassuring voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001499.wav",
+        "target_content": "I've hit the wrong nose."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0019/Surprise/0019_001672.wav",
+        "prompt_description": " Change the timbre to a masculine, very thick, middle-aged, friendly, very reassuring voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001410.wav",
+        "target_content": "A nauseous draught."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001651.wav",
+        "prompt_description": " Change the timbre to a very masculine, deep, very thick, very mature, slightly old, cool voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Surprise/0020_001539.wav",
+        "target_content": "Cuckoos is downheaded and crying."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001417.wav",
+        "prompt_description": " Change the timbre to a masculine, slightly clear, young, slightly halting, slightly muffled voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0014/Surprise/0014_001617.wav",
+        "target_content": "You cruelty shall cost your life !"
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0014/Surprise/0014_001402.wav",
+        "prompt_description": " Change the timbre to a masculine, very thick, middle-aged, friendly, very reassuring voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001528.wav",
+        "target_content": "Put that rude grasshopper in jail!"
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0014/Surprise/0014_001497.wav",
+        "prompt_description": " Change the timbre to a very masculine, deep, very thick, very mature, slightly old, cool voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Surprise/0020_001602.wav",
+        "target_content": "that sounds good."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Surprise/0020_001702.wav",
+        "prompt_description": " Change the timbre to a masculine, slightly clear, young, slightly halting, slightly muffled voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0014/Surprise/0014_001497.wav",
+        "target_content": "Confess that you opened the thirteenth door."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001557.wav",
+        "prompt_description": " Change the timbre to a masculine, slightly clear, young, slightly halting, slightly muffled voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0014/Surprise/0014_001455.wav",
+        "target_content": "A deafening chirruping rent the air."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Surprise/0020_001599.wav",
+        "prompt_description": " Change the timbre to a masculine, very thick, middle-aged, friendly, very reassuring voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001557.wav",
+        "target_content": "Blackbird, and Jay."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001651.wav",
+        "prompt_description": " Change the timbre to a very masculine, deep, very thick, very mature, slightly old, cool voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Surprise/0020_001605.wav",
+        "target_content": "Fear neither root nor sprout!"
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0014/Surprise/0014_001497.wav",
+        "prompt_description": " Change the timbre to a masculine, very thick, middle-aged, friendly, very reassuring voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001402.wav",
+        "target_content": "I did go, and made many prisoners."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001499.wav",
+        "prompt_description": " Change the timbre to a very masculine, deep, very thick, very mature, slightly old, cool voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Surprise/0020_001557.wav",
+        "target_content": "Blackbird, and Jay."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001534.wav",
+        "prompt_description": " Change the timbre to a masculine, slightly clear, young, slightly halting, slightly muffled voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0014/Surprise/0014_001459.wav",
+        "target_content": "Zero four three a silver shilling is journey."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0014/Surprise/0014_001602.wav",
+        "prompt_description": " Change the timbre to a masculine, very thick, middle-aged, friendly, very reassuring voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001707.wav",
+        "target_content": "I owe them five hundred dollars."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001429.wav",
+        "prompt_description": " Change the timbre to a masculine, slightly clear, young, slightly halting, slightly muffled voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0014/Surprise/0014_001431.wav",
+        "target_content": "All the smile were real and happier，the more sincere ."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001557.wav",
+        "prompt_description": " Change the timbre to a masculine, slightly clear, young, slightly halting, slightly muffled voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0014/Surprise/0014_001589.wav",
+        "target_content": "When such wanderers meet."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0019/Surprise/0019_001747.wav",
+        "prompt_description": " Change the timbre to a masculine, slightly clear, young, slightly halting, slightly muffled voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0014/Surprise/0014_001602.wav",
+        "target_content": "that sounds good."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Surprise/0020_001636.wav",
+        "prompt_description": " Change the timbre to a feminine, adult-like, magnetic, very elegant, relaxed voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0019/Surprise/0019_001446.wav",
+        "target_content": "They'd never know I'd regular ran away."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0014/Surprise/0014_001602.wav",
+        "prompt_description": " Change the timbre to a masculine, very thick, middle-aged, friendly, very reassuring voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001434.wav",
+        "target_content": "A divine wrath made her blue eyes awful."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Surprise/0020_001608.wav",
+        "prompt_description": " Change the timbre to a masculine, slightly clear, young, slightly halting, slightly muffled voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0014/Surprise/0014_001431.wav",
+        "target_content": "All the smile were real and happier，the more sincere ."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0019/Surprise/0019_001620.wav",
+        "prompt_description": " Change the timbre to a masculine, very thick, middle-aged, friendly, very reassuring voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001514.wav",
+        "target_content": "A half pounds of flour and two ounces suet."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Surprise/0020_001446.wav",
+        "prompt_description": " Change the timbre to a masculine, very thick, middle-aged, friendly, very reassuring voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001694.wav",
+        "target_content": "Now I understand."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Surprise/0020_001748.wav",
+        "prompt_description": " Change the timbre to a masculine, very thick, middle-aged, friendly, very reassuring voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001581.wav",
+        "target_content": "First, issue a reward."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001405.wav",
+        "prompt_description": " Change the timbre to a middle-aged, very masculine, deep, powerful, reassuring,mature, cool, slightly thick and magnetic voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0011/Surprise/0011_001452.wav",
+        "target_content": "From August eighteenth, of their divorce."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001431.wav",
+        "prompt_description": " Change the timbre to a very masculine, deep, very thick, very mature, slightly old, cool voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Surprise/0020_001589.wav",
+        "target_content": "When such wanderers meet."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001514.wav",
+        "prompt_description": " Change the timbre to a very masculine, deep, very thick, very mature, slightly old, cool voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Surprise/0020_001627.wav",
+        "target_content": "Born once every one hundred years, dies in flames!"
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0014/Surprise/0014_001431.wav",
+        "prompt_description": " Change the timbre to a masculine, very thick, middle-aged, friendly, very reassuring voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001410.wav",
+        "target_content": "A nauseous draught."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0014/Surprise/0014_001402.wav",
+        "prompt_description": " Change the timbre to a very masculine, deep, very thick, very mature, slightly old, cool voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Surprise/0020_001538.wav",
+        "target_content": "But one requires the explorer to furnish proofs."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001651.wav",
+        "prompt_description": " Change the timbre to a very masculine, deep, very thick, very mature, slightly old, cool voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Surprise/0020_001672.wav",
+        "target_content": "No admittance except on party business."
+    }
+]

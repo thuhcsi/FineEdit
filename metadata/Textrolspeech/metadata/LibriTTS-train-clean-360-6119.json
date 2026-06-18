@@ -1,0 +1,26 @@
+[
+    {
+        "item_name": "libritts-train-clean-360-6119-48032-6119_48032_000036_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/6119/48032/6119_48032_000036_000000.wav",
+        "speaker_id": "LibriTTS-train-clean-360-6119",
+        "content": "\"What's that for?",
+        "style_prompt": "A sense of high energy accompanies the male speaker's slow-paced speech, maintaining a regular pitch.",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "low",
+        "energy": "high",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-360-6119-48032-6119_48032_000041_000005",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/6119/48032/6119_48032_000041_000005.wav",
+        "speaker_id": "LibriTTS-train-clean-360-6119",
+        "content": "He said:",
+        "style_prompt": "A man engaged in fast speech, his pitch and energy maintaining normalcy.",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "high",
+        "energy": "normal",
+        "emotion": "neutral"
+    }
+]

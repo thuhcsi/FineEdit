@@ -1,0 +1,110 @@
+[
+    {
+        "item_name": "libritts-train-clean-360-1607-149245-1607_149245_000005_000010",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/1607/149245/1607_149245_000005_000010.wav",
+        "speaker_id": "LibriTTS-train-clean-360-1607",
+        "content": "Some of them were quartered at such a distance that they did not arrive in time.",
+        "style_prompt": "A rapid speaking speed complements the male speaker's low-pitched, low-energy voice.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "high",
+        "energy": "low",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-360-1607-149245-1607_149245_000004_000006",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/1607/149245/1607_149245_000004_000006.wav",
+        "speaker_id": "LibriTTS-train-clean-360-1607",
+        "content": "White villas peep from the birch forest; and, on a fine summer day, there is scarcely a turn of the pass at which may not be seen some angler casting his fly on the foam of the river, some artist sketching a pinnacle of rock, or some party of pleasure banqueting on the turf in the fretwork of shade and sunshine.",
+        "style_prompt": "With a low pitch and natural speaking speed, his overall energy comes through as subdued.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "low",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-360-1607-149245-1607_149245_000007_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/1607/149245/1607_149245_000007_000001.wav",
+        "speaker_id": "LibriTTS-train-clean-360-1607",
+        "content": "In truth james would have done better to withhold all assistance from the Highlanders than to mock them by sending them, instead of the well appointed army which they had asked and expected, a rabble contemptible in numbers and appearance.",
+        "style_prompt": "The man articulates in a low-pitched voice, maintaining a regular pace and energy.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "normal",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-360-1607-134636-1607_134636_000004_000005",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/1607/134636/1607_134636_000004_000005.wav",
+        "speaker_id": "LibriTTS-train-clean-360-1607",
+        "content": "In the free intercourse of private life, and amidst the dangers of the court of Galerius, he had learned to command his own passions, to encounter those of his equals, and to depend for his present safety and future greatness on the prudence and firmness of his personal conduct.",
+        "style_prompt": "With a low pitch and customary speech rhythm, his overall energy comes through as subdued.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "low",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-360-1607-134636-1607_134636_000004_000014",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/1607/134636/1607_134636_000004_000014.wav",
+        "speaker_id": "LibriTTS-train-clean-360-1607",
+        "content": "A just proportion of guards, of legions, and of auxiliaries, was allotted for their respective dignity and defence.",
+        "style_prompt": "The man's voice showcases a low timbre, addressing at a normal speed of speech, yet radiating low energy.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "low",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-360-1607-134636-1607_134636_000004_000015",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/1607/134636/1607_134636_000004_000015.wav",
+        "speaker_id": "LibriTTS-train-clean-360-1607",
+        "content": "The ministers and generals, who were placed about their persons, were such as Constantine could trust to assist, and even to control, these youthful sovereigns in the exercise of their delegated power.",
+        "style_prompt": "The man's tone, characterized by a lower pitch and adhering to a customary rhythm, hints at a sense of lowered dynamism.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "low",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-360-1607-134636-1607_134636_000004_000008",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/1607/134636/1607_134636_000004_000008.wav",
+        "speaker_id": "LibriTTS-train-clean-360-1607",
+        "content": "The indulgence of Constantine admitted them, at a very tender age, to share the administration of the empire; and they studied the art of reigning, at the expense of the people intrusted to their care.",
+        "style_prompt": "A male speaker utilizes a deep tone and normal speaking tempo, resulting in a delivery with diminished vitality.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "low",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-360-1607-134636-1607_134636_000004_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/1607/134636/1607_134636_000004_000000.wav",
+        "speaker_id": "LibriTTS-train-clean-360-1607",
+        "content": "The whole empire was deeply interested in the education of these five youths, the acknowledged successors of Constantine.",
+        "style_prompt": "Employing a lower vocal quality and customary speaking speed, his expression hints at a sense of subdued vitality.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "low",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-360-1607-134636-1607_134636_000020_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/1607/134636/1607_134636_000020_000000.wav",
+        "speaker_id": "LibriTTS-train-clean-360-1607",
+        "content": "To oppose the inroad of this destroying host, the aged emperor took the field in person; but on this occasion either his conduct or his fortune betrayed the glory which he had acquired in so many foreign and domestic wars.",
+        "style_prompt": "A male speaker utilizes a low pitch and regular speaking speed, radiating an overall low energy.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "low",
+        "emotion": "neutral"
+    }
+]

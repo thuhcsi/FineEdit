@@ -1,0 +1,57 @@
+[
+    {
+        "item_name": "LibriTTS_R-1811_129443_000003_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1811/129443/1811_129443_000003_000001.wav",
+        "speaker_id": "LibriTTS_R-1811",
+        "content": "Sense of pleasure we may well Spare out of life perhaps, and not repine, But live content, which is the calmest life: But pain is perfet miserie, the worst Of evils, and excessive, overturnes All patience.",
+        "style_prompt": "M_p-low_s-slow_e-low",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "slow",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-1811_129443_000003_000002",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1811/129443/1811_129443_000003_000002.wav",
+        "speaker_id": "LibriTTS_R-1811",
+        "content": "He who therefore can invent With what more forcible we may offend Our yet unwounded Enemies, or arme Our selves with like defence, to mee deserves No less then for deliverance what we owe.",
+        "style_prompt": "M_p-low_s-normal_e-normal",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-1811_129443_000007_000002",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1811/129443/1811_129443_000007_000002.wav",
+        "speaker_id": "LibriTTS_R-1811",
+        "content": "if on they rusht, repulse Repeated, and indecent overthrow Doubl'd, would render them yet more despis'd, And to thir foes a laughter; for in view Stood rankt of Seraphim another row In posture to displode thir second tire Of Thunder: back defeated to return They worse abhorr'd.",
+        "style_prompt": "M_p-low_s-slow_e-low",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "slow",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-1811_129443_000007_000003",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1811/129443/1811_129443_000007_000003.wav",
+        "speaker_id": "LibriTTS_R-1811",
+        "content": "SATAN beheld thir plight, And to his Mates thus in derision call'd.",
+        "style_prompt": "M_p-low_s-slow_e-low",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "slow",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-1811_129443_000012_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1811/129443/1811_129443_000012_000000.wav",
+        "speaker_id": "LibriTTS_R-1811",
+        "content": "He said, and on his Son with Rayes direct Shon full, he all his Father full exprest Ineffably into his face receiv'd, And thus the filial Godhead answering spake.",
+        "style_prompt": "M_p-low_s-slow_e-normal",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "very slow",
+        "energy": "normal"
+    }
+]

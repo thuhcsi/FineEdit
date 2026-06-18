@@ -1,0 +1,233 @@
+[
+    {
+        "item_name": "LibriTTS_R-2167_149880_000005_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/2167/149880/2167_149880_000005_000000.wav",
+        "speaker_id": "LibriTTS_R-2167",
+        "content": "\"What?\" said Hanson.",
+        "style_prompt": "M_p-high_s-slow_e-low",
+        "gender": "M",
+        "pitch": "high",
+        "speed": "slow",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-2167_149880_000021_000004",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/2167/149880/2167_149880_000021_000004.wav",
+        "speaker_id": "LibriTTS_R-2167",
+        "content": "I won't hurt you.\"",
+        "style_prompt": "M_p-high_s-fast_e-normal",
+        "gender": "M",
+        "pitch": "very high",
+        "speed": "fast",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-2167_149880_000022_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/2167/149880/2167_149880_000022_000000.wav",
+        "speaker_id": "LibriTTS_R-2167",
+        "content": "\"I know you won't,\" she remarked, half truthfully.",
+        "style_prompt": "M_p-high_s-normal_e-normal",
+        "gender": "M",
+        "pitch": "high",
+        "speed": "normal",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-2167_149880_000023_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/2167/149880/2167_149880_000023_000001.wav",
+        "speaker_id": "LibriTTS_R-2167",
+        "content": "Stick 'em out.",
+        "style_prompt": "M_p-high_s-slow_e-normal",
+        "gender": "M",
+        "pitch": "very high",
+        "speed": "slow",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-2167_149880_000024_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/2167/149880/2167_149880_000024_000000.wav",
+        "speaker_id": "LibriTTS_R-2167",
+        "content": "Carrie obeyed.",
+        "style_prompt": "M_p-high_s-normal_e-normal",
+        "gender": "M",
+        "pitch": "high",
+        "speed": "normal",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-2167_149880_000025_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/2167/149880/2167_149880_000025_000000.wav",
+        "speaker_id": "LibriTTS_R-2167",
+        "content": "\"Say, that fits like a T, don't it?\" he remarked, feeling the set of it at the waist and eyeing it from a few paces with real pleasure.",
+        "style_prompt": "M_p-high_s-normal_e-normal",
+        "gender": "M",
+        "pitch": "high",
+        "speed": "normal",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-2167_149880_000025_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/2167/149880/2167_149880_000025_000001.wav",
+        "speaker_id": "LibriTTS_R-2167",
+        "content": "\"What you need now is a new skirt.",
+        "style_prompt": "M_p-high_s-slow_e-high",
+        "gender": "M",
+        "pitch": "high",
+        "speed": "slow",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-2167_149880_000025_000002",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/2167/149880/2167_149880_000025_000002.wav",
+        "speaker_id": "LibriTTS_R-2167",
+        "content": "Let's go to breakfast.\"",
+        "style_prompt": "M_p-high_s-normal_e-normal",
+        "gender": "M",
+        "pitch": "high",
+        "speed": "normal",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-2167_149880_000026_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/2167/149880/2167_149880_000026_000000.wav",
+        "speaker_id": "LibriTTS_R-2167",
+        "content": "Carrie put on her hat.",
+        "style_prompt": "M_p-normal_s-normal_e-normal",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-2167_149880_000042_000002",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/2167/149880/2167_149880_000042_000002.wav",
+        "speaker_id": "LibriTTS_R-2167",
+        "content": "The latter looked, not quite sure, and then turned her head and looked.",
+        "style_prompt": "M_p-high_s-normal_e-normal",
+        "gender": "M",
+        "pitch": "high",
+        "speed": "normal",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-2167_149880_000042_000005",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/2167/149880/2167_149880_000042_000005.wav",
+        "speaker_id": "LibriTTS_R-2167",
+        "content": "She actually started.",
+        "style_prompt": "M_p-high_s-normal_e-high",
+        "gender": "M",
+        "pitch": "very high",
+        "speed": "normal",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-2167_149880_000043_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/2167/149880/2167_149880_000043_000000.wav",
+        "speaker_id": "LibriTTS_R-2167",
+        "content": "\"You must be thinking,\" he said.",
+        "style_prompt": "M_p-high_s-normal_e-normal",
+        "gender": "M",
+        "pitch": "high",
+        "speed": "normal",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-2167_149880_000054_000003",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/2167/149880/2167_149880_000054_000003.wav",
+        "speaker_id": "LibriTTS_R-2167",
+        "content": "He touched it now as he spoke of going.",
+        "style_prompt": "M_p-normal_s-normal_e-normal",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-2167_149880_000063_000002",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/2167/149880/2167_149880_000063_000002.wav",
+        "speaker_id": "LibriTTS_R-2167",
+        "content": "They looked about, and now the thing was sinking, and Minnie heard the low sip of the encroaching water.",
+        "style_prompt": "M_p-high_s-normal_e-low",
+        "gender": "M",
+        "pitch": "high",
+        "speed": "normal",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-2167_149880_000067_000002",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/2167/149880/2167_149880_000067_000002.wav",
+        "speaker_id": "LibriTTS_R-2167",
+        "content": "Here, wake up,\" said Hanson, disturbed, and shaking her by the shoulder.",
+        "style_prompt": "M_p-high_s-normal_e-low",
+        "gender": "M",
+        "pitch": "high",
+        "speed": "normal",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-2167_149880_000069_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/2167/149880/2167_149880_000069_000001.wav",
+        "speaker_id": "LibriTTS_R-2167",
+        "content": "You're talking in your sleep.\"",
+        "style_prompt": "M_p-high_s-fast_e-high",
+        "gender": "M",
+        "pitch": "very high",
+        "speed": "fast",
+        "energy": "very high"
+    },
+    {
+        "item_name": "LibriTTS_R-2167_149880_000082_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/2167/149880/2167_149880_000082_000000.wav",
+        "speaker_id": "LibriTTS_R-2167",
+        "content": "\"We'll have a nice game of euchre.\"",
+        "style_prompt": "M_p-high_s-fast_e-normal",
+        "gender": "M",
+        "pitch": "high",
+        "speed": "fast",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-2167_149881_000008_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/2167/149881/2167_149881_000008_000000.wav",
+        "speaker_id": "LibriTTS_R-2167",
+        "content": "CHAPTER nine",
+        "style_prompt": "M_p-high_s-normal_e-low",
+        "gender": "M",
+        "pitch": "high",
+        "speed": "normal",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-2167_149881_000016_000006",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/2167/149881/2167_149881_000016_000006.wav",
+        "speaker_id": "LibriTTS_R-2167",
+        "content": "He would not argue, he would not talk freely.",
+        "style_prompt": "M_p-high_s-normal_e-low",
+        "gender": "M",
+        "pitch": "very high",
+        "speed": "normal",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-2167_149881_000030_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/2167/149881/2167_149881_000030_000000.wav",
+        "speaker_id": "LibriTTS_R-2167",
+        "content": "\"Just think of that!\" said Jessica.",
+        "style_prompt": "M_p-high_s-slow_e-normal",
+        "gender": "M",
+        "pitch": "very high",
+        "speed": "slow",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-2167_149881_000052_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/2167/149881/2167_149881_000052_000000.wav",
+        "speaker_id": "LibriTTS_R-2167",
+        "content": "\"Is it?\" said mrs Hurstwood.",
+        "style_prompt": "M_p-high_s-slow_e-low",
+        "gender": "M",
+        "pitch": "high",
+        "speed": "slow",
+        "energy": "low"
+    }
+]

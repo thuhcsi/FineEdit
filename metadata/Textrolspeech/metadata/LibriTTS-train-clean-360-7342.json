@@ -1,0 +1,50 @@
+[
+    {
+        "item_name": "libritts-train-clean-360-7342-73961-7342_73961_000001_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/7342/73961/7342_73961_000001_000000.wav",
+        "speaker_id": "LibriTTS-train-clean-360-7342",
+        "content": "SEPTEMBER",
+        "style_prompt": "With a deep, resonant voice, she spoke slowly and with fervent energy.",
+        "gender": "F",
+        "pitch": "low",
+        "speed": "low",
+        "energy": "high",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-360-7342-73961-7342_73961_000004_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/7342/73961/7342_73961_000004_000000.wav",
+        "speaker_id": "LibriTTS-train-clean-360-7342",
+        "content": "Hardy Poppies should be sown even earlier; August is the best time.",
+        "style_prompt": "A calm pace characterized her speech, with regular energy.",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "low",
+        "energy": "normal",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-360-7342-73961-7342_73961_000005_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/7342/73961/7342_73961_000005_000000.wav",
+        "speaker_id": "LibriTTS-train-clean-360-7342",
+        "content": "Dahlias are now at their full growth.",
+        "style_prompt": "With a burst of vibrancy, she talks at a regular pace.",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "high",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-360-7342-73961-7342_73961_000018_000006",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/7342/73961/7342_73961_000018_000006.wav",
+        "speaker_id": "LibriTTS-train-clean-360-7342",
+        "content": "It is a native plant, but not found in this neighbourhood; I brought it from Cornwall, where it is so plentiful in the chinks of the granite stone fences.",
+        "style_prompt": "Her voice is energetic, while she speaks at a regular pace.",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "high",
+        "emotion": "neutral"
+    }
+]

@@ -1,0 +1,194 @@
+[
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0019/Happy/0019_000804.wav",
+        "prompt_description": " Change the timbre to a masculine, very thick, middle-aged, friendly, very reassuring voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Happy/0013_000932.wav",
+        "target_content": "Will call her Lili, for short."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Happy/0013_000932.wav",
+        "prompt_description": " Change the timbre to a speak as a slightly gender-neutral, slightly masculine, slightly weak, slightly young, slightly sharp, intellectual voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0012/Happy/0012_000720.wav",
+        "target_content": "At the roots-of a bush of a grass."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0012/Happy/0012_000720.wav",
+        "prompt_description": " Change the timbre to a feminine, adult-like, magnetic, very elegant, relaxed voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0019/Happy/0019_000807.wav",
+        "target_content": "Tom and Michael woke up next morning."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0019/Happy/0019_000780.wav",
+        "prompt_description": " Change the timbre to a feminine, clear, slightly muffled, middle-aged, slightly thin, slightly elegant voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0015/Happy/0015_000777.wav",
+        "target_content": "But I saw you walking."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0019/Happy/0019_000750.wav",
+        "prompt_description": " Change the timbre to a masculine, very thick, middle-aged, friendly, very reassuring voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Happy/0013_000777.wav",
+        "target_content": "But I saw you walking."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0015/Happy/0015_000777.wav",
+        "prompt_description": " Change the timbre to a speak as a slightly gender-neutral, slightly masculine, slightly weak, slightly young, slightly sharp, intellectual voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0012/Happy/0012_000721.wav",
+        "target_content": "As rich-as Peter's son in law!"
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Happy/0013_000777.wav",
+        "prompt_description": " Change the timbre to a feminine, adult-like, magnetic, very elegant, relaxed voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0019/Happy/0019_000800.wav",
+        "target_content": "Well anyhow it didn't rain, he said."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0012/Happy/0012_000720.wav",
+        "prompt_description": " Change the timbre to a feminine, adult-like, magnetic, very elegant, relaxed voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0019/Happy/0019_000790.wav",
+        "target_content": "And they did push so!"
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0012/Happy/0012_000721.wav",
+        "prompt_description": " Change the timbre to a feminine, adult-like, magnetic, very elegant, relaxed voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0019/Happy/0019_000887.wav",
+        "target_content": "An hour out of Guildford town."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0019/Happy/0019_000822.wav",
+        "prompt_description": " Change the timbre to a masculine, very thick, middle-aged, friendly, very reassuring voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Happy/0013_000777.wav",
+        "target_content": "But I saw you walking."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Happy/0013_000777.wav",
+        "prompt_description": " Change the timbre to a feminine, adult-like, magnetic, very elegant, relaxed voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0019/Happy/0019_000790.wav",
+        "target_content": "And they did push so!"
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0019/Happy/0019_000779.wav",
+        "prompt_description": " Change the timbre to a masculine, very thick, middle-aged, friendly, very reassuring voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Happy/0013_000777.wav",
+        "target_content": "But I saw you walking."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0019/Happy/0019_000836.wav",
+        "prompt_description": " Change the timbre to a feminine, clear, slightly muffled, middle-aged, slightly thin, slightly elegant voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0015/Happy/0015_000777.wav",
+        "target_content": "But I saw you walking."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0019/Happy/0019_000766.wav",
+        "prompt_description": " Change the timbre to a masculine, very thick, middle-aged, friendly, very reassuring voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Happy/0013_000826.wav",
+        "target_content": "this goes to the hill."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Happy/0013_000777.wav",
+        "prompt_description": " Change the timbre to a feminine, adult-like, magnetic, very elegant, relaxed voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0019/Happy/0019_000822.wav",
+        "target_content": "Am I an absolute pauper?"
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0014/Happy/0014_000805.wav",
+        "prompt_description": " Change the timbre to a feminine, adult-like, magnetic, very elegant, relaxed voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0019/Happy/0019_000750.wav",
+        "target_content": "Rabbit gave dog a hurrying up sort of nudge."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Happy/0013_000932.wav",
+        "prompt_description": " Change the timbre to a speak as a slightly gender-neutral, slightly masculine, slightly weak, slightly young, slightly sharp, intellectual voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0012/Happy/0012_000721.wav",
+        "target_content": "As rich-as Peter's son in law!"
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0019/Happy/0019_000743.wav",
+        "prompt_description": " Change the timbre to a masculine, slightly clear, young, slightly halting, slightly muffled voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0014/Happy/0014_000805.wav",
+        "target_content": "He was killed by an arrow."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0019/Happy/0019_000788.wav",
+        "prompt_description": " Change the timbre to a speak as a slightly gender-neutral, slightly masculine, slightly weak, slightly young, slightly sharp, intellectual voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0012/Happy/0012_000731.wav",
+        "target_content": "All smile were real and the happier，the more sincere ."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Happy/0013_000826.wav",
+        "prompt_description": " Change the timbre to a feminine, adult-like, magnetic, very elegant, relaxed voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0019/Happy/0019_000775.wav",
+        "target_content": "I'd far rather go without them than eat them!"
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Happy/0013_000932.wav",
+        "prompt_description": " Change the timbre to a feminine, adult-like, magnetic, very elegant, relaxed voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0019/Happy/0019_000841.wav",
+        "target_content": "Can I lodge here tonight?"
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0019/Happy/0019_000775.wav",
+        "prompt_description": " Change the timbre to a speak as a slightly gender-neutral, slightly masculine, slightly weak, slightly young, slightly sharp, intellectual voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0012/Happy/0012_000721.wav",
+        "target_content": "As rich-as Peter's son in law!"
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0019/Happy/0019_000872.wav",
+        "prompt_description": " Change the timbre to a masculine, very thick, middle-aged, friendly, very reassuring voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Happy/0013_000826.wav",
+        "target_content": "this goes to the hill."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0019/Happy/0019_000766.wav",
+        "prompt_description": " Change the timbre to a feminine, clear, slightly muffled, middle-aged, slightly thin, slightly elegant voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0015/Happy/0015_000777.wav",
+        "target_content": "But I saw you walking."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0019/Happy/0019_000787.wav",
+        "prompt_description": " Change the timbre to a speak as a slightly gender-neutral, slightly masculine, slightly weak, slightly young, slightly sharp, intellectual voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0012/Happy/0012_000731.wav",
+        "target_content": "All smile were real and the happier，the more sincere ."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0014/Happy/0014_000805.wav",
+        "prompt_description": " Change the timbre to a feminine, adult-like, magnetic, very elegant, relaxed voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0019/Happy/0019_000854.wav",
+        "target_content": "He dreamt them all night."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0019/Happy/0019_000805.wav",
+        "prompt_description": " Change the timbre to a speak as a slightly gender-neutral, slightly masculine, slightly weak, slightly young, slightly sharp, intellectual voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0012/Happy/0012_000721.wav",
+        "target_content": "As rich-as Peter's son in law!"
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0015/Happy/0015_000777.wav",
+        "prompt_description": " Change the timbre to a feminine, adult-like, magnetic, very elegant, relaxed voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0019/Happy/0019_000805.wav",
+        "target_content": "He was killed by an arrow."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0012/Happy/0012_000720.wav",
+        "prompt_description": " Change the timbre to a feminine, adult-like, magnetic, very elegant, relaxed voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0019/Happy/0019_000885.wav",
+        "target_content": "The new born baby is stolen as we go."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0019/Happy/0019_000825.wav",
+        "prompt_description": " Change the timbre to a speak as a slightly gender-neutral, slightly masculine, slightly weak, slightly young, slightly sharp, intellectual voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0012/Happy/0012_000721.wav",
+        "target_content": "As rich-as Peter's son in law!"
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0012/Happy/0012_000731.wav",
+        "prompt_description": " Change the timbre to a feminine, adult-like, magnetic, very elegant, relaxed voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0019/Happy/0019_000836.wav",
+        "target_content": "She has eaten the tapioca all-of it."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0019/Happy/0019_000779.wav",
+        "prompt_description": " Change the timbre to a masculine, slightly clear, young, slightly halting, slightly muffled voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0014/Happy/0014_000805.wav",
+        "target_content": "He was killed by an arrow."
+    }
+]

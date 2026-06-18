@@ -1,0 +1,110 @@
+[
+    {
+        "item_name": "libritts-train-clean-360-4236-8927-4236_8927_000029_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/4236/8927/4236_8927_000029_000000.wav",
+        "speaker_id": "LibriTTS-train-clean-360-4236",
+        "content": "The man trap was thrown; and between its jaws was part of a woman's clothing-a patterned silk skirt-gripped with such violence that the iron teeth had passed through it, skewering its tissue in a score of places.",
+        "style_prompt": "Speaking with fervor, the man's low-pitched voice maintains a lively pace, radiating energy.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "high",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-360-4236-8927-4236_8927_000015_000002",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/4236/8927/4236_8927_000015_000002.wav",
+        "speaker_id": "LibriTTS-train-clean-360-4236",
+        "content": "Hark!\"",
+        "style_prompt": "A male speaker, using a standard pitch, engages in unhurried speech with a sense of normal energy.",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "low",
+        "energy": "normal",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-360-4236-8927-4236_8927_000024_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/4236/8927/4236_8927_000024_000001.wav",
+        "speaker_id": "LibriTTS-train-clean-360-4236",
+        "content": "Thus far it was according to Tim's conjecture.",
+        "style_prompt": "A man addresses his audience with fervor, his deep voice resonating while speaking at a steady pace.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "high",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-360-4236-8927-4236_8927_000018_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/4236/8927/4236_8927_000018_000000.wav",
+        "speaker_id": "LibriTTS-train-clean-360-4236",
+        "content": "Tim was puzzled.",
+        "style_prompt": "His energetic demeanor is reflected in his speech as he maintains a natural speaking pace.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "high",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-360-4236-8927-4236_8927_000006_000003",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/4236/8927/4236_8927_000006_000003.wav",
+        "speaker_id": "LibriTTS-train-clean-360-4236",
+        "content": "The wound brought on lockjaw, of which he died.",
+        "style_prompt": "With a deep, dynamic voice, the male speaker speaks with heightened energy at a normal tempo.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "high",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-360-4236-8927-4236_8927_000033_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/4236/8927/4236_8927_000033_000001.wav",
+        "speaker_id": "LibriTTS-train-clean-360-4236",
+        "content": "Right and left of the narrow pass between the oaks were dense bushes; and now from behind these a female figure glided, whose appearance even in the gloom was, though graceful in outline, noticeably strange.",
+        "style_prompt": "Speaking with zeal, his low-pitched voice carries his energy at a steady pace.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "high",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-360-4236-8927-4236_8927_000004_000003",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/4236/8927/4236_8927_000004_000003.wav",
+        "speaker_id": "LibriTTS-train-clean-360-4236",
+        "content": "There were also, as a class apart, the bruisers, which did not lacerate the flesh, but only crushed the bone.",
+        "style_prompt": "Speaking with vivacity, the male speaker employs a low-pitched voice to maintain a regular pace.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "high",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-360-4236-8927-4236_8927_000049_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/4236/8927/4236_8927_000049_000001.wav",
+        "speaker_id": "LibriTTS-train-clean-360-4236",
+        "content": "They went on together.",
+        "style_prompt": "His deep voice adds richness to his high-energy conversation, matching a normal speaking speed.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "high",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-360-4236-8927-4236_8927_000013_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/4236/8927/4236_8927_000013_000000.wav",
+        "speaker_id": "LibriTTS-train-clean-360-4236",
+        "content": "\"What's that?\" said Suke, starting up in bed.",
+        "style_prompt": "His vibrant and robust low tone complements his naturally paced speech, brimming with enthusiasm.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "high",
+        "emotion": "neutral"
+    }
+]

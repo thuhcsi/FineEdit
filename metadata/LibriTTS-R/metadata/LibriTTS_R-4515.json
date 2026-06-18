@@ -1,0 +1,134 @@
+[
+    {
+        "item_name": "LibriTTS_R-4515_11057_000133_000007",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/4515/11057/4515_11057_000133_000007.wav",
+        "speaker_id": "LibriTTS_R-4515",
+        "content": "Dearest Marian, do not cease to think of me as your friend because my brother has disgraced himself.",
+        "style_prompt": "M_p-normal_s-normal_e-low",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-4515_11057_000133_000008",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/4515/11057/4515_11057_000133_000008.wav",
+        "speaker_id": "LibriTTS_R-4515",
+        "content": "If you can't see me, at least let us write to each other.",
+        "style_prompt": "M_p-normal_s-normal_e-low",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-4515_11057_000134_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/4515/11057/4515_11057_000134_000000.wav",
+        "speaker_id": "LibriTTS_R-4515",
+        "content": "And much more of the same tenor.",
+        "style_prompt": "M_p-normal_s-slow_e-low",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "very slow",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-4515_11057_000135_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/4515/11057/4515_11057_000135_000000.wav",
+        "speaker_id": "LibriTTS_R-4515",
+        "content": "Several days passed before there came a reply.",
+        "style_prompt": "M_p-normal_s-normal_e-normal",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-4515_11057_000135_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/4515/11057/4515_11057_000135_000001.wav",
+        "speaker_id": "LibriTTS_R-4515",
+        "content": "It was written with undisturbed kindness of feeling, but in few words.",
+        "style_prompt": "M_p-normal_s-slow_e-low",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "slow",
+        "energy": "very low"
+    },
+    {
+        "item_name": "LibriTTS_R-4515_11057_000136_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/4515/11057/4515_11057_000136_000000.wav",
+        "speaker_id": "LibriTTS_R-4515",
+        "content": "'For the present we cannot see each other, but I am very far from wishing that our friendship should come to an end.",
+        "style_prompt": "M_p-normal_s-normal_e-low",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "very low"
+    },
+    {
+        "item_name": "LibriTTS_R-4515_11057_000136_000002",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/4515/11057/4515_11057_000136_000002.wav",
+        "speaker_id": "LibriTTS_R-4515",
+        "content": "That paper I sent to Mr Trenchard is accepted, and I shall be glad to have your criticism when it comes out; don't spare my style, which needs a great deal of chastening.",
+        "style_prompt": "M_p-normal_s-slow_e-low",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "slow",
+        "energy": "very low"
+    },
+    {
+        "item_name": "LibriTTS_R-4515_11057_000136_000003",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/4515/11057/4515_11057_000136_000003.wav",
+        "speaker_id": "LibriTTS_R-4515",
+        "content": "I have been thinking: couldn't you use your holiday in Sark for a story?",
+        "style_prompt": "M_p-normal_s-slow_e-low",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "slow",
+        "energy": "very low"
+    },
+    {
+        "item_name": "LibriTTS_R-4515_13143_000014_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/4515/13143/4515_13143_000014_000000.wav",
+        "speaker_id": "LibriTTS_R-4515",
+        "content": "--Was ever poor devil of a country gentleman so hampered? said my father.",
+        "style_prompt": "M_p-low_s-normal_e-low",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-4515_13143_000015_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/4515/13143/4515_13143_000015_000000.wav",
+        "speaker_id": "LibriTTS_R-4515",
+        "content": "I would shew him publickly, said my uncle Toby, at the market cross.",
+        "style_prompt": "M_p-low_s-normal_e-low",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-4515_13143_000016_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/4515/13143/4515_13143_000016_000000.wav",
+        "speaker_id": "LibriTTS_R-4515",
+        "content": "--'Twill have no effect, said my father.",
+        "style_prompt": "M_p-normal_s-slow_e-low",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "very slow",
+        "energy": "very low"
+    },
+    {
+        "item_name": "LibriTTS_R-4515_13143_000018_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/4515/13143/4515_13143_000018_000000.wav",
+        "speaker_id": "LibriTTS_R-4515",
+        "content": "--I'll put him, however, into breeches, said my father,--let the world say what it will.",
+        "style_prompt": "M_p-normal_s-slow_e-low",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "slow",
+        "energy": "low"
+    }
+]

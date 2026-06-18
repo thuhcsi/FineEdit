@@ -1,0 +1,123 @@
+[
+    {
+        "item_name": "LibriTTS_R-1336_138113_000018_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1336/138113/1336_138113_000018_000000.wav",
+        "speaker_id": "LibriTTS_R-1336",
+        "content": "\"Good!",
+        "style_prompt": "M_p-high_s-normal_e-low",
+        "gender": "M",
+        "pitch": "very high",
+        "speed": "normal",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-1336_138113_000018_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1336/138113/1336_138113_000018_000001.wav",
+        "speaker_id": "LibriTTS_R-1336",
+        "content": "Good again!\" he cried.",
+        "style_prompt": "M_p-normal_s-slow_e-low",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "slow",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-1336_138113_000018_000002",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1336/138113/1336_138113_000018_000002.wav",
+        "speaker_id": "LibriTTS_R-1336",
+        "content": "\"We'll have the first decent breakfast we've had this year.",
+        "style_prompt": "M_p-high_s-normal_e-normal",
+        "gender": "M",
+        "pitch": "high",
+        "speed": "normal",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-1336_138113_000030_000004",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1336/138113/1336_138113_000030_000004.wav",
+        "speaker_id": "LibriTTS_R-1336",
+        "content": "The mind, like the body, grows quickly hard, simple, uncomplex.",
+        "style_prompt": "M_p-low_s-slow_e-low",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "very slow",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-1336_138113_000031_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1336/138113/1336_138113_000031_000000.wav",
+        "speaker_id": "LibriTTS_R-1336",
+        "content": "Some folk, of course, who talk glibly about the simple life when it is safely out of reach, betray themselves in camp by for ever peering about for the artificial excitements of civilisation which they miss.",
+        "style_prompt": "M_p-low_s-normal_e-low",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-1336_138113_000042_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1336/138113/1336_138113_000042_000000.wav",
+        "speaker_id": "LibriTTS_R-1336",
+        "content": "\"I declare, Hubbard, you're tanned like an aboriginal, and you look like one, too,\" laughed Maloney.",
+        "style_prompt": "M_p-normal_s-fast_e-normal",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "very fast",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-1336_138115_000014_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1336/138115/1336_138115_000014_000001.wav",
+        "speaker_id": "LibriTTS_R-1336",
+        "content": "\"But what makes you think the creature is starved?\"",
+        "style_prompt": "M_p-normal_s-fast_e-low",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "fast",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-1336_138115_000014_000002",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1336/138115/1336_138115_000014_000002.wav",
+        "speaker_id": "LibriTTS_R-1336",
+        "content": "He asked the question with his eyes straight on the other's face.",
+        "style_prompt": "M_p-normal_s-normal_e-normal",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-1336_138115_000020_000002",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1336/138115/1336_138115_000020_000002.wav",
+        "speaker_id": "LibriTTS_R-1336",
+        "content": "I propose a swim and then bed.",
+        "style_prompt": "M_p-low_s-normal_e-normal",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-1336_138115_000026_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1336/138115/1336_138115_000026_000000.wav",
+        "speaker_id": "LibriTTS_R-1336",
+        "content": "\"Exactly,\" he said.",
+        "style_prompt": "M_p-low_s-slow_e-normal",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "slow",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-1336_138115_000031_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1336/138115/1336_138115_000031_000001.wav",
+        "speaker_id": "LibriTTS_R-1336",
+        "content": "\"The wind's gusty and we've got hardly any ballast.\"",
+        "style_prompt": "M_p-normal_s-fast_e-normal",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "fast",
+        "energy": "normal"
+    }
+]

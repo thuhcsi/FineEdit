@@ -1,0 +1,156 @@
+[
+    {
+        "item_name": "LibriTTS_R-6962_47545_000000_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/6962/47545/6962_47545_000000_000000.wav",
+        "speaker_id": "LibriTTS_R-6962",
+        "content": "But the most familiar and usual cause of love is that which comes by sight, which conveys those admirable rays of beauty and pleasing graces to the heart.",
+        "style_prompt": "M_p-low_s-slow_e-low",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "slow",
+        "energy": "very low"
+    },
+    {
+        "item_name": "LibriTTS_R-6962_47545_000000_000008",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/6962/47545/6962_47545_000000_000008.wav",
+        "speaker_id": "LibriTTS_R-6962",
+        "content": "Inanimate beauty can so command.",
+        "style_prompt": "M_p-low_s-normal_e-low",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-6962_47545_000000_000020",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/6962/47545/6962_47545_000000_000020.wav",
+        "speaker_id": "LibriTTS_R-6962",
+        "content": "But why was it?",
+        "style_prompt": "M_p-normal_s-normal_e-normal",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-6962_47545_000000_000031",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/6962/47545/6962_47545_000000_000031.wav",
+        "speaker_id": "LibriTTS_R-6962",
+        "content": "Thus young men will adore and honour beauty; nay kings themselves I say will do it, and voluntarily submit their sovereignty to a lovely woman.",
+        "style_prompt": "M_p-low_s-normal_e-low",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-6962_47545_000000_000039",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/6962/47545/6962_47545_000000_000039.wav",
+        "speaker_id": "LibriTTS_R-6962",
+        "content": "So did Rosamond insult over King Henry the Second.",
+        "style_prompt": "M_p-low_s-normal_e-normal",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-6962_47545_000004_000004",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/6962/47545/6962_47545_000004_000004.wav",
+        "speaker_id": "LibriTTS_R-6962",
+        "content": "O noble piece of justice! mine author exclaims: and who is he that would not rather lose his seat and robes, forfeit his office, than give sentence against the majesty of beauty?",
+        "style_prompt": "M_p-low_s-normal_e-low",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "very low"
+    },
+    {
+        "item_name": "LibriTTS_R-6962_47545_000004_000005",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/6962/47545/6962_47545_000004_000005.wav",
+        "speaker_id": "LibriTTS_R-6962",
+        "content": "Such prerogatives have fair persons, and they alone are free from danger. Parthenopaeus was so lovely and fair, that when he fought in the Theban wars, if his face had been by chance bare, no enemy would offer to strike at or hurt him, such immunities hath beauty.",
+        "style_prompt": "M_p-low_s-normal_e-low",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "very low"
+    },
+    {
+        "item_name": "LibriTTS_R-6962_47545_000004_000008",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/6962/47545/6962_47545_000004_000008.wav",
+        "speaker_id": "LibriTTS_R-6962",
+        "content": "why did she make such promises to a dumb beast?",
+        "style_prompt": "M_p-low_s-normal_e-low",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "very low"
+    },
+    {
+        "item_name": "LibriTTS_R-6962_47545_000004_000014",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/6962/47545/6962_47545_000004_000014.wav",
+        "speaker_id": "LibriTTS_R-6962",
+        "content": "Inanimate creatures, I suppose, have a touch of this.",
+        "style_prompt": "M_p-low_s-fast_e-low",
+        "gender": "M",
+        "pitch": "very low",
+        "speed": "very fast",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-6962_47545_000005_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/6962/47545/6962_47545_000005_000000.wav",
+        "speaker_id": "LibriTTS_R-6962",
+        "content": "------\"the bushes in the way Some catch her neck, some kiss her face, Some twine about her legs to make her stay, And all did covet her for to embrace.\"",
+        "style_prompt": "M_p-low_s-slow_e-low",
+        "gender": "M",
+        "pitch": "very low",
+        "speed": "very slow",
+        "energy": "very low"
+    },
+    {
+        "item_name": "LibriTTS_R-6962_47545_000008_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/6962/47545/6962_47545_000008_000000.wav",
+        "speaker_id": "LibriTTS_R-6962",
+        "content": "and those lascivious winds stayed Daphne when she fled from Apollo;",
+        "style_prompt": "M_p-low_s-normal_e-normal",
+        "gender": "M",
+        "pitch": "very low",
+        "speed": "normal",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-6962_47545_000011_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/6962/47545/6962_47545_000011_000000.wav",
+        "speaker_id": "LibriTTS_R-6962",
+        "content": "\"They still mounted up intending to have kiss'd him. And fell in drops like tears because they missed him.\"",
+        "style_prompt": "M_p-low_s-slow_e-low",
+        "gender": "M",
+        "pitch": "very low",
+        "speed": "slow",
+        "energy": "very low"
+    },
+    {
+        "item_name": "LibriTTS_R-6962_47545_000014_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/6962/47545/6962_47545_000014_000000.wav",
+        "speaker_id": "LibriTTS_R-6962",
+        "content": "When our Thame and Isis meet",
+        "style_prompt": "M_p-low_s-normal_e-normal",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-6962_47545_000018_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/6962/47545/6962_47545_000018_000000.wav",
+        "speaker_id": "LibriTTS_R-6962",
+        "content": "\"Though I no sense at all of feeling have. Yet your sweet looks do animate and save; And when your speaking eyes do this way turn, Methinks my wounded members live and burn.\"",
+        "style_prompt": "M_p-low_s-slow_e-low",
+        "gender": "M",
+        "pitch": "very low",
+        "speed": "slow",
+        "energy": "very low"
+    }
+]

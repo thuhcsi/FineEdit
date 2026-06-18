@@ -1,0 +1,67 @@
+[
+    {
+        "item_name": "Emotional Speech Dataset (ESD)-Emotion Speech Dataset-0018-Sad-0018_001312",
+        "wav_path": "/zhiji-universal-cfs-sh/speech/prompt_based_data/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0018/Sad/0018_001312.wav",
+        "speaker_id": "Emotional Speech Dataset (ESD)-Emotion Speech Dataset-0018",
+        "content": "I believe you are one of them!",
+        "style_prompt": "Her words flow swiftly, her downcast pitch staying high, yet energy levels remain normal.",
+        "gender": "F",
+        "pitch": "high",
+        "speed": "high",
+        "energy": "normal",
+        "emotion": "sad",
+        "prosody_key": "p-high_s-high_e-normal_sad"
+    },
+    {
+        "item_name": "Emotional Speech Dataset (ESD)-Emotion Speech Dataset-0018-Sad-0018_001302",
+        "wav_path": "/zhiji-universal-cfs-sh/speech/prompt_based_data/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0018/Sad/0018_001302.wav",
+        "speaker_id": "Emotional Speech Dataset (ESD)-Emotion Speech Dataset-0018",
+        "content": "I am run off my feet.",
+        "style_prompt": "Speaking at a fast pace with a high pitch, she conveys her depressed message.",
+        "gender": "F",
+        "pitch": "high",
+        "speed": "high",
+        "energy": "normal",
+        "emotion": "sad",
+        "prosody_key": "p-high_s-high_e-normal_sad"
+    },
+    {
+        "item_name": "Emotional Speech Dataset (ESD)-Emotion Speech Dataset-0018-Sad-0018_001396",
+        "wav_path": "/zhiji-universal-cfs-sh/speech/prompt_based_data/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0018/Sad/0018_001396.wav",
+        "speaker_id": "Emotional Speech Dataset (ESD)-Emotion Speech Dataset-0018",
+        "content": "I am going to back home.",
+        "style_prompt": "Speaking at a high speed, her depressed tone stays high, energy regular.",
+        "gender": "F",
+        "pitch": "high",
+        "speed": "high",
+        "energy": "normal",
+        "emotion": "sad",
+        "prosody_key": "p-high_s-high_e-normal_sad"
+    },
+    {
+        "item_name": "Emotional Speech Dataset (ESD)-Emotion Speech Dataset-0018-Sad-0018_001287",
+        "wav_path": "/zhiji-universal-cfs-sh/speech/prompt_based_data/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0018/Sad/0018_001287.wav",
+        "speaker_id": "Emotional Speech Dataset (ESD)-Emotion Speech Dataset-0018",
+        "content": "What would they do at the end of the year?",
+        "style_prompt": "Quick-talking girl, her downcast voice high-pitched and lively.",
+        "gender": "F",
+        "pitch": "high",
+        "speed": "high",
+        "energy": "normal",
+        "emotion": "sad",
+        "prosody_key": "p-high_s-high_e-normal_sad"
+    },
+    {
+        "item_name": "Emotional Speech Dataset (ESD)-Emotion Speech Dataset-0018-Sad-0018_001389",
+        "wav_path": "/zhiji-universal-cfs-sh/speech/prompt_based_data/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0018/Sad/0018_001389.wav",
+        "speaker_id": "Emotional Speech Dataset (ESD)-Emotion Speech Dataset-0018",
+        "content": "And be with you,Tom!",
+        "style_prompt": "Quick-talking downcast girl in a high tone.",
+        "gender": "F",
+        "pitch": "high",
+        "speed": "high",
+        "energy": "normal",
+        "emotion": "sad",
+        "prosody_key": "p-high_s-high_e-normal_sad"
+    }
+]

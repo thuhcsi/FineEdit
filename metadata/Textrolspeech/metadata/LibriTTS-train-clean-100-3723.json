@@ -1,0 +1,74 @@
+[
+    {
+        "item_name": "libritts-train-clean-100-3723-171115-3723_171115_000007_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-100/3723/171115/3723_171115_000007_000000.wav",
+        "speaker_id": "LibriTTS-train-clean-100-3723",
+        "content": "five.",
+        "style_prompt": "The measured, bass-filled voice of the male speaker couldn't contain his vibrant and energetic delivery.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "low",
+        "energy": "high",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-100-3723-171631-3723_171631_000016_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-100/3723/171631/3723_171631_000016_000001.wav",
+        "speaker_id": "LibriTTS-train-clean-100-3723",
+        "content": "It is always in action and motion, still busy, still pretending to do all, to furnish all the powers and faculties with all that they have; but if an enemy dare rise up against it, it is the soonest endangered, the soonest defeated of any part.",
+        "style_prompt": "The boy's deep voice maintains a natural cadence, engaging in dialogue with an average speaking speed and energy.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "normal",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-100-3723-171115-3723_171115_000003_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-100/3723/171115/3723_171115_000003_000001.wav",
+        "speaker_id": "LibriTTS-train-clean-100-3723",
+        "content": "In the mean time, Herod's affairs in Judea were in an ill state.",
+        "style_prompt": "With his low tone, the guy imparts high energy in his conversation's natural tempo.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "high",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-100-3723-171115-3723_171115_000008_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-100/3723/171115/3723_171115_000008_000000.wav",
+        "speaker_id": "LibriTTS-train-clean-100-3723",
+        "content": "six.",
+        "style_prompt": "Each syllable from the male voice resonates with a tired, low-pitched tone, moving at a leisurely pace that exudes low energy.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "low",
+        "energy": "low",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-100-3723-171115-3723_171115_000005_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-100/3723/171115/3723_171115_000005_000000.wav",
+        "speaker_id": "LibriTTS-train-clean-100-3723",
+        "content": "three.",
+        "style_prompt": "A deep-voiced male speaker sets the tone with his deliberate and measured cadence, speaking slowly and maintaining a normal energy level.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "low",
+        "energy": "normal",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-100-3723-171115-3723_171115_000003_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-100/3723/171115/3723_171115_000003_000000.wav",
+        "speaker_id": "LibriTTS-train-clean-100-3723",
+        "content": "one.",
+        "style_prompt": "With a deliberate and unhurried delivery, the male voice maintains a composed tone.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "low",
+        "energy": "normal",
+        "emotion": "neutral"
+    }
+]

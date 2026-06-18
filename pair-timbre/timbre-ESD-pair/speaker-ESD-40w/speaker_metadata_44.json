@@ -1,0 +1,38 @@
+[
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Happy/0013_000745.wav",
+        "prompt_description": " Change the timbre to a very masculine, deep, very thick, very mature, slightly old, cool voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Happy/0020_001004.wav",
+        "target_content": "How do you like you dirty bird!"
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Happy/0020_000997.wav",
+        "prompt_description": " Change the timbre to a masculine, very thick, middle-aged, friendly, very reassuring voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Happy/0013_000800.wav",
+        "target_content": "Well anyhow it didn't rain, he said."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Happy/0013_000800.wav",
+        "prompt_description": " Change the timbre to a very masculine, deep, very thick, very mature, slightly old, cool voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Happy/0020_001004.wav",
+        "target_content": "How do you like you dirty bird!"
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Happy/0020_001009.wav",
+        "prompt_description": " Change the timbre to a masculine, very thick, middle-aged, friendly, very reassuring voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Happy/0013_000800.wav",
+        "target_content": "Well anyhow it didn't rain, he said."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Happy/0020_000942.wav",
+        "prompt_description": " Change the timbre to a masculine, very thick, middle-aged, friendly, very reassuring voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Happy/0013_000800.wav",
+        "target_content": "Well anyhow it didn't rain, he said."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Happy/0013_000745.wav",
+        "prompt_description": " Change the timbre to a very masculine, deep, very thick, very mature, slightly old, cool voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Happy/0020_001010.wav",
+        "target_content": "Why it is just like the round egg which sounds thin."
+    }
+]

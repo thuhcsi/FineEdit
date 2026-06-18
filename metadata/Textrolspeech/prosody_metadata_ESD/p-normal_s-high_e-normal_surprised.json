@@ -1,0 +1,41 @@
+[
+    {
+        "item_name": "Emotional Speech Dataset (ESD)-Emotion Speech Dataset-0020-Surprise-0020_001637",
+        "wav_path": "/zhiji-universal-cfs-sh/speech/prompt_based_data/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Surprise/0020_001637.wav",
+        "speaker_id": "Emotional Speech Dataset (ESD)-Emotion Speech Dataset-0020",
+        "content": "What would they do at the end of the year?",
+        "style_prompt": "The dazed male speaker, at a fast pace, employs a normal pitch and energy.",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "high",
+        "energy": "normal",
+        "emotion": "surprised",
+        "prosody_key": "p-normal_s-high_e-normal_surprised"
+    },
+    {
+        "item_name": "Emotional Speech Dataset (ESD)-Emotion Speech Dataset-0014-Surprise-0014_001420",
+        "wav_path": "/zhiji-universal-cfs-sh/speech/prompt_based_data/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0014/Surprise/0014_001420.wav",
+        "speaker_id": "Emotional Speech Dataset (ESD)-Emotion Speech Dataset-0014",
+        "content": "At the roots-of a bush of a grass.",
+        "style_prompt": "The dumbfounded male speaker's rapid speech is accompanied by a normal pitch and a hint of regular energy.",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "high",
+        "energy": "normal",
+        "emotion": "surprised",
+        "prosody_key": "p-normal_s-high_e-normal_surprised"
+    },
+    {
+        "item_name": "Emotional Speech Dataset (ESD)-Emotion Speech Dataset-0014-Surprise-0014_001622",
+        "wav_path": "/zhiji-universal-cfs-sh/speech/prompt_based_data/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0014/Surprise/0014_001622.wav",
+        "speaker_id": "Emotional Speech Dataset (ESD)-Emotion Speech Dataset-0014",
+        "content": "Ask god to help you.",
+        "style_prompt": "The male speaker, speaking fast, conveys his startled message with a normal pitch and energy.",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "high",
+        "energy": "normal",
+        "emotion": "surprised",
+        "prosody_key": "p-normal_s-high_e-normal_surprised"
+    }
+]

@@ -1,0 +1,101 @@
+[
+    {
+        "item_name": "LibriTTS_R-672_122797_000000_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/672/122797/672_122797_000000_000000.wav",
+        "speaker_id": "LibriTTS_R-672",
+        "content": "THE FIR TREE",
+        "style_prompt": "M_p-low_s-slow_e-low",
+        "gender": "M",
+        "pitch": "very low",
+        "speed": "very slow",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-672_122797_000002_000002",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/672/122797/672_122797_000002_000002.wav",
+        "speaker_id": "LibriTTS_R-672",
+        "content": "What a nice little fir!\" But this was what the Tree could not bear to hear.",
+        "style_prompt": "M_p-normal_s-slow_e-low",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "slow",
+        "energy": "very low"
+    },
+    {
+        "item_name": "LibriTTS_R-672_122797_000011_000002",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/672/122797/672_122797_000011_000002.wav",
+        "speaker_id": "LibriTTS_R-672",
+        "content": "What is it like?\"",
+        "style_prompt": "M_p-high_s-slow_e-normal",
+        "gender": "M",
+        "pitch": "very high",
+        "speed": "very slow",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-672_122797_000020_000003",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/672/122797/672_122797_000020_000003.wav",
+        "speaker_id": "LibriTTS_R-672",
+        "content": "Were Christmas but come!",
+        "style_prompt": "M_p-high_s-slow_e-normal",
+        "gender": "M",
+        "pitch": "very high",
+        "speed": "very slow",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-672_122797_000024_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/672/122797/672_122797_000024_000001.wav",
+        "speaker_id": "LibriTTS_R-672",
+        "content": "\"How it will shine this evening!\"",
+        "style_prompt": "M_p-high_s-slow_e-high",
+        "gender": "M",
+        "pitch": "very high",
+        "speed": "slow",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-672_122797_000028_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/672/122797/672_122797_000028_000000.wav",
+        "speaker_id": "LibriTTS_R-672",
+        "content": "\"Help!",
+        "style_prompt": "M_p-high_s-slow_e-low",
+        "gender": "M",
+        "pitch": "very high",
+        "speed": "very slow",
+        "energy": "very low"
+    },
+    {
+        "item_name": "LibriTTS_R-672_122797_000030_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/672/122797/672_122797_000030_000000.wav",
+        "speaker_id": "LibriTTS_R-672",
+        "content": "\"What are they about?\" thought the Tree.",
+        "style_prompt": "M_p-high_s-slow_e-normal",
+        "gender": "M",
+        "pitch": "very high",
+        "speed": "slow",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-672_122797_000053_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/672/122797/672_122797_000053_000000.wav",
+        "speaker_id": "LibriTTS_R-672",
+        "content": "\"No,\" said the Tree.",
+        "style_prompt": "M_p-normal_s-slow_e-low",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "very slow",
+        "energy": "very low"
+    },
+    {
+        "item_name": "LibriTTS_R-672_122797_000057_000002",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/672/122797/672_122797_000057_000002.wav",
+        "speaker_id": "LibriTTS_R-672",
+        "content": "All passed so quickly, there was so much going on around him, the Tree quite forgot to look to himself.",
+        "style_prompt": "M_p-high_s-slow_e-low",
+        "gender": "M",
+        "pitch": "high",
+        "speed": "slow",
+        "energy": "very low"
+    }
+]

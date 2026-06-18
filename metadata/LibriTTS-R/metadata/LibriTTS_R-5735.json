@@ -1,0 +1,46 @@
+[
+    {
+        "item_name": "LibriTTS_R-5735_48575_000000_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/5735/48575/5735_48575_000000_000000.wav",
+        "speaker_id": "LibriTTS_R-5735",
+        "content": "When it was the Two Hundred and Forty First Night,",
+        "style_prompt": "F_p-high_s-normal_e-high",
+        "gender": "F",
+        "pitch": "very high",
+        "speed": "normal",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-5735_48575_000002_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/5735/48575/5735_48575_000002_000000.wav",
+        "speaker_id": "LibriTTS_R-5735",
+        "content": "When it was the Two Hundred and Forty second Night,",
+        "style_prompt": "F_p-high_s-fast_e-high",
+        "gender": "F",
+        "pitch": "very high",
+        "speed": "fast",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-5735_48575_000005_000005",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/5735/48575/5735_48575_000005_000005.wav",
+        "speaker_id": "LibriTTS_R-5735",
+        "content": "And the cause is that there is lately come to this our city a physician than whom I never saw a better versed in diseases and their remedies.",
+        "style_prompt": "F_p-high_s-normal_e-high",
+        "gender": "F",
+        "pitch": "very high",
+        "speed": "normal",
+        "energy": "very high"
+    },
+    {
+        "item_name": "LibriTTS_R-5735_48575_000008_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/5735/48575/5735_48575_000008_000000.wav",
+        "speaker_id": "LibriTTS_R-5735",
+        "content": "When it was the Two Hundred and Forty third Night,",
+        "style_prompt": "F_p-high_s-slow_e-high",
+        "gender": "F",
+        "pitch": "very high",
+        "speed": "slow",
+        "energy": "high"
+    }
+]

@@ -1,0 +1,112 @@
+[
+    {
+        "item_name": "LibriTTS_R-55_121068_000001_000004",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/55/121068/55_121068_000001_000004.wav",
+        "speaker_id": "LibriTTS_R-55",
+        "content": "The house, with kitchens and cellars below, had above the ground floor, two stories and attics.",
+        "style_prompt": "M_p-normal_s-normal_e-normal",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-55_121068_000003_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/55/121068/55_121068_000003_000001.wav",
+        "speaker_id": "LibriTTS_R-55",
+        "content": "Penelon, Penelon!\" An old man, who was digging busily at one of the beds, stuck his spade in the earth, and approached, cap in hand, striving to conceal a quid of tobacco he had just thrust into his cheek.",
+        "style_prompt": "M_p-normal_s-normal_e-normal",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-55_121068_000005_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/55/121068/55_121068_000005_000000.wav",
+        "speaker_id": "LibriTTS_R-55",
+        "content": "\"Look there,\" said Maximilian, laughing; \"there is her husband changing his jacket for a coat.",
+        "style_prompt": "M_p-normal_s-fast_e-high",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "fast",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-55_121068_000008_000002",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/55/121068/55_121068_000008_000002.wav",
+        "speaker_id": "LibriTTS_R-55",
+        "content": "a doctor?\"",
+        "style_prompt": "M_p-normal_s-fast_e-low",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "fast",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-55_121068_000009_000011",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/55/121068/55_121068_000009_000011.wav",
+        "speaker_id": "LibriTTS_R-55",
+        "content": "It was three o'clock; at a quarter past, a merchant presented himself to insure two ships; it was a clear profit of fifteen thousand. francs.",
+        "style_prompt": "M_p-normal_s-normal_e-normal",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-55_121068_000016_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/55/121068/55_121068_000016_000001.wav",
+        "speaker_id": "LibriTTS_R-55",
+        "content": "\"No, no,\" returned Monte Cristo, pale as death, pressing one hand on his heart to still its throbbings, while with the other he pointed to a crystal cover, beneath which a silken purse lay on a black velvet cushion.",
+        "style_prompt": "M_p-normal_s-normal_e-normal",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-55_121068_000049_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/55/121068/55_121068_000049_000000.wav",
+        "speaker_id": "LibriTTS_R-55",
+        "content": "\"Oh, it is useless to inquire,\" returned the count; \"perhaps, after all, he was not the man you seek for.",
+        "style_prompt": "M_p-normal_s-fast_e-high",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "fast",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-55_121068_000051_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/55/121068/55_121068_000051_000000.wav",
+        "speaker_id": "LibriTTS_R-55",
+        "content": "\"Not a word.\"",
+        "style_prompt": "M_p-normal_s-slow_e-high",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "slow",
+        "energy": "very high"
+    },
+    {
+        "item_name": "LibriTTS_R-55_121068_000053_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/55/121068/55_121068_000053_000000.wav",
+        "speaker_id": "LibriTTS_R-55",
+        "content": "\"Nothing.\"",
+        "style_prompt": "M_p-low_s-normal_e-low",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-55_121068_000056_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/55/121068/55_121068_000056_000001.wav",
+        "speaker_id": "LibriTTS_R-55",
+        "content": "Recollect what our excellent father so often told us, 'It was no Englishman that thus saved us.'\" Monte Cristo started.",
+        "style_prompt": "M_p-normal_s-normal_e-normal",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "normal"
+    }
+]

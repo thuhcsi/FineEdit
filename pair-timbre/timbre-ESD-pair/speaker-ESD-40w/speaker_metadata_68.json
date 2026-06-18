@@ -1,0 +1,104 @@
+[
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Happy/0013_000953.wav",
+        "prompt_description": " Change the timbre to a very masculine, deep, very thick, very mature, slightly old, cool voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Happy/0020_000955.wav",
+        "target_content": "This was the twenty fifth of November, seventeen eighty three."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Happy/0020_001023.wav",
+        "prompt_description": " Change the timbre to a middle-aged, very masculine, deep, powerful, reassuring,mature, cool, slightly thick and magnetic voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0011/Happy/0011_000710.wav",
+        "target_content": "A nauseous draught."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Happy/0013_000953.wav",
+        "prompt_description": " Change the timbre to a very masculine, deep, very thick, very mature, slightly old, cool voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Happy/0020_000851.wav",
+        "target_content": "All the way to China is home."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Happy/0020_000851.wav",
+        "prompt_description": " Change the timbre to a masculine, very thick, middle-aged, friendly, very reassuring voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Happy/0013_000953.wav",
+        "target_content": "I have a soothsayer."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Happy/0020_000905.wav",
+        "prompt_description": " Change the timbre to a masculine, very thick, middle-aged, friendly, very reassuring voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Happy/0013_000953.wav",
+        "target_content": "I have a soothsayer."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Happy/0020_001048.wav",
+        "prompt_description": " Change the timbre to a middle-aged, very masculine, deep, powerful, reassuring,mature, cool, slightly thick and magnetic voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0011/Happy/0011_000710.wav",
+        "target_content": "A nauseous draught."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Happy/0013_000953.wav",
+        "prompt_description": " Change the timbre to a very masculine, deep, very thick, very mature, slightly old, cool voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Happy/0020_000980.wav",
+        "target_content": "Your path now goes south."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Happy/0020_000913.wav",
+        "prompt_description": " Change the timbre to a masculine, very thick, middle-aged, friendly, very reassuring voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Happy/0013_000953.wav",
+        "target_content": "I have a soothsayer."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Happy/0020_000915.wav",
+        "prompt_description": " Change the timbre to a masculine, very thick, middle-aged, friendly, very reassuring voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Happy/0013_000953.wav",
+        "target_content": "I have a soothsayer."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0011/Happy/0011_000710.wav",
+        "prompt_description": " Change the timbre to a very masculine, deep, very thick, very mature, slightly old, cool voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Happy/0020_000820.wav",
+        "target_content": "Our King George is labour us."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Happy/0020_000936.wav",
+        "prompt_description": " Change the timbre to a masculine, very thick, middle-aged, friendly, very reassuring voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Happy/0013_000953.wav",
+        "target_content": "I have a soothsayer."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Happy/0020_001033.wav",
+        "prompt_description": " Change the timbre to a masculine, very thick, middle-aged, friendly, very reassuring voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Happy/0013_000953.wav",
+        "target_content": "I have a soothsayer."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Happy/0013_000953.wav",
+        "prompt_description": " Change the timbre to a very masculine, deep, very thick, very mature, slightly old, cool voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Happy/0020_000988.wav",
+        "target_content": "She has felt shy of it."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0011/Happy/0011_000710.wav",
+        "prompt_description": " Change the timbre to a very masculine, deep, very thick, very mature, slightly old, cool voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Happy/0020_000880.wav",
+        "target_content": "Toast from the bread fruit tree."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Happy/0013_000953.wav",
+        "prompt_description": " Change the timbre to a very masculine, deep, very thick, very mature, slightly old, cool voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Happy/0020_000921.wav",
+        "target_content": "I am a selfish sinner."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Happy/0013_000953.wav",
+        "prompt_description": " Change the timbre to a very masculine, deep, very thick, very mature, slightly old, cool voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Happy/0020_000968.wav",
+        "target_content": "He showed no signs of age."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Happy/0013_000953.wav",
+        "prompt_description": " Change the timbre to a very masculine, deep, very thick, very mature, slightly old, cool voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Happy/0020_000967.wav",
+        "target_content": "Chapter eleven on the doorstep."
+    }
+]

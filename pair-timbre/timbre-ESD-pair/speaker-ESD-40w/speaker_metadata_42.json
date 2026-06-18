@@ -1,0 +1,56 @@
+[
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Angry/0013_000484.wav",
+        "prompt_description": " Change the timbre to a middle-aged, very masculine, deep, powerful, reassuring,mature, cool, slightly thick and magnetic voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0011/Angry/0011_000622.wav",
+        "target_content": "No admittance except on party business."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Angry/0013_000652.wav",
+        "prompt_description": " Change the timbre to a middle-aged, very masculine, deep, powerful, reassuring,mature, cool, slightly thick and magnetic voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0011/Angry/0011_000641.wav",
+        "target_content": "The end of february fourteenth."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Angry/0013_000657.wav",
+        "prompt_description": " Change the timbre to a feminine, adult-like, magnetic, very elegant, relaxed voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0019/Angry/0019_000626.wav",
+        "target_content": "Can your name be more hilarious?"
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Angry/0020_000413.wav",
+        "prompt_description": " Change the timbre to a middle-aged, very masculine, deep, powerful, reassuring,mature, cool, slightly thick and magnetic voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0011/Angry/0011_000560.wav",
+        "target_content": "It weighs seven point five kilogram."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0011/Angry/0011_000641.wav",
+        "prompt_description": " Change the timbre to a very masculine, deep, very thick, very mature, slightly old, cool voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Angry/0020_000411.wav",
+        "target_content": "Midyear is day, shire year."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Angry/0013_000578.wav",
+        "prompt_description": " Change the timbre to a very masculine, deep, very thick, very mature, slightly old, cool voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Angry/0020_000402.wav",
+        "target_content": "From August eighteenth, of their divorce."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0019/Angry/0019_000626.wav",
+        "prompt_description": " Change the timbre to a middle-aged, very masculine, deep, powerful, reassuring,mature, cool, slightly thick and magnetic voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0011/Angry/0011_000539.wav",
+        "target_content": "When such wanderers meet."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Angry/0020_000411.wav",
+        "prompt_description": " Change the timbre to a middle-aged, very masculine, deep, powerful, reassuring,mature, cool, slightly thick and magnetic voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0011/Angry/0011_000560.wav",
+        "target_content": "It weighs seven point five kilogram."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Angry/0013_000484.wav",
+        "prompt_description": " Change the timbre to a speak as a slightly gender-neutral, slightly masculine, slightly weak, slightly young, slightly sharp, intellectual voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0012/Angry/0012_000507.wav",
+        "target_content": "Blackbird, and Jay."
+    }
+]

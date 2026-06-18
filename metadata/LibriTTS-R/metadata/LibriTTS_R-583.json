@@ -1,0 +1,46 @@
+[
+    {
+        "item_name": "LibriTTS_R-583_139009_000021_000002",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/583/139009/583_139009_000021_000002.wav",
+        "speaker_id": "LibriTTS_R-583",
+        "content": "Come in, Bates.",
+        "style_prompt": "M_p-high_s-normal_e-high",
+        "gender": "M",
+        "pitch": "very high",
+        "speed": "normal",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-583_139009_000032_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/583/139009/583_139009_000032_000000.wav",
+        "speaker_id": "LibriTTS_R-583",
+        "content": "\"no",
+        "style_prompt": "M_p-high_s-slow_e-low",
+        "gender": "M",
+        "pitch": "high",
+        "speed": "very slow",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-583_139009_000059_000007",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/583/139009/583_139009_000059_000007.wav",
+        "speaker_id": "LibriTTS_R-583",
+        "content": "Can't be.",
+        "style_prompt": "M_p-normal_s-slow_e-low",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "very slow",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-583_139009_000060_000003",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/583/139009/583_139009_000060_000003.wav",
+        "speaker_id": "LibriTTS_R-583",
+        "content": "But it isn't.",
+        "style_prompt": "M_p-low_s-normal_e-normal",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "normal"
+    }
+]

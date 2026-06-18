@@ -1,0 +1,41 @@
+[
+    {
+        "item_name": "Emotional Speech Dataset (ESD)-Emotion Speech Dataset-0011-Sad-0011_001069",
+        "wav_path": "/zhiji-universal-cfs-sh/speech/prompt_based_data/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0011/Sad/0011_001069.wav",
+        "speaker_id": "Emotional Speech Dataset (ESD)-Emotion Speech Dataset-0011",
+        "content": "At the end of four.",
+        "style_prompt": "The sorrowful male speaker's quick speech, combined with a low timbre, radiates normal energy.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "high",
+        "energy": "normal",
+        "emotion": "sad",
+        "prosody_key": "p-low_s-high_e-normal_sad"
+    },
+    {
+        "item_name": "Emotional Speech Dataset (ESD)-Emotion Speech Dataset-0011-Sad-0011_001376",
+        "wav_path": "/zhiji-universal-cfs-sh/speech/prompt_based_data/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0011/Sad/0011_001376.wav",
+        "speaker_id": "Emotional Speech Dataset (ESD)-Emotion Speech Dataset-0011",
+        "content": "They are made of wood.",
+        "style_prompt": "A deep-toned despondent male voice speaks quickly with a low pitch, maintaining normal energy.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "high",
+        "energy": "normal",
+        "emotion": "sad",
+        "prosody_key": "p-low_s-high_e-normal_sad"
+    },
+    {
+        "item_name": "Emotional Speech Dataset (ESD)-Emotion Speech Dataset-0011-Sad-0011_001070",
+        "wav_path": "/zhiji-universal-cfs-sh/speech/prompt_based_data/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0011/Sad/0011_001070.wav",
+        "speaker_id": "Emotional Speech Dataset (ESD)-Emotion Speech Dataset-0011",
+        "content": "At the roots of a bush of a grass.",
+        "style_prompt": "Demonstrating normal energy, the miserable man's speech is speedy, accompanied by a low tone.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "high",
+        "energy": "normal",
+        "emotion": "sad",
+        "prosody_key": "p-low_s-high_e-normal_sad"
+    }
+]

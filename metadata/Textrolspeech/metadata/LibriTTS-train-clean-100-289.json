@@ -1,0 +1,50 @@
+[
+    {
+        "item_name": "libritts-train-clean-100-289-121665-289_121665_000072_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-100/289/121665/289_121665_000072_000000.wav",
+        "speaker_id": "LibriTTS-train-clean-100-289",
+        "content": "And now",
+        "style_prompt": "With a low volume, she converses at a typical pace.",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "low",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-100-289-121665-289_121665_000022_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-100/289/121665/289_121665_000022_000000.wav",
+        "speaker_id": "LibriTTS-train-clean-100-289",
+        "content": "\"Of course; do not the sheep know you?\"",
+        "style_prompt": "The woman's voice is quick and high-pitched, resonating with enthusiasm.",
+        "gender": "F",
+        "pitch": "high",
+        "speed": "high",
+        "energy": "high",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-100-289-121665-289_121665_000049_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-100/289/121665/289_121665_000049_000000.wav",
+        "speaker_id": "LibriTTS-train-clean-100-289",
+        "content": "Nothing was left to each sheep but a wee little stump where a tail should be, and Little Bo Peep was so heart broken that she sat down beside them and sobbed bitterly.",
+        "style_prompt": "Speaking with energy, her normal pitch carries the message.",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "high",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-100-289-121665-289_121665_000015_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-100/289/121665/289_121665_000015_000000.wav",
+        "speaker_id": "LibriTTS-train-clean-100-289",
+        "content": "\"But where is your crook?\"",
+        "style_prompt": "Speaking with high energy, her tone escalates to a high pitch.",
+        "gender": "F",
+        "pitch": "high",
+        "speed": "normal",
+        "energy": "high",
+        "emotion": "neutral"
+    }
+]

@@ -1,0 +1,13 @@
+[
+    {
+        "item_name": "LibriTTS_R-6003_58761_000005_000008",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/6003/58761/6003_58761_000005_000008.wav",
+        "speaker_id": "LibriTTS_R-6003",
+        "content": "A cubic yard of air on the surface of the earth would occupy a much larger space if carried a mile above it.",
+        "style_prompt": "M_p-low_s-fast_e-normal",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "fast",
+        "energy": "normal"
+    }
+]

@@ -1,0 +1,98 @@
+[
+    {
+        "item_name": "libritts-train-clean-100-625-132112-625_132112_000007_000003",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-100/625/132112/625_132112_000007_000003.wav",
+        "speaker_id": "LibriTTS-train-clean-100-625",
+        "content": "\"I don't know,--what is it, Sam?\"",
+        "style_prompt": "A normal energy level matches the male's quick, low-pitch speaking style.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "high",
+        "energy": "normal",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-100-625-132118-625_132118_000006_000009",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-100/625/132118/625_132118_000006_000009.wav",
+        "speaker_id": "LibriTTS-train-clean-100-625",
+        "content": "Why had not the brown of his eyes crushed out and killed the blue?--for brown were his father's eyes, and his father's father's.",
+        "style_prompt": "The male speaker's rapid-paced delivery, paired with a deep tone, carries an ordinary level of energy.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "high",
+        "energy": "normal",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-100-625-132112-625_132112_000007_000004",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-100/625/132112/625_132112_000007_000004.wav",
+        "speaker_id": "LibriTTS-train-clean-100-625",
+        "content": "\"All we make,\" answered Sam.",
+        "style_prompt": "A man utilizes a low pitch and regular speaking pace, imbuing his discourse with a sense of reduced vitality.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "low",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-100-625-132112-625_132112_000004_000009",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-100/625/132112/625_132112_000004_000009.wav",
+        "speaker_id": "LibriTTS-train-clean-100-625",
+        "content": "If you don't look up you can't get up,'\" remarks Jackson, philosophically. And he's gotten up.",
+        "style_prompt": "A man's low-pitched voice fosters a comfortable conversation, maintaining an unhurried tempo and energy.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "normal",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-100-625-132112-625_132112_000014_000015",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-100/625/132112/625_132112_000014_000015.wav",
+        "speaker_id": "LibriTTS-train-clean-100-625",
+        "content": "Then the sheriff came and took my mule and corn and furniture-\" \"Furniture?",
+        "style_prompt": "His low-pitched tone remains consistent as he speaks with an average tempo and moderate enthusiasm.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "normal",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-100-625-132118-625_132118_000016_000003",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-100/625/132118/625_132118_000016_000003.wav",
+        "speaker_id": "LibriTTS-train-clean-100-625",
+        "content": "In the poise of his little curl crowned head did there not sit all that wild pride of being which his father had hardly crushed in his own heart?",
+        "style_prompt": "Speaking with animation, the male speaker conveys high energy as his low-pitched voice matches a regular pace.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "high",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-100-625-132112-625_132112_000004_000008",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-100/625/132112/625_132112_000004_000008.wav",
+        "speaker_id": "LibriTTS-train-clean-100-625",
+        "content": "\"I says, 'Look up!",
+        "style_prompt": "The man's speech, with normal pitch, reflects his lively energy.",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "high",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-100-625-132112-625_132112_000010_000007",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-100/625/132112/625_132112_000010_000007.wav",
+        "speaker_id": "LibriTTS-train-clean-100-625",
+        "content": "Money!",
+        "style_prompt": "A deep-voiced man speaks slowly with a calm energy.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "low",
+        "energy": "normal",
+        "emotion": "neutral"
+    }
+]

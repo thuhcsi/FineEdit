@@ -1,0 +1,122 @@
+[
+    {
+        "item_name": "libritts-train-clean-100-332-128985-332_128985_000005_000004",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-100/332/128985/332_128985_000005_000004.wav",
+        "speaker_id": "LibriTTS-train-clean-100-332",
+        "content": "It was his custom in the daytime to walk about, carrying a drawn cutlass, resting easily upon his arm, edge up, very much as a fine gentleman carries his high silk hat, and any one who should impertinently stare or endeavor to quell his high spirits in any other way, would probably have felt the edge of that cutlass descending rapidly through his physical organism.",
+        "style_prompt": "His voice maintains a standard pitch as he talks with usual speed and energy.",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "normal",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-100-332-128985-332_128985_000008_000004",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-100/332/128985/332_128985_000008_000004.wav",
+        "speaker_id": "LibriTTS-train-clean-100-332",
+        "content": "There is nothing horrible that has ever been written or told about the buccaneer life, which could not have been told about Roc, the Brazilian.",
+        "style_prompt": "Engaging with vigor, the male speaker's energy-infused speech maintains a brisk tempo.",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "high",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-100-332-128985-332_128985_000026_000002",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-100/332/128985/332_128985_000026_000002.wav",
+        "speaker_id": "LibriTTS-train-clean-100-332",
+        "content": "Roc, as we have said in the beginning of this sketch, was a typical pirate; under certain circumstances he showed himself to have all those brave and savage qualities which Esquemeling esteemed and revered, and under other circumstances he showed those other qualities which Esquemeling despised, but which are necessary to make up the true character of a pirate.",
+        "style_prompt": "The man speaks using regular pitch, talks at normal speed, and has a touch of average energy.",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "normal",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-100-332-128985-332_128985_000026_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-100/332/128985/332_128985_000026_000000.wav",
+        "speaker_id": "LibriTTS-train-clean-100-332",
+        "content": "But this downfall of a hero simply shows that Esquemeling, although he was a member of the piratical body, and was proud to consider himself a buccaneer, did not understand the true nature of a pirate.",
+        "style_prompt": "A man's low-pitched voice resonates with high energy as he speaks at a regular speed.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "high",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-100-332-128985-332_128985_000012_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-100/332/128985/332_128985_000012_000000.wav",
+        "speaker_id": "LibriTTS-train-clean-100-332",
+        "content": "When the pirate captain and his companions were brought before the Governor, he made no pretence of putting them to trial.",
+        "style_prompt": "With a normal pitch, the man engages in high-energy speech at a regular pace.",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "high",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-100-332-128985-332_128985_000004_000004",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-100/332/128985/332_128985_000004_000004.wav",
+        "speaker_id": "LibriTTS-train-clean-100-332",
+        "content": "This story, however, I regard with a great deal of doubt; it has been told of Saladin and many other wicked and famous men, but I do not believe it is an easy thing to frighten a child into going to sleep.",
+        "style_prompt": "Speaking in his characteristic deep tone, he conveys ideas with a natural cadence and standard energy.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "normal",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-100-332-128985-332_128985_000008_000005",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-100/332/128985/332_128985_000008_000005.wav",
+        "speaker_id": "LibriTTS-train-clean-100-332",
+        "content": "He was a typical pirate.",
+        "style_prompt": "His voice maintains a normal pitch as he engages in conversation at a regular speed with typical energy.",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "normal",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-100-332-128985-332_128985_000012_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-100/332/128985/332_128985_000012_000001.wav",
+        "speaker_id": "LibriTTS-train-clean-100-332",
+        "content": "Buccaneers were outlawed by the Spanish, and were considered as wild beasts to be killed without mercy wherever caught.",
+        "style_prompt": "His voice, pitched low, carries an invigorating energy as he addresses his audience at a moderate pace.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "high",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-100-332-128985-332_128985_000001_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-100/332/128985/332_128985_000001_000000.wav",
+        "speaker_id": "LibriTTS-train-clean-100-332",
+        "content": "The Story of Roc, the Brazilian",
+        "style_prompt": "His deep vocal resonance naturally engages as he speaks with a moderate pace and regular energy.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "normal",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-100-332-128985-332_128985_000026_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-100/332/128985/332_128985_000026_000001.wav",
+        "speaker_id": "LibriTTS-train-clean-100-332",
+        "content": "Under the brutality, the cruelty, the dishonesty, and the recklessness of the sea robbers of those days, there was nearly always meanness and cowardice.",
+        "style_prompt": "A male speaker's deep voice creates a relaxed atmosphere as he talks naturally with standard enthusiasm and pace.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "normal",
+        "emotion": "neutral"
+    }
+]

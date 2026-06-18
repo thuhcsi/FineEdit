@@ -1,0 +1,74 @@
+[
+    {
+        "item_name": "libritts-train-clean-100-5049-25947-5049_25947_000048_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-100/5049/25947/5049_25947_000048_000001.wav",
+        "speaker_id": "LibriTTS-train-clean-100-5049",
+        "content": "\"Why, this is just like getting money from home.\"",
+        "style_prompt": "His vibrant low-pitched voice infuses his conversation with high energy, all while speaking naturally.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "high",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-100-5049-25947-5049_25947_000018_000006",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-100/5049/25947/5049_25947_000018_000006.wav",
+        "speaker_id": "LibriTTS-train-clean-100-5049",
+        "content": "When we gathered up the corners of his blanket and lifted him, he tried to sit upright, and cried out, \"You're taking me to the front, aren't you?",
+        "style_prompt": "The man's low-pitched voice communicates at a standard tempo of speech with moderate enthusiasm.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "normal",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-100-5049-25947-5049_25947_000018_000007",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-100/5049/25947/5049_25947_000018_000007.wav",
+        "speaker_id": "LibriTTS-train-clean-100-5049",
+        "content": "You said you would.",
+        "style_prompt": "Speaking in his deep and soothing voice, the man communicates at a standard pace with usual energy.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "normal",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-100-5049-25947-5049_25947_000025_000005",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-100/5049/25947/5049_25947_000025_000005.wav",
+        "speaker_id": "LibriTTS-train-clean-100-5049",
+        "content": "He was dead, but he was not defeated.",
+        "style_prompt": "Speaking in his deep and soothing voice, the speaker communicates at a standard pace and standard energy.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "normal",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-100-5049-25947-5049_25947_000020_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-100/5049/25947/5049_25947_000020_000001.wav",
+        "speaker_id": "LibriTTS-train-clean-100-5049",
+        "content": "\"Do you hear?",
+        "style_prompt": "A male speaker with a normal pitch spoke quickly with moderate energy.",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "high",
+        "energy": "normal",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-100-5049-25947-5049_25947_000015_000005",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-100/5049/25947/5049_25947_000015_000005.wav",
+        "speaker_id": "LibriTTS-train-clean-100-5049",
+        "content": "Then I remembered him.",
+        "style_prompt": "The man's low-pitched voice communicates at a standard tempo of speech with moderate enthusiasm.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "normal",
+        "emotion": "neutral"
+    }
+]

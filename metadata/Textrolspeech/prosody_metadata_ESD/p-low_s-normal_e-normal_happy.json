@@ -1,0 +1,28 @@
+[
+    {
+        "item_name": "Emotional Speech Dataset (ESD)-Emotion Speech Dataset-0013-Happy-0013_000791",
+        "wav_path": "/zhiji-universal-cfs-sh/speech/prompt_based_data/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Happy/0013_000791.wav",
+        "speaker_id": "Emotional Speech Dataset (ESD)-Emotion Speech Dataset-0013",
+        "content": "We expected Tom would jump for joy.",
+        "style_prompt": "The pleasing man's deep vocal quality remains steady as he converses with a low pitch, maintaining a natural rhythm and typical energy.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "normal",
+        "emotion": "happy",
+        "prosody_key": "p-low_s-normal_e-normal_happy"
+    },
+    {
+        "item_name": "Emotional Speech Dataset (ESD)-Emotion Speech Dataset-0013-Happy-0013_000781",
+        "wav_path": "/zhiji-universal-cfs-sh/speech/prompt_based_data/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Happy/0013_000781.wav",
+        "speaker_id": "Emotional Speech Dataset (ESD)-Emotion Speech Dataset-0013",
+        "content": "And I never had a whooping cough why.",
+        "style_prompt": "A pleasing man with a deep voice talks naturally at a regular talking pace with moderate enthusiasm.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "normal",
+        "emotion": "happy",
+        "prosody_key": "p-low_s-normal_e-normal_happy"
+    }
+]

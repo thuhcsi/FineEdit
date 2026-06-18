@@ -1,0 +1,68 @@
+[
+    {
+        "item_name": "LibriTTS_R-3723_171115_000003_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/3723/171115/3723_171115_000003_000000.wav",
+        "speaker_id": "LibriTTS_R-3723",
+        "content": "one.",
+        "style_prompt": "M_p-low_s-fast_e-low",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "fast",
+        "energy": "very low"
+    },
+    {
+        "item_name": "LibriTTS_R-3723_171115_000003_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/3723/171115/3723_171115_000003_000001.wav",
+        "speaker_id": "LibriTTS_R-3723",
+        "content": "In the mean time, Herod's affairs in Judea were in an ill state.",
+        "style_prompt": "M_p-low_s-slow_e-normal",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "slow",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-3723_171115_000005_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/3723/171115/3723_171115_000005_000000.wav",
+        "speaker_id": "LibriTTS_R-3723",
+        "content": "three.",
+        "style_prompt": "M_p-low_s-slow_e-low",
+        "gender": "M",
+        "pitch": "very low",
+        "speed": "very slow",
+        "energy": "very low"
+    },
+    {
+        "item_name": "LibriTTS_R-3723_171115_000007_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/3723/171115/3723_171115_000007_000000.wav",
+        "speaker_id": "LibriTTS_R-3723",
+        "content": "five.",
+        "style_prompt": "M_p-low_s-slow_e-normal",
+        "gender": "M",
+        "pitch": "very low",
+        "speed": "very slow",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-3723_171115_000008_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/3723/171115/3723_171115_000008_000000.wav",
+        "speaker_id": "LibriTTS_R-3723",
+        "content": "six.",
+        "style_prompt": "M_p-low_s-slow_e-low",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "very slow",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-3723_171631_000016_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/3723/171631/3723_171631_000016_000001.wav",
+        "speaker_id": "LibriTTS_R-3723",
+        "content": "It is always in action and motion, still busy, still pretending to do all, to furnish all the powers and faculties with all that they have; but if an enemy dare rise up against it, it is the soonest endangered, the soonest defeated of any part.",
+        "style_prompt": "M_p-low_s-slow_e-low",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "slow",
+        "energy": "low"
+    }
+]

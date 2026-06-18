@@ -1,0 +1,28 @@
+[
+    {
+        "item_name": "Emotional Speech Dataset (ESD)-Emotion Speech Dataset-0020-Angry-0020_000351",
+        "wav_path": "/zhiji-universal-cfs-sh/speech/prompt_based_data/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Angry/0020_000351.wav",
+        "speaker_id": "Emotional Speech Dataset (ESD)-Emotion Speech Dataset-0020",
+        "content": "The nine the eggs, I keep.",
+        "style_prompt": "Speaking rapidly, the enraged male's low voice suggests minimal enthusiasm.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "high",
+        "energy": "low",
+        "emotion": "angry",
+        "prosody_key": "p-low_s-high_e-low_angry"
+    },
+    {
+        "item_name": "Emotional Speech Dataset (ESD)-Emotion Speech Dataset-0011-Angry-0011_000353",
+        "wav_path": "/zhiji-universal-cfs-sh/speech/prompt_based_data/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0011/Angry/0011_000353.wav",
+        "speaker_id": "Emotional Speech Dataset (ESD)-Emotion Speech Dataset-0011",
+        "content": "That I owe my thanks to you.",
+        "style_prompt": "Speaking rapidly, the male's low tone reflects his fuming minimal enthusiasm.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "high",
+        "energy": "low",
+        "emotion": "angry",
+        "prosody_key": "p-low_s-high_e-low_angry"
+    }
+]

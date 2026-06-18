@@ -1,0 +1,68 @@
+[
+    {
+        "item_name": "LibriTTS_R-3070_166421_000010_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/3070/166421/3070_166421_000010_000001.wav",
+        "speaker_id": "LibriTTS_R-3070",
+        "content": "\"Where are you going?\"",
+        "style_prompt": "M_p-normal_s-fast_e-high",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "very fast",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-3070_166421_000011_000003",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/3070/166421/3070_166421_000011_000003.wav",
+        "speaker_id": "LibriTTS_R-3070",
+        "content": "He might get away.\"",
+        "style_prompt": "M_p-low_s-fast_e-high",
+        "gender": "M",
+        "pitch": "very low",
+        "speed": "fast",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-3070_166421_000014_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/3070/166421/3070_166421_000014_000000.wav",
+        "speaker_id": "LibriTTS_R-3070",
+        "content": "\"Anywhere you say suits me,\" he answered.",
+        "style_prompt": "M_p-low_s-fast_e-normal",
+        "gender": "M",
+        "pitch": "very low",
+        "speed": "fast",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-3070_166423_000005_000002",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/3070/166423/3070_166423_000005_000002.wav",
+        "speaker_id": "LibriTTS_R-3070",
+        "content": "I'll look after ruth--er-I mean Miss Ventnor.\"",
+        "style_prompt": "M_p-low_s-slow_e-normal",
+        "gender": "M",
+        "pitch": "very low",
+        "speed": "slow",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-3070_166423_000010_000002",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/3070/166423/3070_166423_000010_000002.wav",
+        "speaker_id": "LibriTTS_R-3070",
+        "content": "Then we'll make a start.",
+        "style_prompt": "M_p-low_s-fast_e-normal",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "fast",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-3070_166423_000024_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/3070/166423/3070_166423_000024_000001.wav",
+        "speaker_id": "LibriTTS_R-3070",
+        "content": "Now I could see that the ring was not continuous.",
+        "style_prompt": "M_p-normal_s-normal_e-normal",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "normal"
+    }
+]

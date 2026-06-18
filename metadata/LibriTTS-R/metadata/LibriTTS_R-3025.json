@@ -1,0 +1,222 @@
+[
+    {
+        "item_name": "LibriTTS_R-3025_12971_000000_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/3025/12971/3025_12971_000000_000000.wav",
+        "speaker_id": "LibriTTS_R-3025",
+        "content": "Part one",
+        "style_prompt": "F_p-normal_s-slow_e-normal",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "very slow",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-3025_12971_000003_000002",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/3025/12971/3025_12971_000003_000002.wav",
+        "speaker_id": "LibriTTS_R-3025",
+        "content": "He lived in Panama, Pennsylvania.",
+        "style_prompt": "F_p-normal_s-normal_e-high",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-3025_12971_000003_000003",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/3025/12971/3025_12971_000003_000003.wav",
+        "speaker_id": "LibriTTS_R-3025",
+        "content": "He had never been \"captain\" of anything except the Crescent Volunteer Fire Company, but he owned the title because he collected rents, wrote insurance, and meddled with lawsuits.",
+        "style_prompt": "F_p-normal_s-normal_e-normal",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-3025_12971_000004_000004",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/3025/12971/3025_12971_000004_000004.wav",
+        "speaker_id": "LibriTTS_R-3025",
+        "content": "He was aimlessly industrious, crotchety but kind, and almost quixotically honest.",
+        "style_prompt": "F_p-high_s-slow_e-low",
+        "gender": "F",
+        "pitch": "high",
+        "speed": "slow",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-3025_12971_000016_000002",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/3025/12971/3025_12971_000016_000002.wav",
+        "speaker_id": "LibriTTS_R-3025",
+        "content": "Her mouth was as kind as her spirited eyes, but it drooped.",
+        "style_prompt": "F_p-normal_s-slow_e-high",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "very slow",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-3025_12971_000025_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/3025/12971/3025_12971_000025_000000.wav",
+        "speaker_id": "LibriTTS_R-3025",
+        "content": "Not that she wanted to be a teacher!",
+        "style_prompt": "F_p-high_s-normal_e-high",
+        "gender": "F",
+        "pitch": "high",
+        "speed": "normal",
+        "energy": "very high"
+    },
+    {
+        "item_name": "LibriTTS_R-3025_12971_000025_000004",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/3025/12971/3025_12971_000025_000004.wav",
+        "speaker_id": "LibriTTS_R-3025",
+        "content": "Of course she would teach!",
+        "style_prompt": "F_p-high_s-slow_e-high",
+        "gender": "F",
+        "pitch": "high",
+        "speed": "slow",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-3025_12971_000028_000008",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/3025/12971/3025_12971_000028_000008.wav",
+        "speaker_id": "LibriTTS_R-3025",
+        "content": "Una was facing the feminist problem, without knowing what the word \"feminist\" meant.",
+        "style_prompt": "F_p-normal_s-slow_e-normal",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "slow",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-3025_12971_000031_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/3025/12971/3025_12971_000031_000001.wav",
+        "speaker_id": "LibriTTS_R-3025",
+        "content": "This she knew scientifically.",
+        "style_prompt": "F_p-normal_s-slow_e-normal",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "very slow",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-3025_12971_000031_000008",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/3025/12971/3025_12971_000031_000008.wav",
+        "speaker_id": "LibriTTS_R-3025",
+        "content": "Una crossed blessed matrimony off the list as a commercial prospect.",
+        "style_prompt": "F_p-low_s-slow_e-high",
+        "gender": "F",
+        "pitch": "low",
+        "speed": "slow",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-3025_12971_000042_000002",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/3025/12971/3025_12971_000042_000002.wav",
+        "speaker_id": "LibriTTS_R-3025",
+        "content": "While she trudged home-a pleasant, inconspicuous, fluffy haired young woman, undramatic as a field daisy-a cataract of protest poured through her.",
+        "style_prompt": "F_p-normal_s-slow_e-normal",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "slow",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-3025_12971_000045_000005",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/3025/12971/3025_12971_000045_000005.wav",
+        "speaker_id": "LibriTTS_R-3025",
+        "content": "There was no place to which she could flee.",
+        "style_prompt": "F_p-high_s-slow_e-high",
+        "gender": "F",
+        "pitch": "high",
+        "speed": "slow",
+        "energy": "very high"
+    },
+    {
+        "item_name": "LibriTTS_R-3025_12971_000046_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/3025/12971/3025_12971_000046_000000.wav",
+        "speaker_id": "LibriTTS_R-3025",
+        "content": "\"Poor, poor little mother, working away happy up there, and I've got to go and scold you,\" Una agonized.",
+        "style_prompt": "F_p-high_s-slow_e-high",
+        "gender": "F",
+        "pitch": "high",
+        "speed": "slow",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-3025_12971_000047_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/3025/12971/3025_12971_000047_000001.wav",
+        "speaker_id": "LibriTTS_R-3025",
+        "content": "She pounced on it.",
+        "style_prompt": "F_p-normal_s-normal_e-high",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "very high"
+    },
+    {
+        "item_name": "LibriTTS_R-3025_12971_000048_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/3025/12971/3025_12971_000048_000000.wav",
+        "speaker_id": "LibriTTS_R-3025",
+        "content": "mr and mrs Albert Sessions, of Panama, had gone to New York.",
+        "style_prompt": "F_p-normal_s-slow_e-high",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "very slow",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-3025_12971_000048_000002",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/3025/12971/3025_12971_000048_000002.wav",
+        "speaker_id": "LibriTTS_R-3025",
+        "content": "They liked New York.",
+        "style_prompt": "F_p-normal_s-slow_e-high",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "very slow",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-3025_12971_000054_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/3025/12971/3025_12971_000054_000000.wav",
+        "speaker_id": "LibriTTS_R-3025",
+        "content": "\"Mumsie!\" she cried, \"we're going to New York!",
+        "style_prompt": "F_p-high_s-slow_e-normal",
+        "gender": "F",
+        "pitch": "very high",
+        "speed": "very slow",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-3025_12971_000056_000002",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/3025/12971/3025_12971_000056_000002.wav",
+        "speaker_id": "LibriTTS_R-3025",
+        "content": "Is it the letter from Emma Sessions?",
+        "style_prompt": "F_p-high_s-fast_e-high",
+        "gender": "F",
+        "pitch": "very high",
+        "speed": "fast",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-3025_12971_000057_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/3025/12971/3025_12971_000057_000000.wav",
+        "speaker_id": "LibriTTS_R-3025",
+        "content": "\"She suggested it, but we are going up independent.\"",
+        "style_prompt": "F_p-high_s-slow_e-normal",
+        "gender": "F",
+        "pitch": "high",
+        "speed": "slow",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-3025_12971_000058_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/3025/12971/3025_12971_000058_000000.wav",
+        "speaker_id": "LibriTTS_R-3025",
+        "content": "\"But can we afford to?...",
+        "style_prompt": "F_p-high_s-normal_e-normal",
+        "gender": "F",
+        "pitch": "very high",
+        "speed": "normal",
+        "energy": "normal"
+    }
+]

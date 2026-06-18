@@ -1,0 +1,28 @@
+[
+    {
+        "item_name": "Emotional Speech Dataset (ESD)-Emotion Speech Dataset-0020-Angry-0020_000369",
+        "wav_path": "/zhiji-universal-cfs-sh/speech/prompt_based_data/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Angry/0020_000369.wav",
+        "speaker_id": "Emotional Speech Dataset (ESD)-Emotion Speech Dataset-0020",
+        "content": "At the end of four.",
+        "style_prompt": "A mad man, employing rapid speech in a deep timbre, conveys a sense of regular energy.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "high",
+        "energy": "normal",
+        "emotion": "angry",
+        "prosody_key": "p-low_s-high_e-normal_angry"
+    },
+    {
+        "item_name": "Emotional Speech Dataset (ESD)-Emotion Speech Dataset-0020-Angry-0020_000357",
+        "wav_path": "/zhiji-universal-cfs-sh/speech/prompt_based_data/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Angry/0020_000357.wav",
+        "speaker_id": "Emotional Speech Dataset (ESD)-Emotion Speech Dataset-0020",
+        "content": "I'm as bad as I can be.",
+        "style_prompt": "The livid male speaker's rapid speaking speed is accompanied by a low-pitched voice that exudes normal energy.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "high",
+        "energy": "normal",
+        "emotion": "angry",
+        "prosody_key": "p-low_s-high_e-normal_angry"
+    }
+]

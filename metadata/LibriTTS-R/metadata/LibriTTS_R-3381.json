@@ -1,0 +1,156 @@
+[
+    {
+        "item_name": "LibriTTS_R-3381_9921_000001_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/3381/9921/3381_9921_000001_000000.wav",
+        "speaker_id": "LibriTTS_R-3381",
+        "content": "CHAPTER one-AN ANCIENT SALON",
+        "style_prompt": "M_p-normal_s-normal_e-low",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-3381_9921_000002_000005",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/3381/9921/3381_9921_000002_000005.wav",
+        "speaker_id": "LibriTTS_R-3381",
+        "content": "He was an oracle everywhere.",
+        "style_prompt": "M_p-normal_s-fast_e-normal",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "very fast",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-3381_9921_000005_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/3381/9921/3381_9921_000005_000001.wav",
+        "speaker_id": "LibriTTS_R-3381",
+        "content": "Duchesses, the most delicate and charming women in the world, went into ecstasies over couplets like the following, addressed to \"the federates\":--",
+        "style_prompt": "M_p-normal_s-normal_e-low",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-3381_9921_000009_000002",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/3381/9921/3381_9921_000009_000002.wav",
+        "speaker_id": "LibriTTS_R-3381",
+        "content": "In that society, they parodied the Revolution.",
+        "style_prompt": "M_p-normal_s-normal_e-normal",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-3381_9921_000014_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/3381/9921/3381_9921_000014_000001.wav",
+        "speaker_id": "LibriTTS_R-3381",
+        "content": "The ancient society of the upper classes held themselves above this law, as above every other.",
+        "style_prompt": "M_p-normal_s-fast_e-normal",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "fast",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-3381_9921_000014_000003",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/3381/9921/3381_9921_000014_000003.wav",
+        "speaker_id": "LibriTTS_R-3381",
+        "content": "In spite of?",
+        "style_prompt": "M_p-high_s-normal_e-normal",
+        "gender": "M",
+        "pitch": "very high",
+        "speed": "normal",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-3381_9921_000014_000004",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/3381/9921/3381_9921_000014_000004.wav",
+        "speaker_id": "LibriTTS_R-3381",
+        "content": "No, because.",
+        "style_prompt": "M_p-normal_s-slow_e-low",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "slow",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-3381_9921_000014_000008",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/3381/9921/3381_9921_000014_000008.wav",
+        "speaker_id": "LibriTTS_R-3381",
+        "content": "A thief is admitted there, provided he be a god.",
+        "style_prompt": "M_p-normal_s-normal_e-low",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-3381_9921_000015_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/3381/9921/3381_9921_000015_000001.wav",
+        "speaker_id": "LibriTTS_R-3381",
+        "content": "His face was the same color as his trousers.",
+        "style_prompt": "M_p-normal_s-slow_e-normal",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "slow",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-3381_9921_000017_000002",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/3381/9921/3381_9921_000017_000002.wav",
+        "speaker_id": "LibriTTS_R-3381",
+        "content": "One is not a century with impunity.",
+        "style_prompt": "M_p-normal_s-fast_e-high",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "very fast",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-3381_9921_000017_000003",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/3381/9921/3381_9921_000017_000003.wav",
+        "speaker_id": "LibriTTS_R-3381",
+        "content": "The years finally produce around a head a venerable dishevelment.",
+        "style_prompt": "M_p-normal_s-normal_e-normal",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-3381_9921_000018_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/3381/9921/3381_9921_000018_000000.wav",
+        "speaker_id": "LibriTTS_R-3381",
+        "content": "In addition to this, he said things which had the genuine sparkle of the old rock.",
+        "style_prompt": "M_p-normal_s-normal_e-low",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-3381_9921_000020_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/3381/9921/3381_9921_000020_000001.wav",
+        "speaker_id": "LibriTTS_R-3381",
+        "content": "What a pity!",
+        "style_prompt": "M_p-high_s-normal_e-low",
+        "gender": "M",
+        "pitch": "high",
+        "speed": "normal",
+        "energy": "very low"
+    },
+    {
+        "item_name": "LibriTTS_R-3381_9921_000020_000002",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/3381/9921/3381_9921_000020_000002.wav",
+        "speaker_id": "LibriTTS_R-3381",
+        "content": "Poor child!\"",
+        "style_prompt": "M_p-high_s-slow_e-high",
+        "gender": "M",
+        "pitch": "high",
+        "speed": "very slow",
+        "energy": "high"
+    }
+]

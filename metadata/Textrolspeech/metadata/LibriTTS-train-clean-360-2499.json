@@ -1,0 +1,74 @@
+[
+    {
+        "item_name": "libritts-train-clean-360-2499-156153-2499_156153_000006_000004",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/2499/156153/2499_156153_000006_000004.wav",
+        "speaker_id": "LibriTTS-train-clean-360-2499",
+        "content": "She early embraced the doctrine of the Second Advent, and felt it her duty to proclaim the Lord's speedy coming.",
+        "style_prompt": "His voice conveyed a typical pitch, and he conversed at a standard speed with balanced energy.",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "normal",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-360-2499-156153-2499_156153_000007_000003",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/2499/156153/2499_156153_000007_000003.wav",
+        "speaker_id": "LibriTTS-train-clean-360-2499",
+        "content": "My father when a young man had traversed the wilderness to Canada, and could tell us of his adventures with Indians and wild beasts, and of his sojourn in the French villages.",
+        "style_prompt": "A male speaker employs normal pitch, addresses the audience at regular pace, and displays usual energy.",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "normal",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-360-2499-156153-2499_156153_000006_000007",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/2499/156153/2499_156153_000006_000007.wav",
+        "speaker_id": "LibriTTS-train-clean-360-2499",
+        "content": "At the time referred to in Snow Bound she was boarding at the Rocks Village about two miles from us.",
+        "style_prompt": "A male speaker's speech had a typical pitch, conveyed at a moderate pace with standard energy.",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "normal",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-360-2499-156153-2499_156153_000007_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/2499/156153/2499_156153_000007_000000.wav",
+        "speaker_id": "LibriTTS-train-clean-360-2499",
+        "content": "In my boyhood, in our lonely farm house, we had scanty sources of information; few books and only a small weekly newspaper.",
+        "style_prompt": "The man discusses a subject using a regular pitch, addressing the topic at a typical pace and energy level.",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "normal",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-360-2499-156153-2499_156153_000000_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/2499/156153/2499_156153_000000_000000.wav",
+        "speaker_id": "LibriTTS-train-clean-360-2499",
+        "content": "SNOW BOUND.",
+        "style_prompt": "His low-pitched tone adheres to a typical pace of conversation, though his delivery exudes low energy.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "low",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-360-2499-156155-2499_156155_000002_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/2499/156155/2499_156155_000002_000000.wav",
+        "speaker_id": "LibriTTS-train-clean-360-2499",
+        "content": "Rest from all bitter thoughts and things! How many a poor one's blessing went With thee beneath the low green tent Whose curtain never outward swings!",
+        "style_prompt": "With his normal pitch, the speaker conveys his message slowly, his energy levels low.",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "low",
+        "energy": "low",
+        "emotion": "neutral"
+    }
+]

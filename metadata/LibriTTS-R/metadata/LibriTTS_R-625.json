@@ -1,0 +1,90 @@
+[
+    {
+        "item_name": "LibriTTS_R-625_132112_000004_000008",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/625/132112/625_132112_000004_000008.wav",
+        "speaker_id": "LibriTTS_R-625",
+        "content": "\"I says, 'Look up!",
+        "style_prompt": "M_p-high_s-slow_e-low",
+        "gender": "M",
+        "pitch": "high",
+        "speed": "slow",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-625_132112_000004_000009",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/625/132112/625_132112_000004_000009.wav",
+        "speaker_id": "LibriTTS_R-625",
+        "content": "If you don't look up you can't get up,'\" remarks Jackson, philosophically. And he's gotten up.",
+        "style_prompt": "M_p-normal_s-normal_e-low",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "very low"
+    },
+    {
+        "item_name": "LibriTTS_R-625_132112_000007_000003",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/625/132112/625_132112_000007_000003.wav",
+        "speaker_id": "LibriTTS_R-625",
+        "content": "\"I don't know,--what is it, Sam?\"",
+        "style_prompt": "M_p-normal_s-slow_e-normal",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "slow",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-625_132112_000007_000004",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/625/132112/625_132112_000007_000004.wav",
+        "speaker_id": "LibriTTS_R-625",
+        "content": "\"All we make,\" answered Sam.",
+        "style_prompt": "M_p-low_s-slow_e-low",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "slow",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-625_132112_000010_000007",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/625/132112/625_132112_000010_000007.wav",
+        "speaker_id": "LibriTTS_R-625",
+        "content": "Money!",
+        "style_prompt": "M_p-normal_s-fast_e-low",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "fast",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-625_132112_000014_000015",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/625/132112/625_132112_000014_000015.wav",
+        "speaker_id": "LibriTTS_R-625",
+        "content": "Then the sheriff came and took my mule and corn and furniture-\" \"Furniture?",
+        "style_prompt": "M_p-normal_s-slow_e-normal",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "slow",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-625_132118_000006_000009",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/625/132118/625_132118_000006_000009.wav",
+        "speaker_id": "LibriTTS_R-625",
+        "content": "Why had not the brown of his eyes crushed out and killed the blue?--for brown were his father's eyes, and his father's father's.",
+        "style_prompt": "M_p-low_s-normal_e-low",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-625_132118_000016_000003",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/625/132118/625_132118_000016_000003.wav",
+        "speaker_id": "LibriTTS_R-625",
+        "content": "In the poise of his little curl crowned head did there not sit all that wild pride of being which his father had hardly crushed in his own heart?",
+        "style_prompt": "M_p-normal_s-slow_e-normal",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "slow",
+        "energy": "normal"
+    }
+]

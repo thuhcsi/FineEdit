@@ -1,0 +1,35 @@
+[
+    {
+        "item_name": "LibriTTS_R-1552_140651_000053_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1552/140651/1552_140651_000053_000001.wav",
+        "speaker_id": "LibriTTS_R-1552",
+        "content": "As the bee collects nectar and departs without injuring the flower, or its colour or scent, so let a sage dwell in his village.",
+        "style_prompt": "M_p-normal_s-normal_e-low",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "very low"
+    },
+    {
+        "item_name": "LibriTTS_R-1552_141135_000013_000010",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1552/141135/1552_141135_000013_000010.wav",
+        "speaker_id": "LibriTTS_R-1552",
+        "content": "They failed both with powdered felspar and quartz.",
+        "style_prompt": "M_p-high_s-normal_e-normal",
+        "gender": "M",
+        "pitch": "high",
+        "speed": "normal",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-1552_141135_000015_000004",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1552/141135/1552_141135_000015_000004.wav",
+        "speaker_id": "LibriTTS_R-1552",
+        "content": "Even during our occasional visits to this part of South America, we heard of a ship, two churches, and a house having been struck.",
+        "style_prompt": "M_p-normal_s-fast_e-normal",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "fast",
+        "energy": "normal"
+    }
+]

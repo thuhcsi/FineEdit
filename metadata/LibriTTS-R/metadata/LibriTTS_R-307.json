@@ -1,0 +1,222 @@
+[
+    {
+        "item_name": "LibriTTS_R-307_127535_000013_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/307/127535/307_127535_000013_000000.wav",
+        "speaker_id": "LibriTTS_R-307",
+        "content": "\"Step up, lad,\" cried Silver.",
+        "style_prompt": "M_p-high_s-slow_e-low",
+        "gender": "M",
+        "pitch": "high",
+        "speed": "very slow",
+        "energy": "very low"
+    },
+    {
+        "item_name": "LibriTTS_R-307_127535_000016_000002",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/307/127535/307_127535_000016_000002.wav",
+        "speaker_id": "LibriTTS_R-307",
+        "content": "\"Where might you have got the paper?",
+        "style_prompt": "M_p-high_s-slow_e-high",
+        "gender": "M",
+        "pitch": "very high",
+        "speed": "slow",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-307_127535_000016_000003",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/307/127535/307_127535_000016_000003.wav",
+        "speaker_id": "LibriTTS_R-307",
+        "content": "Why, hillo!",
+        "style_prompt": "M_p-high_s-fast_e-high",
+        "gender": "M",
+        "pitch": "very high",
+        "speed": "very fast",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-307_127535_000020_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/307/127535/307_127535_000020_000000.wav",
+        "speaker_id": "LibriTTS_R-307",
+        "content": "\"Dick, was it?",
+        "style_prompt": "M_p-high_s-slow_e-normal",
+        "gender": "M",
+        "pitch": "very high",
+        "speed": "slow",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-307_127535_000026_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/307/127535/307_127535_000026_000000.wav",
+        "speaker_id": "LibriTTS_R-307",
+        "content": "\"Oh,\" replied George, \"you don't be under no kind of apprehension; WE'RE all square, we are.",
+        "style_prompt": "M_p-high_s-slow_e-normal",
+        "gender": "M",
+        "pitch": "high",
+        "speed": "slow",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-307_127535_000029_000007",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/307/127535/307_127535_000029_000007.wav",
+        "speaker_id": "LibriTTS_R-307",
+        "content": "But who done it?",
+        "style_prompt": "M_p-high_s-fast_e-low",
+        "gender": "M",
+        "pitch": "high",
+        "speed": "fast",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-307_127535_000031_000002",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/307/127535/307_127535_000031_000002.wav",
+        "speaker_id": "LibriTTS_R-307",
+        "content": "Sea! Gentlemen o' fortune!",
+        "style_prompt": "M_p-high_s-normal_e-low",
+        "gender": "M",
+        "pitch": "high",
+        "speed": "normal",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-307_127535_000033_000003",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/307/127535/307_127535_000033_000003.wav",
+        "speaker_id": "LibriTTS_R-307",
+        "content": "Ah!",
+        "style_prompt": "M_p-normal_s-slow_e-low",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "slow",
+        "energy": "very low"
+    },
+    {
+        "item_name": "LibriTTS_R-307_127535_000033_000015",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/307/127535/307_127535_000033_000015.wav",
+        "speaker_id": "LibriTTS_R-307",
+        "content": "Kill that boy?",
+        "style_prompt": "M_p-high_s-slow_e-high",
+        "gender": "M",
+        "pitch": "high",
+        "speed": "very slow",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-307_127535_000033_000018",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/307/127535/307_127535_000033_000018.wav",
+        "speaker_id": "LibriTTS_R-307",
+        "content": "Ah, well, there's a deal to say to number three.",
+        "style_prompt": "M_p-normal_s-slow_e-high",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "slow",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-307_127535_000036_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/307/127535/307_127535_000036_000001.wav",
+        "speaker_id": "LibriTTS_R-307",
+        "content": "j f, and a score below, with a clove hitch to it; so he done ever.\"",
+        "style_prompt": "M_p-high_s-normal_e-normal",
+        "gender": "M",
+        "pitch": "very high",
+        "speed": "normal",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-307_127535_000038_000002",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/307/127535/307_127535_000038_000002.wav",
+        "speaker_id": "LibriTTS_R-307",
+        "content": "How?",
+        "style_prompt": "M_p-high_s-slow_e-high",
+        "gender": "M",
+        "pitch": "very high",
+        "speed": "very slow",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-307_127535_000040_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/307/127535/307_127535_000040_000000.wav",
+        "speaker_id": "LibriTTS_R-307",
+        "content": "\"Fair!",
+        "style_prompt": "M_p-high_s-slow_e-high",
+        "gender": "M",
+        "pitch": "very high",
+        "speed": "very slow",
+        "energy": "very high"
+    },
+    {
+        "item_name": "LibriTTS_R-307_127535_000040_000002",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/307/127535/307_127535_000040_000002.wav",
+        "speaker_id": "LibriTTS_R-307",
+        "content": "\"You lost the ship; I found the treasure.",
+        "style_prompt": "M_p-high_s-slow_e-high",
+        "gender": "M",
+        "pitch": "very high",
+        "speed": "slow",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-307_127535_000041_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/307/127535/307_127535_000041_000000.wav",
+        "speaker_id": "LibriTTS_R-307",
+        "content": "\"Silver!\" they cried.",
+        "style_prompt": "M_p-high_s-slow_e-normal",
+        "gender": "M",
+        "pitch": "high",
+        "speed": "very slow",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-307_127535_000041_000002",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/307/127535/307_127535_000041_000002.wav",
+        "speaker_id": "LibriTTS_R-307",
+        "content": "Barbecue for cap'n!\"",
+        "style_prompt": "M_p-high_s-slow_e-low",
+        "gender": "M",
+        "pitch": "very high",
+        "speed": "slow",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-307_127535_000042_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/307/127535/307_127535_000042_000000.wav",
+        "speaker_id": "LibriTTS_R-307",
+        "content": "\"So that's the toon, is it?\" cried the cook.",
+        "style_prompt": "M_p-normal_s-slow_e-low",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "very slow",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-307_127535_000042_000003",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/307/127535/307_127535_000042_000003.wav",
+        "speaker_id": "LibriTTS_R-307",
+        "content": "And now, shipmates, this black spot?",
+        "style_prompt": "M_p-high_s-slow_e-low",
+        "gender": "M",
+        "pitch": "very high",
+        "speed": "slow",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-307_127539_000017_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/307/127539/307_127539_000017_000001.wav",
+        "speaker_id": "LibriTTS_R-307",
+        "content": "But just then-crack! crack!",
+        "style_prompt": "M_p-high_s-slow_e-low",
+        "gender": "M",
+        "pitch": "very high",
+        "speed": "very slow",
+        "energy": "very low"
+    },
+    {
+        "item_name": "LibriTTS_R-307_127539_000020_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/307/127539/307_127539_000020_000000.wav",
+        "speaker_id": "LibriTTS_R-307",
+        "content": "\"Forward!\" cried the doctor.",
+        "style_prompt": "M_p-normal_s-slow_e-low",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "very slow",
+        "energy": "very low"
+    }
+]

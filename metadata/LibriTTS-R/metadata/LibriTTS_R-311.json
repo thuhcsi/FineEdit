@@ -1,0 +1,68 @@
+[
+    {
+        "item_name": "LibriTTS_R-311_124404_000002_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/311/124404/311_124404_000002_000001.wav",
+        "speaker_id": "LibriTTS_R-311",
+        "content": "It was my design to comprise in it all that, before I set myself to write it, I thought I knew of the nature of material objects.",
+        "style_prompt": "M_p-low_s-normal_e-low",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-311_124404_000002_000008",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/311/124404/311_124404_000002_000008.wav",
+        "speaker_id": "LibriTTS_R-311",
+        "content": "To this I likewise added much respecting the substance, the situation, the motions, and all the different qualities of these heavens and stars; so that I thought I had said enough respecting them to show that there is nothing observable in the heavens or stars of our system that must not, or at least may not appear precisely alike in those of the system which I described.",
+        "style_prompt": "M_p-low_s-normal_e-low",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-311_124404_000002_000010",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/311/124404/311_124404_000002_000010.wav",
+        "speaker_id": "LibriTTS_R-311",
+        "content": "I was not, however, disposed, from these circumstances, to conclude that this world had been created in the manner I described; for it is much more likely that God made it at the first such as it was to be.",
+        "style_prompt": "M_p-low_s-normal_e-low",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "very low"
+    },
+    {
+        "item_name": "LibriTTS_R-311_124404_000003_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/311/124404/311_124404_000003_000000.wav",
+        "speaker_id": "LibriTTS_R-311",
+        "content": "From the description of inanimate bodies and plants, I passed to animals, and particularly to man.",
+        "style_prompt": "M_p-low_s-fast_e-low",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "fast",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-311_124404_000007_000003",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/311/124404/311_124404_000007_000003.wav",
+        "speaker_id": "LibriTTS_R-311",
+        "content": "And what can physicians conjecture from feeling the pulse unless they know that according as the blood changes its nature it can be rarefied by the warmth of the heart, in a higher or lower degree, and more or less quickly than before?",
+        "style_prompt": "M_p-low_s-normal_e-low",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "very low"
+    },
+    {
+        "item_name": "LibriTTS_R-311_124404_000007_000013",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/311/124404/311_124404_000007_000013.wav",
+        "speaker_id": "LibriTTS_R-311",
+        "content": "Nor will this appear at all strange to those who are acquainted with the variety of movements performed by the different automata, or moving machines fabricated by human industry, and that with help of but few pieces compared with the great multitude of bones, muscles, nerves, arteries, veins, and other parts that are found in the body of each animal.",
+        "style_prompt": "M_p-low_s-fast_e-low",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "fast",
+        "energy": "low"
+    }
+]

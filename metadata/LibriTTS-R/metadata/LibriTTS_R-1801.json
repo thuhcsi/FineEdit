@@ -1,0 +1,145 @@
+[
+    {
+        "item_name": "LibriTTS_R-1801_138032_000003_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1801/138032/1801_138032_000003_000000.wav",
+        "speaker_id": "LibriTTS_R-1801",
+        "content": "CHAPTER fourteen.",
+        "style_prompt": "M_p-low_s-slow_e-normal",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "slow",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-1801_138032_000005_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1801/138032/1801_138032_000005_000001.wav",
+        "speaker_id": "LibriTTS_R-1801",
+        "content": "I call her peerless because she has no peer, whether it be in bodily stature or in the supremacy of rank and beauty.",
+        "style_prompt": "M_p-normal_s-normal_e-high",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-1801_138032_000010_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1801/138032/1801_138032_000010_000000.wav",
+        "speaker_id": "LibriTTS_R-1801",
+        "content": "\"Calm yourself, sir knight,\" said Don Quixote, \"and give ear to what I am about to say to you.",
+        "style_prompt": "M_p-low_s-normal_e-normal",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-1801_138032_000018_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1801/138032/1801_138032_000018_000000.wav",
+        "speaker_id": "LibriTTS_R-1801",
+        "content": "\"Body of my father!\" said Sancho, \"see what marten and sable, and pads of carded cotton he is putting into the bags, that our heads may not be broken and our bones beaten to jelly!",
+        "style_prompt": "M_p-normal_s-normal_e-high",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-1801_138032_000023_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1801/138032/1801_138032_000023_000000.wav",
+        "speaker_id": "LibriTTS_R-1801",
+        "content": "\"Very good,\" said he of the Grove; \"God will send the dawn and we shall be all right.\"",
+        "style_prompt": "M_p-normal_s-slow_e-normal",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "slow",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-1801_138032_000024_000003",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1801/138032/1801_138032_000024_000003.wav",
+        "speaker_id": "LibriTTS_R-1801",
+        "content": "Don Quixote examined his adversary, and found that he already had his helmet on and visor lowered, so that he could not see his face; he observed, however, that he was a sturdily built man, but not very tall in stature.",
+        "style_prompt": "M_p-low_s-normal_e-normal",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-1801_138032_000027_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1801/138032/1801_138032_000027_000000.wav",
+        "speaker_id": "LibriTTS_R-1801",
+        "content": "\"Well then,\" said Don Quixote, \"while we are mounting you can at least tell me if I am that Don Quixote whom you said you vanquished.\"",
+        "style_prompt": "M_p-low_s-fast_e-high",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "fast",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-1801_138032_000032_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1801/138032/1801_138032_000032_000000.wav",
+        "speaker_id": "LibriTTS_R-1801",
+        "content": "\"That is understood,\" replied he of the Mirrors.",
+        "style_prompt": "M_p-low_s-fast_e-normal",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "fast",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-1801_138032_000034_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1801/138032/1801_138032_000034_000000.wav",
+        "speaker_id": "LibriTTS_R-1801",
+        "content": "\"It seems to me rather, Sancho,\" said Don Quixote, \"that thou wouldst mount a scaffold in order to see the bulls without danger.\"",
+        "style_prompt": "M_p-normal_s-normal_e-high",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-1801_138032_000035_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1801/138032/1801_138032_000035_000000.wav",
+        "speaker_id": "LibriTTS_R-1801",
+        "content": "\"To tell the truth,\" returned Sancho, \"the monstrous nose of that squire has filled me with fear and terror, and I dare not stay near him.\"",
+        "style_prompt": "M_p-low_s-normal_e-normal",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-1801_138032_000037_000005",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1801/138032/1801_138032_000037_000005.wav",
+        "speaker_id": "LibriTTS_R-1801",
+        "content": "He saw, the history says, the very countenance, the very face, the very look, the very physiognomy, the very effigy, the very image of the bachelor Samson Carrasco!",
+        "style_prompt": "M_p-normal_s-normal_e-normal",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-1801_138032_000037_000006",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1801/138032/1801_138032_000037_000006.wav",
+        "speaker_id": "LibriTTS_R-1801",
+        "content": "As soon as he saw it he called out in a loud voice, \"Make haste here, Sancho, and behold what thou art to see but not to believe; quick, my son, and learn what magic can do, and wizards and enchanters are capable of.\"",
+        "style_prompt": "M_p-normal_s-normal_e-normal",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-1801_138032_000038_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1801/138032/1801_138032_000038_000000.wav",
+        "speaker_id": "LibriTTS_R-1801",
+        "content": "Sancho came up, and when he saw the countenance of the bachelor Carrasco, he fell to crossing himself a thousand times, and blessing himself as many more.",
+        "style_prompt": "M_p-normal_s-normal_e-high",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "high"
+    }
+]

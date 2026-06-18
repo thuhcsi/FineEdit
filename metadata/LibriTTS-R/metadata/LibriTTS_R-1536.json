@@ -1,0 +1,24 @@
+[
+    {
+        "item_name": "LibriTTS_R-1536_137608_000007_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1536/137608/1536_137608_000007_000000.wav",
+        "speaker_id": "LibriTTS_R-1536",
+        "content": "CHAPTER eighteen.",
+        "style_prompt": "M_p-low_s-slow_e-low",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "slow",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-1536_137608_000016_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1536/137608/1536_137608_000016_000000.wav",
+        "speaker_id": "LibriTTS_R-1536",
+        "content": "CHAPTER twenty.",
+        "style_prompt": "M_p-low_s-normal_e-low",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "low"
+    }
+]

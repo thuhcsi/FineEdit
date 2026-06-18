@@ -1,0 +1,112 @@
+[
+    {
+        "item_name": "LibriTTS_R-5767_48579_000000_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/5767/48579/5767_48579_000000_000000.wav",
+        "speaker_id": "LibriTTS_R-5767",
+        "content": "When it was the Two Hundred and Fifty fifth Night,",
+        "style_prompt": "M_p-normal_s-fast_e-high",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "fast",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-5767_48579_000001_000004",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/5767/48579/5767_48579_000001_000004.wav",
+        "speaker_id": "LibriTTS_R-5767",
+        "content": "Now is thy time!\" And behold, a scorpion stung the Badawi in the palm and he cried out, saying, \"Help, O Arabs!",
+        "style_prompt": "M_p-normal_s-slow_e-normal",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "slow",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-5767_48579_000005_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/5767/48579/5767_48579_000005_000001.wav",
+        "speaker_id": "LibriTTS_R-5767",
+        "content": "Now one was an old man of comely face and the other a youth; and he heard the younger say to the elder, \"O my uncle,, I conjure thee by Allah, give me back my cousin!\"",
+        "style_prompt": "M_p-normal_s-normal_e-low",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-5767_48579_000005_000002",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/5767/48579/5767_48579_000005_000002.wav",
+        "speaker_id": "LibriTTS_R-5767",
+        "content": "The old man replied, \"Did I not forbid thee, many a time, when the oath of divorce was always in thy mouth, as it were Holy Writ?\"",
+        "style_prompt": "M_p-low_s-normal_e-normal",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-5767_48579_000007_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/5767/48579/5767_48579_000007_000000.wav",
+        "speaker_id": "LibriTTS_R-5767",
+        "content": "She said, It hath reached me, O auspicious King, that Ala al Din continued, \"So he packed me fifty loads of goods and gave me ten thousand dinars, wherewith I set out for Baghdad; but when I reached the Lion's Copse, the wild Arabs came out against me and took all my goods and monies.",
+        "style_prompt": "M_p-normal_s-normal_e-normal",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-5767_48579_000007_000002",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/5767/48579/5767_48579_000007_000002.wav",
+        "speaker_id": "LibriTTS_R-5767",
+        "content": "Now he loveth her, but she loatheth him; and when he chanced to take an oath of triple divorcement and broke it, forthright she left him.",
+        "style_prompt": "M_p-low_s-normal_e-low",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-5767_48579_000009_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/5767/48579/5767_48579_000009_000000.wav",
+        "speaker_id": "LibriTTS_R-5767",
+        "content": "And when he heard her chant these lines he ended his recitation of the chapter, and began also to sing and repeated the following couplet,",
+        "style_prompt": "M_p-normal_s-normal_e-high",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-5767_48579_000013_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/5767/48579/5767_48579_000013_000000.wav",
+        "speaker_id": "LibriTTS_R-5767",
+        "content": "Thereupon she came forward, swinging her haunches and gracefully swaying a shape the handiwork of Him whose boons are hidden; and each of them stole one glance of the eyes that cost them a thousand sighs.",
+        "style_prompt": "M_p-normal_s-normal_e-normal",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-5767_48579_000015_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/5767/48579/5767_48579_000015_000000.wav",
+        "speaker_id": "LibriTTS_R-5767",
+        "content": "And when she drew near him, and there remained but two paces between them, he recited these two couplets,",
+        "style_prompt": "M_p-low_s-normal_e-low",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-5767_48579_000018_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/5767/48579/5767_48579_000018_000000.wav",
+        "speaker_id": "LibriTTS_R-5767",
+        "content": "When it was the Two Hundred and Fifty seventh Night,",
+        "style_prompt": "M_p-normal_s-fast_e-high",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "fast",
+        "energy": "high"
+    }
+]

@@ -1,0 +1,222 @@
+[
+    {
+        "item_name": "LibriTTS_R-777_126732_000072_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/777/126732/777_126732_000072_000000.wav",
+        "speaker_id": "LibriTTS_R-777",
+        "content": "\"He isn't fit to hear what's said here.",
+        "style_prompt": "M_p-high_s-normal_e-normal",
+        "gender": "M",
+        "pitch": "high",
+        "speed": "normal",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-777_126732_000072_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/777/126732/777_126732_000072_000001.wav",
+        "speaker_id": "LibriTTS_R-777",
+        "content": "He believes it's all true.",
+        "style_prompt": "M_p-high_s-fast_e-high",
+        "gender": "M",
+        "pitch": "high",
+        "speed": "fast",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-777_126732_000072_000003",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/777/126732/777_126732_000072_000003.wav",
+        "speaker_id": "LibriTTS_R-777",
+        "content": "He gets into his passions over it.\"",
+        "style_prompt": "M_p-normal_s-fast_e-high",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "fast",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-777_126732_000074_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/777/126732/777_126732_000074_000000.wav",
+        "speaker_id": "LibriTTS_R-777",
+        "content": "\"He glared at me, as if he didn't know who I was, when I went downstairs. His heart was going like a hammer.",
+        "style_prompt": "M_p-normal_s-normal_e-normal",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-777_126732_000074_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/777/126732/777_126732_000074_000001.wav",
+        "speaker_id": "LibriTTS_R-777",
+        "content": "He can't help being excitable.",
+        "style_prompt": "M_p-normal_s-fast_e-normal",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "fast",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-777_126732_000074_000003",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/777/126732/777_126732_000074_000003.wav",
+        "speaker_id": "LibriTTS_R-777",
+        "content": "It isn't his fault.",
+        "style_prompt": "M_p-normal_s-normal_e-high",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-777_126732_000075_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/777/126732/777_126732_000075_000000.wav",
+        "speaker_id": "LibriTTS_R-777",
+        "content": "Mr Verloc made no comment.",
+        "style_prompt": "M_p-low_s-normal_e-low",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-777_126732_000076_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/777/126732/777_126732_000076_000000.wav",
+        "speaker_id": "LibriTTS_R-777",
+        "content": "\"I wish he had never been to school,\" Mrs Verloc began again brusquely. \"He's always taking away those newspapers from the window to read.",
+        "style_prompt": "M_p-normal_s-fast_e-normal",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "fast",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-777_126732_000076_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/777/126732/777_126732_000076_000001.wav",
+        "speaker_id": "LibriTTS_R-777",
+        "content": "He gets a red face poring over them.",
+        "style_prompt": "M_p-normal_s-normal_e-high",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-777_126732_000076_000002",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/777/126732/777_126732_000076_000002.wav",
+        "speaker_id": "LibriTTS_R-777",
+        "content": "We don't get rid of a dozen numbers in a month.",
+        "style_prompt": "M_p-normal_s-fast_e-high",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "fast",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-777_126732_000076_000004",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/777/126732/777_126732_000076_000004.wav",
+        "speaker_id": "LibriTTS_R-777",
+        "content": "And Mr Ossipon brings every week a pile of these f p tracts to sell at a halfpenny each.",
+        "style_prompt": "M_p-low_s-fast_e-normal",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "fast",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-777_126732_000076_000005",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/777/126732/777_126732_000076_000005.wav",
+        "speaker_id": "LibriTTS_R-777",
+        "content": "I wouldn't give a halfpenny for the whole lot.",
+        "style_prompt": "M_p-normal_s-fast_e-normal",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "very fast",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-777_126732_000076_000006",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/777/126732/777_126732_000076_000006.wav",
+        "speaker_id": "LibriTTS_R-777",
+        "content": "It's silly reading-that's what it is.",
+        "style_prompt": "M_p-low_s-normal_e-high",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-777_126732_000076_000007",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/777/126732/777_126732_000076_000007.wav",
+        "speaker_id": "LibriTTS_R-777",
+        "content": "There's no sale for it.",
+        "style_prompt": "M_p-normal_s-fast_e-high",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "fast",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-777_126732_000076_000008",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/777/126732/777_126732_000076_000008.wav",
+        "speaker_id": "LibriTTS_R-777",
+        "content": "The other day Stevie got hold of one, and there was a story in it of a German soldier officer tearing half off the ear of a recruit, and nothing was done to him for it.",
+        "style_prompt": "M_p-normal_s-fast_e-normal",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "fast",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-777_126732_000076_000009",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/777/126732/777_126732_000076_000009.wav",
+        "speaker_id": "LibriTTS_R-777",
+        "content": "The brute!",
+        "style_prompt": "M_p-normal_s-fast_e-low",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "fast",
+        "energy": "very low"
+    },
+    {
+        "item_name": "LibriTTS_R-777_126732_000076_000010",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/777/126732/777_126732_000076_000010.wav",
+        "speaker_id": "LibriTTS_R-777",
+        "content": "I couldn't do anything with Stevie that afternoon.",
+        "style_prompt": "M_p-normal_s-fast_e-normal",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "very fast",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-777_126732_000076_000011",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/777/126732/777_126732_000076_000011.wav",
+        "speaker_id": "LibriTTS_R-777",
+        "content": "The story was enough, too, to make one's blood boil.",
+        "style_prompt": "M_p-normal_s-slow_e-normal",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "slow",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-777_126732_000076_000012",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/777/126732/777_126732_000076_000012.wav",
+        "speaker_id": "LibriTTS_R-777",
+        "content": "But what's the use of printing things like that?",
+        "style_prompt": "M_p-normal_s-fast_e-normal",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "very fast",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-777_126732_000076_000013",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/777/126732/777_126732_000076_000013.wav",
+        "speaker_id": "LibriTTS_R-777",
+        "content": "We aren't German slaves here, thank God.",
+        "style_prompt": "M_p-normal_s-normal_e-high",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "high"
+    }
+]

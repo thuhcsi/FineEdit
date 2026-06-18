@@ -1,0 +1,24 @@
+[
+    {
+        "item_name": "LibriTTS_R-2764_36616_000035_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/2764/36616/2764_36616_000035_000000.wav",
+        "speaker_id": "LibriTTS_R-2764",
+        "content": "Pierre Aronnax",
+        "style_prompt": "F_p-high_s-normal_e-high",
+        "gender": "F",
+        "pitch": "high",
+        "speed": "normal",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-2764_36616_000039_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/2764/36616/2764_36616_000039_000000.wav",
+        "speaker_id": "LibriTTS_R-2764",
+        "content": "Sir:",
+        "style_prompt": "F_p-high_s-slow_e-normal",
+        "gender": "F",
+        "pitch": "high",
+        "speed": "very slow",
+        "energy": "normal"
+    }
+]

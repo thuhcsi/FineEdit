@@ -1,0 +1,189 @@
+[
+    {
+        "item_name": "LibriTTS_R-2033_164914_000003_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/2033/164914/2033_164914_000003_000000.wav",
+        "speaker_id": "LibriTTS_R-2033",
+        "content": "When it was the Seventy second Night,",
+        "style_prompt": "M_p-high_s-normal_e-high",
+        "gender": "M",
+        "pitch": "very high",
+        "speed": "normal",
+        "energy": "very high"
+    },
+    {
+        "item_name": "LibriTTS_R-2033_164914_000004_000002",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/2033/164914/2033_164914_000004_000002.wav",
+        "speaker_id": "LibriTTS_R-2033",
+        "content": "Thou must know who it was, seeing that thou art awake.\" The Fireman feared for Zau al Makan and said in himself, \"Haply the Eunuch will do him some hurt\"; so he answered, \"By Allah, I know not who it was.\" Said the Eunuch, \"By Allah, thou liest, for there is none on wake here but thou!",
+        "style_prompt": "M_p-high_s-slow_e-low",
+        "gender": "M",
+        "pitch": "high",
+        "speed": "slow",
+        "energy": "very low"
+    },
+    {
+        "item_name": "LibriTTS_R-2033_164914_000008_000002",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/2033/164914/2033_164914_000008_000002.wav",
+        "speaker_id": "LibriTTS_R-2033",
+        "content": "He who recited the first time hath recited a second time and I heard him hard by.",
+        "style_prompt": "M_p-high_s-slow_e-low",
+        "gender": "M",
+        "pitch": "very high",
+        "speed": "slow",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-2033_164914_000008_000005",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/2033/164914/2033_164914_000008_000005.wav",
+        "speaker_id": "LibriTTS_R-2033",
+        "content": "If he refuse, hand to him this purse of a thousand diners, then leave him and return to me and tell me, after thou hast informed thyself of his place and his calling and what countryman he is.",
+        "style_prompt": "M_p-high_s-slow_e-low",
+        "gender": "M",
+        "pitch": "very high",
+        "speed": "slow",
+        "energy": "very low"
+    },
+    {
+        "item_name": "LibriTTS_R-2033_164914_000008_000006",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/2033/164914/2033_164914_000008_000006.wav",
+        "speaker_id": "LibriTTS_R-2033",
+        "content": "Return quickly and linger not.\"--And Shahrazad perceived the dawn of day and ceased saying her permitted say.",
+        "style_prompt": "M_p-high_s-slow_e-low",
+        "gender": "M",
+        "pitch": "high",
+        "speed": "slow",
+        "energy": "very low"
+    },
+    {
+        "item_name": "LibriTTS_R-2033_164914_000010_000004",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/2033/164914/2033_164914_000010_000004.wav",
+        "speaker_id": "LibriTTS_R-2033",
+        "content": "Thou wottest none can stir from his place, except the watchman seize him.",
+        "style_prompt": "M_p-high_s-slow_e-low",
+        "gender": "M",
+        "pitch": "high",
+        "speed": "very slow",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-2033_164914_000010_000007",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/2033/164914/2033_164914_000010_000007.wav",
+        "speaker_id": "LibriTTS_R-2033",
+        "content": "If thou fear no one, I fear for thee and for my life, so Allah upon thee! recite nothing more of verses till thou come to thine own land.",
+        "style_prompt": "M_p-high_s-slow_e-low",
+        "gender": "M",
+        "pitch": "very high",
+        "speed": "slow",
+        "energy": "very low"
+    },
+    {
+        "item_name": "LibriTTS_R-2033_164914_000010_000008",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/2033/164914/2033_164914_000010_000008.wav",
+        "speaker_id": "LibriTTS_R-2033",
+        "content": "Indeed, I had not deemed thee so ill conditioned.",
+        "style_prompt": "M_p-high_s-slow_e-low",
+        "gender": "M",
+        "pitch": "very high",
+        "speed": "slow",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-2033_164914_000010_000009",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/2033/164914/2033_164914_000010_000009.wav",
+        "speaker_id": "LibriTTS_R-2033",
+        "content": "Dost thou not know that this lady is the wife; of the Chamberlain and is minded to chastise thee for disturbing her?",
+        "style_prompt": "M_p-high_s-slow_e-low",
+        "gender": "M",
+        "pitch": "very high",
+        "speed": "slow",
+        "energy": "very low"
+    },
+    {
+        "item_name": "LibriTTS_R-2033_164914_000012_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/2033/164914/2033_164914_000012_000001.wav",
+        "speaker_id": "LibriTTS_R-2033",
+        "content": "Then said the Eunuch to Zau al Makan, \"Peace be with thee, O my lord!\"",
+        "style_prompt": "M_p-high_s-normal_e-low",
+        "gender": "M",
+        "pitch": "high",
+        "speed": "normal",
+        "energy": "very low"
+    },
+    {
+        "item_name": "LibriTTS_R-2033_164914_000013_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/2033/164914/2033_164914_000013_000000.wav",
+        "speaker_id": "LibriTTS_R-2033",
+        "content": "When it was the Seventy fourth Night,",
+        "style_prompt": "M_p-high_s-slow_e-high",
+        "gender": "M",
+        "pitch": "very high",
+        "speed": "slow",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-2033_164914_000014_000002",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/2033/164914/2033_164914_000014_000002.wav",
+        "speaker_id": "LibriTTS_R-2033",
+        "content": "So the Castrato began to speak him fair and say to him, \"O my lord, take this purse and go with me.",
+        "style_prompt": "M_p-high_s-slow_e-low",
+        "gender": "M",
+        "pitch": "very high",
+        "speed": "slow",
+        "energy": "very low"
+    },
+    {
+        "item_name": "LibriTTS_R-2033_164915_000017_000011",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/2033/164915/2033_164915_000017_000011.wav",
+        "speaker_id": "LibriTTS_R-2033",
+        "content": "So it was agreed that we go to Damascus and fetch thence the King's son, Sharrkan, and make him Sultan over his father's realm.",
+        "style_prompt": "M_p-high_s-slow_e-low",
+        "gender": "M",
+        "pitch": "very high",
+        "speed": "slow",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-2033_164916_000005_000018",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/2033/164916/2033_164916_000005_000018.wav",
+        "speaker_id": "LibriTTS_R-2033",
+        "content": "I was then sitting by his side and he, seeing in her the signs of asceticism and devoutness, made her draw near and take seat hard by him.",
+        "style_prompt": "M_p-high_s-slow_e-low",
+        "gender": "M",
+        "pitch": "very high",
+        "speed": "very slow",
+        "energy": "very low"
+    },
+    {
+        "item_name": "LibriTTS_R-2033_164916_000005_000019",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/2033/164916/2033_164916_000005_000019.wav",
+        "speaker_id": "LibriTTS_R-2033",
+        "content": "And when she had sat down she addressed him and said, 'Know, O King, that with me are five damsels, whose like no King among the Kings possesseth; for they are endowed with wit and beauty and loveliness and perfection.",
+        "style_prompt": "M_p-high_s-slow_e-low",
+        "gender": "M",
+        "pitch": "very high",
+        "speed": "slow",
+        "energy": "very low"
+    },
+    {
+        "item_name": "LibriTTS_R-2033_164916_000005_000020",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/2033/164916/2033_164916_000005_000020.wav",
+        "speaker_id": "LibriTTS_R-2033",
+        "content": "They read the Koran-and the Traditions and are skilled in all manner of learning and in the history of bygone races.",
+        "style_prompt": "M_p-high_s-normal_e-low",
+        "gender": "M",
+        "pitch": "very high",
+        "speed": "normal",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-2033_164916_000005_000021",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/2033/164916/2033_164916_000005_000021.wav",
+        "speaker_id": "LibriTTS_R-2033",
+        "content": "They stand here between thy hands to do thee service, O King of the Age, and it is by trial that folk are prized or despised.",
+        "style_prompt": "M_p-high_s-slow_e-low",
+        "gender": "M",
+        "pitch": "very high",
+        "speed": "slow",
+        "energy": "very low"
+    }
+]

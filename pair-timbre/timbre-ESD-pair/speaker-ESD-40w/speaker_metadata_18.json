@@ -1,0 +1,38 @@
+[
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0011/Surprise/0011_001450.wav",
+        "prompt_description": " Change the timbre to a very masculine, deep, very thick, very mature, slightly old, cool voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Surprise/0020_001590.wav",
+        "target_content": "And they were sandy yellow brownish all over."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0011/Surprise/0011_001446.wav",
+        "prompt_description": " Change the timbre to a masculine, slightly clear, young, slightly halting, slightly muffled voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0014/Surprise/0014_001454.wav",
+        "target_content": "Are you a regular darkey really?"
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001406.wav",
+        "prompt_description": " Change the timbre to a masculine, slightly clear, young, slightly halting, slightly muffled voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0014/Surprise/0014_001404.wav",
+        "target_content": "They went up to the dark mass job had pointed out."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0011/Surprise/0011_001450.wav",
+        "prompt_description": " Change the timbre to a very masculine, deep, very thick, very mature, slightly old, cool voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Surprise/0020_001592.wav",
+        "target_content": "I have had to grow old."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Surprise/0020_001595.wav",
+        "prompt_description": " Change the timbre to a masculine, very thick, middle-aged, friendly, very reassuring voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/0013_001406.wav",
+        "target_content": "Andy what's the gyre and to gimble."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Surprise/0020_001596.wav",
+        "prompt_description": " Change the timbre to a masculine, slightly clear, young, slightly halting, slightly muffled voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0014/Surprise/0014_001454.wav",
+        "target_content": "Are you a regular darkey really?"
+    }
+]

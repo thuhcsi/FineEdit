@@ -1,0 +1,68 @@
+[
+    {
+        "item_name": "LibriTTS_R-5049_25947_000015_000005",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/5049/25947/5049_25947_000015_000005.wav",
+        "speaker_id": "LibriTTS_R-5049",
+        "content": "Then I remembered him.",
+        "style_prompt": "M_p-normal_s-fast_e-high",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "fast",
+        "energy": "very high"
+    },
+    {
+        "item_name": "LibriTTS_R-5049_25947_000018_000006",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/5049/25947/5049_25947_000018_000006.wav",
+        "speaker_id": "LibriTTS_R-5049",
+        "content": "When we gathered up the corners of his blanket and lifted him, he tried to sit upright, and cried out, \"You're taking me to the front, aren't you?",
+        "style_prompt": "M_p-normal_s-normal_e-normal",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-5049_25947_000018_000007",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/5049/25947/5049_25947_000018_000007.wav",
+        "speaker_id": "LibriTTS_R-5049",
+        "content": "You said you would.",
+        "style_prompt": "M_p-normal_s-slow_e-high",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "slow",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-5049_25947_000020_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/5049/25947/5049_25947_000020_000001.wav",
+        "speaker_id": "LibriTTS_R-5049",
+        "content": "\"Do you hear?",
+        "style_prompt": "M_p-normal_s-slow_e-normal",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "slow",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-5049_25947_000025_000005",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/5049/25947/5049_25947_000025_000005.wav",
+        "speaker_id": "LibriTTS_R-5049",
+        "content": "He was dead, but he was not defeated.",
+        "style_prompt": "M_p-normal_s-slow_e-low",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "slow",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-5049_25947_000048_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/5049/25947/5049_25947_000048_000001.wav",
+        "speaker_id": "LibriTTS_R-5049",
+        "content": "\"Why, this is just like getting money from home.\"",
+        "style_prompt": "M_p-normal_s-slow_e-high",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "slow",
+        "energy": "high"
+    }
+]

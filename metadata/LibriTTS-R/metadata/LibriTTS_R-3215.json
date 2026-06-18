@@ -1,0 +1,123 @@
+[
+    {
+        "item_name": "LibriTTS_R-3215_5757_000022_000002",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/3215/5757/3215_5757_000022_000002.wav",
+        "speaker_id": "LibriTTS_R-3215",
+        "content": "No, Halbert!",
+        "style_prompt": "F_p-low_s-slow_e-normal",
+        "gender": "F",
+        "pitch": "very low",
+        "speed": "very slow",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-3215_5758_000008_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/3215/5758/3215_5758_000008_000001.wav",
+        "speaker_id": "LibriTTS_R-3215",
+        "content": "Besides, look at our country; God's gift of freedom is stamped upon it.",
+        "style_prompt": "F_p-low_s-slow_e-low",
+        "gender": "F",
+        "pitch": "low",
+        "speed": "slow",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-3215_5758_000008_000002",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/3215/5758/3215_5758_000008_000002.wav",
+        "speaker_id": "LibriTTS_R-3215",
+        "content": "Our mountains are his seal.",
+        "style_prompt": "F_p-low_s-normal_e-high",
+        "gender": "F",
+        "pitch": "very low",
+        "speed": "normal",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-3215_5758_000010_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/3215/5758/3215_5758_000010_000000.wav",
+        "speaker_id": "LibriTTS_R-3215",
+        "content": "Lady Mar looked at her.",
+        "style_prompt": "F_p-low_s-fast_e-high",
+        "gender": "F",
+        "pitch": "low",
+        "speed": "fast",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-3215_5758_000027_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/3215/5758/3215_5758_000027_000000.wav",
+        "speaker_id": "LibriTTS_R-3215",
+        "content": "\"Then it is worthy its destination.",
+        "style_prompt": "F_p-low_s-normal_e-high",
+        "gender": "F",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-3215_5758_000029_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/3215/5758/3215_5758_000029_000001.wav",
+        "speaker_id": "LibriTTS_R-3215",
+        "content": "Thus time flew, till the sand glass told her it was the eighth hour.",
+        "style_prompt": "F_p-low_s-slow_e-normal",
+        "gender": "F",
+        "pitch": "very low",
+        "speed": "very slow",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-3215_5764_000009_000002",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/3215/5764/3215_5764_000009_000002.wav",
+        "speaker_id": "LibriTTS_R-3215",
+        "content": "\"Oh!\" cried she, \"to what am I betrayed?",
+        "style_prompt": "F_p-normal_s-slow_e-low",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "slow",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-3215_5764_000010_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/3215/5764/3215_5764_000010_000000.wav",
+        "speaker_id": "LibriTTS_R-3215",
+        "content": "Thunder now peaked over her head, and lightning shot across the mountains.",
+        "style_prompt": "F_p-low_s-normal_e-normal",
+        "gender": "F",
+        "pitch": "very low",
+        "speed": "normal",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-3215_5764_000023_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/3215/5764/3215_5764_000023_000000.wav",
+        "speaker_id": "LibriTTS_R-3215",
+        "content": "\"My lord,\" answered the affrighted woman, \"you know best.",
+        "style_prompt": "F_p-low_s-slow_e-high",
+        "gender": "F",
+        "pitch": "low",
+        "speed": "slow",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-3215_5764_000023_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/3215/5764/3215_5764_000023_000001.wav",
+        "speaker_id": "LibriTTS_R-3215",
+        "content": "You terrified the poor young creature.",
+        "style_prompt": "F_p-low_s-normal_e-normal",
+        "gender": "F",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-3215_5764_000025_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/3215/5764/3215_5764_000025_000001.wav",
+        "speaker_id": "LibriTTS_R-3215",
+        "content": "You have slain her!\"",
+        "style_prompt": "F_p-normal_s-slow_e-normal",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "very slow",
+        "energy": "normal"
+    }
+]

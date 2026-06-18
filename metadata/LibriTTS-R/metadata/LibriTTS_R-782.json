@@ -1,0 +1,13 @@
+[
+    {
+        "item_name": "LibriTTS_R-782_126738_000245_000007",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/782/126738/782_126738_000245_000007.wav",
+        "speaker_id": "LibriTTS_R-782",
+        "content": "Even the butterfly shaped gas flames posed on the ends of the suspended T bracket burned without a quiver.",
+        "style_prompt": "F_p-normal_s-normal_e-normal",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "normal"
+    }
+]

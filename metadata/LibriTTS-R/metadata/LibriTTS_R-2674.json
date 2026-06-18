@@ -1,0 +1,24 @@
+[
+    {
+        "item_name": "LibriTTS_R-2674_155968_000007_000002",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/2674/155968/2674_155968_000007_000002.wav",
+        "speaker_id": "LibriTTS_R-2674",
+        "content": "Then a curious thing happened.",
+        "style_prompt": "M_p-normal_s-normal_e-normal",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-2674_155968_000013_000007",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/2674/155968/2674_155968_000013_000007.wav",
+        "speaker_id": "LibriTTS_R-2674",
+        "content": "This change has been made.\"",
+        "style_prompt": "M_p-normal_s-normal_e-high",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "high"
+    }
+]

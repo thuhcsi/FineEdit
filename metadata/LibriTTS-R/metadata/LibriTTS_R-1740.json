@@ -1,0 +1,156 @@
+[
+    {
+        "item_name": "LibriTTS_R-1740_141148_000007_000002",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1740/141148/1740_141148_000007_000002.wav",
+        "speaker_id": "LibriTTS_R-1740",
+        "content": "From the great number of cows which have been killed, there is a large proportion of bulls.",
+        "style_prompt": "F_p-normal_s-normal_e-normal",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-1740_141148_000008_000003",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1740/141148/1740_141148_000008_000003.wav",
+        "speaker_id": "LibriTTS_R-1740",
+        "content": "The Gauchos whom I asked, though asserting this to be the case, were unable to account for it, except from the strong attachment which horses have to any locality to which they are accustomed.",
+        "style_prompt": "F_p-normal_s-normal_e-normal",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-1740_141148_000010_000003",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1740/141148/1740_141148_000010_000003.wav",
+        "speaker_id": "LibriTTS_R-1740",
+        "content": "It is asserted that in Sweden, which any one would have thought a more favourable climate, the rabbit cannot live out of doors.",
+        "style_prompt": "F_p-normal_s-normal_e-normal",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-1740_141148_000010_000007",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1740/141148/1740_141148_000010_000007.wav",
+        "speaker_id": "LibriTTS_R-1740",
+        "content": "Of the latter I now possess a specimen, and it is marked about the head differently from the French specific description.",
+        "style_prompt": "F_p-normal_s-normal_e-low",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-1740_141148_000017_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1740/141148/1740_141148_000017_000000.wav",
+        "speaker_id": "LibriTTS_R-1740",
+        "content": "The geological structure of these islands is in most respects simple. The lower country consists of clay slate and sandstone, containing fossils, very closely related to, but not identical with, those found in the Silurian formations of Europe; the hills are formed of white granular quartz rock.",
+        "style_prompt": "F_p-normal_s-slow_e-low",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "slow",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-1740_141148_000017_000003",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1740/141148/1740_141148_000017_000003.wav",
+        "speaker_id": "LibriTTS_R-1740",
+        "content": "The quartz rock must have been quite pasty when it underwent such remarkable flexures without being shattered into fragments.",
+        "style_prompt": "F_p-normal_s-normal_e-low",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-1740_141148_000018_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1740/141148/1740_141148_000018_000000.wav",
+        "speaker_id": "LibriTTS_R-1740",
+        "content": "In many parts of the island the bottoms of the valleys are covered in an extraordinary manner by myriads of great loose angular fragments of the quartz rock, forming \"streams of stones.\" These have been mentioned with surprise by every voyager since the time of Pernety.",
+        "style_prompt": "F_p-normal_s-normal_e-normal",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-1740_141148_000018_000003",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1740/141148/1740_141148_000018_000003.wav",
+        "speaker_id": "LibriTTS_R-1740",
+        "content": "It is not possible to ascertain their thickness, but the water of small streamlets can be heard trickling through the stones many feet below the surface.",
+        "style_prompt": "F_p-high_s-slow_e-normal",
+        "gender": "F",
+        "pitch": "high",
+        "speed": "slow",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-1740_141148_000019_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1740/141148/1740_141148_000019_000000.wav",
+        "speaker_id": "LibriTTS_R-1740",
+        "content": "Their little inclination is the most remarkable circumstance in these \"streams of stones.\" On the hill sides I have seen them sloping at an angle of ten degrees with the horizon; but in some of the level, broad bottomed valleys, the inclination is only just sufficient to be clearly perceived.",
+        "style_prompt": "F_p-high_s-normal_e-normal",
+        "gender": "F",
+        "pitch": "high",
+        "speed": "normal",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-1740_141148_000019_000002",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1740/141148/1740_141148_000019_000002.wav",
+        "speaker_id": "LibriTTS_R-1740",
+        "content": "In some places, a continuous stream of these fragments followed up the course of a valley, and even extended to the very crest of the hill.",
+        "style_prompt": "F_p-normal_s-normal_e-low",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-1740_141148_000021_000006",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1740/141148/1740_141148_000021_000006.wav",
+        "speaker_id": "LibriTTS_R-1740",
+        "content": "Another day, having placed myself between a penguin (Aptenodytes demersa) and the water, I was much amused by watching its habits.",
+        "style_prompt": "F_p-normal_s-slow_e-low",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "slow",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-1740_141148_000022_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1740/141148/1740_141148_000022_000000.wav",
+        "speaker_id": "LibriTTS_R-1740",
+        "content": "Two kinds of geese frequent the Falklands.",
+        "style_prompt": "F_p-normal_s-slow_e-low",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "slow",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-1740_141148_000023_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1740/141148/1740_141148_000023_000001.wav",
+        "speaker_id": "LibriTTS_R-1740",
+        "content": "In the deep and retired channels of Tierra del Fuego, the snow white gander, invariably accompanied by his darker consort, and standing close by each other on some distant rocky point, is a common feature in the landscape.",
+        "style_prompt": "F_p-normal_s-slow_e-normal",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "slow",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-1740_141148_000024_000004",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1740/141148/1740_141148_000024_000004.wav",
+        "speaker_id": "LibriTTS_R-1740",
+        "content": "These clumsy, loggerheaded ducks make such a noise and splashing, that the effect is exceedingly curious.",
+        "style_prompt": "F_p-normal_s-slow_e-normal",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "slow",
+        "energy": "normal"
+    }
+]

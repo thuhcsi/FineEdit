@@ -1,0 +1,68 @@
+[
+    {
+        "item_name": "LibriTTS_R-1390_130493_000015_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1390/130493/1390_130493_000015_000000.wav",
+        "speaker_id": "LibriTTS_R-1390",
+        "content": "Tethered to earth",
+        "style_prompt": "F_p-low_s-normal_e-low",
+        "gender": "F",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "very low"
+    },
+    {
+        "item_name": "LibriTTS_R-1390_130494_000021_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1390/130494/1390_130494_000021_000000.wav",
+        "speaker_id": "LibriTTS_R-1390",
+        "content": "The lights winked",
+        "style_prompt": "F_p-low_s-slow_e-low",
+        "gender": "F",
+        "pitch": "low",
+        "speed": "slow",
+        "energy": "very low"
+    },
+    {
+        "item_name": "LibriTTS_R-1390_130494_000082_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1390/130494/1390_130494_000082_000000.wav",
+        "speaker_id": "LibriTTS_R-1390",
+        "content": "The preternatural pomposities of the pulpit",
+        "style_prompt": "F_p-normal_s-normal_e-low",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "very low"
+    },
+    {
+        "item_name": "LibriTTS_R-1390_130494_000087_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1390/130494/1390_130494_000087_000000.wav",
+        "speaker_id": "LibriTTS_R-1390",
+        "content": "The purple vaulted night",
+        "style_prompt": "F_p-normal_s-slow_e-low",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "slow",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-1390_130494_000102_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1390/130494/1390_130494_000102_000000.wav",
+        "speaker_id": "LibriTTS_R-1390",
+        "content": "The rosy twilight of boyhood",
+        "style_prompt": "F_p-low_s-slow_e-high",
+        "gender": "F",
+        "pitch": "low",
+        "speed": "slow",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-1390_130495_000058_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1390/130495/1390_130495_000058_000000.wav",
+        "speaker_id": "LibriTTS_R-1390",
+        "content": "They escaped the baffled eye",
+        "style_prompt": "F_p-low_s-slow_e-low",
+        "gender": "F",
+        "pitch": "low",
+        "speed": "slow",
+        "energy": "low"
+    }
+]

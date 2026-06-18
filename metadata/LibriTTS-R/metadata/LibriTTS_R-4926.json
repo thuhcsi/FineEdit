@@ -1,0 +1,24 @@
+[
+    {
+        "item_name": "LibriTTS_R-4926_23281_000049_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/4926/23281/4926_23281_000049_000001.wav",
+        "speaker_id": "LibriTTS_R-4926",
+        "content": "He answered,",
+        "style_prompt": "F_p-normal_s-fast_e-low",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "very fast",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-4926_23311_000072_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/4926/23311/4926_23311_000072_000000.wav",
+        "speaker_id": "LibriTTS_R-4926",
+        "content": "\"Your daughter did you call her?",
+        "style_prompt": "F_p-high_s-normal_e-high",
+        "gender": "F",
+        "pitch": "very high",
+        "speed": "normal",
+        "energy": "high"
+    }
+]

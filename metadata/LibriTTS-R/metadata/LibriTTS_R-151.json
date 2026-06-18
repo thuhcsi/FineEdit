@@ -1,0 +1,13 @@
+[
+    {
+        "item_name": "LibriTTS_R-151_125753_000019_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/151/125753/151_125753_000019_000000.wav",
+        "speaker_id": "LibriTTS_R-151",
+        "content": "This wife was not afeared nor afraid, But boldely she said, and that anon; \"Mary!",
+        "style_prompt": "F_p-high_s-slow_e-normal",
+        "gender": "F",
+        "pitch": "high",
+        "speed": "slow",
+        "energy": "normal"
+    }
+]

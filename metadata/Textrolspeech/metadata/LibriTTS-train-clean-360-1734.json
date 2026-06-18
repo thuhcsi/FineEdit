@@ -1,0 +1,50 @@
+[
+    {
+        "item_name": "libritts-train-clean-360-1734-142311-1734_142311_000017_000008",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/1734/142311/1734_142311_000017_000008.wav",
+        "speaker_id": "LibriTTS-train-clean-360-1734",
+        "content": "He kept saying, 'I quite expected to have seen mr Thornton.",
+        "style_prompt": "Speaking passionately with a high tone, she captivates.",
+        "gender": "F",
+        "pitch": "high",
+        "speed": "normal",
+        "energy": "high",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-360-1734-142311-1734_142311_000004_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/1734/142311/1734_142311_000004_000000.wav",
+        "speaker_id": "LibriTTS-train-clean-360-1734",
+        "content": "LOOKING SOUTH",
+        "style_prompt": "Shouting slowly and loudly, the girl's energy was infectious.",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "low",
+        "energy": "high",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-360-1734-142311-1734_142311_000038_000003",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/1734/142311/1734_142311_000038_000003.wav",
+        "speaker_id": "LibriTTS-train-clean-360-1734",
+        "content": "I'm a poor black feckless sheep-childer may clem for aught I can do, unless, parson, yo'd help me?'",
+        "style_prompt": "Speaking passionately and maintaining her usual tone.",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "high",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-360-1734-142311-1734_142311_000048_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/1734/142311/1734_142311_000048_000000.wav",
+        "speaker_id": "LibriTTS-train-clean-360-1734",
+        "content": "'I've reckoned for that.",
+        "style_prompt": "With a fast speaking speed and commanding volume, she captivates others.",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "high",
+        "energy": "high",
+        "emotion": "neutral"
+    }
+]

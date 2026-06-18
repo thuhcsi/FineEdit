@@ -1,0 +1,112 @@
+[
+    {
+        "item_name": "LibriTTS_R-2411_132530_000001_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/2411/132530/2411_132530_000001_000000.wav",
+        "speaker_id": "LibriTTS_R-2411",
+        "content": "CHAPTER three",
+        "style_prompt": "F_p-low_s-slow_e-normal",
+        "gender": "F",
+        "pitch": "low",
+        "speed": "very slow",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-2411_132530_000003_000002",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/2411/132530/2411_132530_000003_000002.wav",
+        "speaker_id": "LibriTTS_R-2411",
+        "content": "They parted with mutual regret.",
+        "style_prompt": "F_p-normal_s-normal_e-normal",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-2411_132530_000012_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/2411/132530/2411_132530_000012_000000.wav",
+        "speaker_id": "LibriTTS_R-2411",
+        "content": "Soon after mid day, they reached the summit of one of those cliffs, which, bright with the verdure of palm trees, adorn, like gems, the tremendous walls of the rocks, and which overlooked the greater part of Gascony, and part of Languedoc.",
+        "style_prompt": "F_p-normal_s-normal_e-low",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-2411_132530_000012_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/2411/132530/2411_132530_000012_000001.wav",
+        "speaker_id": "LibriTTS_R-2411",
+        "content": "Here was shade, and the fresh water of a spring, that, gliding among the turf, under the trees, thence precipitated itself from rock to rock, till its dashing murmurs were lost in the abyss, though its white foam was long seen amid the darkness of the pines below.",
+        "style_prompt": "F_p-normal_s-normal_e-normal",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-2411_132530_000018_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/2411/132530/2411_132530_000018_000000.wav",
+        "speaker_id": "LibriTTS_R-2411",
+        "content": "Rocks on rocks piled, as if by magic spell, Here scorch'd by lightnings, there with ivy green.",
+        "style_prompt": "F_p-normal_s-slow_e-normal",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "very slow",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-2411_132530_000022_000006",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/2411/132530/2411_132530_000022_000006.wav",
+        "speaker_id": "LibriTTS_R-2411",
+        "content": "He looked again from the window, and then saw a young man spring from the bushes into the road, followed by a couple of dogs.",
+        "style_prompt": "F_p-normal_s-normal_e-high",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-2411_132530_000033_000003",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/2411/132530/2411_132530_000033_000003.wav",
+        "speaker_id": "LibriTTS_R-2411",
+        "content": "Here, light was admitted, and smoke discharged, through an aperture in the roof; and here the scent of spirits (for the travelling smugglers, who haunted the Pyrenees, had made this rude people familiar with the use of liquors) was generally perceptible enough.",
+        "style_prompt": "F_p-normal_s-slow_e-low",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "slow",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-2411_132530_000034_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/2411/132530/2411_132530_000034_000001.wav",
+        "speaker_id": "LibriTTS_R-2411",
+        "content": "But she thought not of herself, and the animated smile she gave him, told how much she felt herself obliged for the preference of her father.",
+        "style_prompt": "F_p-normal_s-normal_e-normal",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-2411_132530_000035_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/2411/132530/2411_132530_000035_000001.wav",
+        "speaker_id": "LibriTTS_R-2411",
+        "content": "This good woman seemed very willing to accommodate the strangers, who were soon compelled to accept the only two beds in the place.",
+        "style_prompt": "F_p-high_s-fast_e-normal",
+        "gender": "F",
+        "pitch": "high",
+        "speed": "fast",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-2411_132530_000036_000004",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/2411/132530/2411_132530_000036_000004.wav",
+        "speaker_id": "LibriTTS_R-2411",
+        "content": "He declared that his beasts were as honest beasts, and as good beasts, as any in the whole province; and that they had a right to be well treated wherever they went.",
+        "style_prompt": "F_p-normal_s-normal_e-low",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "low"
+    }
+]

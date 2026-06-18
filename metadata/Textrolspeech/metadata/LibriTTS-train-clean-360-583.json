@@ -1,0 +1,50 @@
+[
+    {
+        "item_name": "libritts-train-clean-360-583-139009-583_139009_000060_000003",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/583/139009/583_139009_000060_000003.wav",
+        "speaker_id": "LibriTTS-train-clean-360-583",
+        "content": "But it isn't.",
+        "style_prompt": "The man's energetic discourse resonates with a low-pitched voice, delivering rapid speech.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "high",
+        "energy": "high",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-360-583-139009-583_139009_000021_000002",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/583/139009/583_139009_000021_000002.wav",
+        "speaker_id": "LibriTTS-train-clean-360-583",
+        "content": "Come in, Bates.",
+        "style_prompt": "With vibrant energy, the male speaker talks at an average pace and pitch.",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "high",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-360-583-139009-583_139009_000032_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/583/139009/583_139009_000032_000000.wav",
+        "speaker_id": "LibriTTS-train-clean-360-583",
+        "content": "\"no",
+        "style_prompt": "Speaking slowly and calmly, he maintains a normal pitch and energy.",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "low",
+        "energy": "normal",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-360-583-139009-583_139009_000059_000007",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/583/139009/583_139009_000059_000007.wav",
+        "speaker_id": "LibriTTS-train-clean-360-583",
+        "content": "Can't be.",
+        "style_prompt": "His voice maintains a regular pitch as he engages in dialogue with a normal speed and typical energy.",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "normal",
+        "emotion": "neutral"
+    }
+]

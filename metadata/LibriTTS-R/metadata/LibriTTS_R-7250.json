@@ -1,0 +1,35 @@
+[
+    {
+        "item_name": "LibriTTS_R-7250_86746_000191_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/7250/86746/7250_86746_000191_000000.wav",
+        "speaker_id": "LibriTTS_R-7250",
+        "content": "\"Certainly,\" said Morcerf; \"I recollect him perfectly.",
+        "style_prompt": "F_p-high_s-normal_e-low",
+        "gender": "F",
+        "pitch": "high",
+        "speed": "normal",
+        "energy": "very low"
+    },
+    {
+        "item_name": "LibriTTS_R-7250_86746_000192_000002",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/7250/86746/7250_86746_000192_000002.wav",
+        "speaker_id": "LibriTTS_R-7250",
+        "content": "He has been here a week, with the instinct of a hound, hunting by himself.",
+        "style_prompt": "F_p-normal_s-normal_e-low",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-7250_86746_000192_000004",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/7250/86746/7250_86746_000192_000004.wav",
+        "speaker_id": "LibriTTS_R-7250",
+        "content": "He knew, that I should arrive to day at ten o'clock; he was waiting for me at nine at the Barriere de Fontainebleau.",
+        "style_prompt": "F_p-normal_s-fast_e-low",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "fast",
+        "energy": "low"
+    }
+]

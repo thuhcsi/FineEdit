@@ -1,0 +1,13 @@
+[
+    {
+        "item_name": "LibriTTS_R-4681_13056_000005_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/4681/13056/4681_13056_000005_000000.wav",
+        "speaker_id": "LibriTTS_R-4681",
+        "content": "mrs Parker's Sorrows",
+        "style_prompt": "M_p-normal_s-slow_e-high",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "very slow",
+        "energy": "high"
+    }
+]

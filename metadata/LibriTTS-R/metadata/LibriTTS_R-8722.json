@@ -1,0 +1,46 @@
+[
+    {
+        "item_name": "LibriTTS_R-8722_296473_000017_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/8722/296473/8722_296473_000017_000000.wav",
+        "speaker_id": "LibriTTS_R-8722",
+        "content": "\"A Cat may look at a king.\"",
+        "style_prompt": "F_p-low_s-normal_e-low",
+        "gender": "F",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-8722_296473_000020_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/8722/296473/8722_296473_000020_000000.wav",
+        "speaker_id": "LibriTTS_R-8722",
+        "content": "\"When candles are out, all Cats are grey.\" Otherwise, \"Joan is as good as my Lady in the dark.\"",
+        "style_prompt": "F_p-low_s-normal_e-low",
+        "gender": "F",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-8722_296473_000030_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/8722/296473/8722_296473_000030_000000.wav",
+        "speaker_id": "LibriTTS_R-8722",
+        "content": "\"The wandering Cat gets many a rap.\"",
+        "style_prompt": "F_p-low_s-fast_e-low",
+        "gender": "F",
+        "pitch": "low",
+        "speed": "fast",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-8722_296473_000046_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/8722/296473/8722_296473_000046_000000.wav",
+        "speaker_id": "LibriTTS_R-8722",
+        "content": "Again:--",
+        "style_prompt": "F_p-low_s-normal_e-low",
+        "gender": "F",
+        "pitch": "very low",
+        "speed": "normal",
+        "energy": "very low"
+    }
+]

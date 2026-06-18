@@ -1,0 +1,38 @@
+[
+    {
+        "item_name": "libritts-train-clean-360-6690-73073-6690_73073_000012_000002",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/6690/73073/6690_73073_000012_000002.wav",
+        "speaker_id": "LibriTTS-train-clean-360-6690",
+        "content": "Rutinius explains that it was not written down for a long time, but transmitted orally, kept secret, and used as a sort of password among the elect.",
+        "style_prompt": "The boy's dynamic delivery is marked by his low pitch and a normal speaking tempo, exuding energy.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "high",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-360-6690-73073-6690_73073_000002_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/6690/73073/6690_73073_000002_000000.wav",
+        "speaker_id": "LibriTTS-train-clean-360-6690",
+        "content": "one.",
+        "style_prompt": "His dynamic delivery is underscored by the low-pitched voice as the man speaks with a natural rhythm.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "high",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-360-6690-73075-6690_73075_000006_000002",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/6690/73075/6690_73075_000006_000002.wav",
+        "speaker_id": "LibriTTS-train-clean-360-6690",
+        "content": "At times they display a divine simplicity.",
+        "style_prompt": "Despite his low-pitched voice andslow speaking speed, the male speaker exuded high energy.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "low",
+        "energy": "high",
+        "emotion": "neutral"
+    }
+]

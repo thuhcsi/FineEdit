@@ -1,0 +1,62 @@
+[
+    {
+        "item_name": "libritts-train-clean-100-248-130652-248_130652_000015_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-100/248/130652/248_130652_000015_000001.wav",
+        "speaker_id": "LibriTTS-train-clean-100-248",
+        "content": "\"Why did you ask the Gogoffs?",
+        "style_prompt": "With a naturally high-pitched voice, she converses at a normal speed.",
+        "gender": "F",
+        "pitch": "high",
+        "speed": "normal",
+        "energy": "normal",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-100-248-130697-248_130697_000016_000007",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-100/248/130697/248_130697_000016_000007.wav",
+        "speaker_id": "LibriTTS-train-clean-100-248",
+        "content": "You will not forsake me?\"",
+        "style_prompt": "The girl speaks rapidly, her high-energy voice holding attention.",
+        "gender": "F",
+        "pitch": "high",
+        "speed": "normal",
+        "energy": "high",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-100-248-130652-248_130652_000025_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-100/248/130652/248_130652_000025_000000.wav",
+        "speaker_id": "LibriTTS-train-clean-100-248",
+        "content": "\"Very likely.",
+        "style_prompt": "She conveyed her thoughts with a subdued energy and unhurried pace.",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "low",
+        "energy": "low",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-100-248-130652-248_130652_000047_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-100/248/130652/248_130652_000047_000000.wav",
+        "speaker_id": "LibriTTS-train-clean-100-248",
+        "content": "\"Check, old boy!\"",
+        "style_prompt": "Her voice was quiet, and she spoke slowly and with composure.",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "low",
+        "energy": "low",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-100-248-130652-248_130652_000015_000003",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-100/248/130652/248_130652_000015_000003.wav",
+        "speaker_id": "LibriTTS-train-clean-100-248",
+        "content": "She spoils the look of the room.\"",
+        "style_prompt": "Whispering rapidly, her energy remains low.",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "high",
+        "energy": "low",
+        "emotion": "neutral"
+    }
+]

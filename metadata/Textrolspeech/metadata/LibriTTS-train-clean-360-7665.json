@@ -1,0 +1,110 @@
+[
+    {
+        "item_name": "libritts-train-clean-360-7665-104979-7665_104979_000001_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/7665/104979/7665_104979_000001_000000.wav",
+        "speaker_id": "LibriTTS-train-clean-360-7665",
+        "content": "I knew all the current gossip about mrs Packard before I had parted with Miss Davies.",
+        "style_prompt": "The man's deep voice is commanding, and he speaks with a typical speaking speed and energy.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "normal",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-360-7665-104979-7665_104979_000053_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/7665/104979/7665_104979_000053_000000.wav",
+        "speaker_id": "LibriTTS-train-clean-360-7665",
+        "content": "\"Well-yes.",
+        "style_prompt": "The deliberate and measured enunciation of a male speaker, accompanied by his deep and resonant voice, all while maintaining a normal energy.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "low",
+        "energy": "normal",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-360-7665-104979-7665_104979_000001_000003",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/7665/104979/7665_104979_000001_000003.wav",
+        "speaker_id": "LibriTTS-train-clean-360-7665",
+        "content": "In doing this she had walked into a fortune.",
+        "style_prompt": "His deep voice creates a soothing effect as he engages in conversation with a normal energy level.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "normal",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-360-7665-104979-7665_104979_000062_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/7665/104979/7665_104979_000062_000000.wav",
+        "speaker_id": "LibriTTS-train-clean-360-7665",
+        "content": "\"I doubt if mrs Packard more than knows of his presence.",
+        "style_prompt": "With enthusiasm, the male speaker delivers his message in a low tone and normal speed.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "high",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-360-7665-104979-7665_104979_000044_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/7665/104979/7665_104979_000044_000001.wav",
+        "speaker_id": "LibriTTS-train-clean-360-7665",
+        "content": "I have political enemies, of course men, who, influenced by party feeling, are not above attacking methods and possibly my official reputation; but personal ones-wretches willing to stab me in my home life and affections, that I can not believe.",
+        "style_prompt": "The man addresses his audience with fervor, his deep voice maintaining a regular tempo.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "high",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-360-7665-104978-7665_104978_000007_000004",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/7665/104978/7665_104978_000007_000004.wav",
+        "speaker_id": "LibriTTS-train-clean-360-7665",
+        "content": "You understand me?\"",
+        "style_prompt": "The man's enthusiasm is evident as he speaks in a low-pitched voice at a regular speed.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "high",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-360-7665-104978-7665_104978_000009_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/7665/104978/7665_104978_000009_000000.wav",
+        "speaker_id": "LibriTTS-train-clean-360-7665",
+        "content": "\"Not even to me,\" she emphasized.",
+        "style_prompt": "This man's low pitch amplifies the energetic vibes in his dialogue, delivered with a natural speaking speed.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "high",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-360-7665-104978-7665_104978_000012_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/7665/104978/7665_104978_000012_000001.wav",
+        "speaker_id": "LibriTTS-train-clean-360-7665",
+        "content": "The difficulties will not be great to a discreet person.",
+        "style_prompt": "The man's deep voice and dynamic speaking style maintain high energy at a normal speed.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "high",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-360-7665-104978-7665_104978_000007_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/7665/104978/7665_104978_000007_000000.wav",
+        "speaker_id": "LibriTTS-train-clean-360-7665",
+        "content": "\"You are discreet, and you evidently desire a position.",
+        "style_prompt": "His low-pitched tone adds fervor to his high-energy speech delivered at a typical pace.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "high",
+        "emotion": "neutral"
+    }
+]

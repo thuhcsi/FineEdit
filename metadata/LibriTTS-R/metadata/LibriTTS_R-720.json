@@ -1,0 +1,189 @@
+[
+    {
+        "item_name": "LibriTTS_R-720_173578_000003_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/720/173578/720_173578_000003_000000.wav",
+        "speaker_id": "LibriTTS_R-720",
+        "content": "When amatory poets sing their loves In liquid lines mellifluously bland, And pair their rhymes as Venus yokes her doves, They little think what mischief is in hand; The greater their success the worse it proves, As Ovid's verse may give to understand; Even Petrarch's self, if judged with due severity, Is the Platonic pimp of all posterity.",
+        "style_prompt": "M_p-normal_s-slow_e-normal",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "slow",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-720_173578_000011_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/720/173578/720_173578_000011_000000.wav",
+        "speaker_id": "LibriTTS_R-720",
+        "content": "Were things to shake a stoic; ne'ertheless, Upon the whole his carriage was serene: His figure, and the splendour of his dress, Of which some gilded remnants still were seen, Drew all eyes on him, giving them to guess He was above the vulgar by his mien; And then, though pale, he was so very handsome; And then-they calculated on his ransom.",
+        "style_prompt": "M_p-normal_s-slow_e-low",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "slow",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-720_173578_000021_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/720/173578/720_173578_000021_000000.wav",
+        "speaker_id": "LibriTTS_R-720",
+        "content": "'On the rough deep.",
+        "style_prompt": "M_p-high_s-normal_e-normal",
+        "gender": "M",
+        "pitch": "high",
+        "speed": "normal",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-720_173579_000000_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/720/173579/720_173579_000000_000000.wav",
+        "speaker_id": "LibriTTS_R-720",
+        "content": "Just now a black old neutral personage Of the third sex stept up, and peering over The captives, seem'd to mark their looks and age, And capabilities, as to discover If they were fitted for the purposed cage: No lady e'er is ogled by a lover, Horse by a blackleg, broadcloth by a tailor, Fee by a counsel, felon by a jailor,",
+        "style_prompt": "M_p-normal_s-slow_e-normal",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "very slow",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-720_173579_000004_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/720/173579/720_173579_000004_000000.wav",
+        "speaker_id": "LibriTTS_R-720",
+        "content": "I wonder if his appetite was good? Or, if it were, if also his digestion? Methinks at meals some odd thoughts might intrude, And conscience ask a curious sort of question, About the right divine how far we should Sell flesh and blood.",
+        "style_prompt": "M_p-normal_s-slow_e-normal",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "slow",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-720_173579_000004_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/720/173579/720_173579_000004_000001.wav",
+        "speaker_id": "LibriTTS_R-720",
+        "content": "When dinner has opprest one, I think it is perhaps the gloomiest hour Which turns up out of the sad twenty four.",
+        "style_prompt": "M_p-normal_s-slow_e-high",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "slow",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-720_173579_000006_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/720/173579/720_173579_000006_000000.wav",
+        "speaker_id": "LibriTTS_R-720",
+        "content": "I think with Alexander, that the act Of eating, with another act or two, Makes us feel our mortality in fact Redoubled; when a roast and a ragout, And fish, and soup, by some side dishes back'd, Can give us either pain or pleasure, who Would pique himself on intellects, whose use Depends so much upon the gastric juice?",
+        "style_prompt": "M_p-normal_s-slow_e-low",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "slow",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-720_173579_000009_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/720/173579/720_173579_000009_000000.wav",
+        "speaker_id": "LibriTTS_R-720",
+        "content": "I gazed upon him, for I knew him well; And though I have seen many corpses, never Saw one, whom such an accident befell, So calm; though pierced through stomach, heart, and liver, He seem'd to sleep,--for you could scarcely tell (As he bled inwardly, no hideous river Of gore divulged the cause) that he was dead: So as I gazed on him, I thought or said-",
+        "style_prompt": "M_p-normal_s-slow_e-low",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "very slow",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-720_173579_000010_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/720/173579/720_173579_000010_000000.wav",
+        "speaker_id": "LibriTTS_R-720",
+        "content": "'Can this be death?",
+        "style_prompt": "M_p-normal_s-slow_e-normal",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "very slow",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-720_173579_000013_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/720/173579/720_173579_000013_000000.wav",
+        "speaker_id": "LibriTTS_R-720",
+        "content": "But it was all a mystery.",
+        "style_prompt": "M_p-normal_s-fast_e-high",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "very fast",
+        "energy": "very high"
+    },
+    {
+        "item_name": "LibriTTS_R-720_173579_000013_000002",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/720/173579/720_173579_000013_000002.wav",
+        "speaker_id": "LibriTTS_R-720",
+        "content": "No more; But let us to the story as before.",
+        "style_prompt": "M_p-normal_s-fast_e-high",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "fast",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-720_173579_000018_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/720/173579/720_173579_000018_000000.wav",
+        "speaker_id": "LibriTTS_R-720",
+        "content": "'Yes,' said the other, 'and when done, what then? How get out?",
+        "style_prompt": "M_p-normal_s-slow_e-low",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "very slow",
+        "energy": "very low"
+    },
+    {
+        "item_name": "LibriTTS_R-720_173580_000009_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/720/173580/720_173580_000009_000000.wav",
+        "speaker_id": "LibriTTS_R-720",
+        "content": "As the black eunuch enter'd with his brace Of purchased Infidels, some raised their eyes A moment without slackening from their pace; But those who sate ne'er stirr'd in anywise: One or two stared the captives in the face, Just as one views a horse to guess his price; Some nodded to the negro from their station, But no one troubled him with conversation.",
+        "style_prompt": "M_p-normal_s-normal_e-normal",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-720_173580_000016_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/720/173580/720_173580_000016_000000.wav",
+        "speaker_id": "LibriTTS_R-720",
+        "content": "That injured Queen by chroniclers so coarse Has been accused (I doubt not by conspiracy) Of an improper friendship for her horse (Love, like religion, sometimes runs to heresy): This monstrous tale had probably its source (For such exaggerations here and there I see) In writing 'Courser' by mistake for 'Courier:' I wish the case could come before a jury here.",
+        "style_prompt": "M_p-normal_s-slow_e-normal",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "very slow",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-720_173580_000019_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/720/173580/720_173580_000019_000000.wav",
+        "speaker_id": "LibriTTS_R-720",
+        "content": "At last they reach'd a quarter most retired, Where echo woke as if from a long slumber; Though full of all things which could be desired, One wonder'd what to do with such a number Of articles which nobody required; Here wealth had done its utmost to encumber With furniture an exquisite apartment, Which puzzled Nature much to know what Art meant.",
+        "style_prompt": "M_p-high_s-slow_e-normal",
+        "gender": "M",
+        "pitch": "high",
+        "speed": "slow",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-720_173580_000025_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/720/173580/720_173580_000025_000000.wav",
+        "speaker_id": "LibriTTS_R-720",
+        "content": "'For his own part, he really should rejoice To see them true believers, but no less Would leave his proposition to their choice.' The other, thanking him for this excess Of goodness, in thus leaving them a voice In such a trifle, scarcely could express 'Sufficiently' (he said) 'his approbation Of all the customs of this polish'd nation.",
+        "style_prompt": "M_p-normal_s-slow_e-normal",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "slow",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-720_173582_000016_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/720/173582/720_173582_000016_000000.wav",
+        "speaker_id": "LibriTTS_R-720",
+        "content": "Her very smile was haughty, though so sweet; Her very nod was not an inclination; There was a self will even in her small feet, As though they were quite conscious of her station- They trod as upon necks; and to complete Her state (it is the custom of her nation), A poniard deck'd her girdle, as the sign She was a sultan's bride (thank Heaven, not mine!).",
+        "style_prompt": "M_p-normal_s-slow_e-low",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "slow",
+        "energy": "very low"
+    }
+]

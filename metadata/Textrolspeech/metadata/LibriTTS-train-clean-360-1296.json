@@ -1,0 +1,38 @@
+[
+    {
+        "item_name": "libritts-train-clean-360-1296-138074-1296_138074_000066_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/1296/138074/1296_138074_000066_000000.wav",
+        "speaker_id": "LibriTTS-train-clean-360-1296",
+        "content": "\"Why shouldn't she?\"",
+        "style_prompt": "Energetically expressing herself, her voice is high and vibrant.",
+        "gender": "F",
+        "pitch": "high",
+        "speed": "normal",
+        "energy": "high",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-360-1296-138074-1296_138074_000083_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/1296/138074/1296_138074_000083_000000.wav",
+        "speaker_id": "LibriTTS-train-clean-360-1296",
+        "content": "\"Really?\"",
+        "style_prompt": "With a burst of energy, she speaks in a high tone.",
+        "gender": "F",
+        "pitch": "high",
+        "speed": "normal",
+        "energy": "high",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-360-1296-138074-1296_138074_000064_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/1296/138074/1296_138074_000064_000000.wav",
+        "speaker_id": "LibriTTS-train-clean-360-1296",
+        "content": "\"What is it?\"",
+        "style_prompt": "Her rapid speech and high tone infuse her words with vibrant energy.",
+        "gender": "F",
+        "pitch": "high",
+        "speed": "high",
+        "energy": "high",
+        "emotion": "neutral"
+    }
+]

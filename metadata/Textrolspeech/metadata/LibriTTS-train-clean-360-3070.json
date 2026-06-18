@@ -1,0 +1,74 @@
+[
+    {
+        "item_name": "libritts-train-clean-360-3070-166421-3070_166421_000011_000003",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/3070/166421/3070_166421_000011_000003.wav",
+        "speaker_id": "LibriTTS-train-clean-360-3070",
+        "content": "He might get away.\"",
+        "style_prompt": "Speaking rapidly and with enthusiasm, the boy's voice carries a low pitch.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "high",
+        "energy": "high",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-360-3070-166421-3070_166421_000014_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/3070/166421/3070_166421_000014_000000.wav",
+        "speaker_id": "LibriTTS-train-clean-360-3070",
+        "content": "\"Anywhere you say suits me,\" he answered.",
+        "style_prompt": "His energetic tone and low pitch drive his speech at a natural speaking speed.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "high",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-360-3070-166421-3070_166421_000010_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/3070/166421/3070_166421_000010_000001.wav",
+        "speaker_id": "LibriTTS-train-clean-360-3070",
+        "content": "\"Where are you going?\"",
+        "style_prompt": "The male speaker's rapid, energetic speech is accompanied by a deep pitch.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "high",
+        "energy": "high",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-360-3070-166423-3070_166423_000010_000002",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/3070/166423/3070_166423_000010_000002.wav",
+        "speaker_id": "LibriTTS-train-clean-360-3070",
+        "content": "Then we'll make a start.",
+        "style_prompt": "The male speaker's rapid-fire delivery, combined with a low vocal pitch, remains energized and natural.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "high",
+        "energy": "normal",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-360-3070-166423-3070_166423_000024_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/3070/166423/3070_166423_000024_000001.wav",
+        "speaker_id": "LibriTTS-train-clean-360-3070",
+        "content": "Now I could see that the ring was not continuous.",
+        "style_prompt": "The male's rapid-speaking nature, characterized by a bass undertone, radiates normal energy.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "high",
+        "energy": "normal",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-360-3070-166423-3070_166423_000005_000002",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/3070/166423/3070_166423_000005_000002.wav",
+        "speaker_id": "LibriTTS-train-clean-360-3070",
+        "content": "I'll look after ruth--er-I mean Miss Ventnor.\"",
+        "style_prompt": "Speaking in his characteristic deep tone, the male speaker conveys ideas with a natural cadence and customary energy.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "normal",
+        "emotion": "neutral"
+    }
+]

@@ -1,0 +1,13 @@
+[
+    {
+        "item_name": "LibriTTS_R-5688_41232_000003_000002",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/5688/41232/5688_41232_000003_000002.wav",
+        "speaker_id": "LibriTTS_R-5688",
+        "content": "I am unclean!",
+        "style_prompt": "F_p-normal_s-slow_e-normal",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "slow",
+        "energy": "normal"
+    }
+]

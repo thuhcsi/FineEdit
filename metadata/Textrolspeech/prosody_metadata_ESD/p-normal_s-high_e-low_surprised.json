@@ -1,0 +1,80 @@
+[
+    {
+        "item_name": "Emotional Speech Dataset (ESD)-Emotion Speech Dataset-0020-Surprise-0020_001423",
+        "wav_path": "/zhiji-universal-cfs-sh/speech/prompt_based_data/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Surprise/0020_001423.wav",
+        "speaker_id": "Emotional Speech Dataset (ESD)-Emotion Speech Dataset-0020",
+        "content": "I thought you meant how old are you?",
+        "style_prompt": "With a typical pitch, the amazed man engages in fast speech, conveying a feeling of low energy.",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "high",
+        "energy": "low",
+        "emotion": "surprised",
+        "prosody_key": "p-normal_s-high_e-low_surprised"
+    },
+    {
+        "item_name": "Emotional Speech Dataset (ESD)-Emotion Speech Dataset-0020-Surprise-0020_001407",
+        "wav_path": "/zhiji-universal-cfs-sh/speech/prompt_based_data/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Surprise/0020_001407.wav",
+        "speaker_id": "Emotional Speech Dataset (ESD)-Emotion Speech Dataset-0020",
+        "content": "I'm as bad as I can be.",
+        "style_prompt": "At a fast pace and in a normal tone, the surprised man's energy appears subdued.",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "high",
+        "energy": "low",
+        "emotion": "surprised",
+        "prosody_key": "p-normal_s-high_e-low_surprised"
+    },
+    {
+        "item_name": "Emotional Speech Dataset (ESD)-Emotion Speech Dataset-0020-Surprise-0020_001743",
+        "wav_path": "/zhiji-universal-cfs-sh/speech/prompt_based_data/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Surprise/0020_001743.wav",
+        "speaker_id": "Emotional Speech Dataset (ESD)-Emotion Speech Dataset-0020",
+        "content": "And what does it mean?",
+        "style_prompt": "The man's fast speech is tinged with a hint of weariness, yet his stunned pitch remains steady.",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "high",
+        "energy": "low",
+        "emotion": "surprised",
+        "prosody_key": "p-normal_s-high_e-low_surprised"
+    },
+    {
+        "item_name": "Emotional Speech Dataset (ESD)-Emotion Speech Dataset-0019-Surprise-0019_001419",
+        "wav_path": "/zhiji-universal-cfs-sh/speech/prompt_based_data/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0019/Surprise/0019_001419.wav",
+        "speaker_id": "Emotional Speech Dataset (ESD)-Emotion Speech Dataset-0019",
+        "content": "At the end of four.",
+        "style_prompt": "Swiftly and softly, she gets her dumbfounded point across.",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "high",
+        "energy": "low",
+        "emotion": "surprised",
+        "prosody_key": "p-normal_s-high_e-low_surprised"
+    },
+    {
+        "item_name": "Emotional Speech Dataset (ESD)-Emotion Speech Dataset-0019-Surprise-0019_001420",
+        "wav_path": "/zhiji-universal-cfs-sh/speech/prompt_based_data/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0019/Surprise/0019_001420.wav",
+        "speaker_id": "Emotional Speech Dataset (ESD)-Emotion Speech Dataset-0019",
+        "content": "At the roots-of a bush of a grass.",
+        "style_prompt": "A dazed girl talks at a rapid pace with subdued energy.",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "high",
+        "energy": "low",
+        "emotion": "surprised",
+        "prosody_key": "p-normal_s-high_e-low_surprised"
+    },
+    {
+        "item_name": "Emotional Speech Dataset (ESD)-Emotion Speech Dataset-0014-Surprise-0014_001703",
+        "wav_path": "/zhiji-universal-cfs-sh/speech/prompt_based_data/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0014/Surprise/0014_001703.wav",
+        "speaker_id": "Emotional Speech Dataset (ESD)-Emotion Speech Dataset-0014",
+        "content": "I am loath to see him go.",
+        "style_prompt": "Speaking quickly with a regular pitch, the dazed male speaker's energy seems subdued.",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "high",
+        "energy": "low",
+        "emotion": "surprised",
+        "prosody_key": "p-normal_s-high_e-low_surprised"
+    }
+]

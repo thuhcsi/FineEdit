@@ -1,0 +1,156 @@
+[
+    {
+        "item_name": "LibriTTS_R-217_122443_000018_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/217/122443/217_122443_000018_000000.wav",
+        "speaker_id": "LibriTTS_R-217",
+        "content": "\"Afraid of being heard?",
+        "style_prompt": "F_p-high_s-slow_e-normal",
+        "gender": "F",
+        "pitch": "very high",
+        "speed": "slow",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-217_122443_000019_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/217/122443/217_122443_000019_000000.wav",
+        "speaker_id": "LibriTTS_R-217",
+        "content": "\"Afraid of being heard!",
+        "style_prompt": "F_p-high_s-slow_e-high",
+        "gender": "F",
+        "pitch": "very high",
+        "speed": "slow",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-217_122443_000032_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/217/122443/217_122443_000032_000000.wav",
+        "speaker_id": "LibriTTS_R-217",
+        "content": "\"I am going a few steps farther.\"",
+        "style_prompt": "F_p-normal_s-fast_e-normal",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "fast",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-217_122443_000044_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/217/122443/217_122443_000044_000001.wav",
+        "speaker_id": "LibriTTS_R-217",
+        "content": "The appointed hour was about to strike.",
+        "style_prompt": "F_p-high_s-fast_e-high",
+        "gender": "F",
+        "pitch": "high",
+        "speed": "fast",
+        "energy": "very high"
+    },
+    {
+        "item_name": "LibriTTS_R-217_122443_000050_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/217/122443/217_122443_000050_000000.wav",
+        "speaker_id": "LibriTTS_R-217",
+        "content": "Eleven o'clock sounded.",
+        "style_prompt": "F_p-high_s-fast_e-normal",
+        "gender": "F",
+        "pitch": "high",
+        "speed": "fast",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-217_122443_000057_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/217/122443/217_122443_000057_000001.wav",
+        "speaker_id": "LibriTTS_R-217",
+        "content": "This glove, wherever it had not touched the muddy ground, was of irreproachable odor.",
+        "style_prompt": "F_p-normal_s-fast_e-normal",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "fast",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-217_122443_000060_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/217/122443/217_122443_000060_000001.wav",
+        "speaker_id": "LibriTTS_R-217",
+        "content": "He ran along the high road, took the path he had before taken, and reaching the ferry, interrogated the boatman.",
+        "style_prompt": "F_p-normal_s-fast_e-low",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "fast",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-217_122443_000061_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/217/122443/217_122443_000061_000000.wav",
+        "speaker_id": "LibriTTS_R-217",
+        "content": "About seven o'clock in the evening, the boatman had taken over a young woman, wrapped in a black mantle, who appeared to be very anxious not to be recognized; but entirely on account of her precautions, the boatman had paid more attention to her and discovered that she was young and pretty.",
+        "style_prompt": "F_p-normal_s-fast_e-low",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "fast",
+        "energy": "very low"
+    },
+    {
+        "item_name": "LibriTTS_R-217_122443_000069_000003",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/217/122443/217_122443_000069_000003.wav",
+        "speaker_id": "LibriTTS_R-217",
+        "content": "Speak!\"",
+        "style_prompt": "F_p-high_s-slow_e-low",
+        "gender": "F",
+        "pitch": "very high",
+        "speed": "very slow",
+        "energy": "very low"
+    },
+    {
+        "item_name": "LibriTTS_R-217_122443_000081_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/217/122443/217_122443_000081_000000.wav",
+        "speaker_id": "LibriTTS_R-217",
+        "content": "\"But as you spoke to him you must have seen him.\"",
+        "style_prompt": "F_p-high_s-fast_e-normal",
+        "gender": "F",
+        "pitch": "high",
+        "speed": "very fast",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-217_122443_000082_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/217/122443/217_122443_000082_000000.wav",
+        "speaker_id": "LibriTTS_R-217",
+        "content": "\"Oh, it's a description you want?\"",
+        "style_prompt": "F_p-high_s-fast_e-low",
+        "gender": "F",
+        "pitch": "high",
+        "speed": "fast",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-217_122443_000086_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/217/122443/217_122443_000086_000000.wav",
+        "speaker_id": "LibriTTS_R-217",
+        "content": "\"Which?\"",
+        "style_prompt": "F_p-high_s-slow_e-low",
+        "gender": "F",
+        "pitch": "high",
+        "speed": "very slow",
+        "energy": "very low"
+    },
+    {
+        "item_name": "LibriTTS_R-217_122443_000087_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/217/122443/217_122443_000087_000000.wav",
+        "speaker_id": "LibriTTS_R-217",
+        "content": "\"The short one.\"",
+        "style_prompt": "F_p-normal_s-fast_e-low",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "very fast",
+        "energy": "very low"
+    },
+    {
+        "item_name": "LibriTTS_R-217_122443_000090_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/217/122443/217_122443_000090_000000.wav",
+        "speaker_id": "LibriTTS_R-217",
+        "content": "\"You have promised to be secret, my good monsieur?\" said the old man.",
+        "style_prompt": "F_p-normal_s-fast_e-low",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "fast",
+        "energy": "very low"
+    }
+]

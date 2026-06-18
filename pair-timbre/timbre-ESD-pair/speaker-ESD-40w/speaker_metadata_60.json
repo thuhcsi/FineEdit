@@ -1,0 +1,44 @@
+[
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0018/Sad/0018_001343.wav",
+        "prompt_description": " Change the timbre to a feminine, slightly deep, clear, slightly young, slightly calm voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0017/Sad/0017_001254.wav",
+        "target_content": "The song is really louding on a gate."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0015/Sad/0015_001245.wav",
+        "prompt_description": " Change the timbre to a feminine, very young, light, clear, slightly cute voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0018/Sad/0018_001343.wav",
+        "target_content": "He is old fashioned but he is the best of men."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0017/Sad/0017_001254.wav",
+        "prompt_description": " Change the timbre to a feminine, very young, light, clear, slightly cute voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0018/Sad/0018_001295.wav",
+        "target_content": "Do you think it's a woozle?"
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0017/Sad/0017_001319.wav",
+        "prompt_description": " Change the timbre to a feminine, clear, slightly muffled, middle-aged, slightly thin, slightly elegant voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0015/Sad/0015_001245.wav",
+        "target_content": "A boat put out-on the bay."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0018/Sad/0018_001295.wav",
+        "prompt_description": " Change the timbre to a feminine, slightly deep, clear, slightly young, slightly calm voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0017/Sad/0017_001319.wav",
+        "target_content": "But show me now your map!"
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0017/Sad/0017_001319.wav",
+        "prompt_description": " Change the timbre to a speak as a slightly gender-neutral, slightly masculine, slightly weak, slightly young, slightly sharp, intellectual voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0012/Sad/0012_001287.wav",
+        "target_content": "What would they do at the end of the year?"
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0015/Sad/0015_001245.wav",
+        "prompt_description": " Change the timbre to a feminine, slightly deep, clear, slightly young, slightly calm voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0017/Sad/0017_001073.wav",
+        "target_content": "I thought you meant how old are you?"
+    }
+]

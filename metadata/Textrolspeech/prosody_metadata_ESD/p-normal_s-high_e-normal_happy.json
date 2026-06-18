@@ -1,0 +1,93 @@
+[
+    {
+        "item_name": "Emotional Speech Dataset (ESD)-Emotion Speech Dataset-0014-Happy-0014_000853",
+        "wav_path": "/zhiji-universal-cfs-sh/speech/prompt_based_data/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0014/Happy/0014_000853.wav",
+        "speaker_id": "Emotional Speech Dataset (ESD)-Emotion Speech Dataset-0014",
+        "content": "But we are not high yet.",
+        "style_prompt": "A joyful male speaker engages in rapid conversation, displaying regular energy levels and pitch.",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "high",
+        "energy": "normal",
+        "emotion": "happy",
+        "prosody_key": "p-normal_s-high_e-normal_happy"
+    },
+    {
+        "item_name": "Emotional Speech Dataset (ESD)-Emotion Speech Dataset-0013-Happy-0013_000723",
+        "wav_path": "/zhiji-universal-cfs-sh/speech/prompt_based_data/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Happy/0013_000723.wav",
+        "speaker_id": "Emotional Speech Dataset (ESD)-Emotion Speech Dataset-0013",
+        "content": "I thought you meant how old are you?",
+        "style_prompt": "Speaking rapidly, the joyful male speaker's pitch and energy stayed moderate.",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "high",
+        "energy": "normal",
+        "emotion": "happy",
+        "prosody_key": "p-normal_s-high_e-normal_happy"
+    },
+    {
+        "item_name": "Emotional Speech Dataset (ESD)-Emotion Speech Dataset-0013-Happy-0013_000783",
+        "wav_path": "/zhiji-universal-cfs-sh/speech/prompt_based_data/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Happy/0013_000783.wav",
+        "speaker_id": "Emotional Speech Dataset (ESD)-Emotion Speech Dataset-0013",
+        "content": "Be off now as quick as you may!",
+        "style_prompt": "Speaking rapidly, the happy male speaker's pitch and energy stayed typical.",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "high",
+        "energy": "normal",
+        "emotion": "happy",
+        "prosody_key": "p-normal_s-high_e-normal_happy"
+    },
+    {
+        "item_name": "Emotional Speech Dataset (ESD)-Emotion Speech Dataset-0011-Happy-0011_000895",
+        "wav_path": "/zhiji-universal-cfs-sh/speech/prompt_based_data/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0011/Happy/0011_000895.wav",
+        "speaker_id": "Emotional Speech Dataset (ESD)-Emotion Speech Dataset-0011",
+        "content": "A boat put out-on the bay.",
+        "style_prompt": "A joyful male speaker converses rapidly, maintaining a regular tone and moderate enthusiasm.",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "high",
+        "energy": "normal",
+        "emotion": "happy",
+        "prosody_key": "p-normal_s-high_e-normal_happy"
+    },
+    {
+        "item_name": "Emotional Speech Dataset (ESD)-Emotion Speech Dataset-0011-Happy-0011_001026",
+        "wav_path": "/zhiji-universal-cfs-sh/speech/prompt_based_data/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0011/Happy/0011_001026.wav",
+        "speaker_id": "Emotional Speech Dataset (ESD)-Emotion Speech Dataset-0011",
+        "content": "They are made of wood.",
+        "style_prompt": "The joyful man talks quickly with a normal pitch, radiating a hint of average energy.",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "high",
+        "energy": "normal",
+        "emotion": "happy",
+        "prosody_key": "p-normal_s-high_e-normal_happy"
+    },
+    {
+        "item_name": "Emotional Speech Dataset (ESD)-Emotion Speech Dataset-0011-Happy-0011_000941",
+        "wav_path": "/zhiji-universal-cfs-sh/speech/prompt_based_data/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0011/Happy/0011_000941.wav",
+        "speaker_id": "Emotional Speech Dataset (ESD)-Emotion Speech Dataset-0011",
+        "content": "We have showed his shark tooth.",
+        "style_prompt": "The happy male speaker talked quickly, maintaining a standard pitch and energy.",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "high",
+        "energy": "normal",
+        "emotion": "happy",
+        "prosody_key": "p-normal_s-high_e-normal_happy"
+    },
+    {
+        "item_name": "Emotional Speech Dataset (ESD)-Emotion Speech Dataset-0011-Happy-0011_000937",
+        "wav_path": "/zhiji-universal-cfs-sh/speech/prompt_based_data/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0011/Happy/0011_000937.wav",
+        "speaker_id": "Emotional Speech Dataset (ESD)-Emotion Speech Dataset-0011",
+        "content": "What would they do the end of the year?",
+        "style_prompt": "The joyful male speaker's rapid speech is accompanied by a normal pitch and average energy.",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "high",
+        "energy": "normal",
+        "emotion": "happy",
+        "prosody_key": "p-normal_s-high_e-normal_happy"
+    }
+]

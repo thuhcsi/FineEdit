@@ -1,0 +1,13 @@
+[
+    {
+        "item_name": "LibriTTS_R-2816_156159_000020_000004",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/2816/156159/2816_156159_000020_000004.wav",
+        "speaker_id": "LibriTTS_R-2816",
+        "content": "Well, now I had come; there to the south was Tenedos, and here at my side was Imbros, all right, and according to the map, but aloft over Imbros, aloft in a far away heaven, was Samothrace, the watch tower of Neptune!",
+        "style_prompt": "M_p-low_s-normal_e-normal",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "normal"
+    }
+]

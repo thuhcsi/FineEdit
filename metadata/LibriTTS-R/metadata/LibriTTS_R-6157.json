@@ -1,0 +1,156 @@
+[
+    {
+        "item_name": "LibriTTS_R-6157_40556_000012_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/6157/40556/6157_40556_000012_000000.wav",
+        "speaker_id": "LibriTTS_R-6157",
+        "content": "Then the eunuchs went forth that they might perfume the Hammam for the brides; so they scented it with rosewater and willow flower water and pods of musk, and fumigated it with Kakili eaglewood and ambergris.",
+        "style_prompt": "M_p-normal_s-slow_e-low",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "very slow",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-6157_40556_000012_000005",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/6157/40556/6157_40556_000012_000005.wav",
+        "speaker_id": "LibriTTS_R-6157",
+        "content": "Their cheeks were rosy red, and their necks and shapes gracefully swayed, and their eyes wantoned like the gazelle's; and the slave girls came to meet them with instruments of music.",
+        "style_prompt": "M_p-normal_s-slow_e-normal",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "very slow",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-6157_40556_000015_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/6157/40556/6157_40556_000015_000000.wav",
+        "speaker_id": "LibriTTS_R-6157",
+        "content": "Then they attired Dunyazad in a dress of blue brocade, and she became as she were the full moon when it shineth forth.",
+        "style_prompt": "M_p-high_s-slow_e-normal",
+        "gender": "M",
+        "pitch": "high",
+        "speed": "slow",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-6157_40556_000017_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/6157/40556/6157_40556_000017_000000.wav",
+        "speaker_id": "LibriTTS_R-6157",
+        "content": "Then they returned to Shahrazad and displayed her in the second dress, a suit of surpassing goodliness, and veiled her face with her hair like a chin veil.",
+        "style_prompt": "M_p-low_s-slow_e-normal",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "very slow",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-6157_40556_000017_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/6157/40556/6157_40556_000017_000001.wav",
+        "speaker_id": "LibriTTS_R-6157",
+        "content": "Moreover, they let down her side locks, and she was even as saith of her one of her describers in these couplets:--",
+        "style_prompt": "M_p-normal_s-slow_e-low",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "very slow",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-6157_40556_000018_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/6157/40556/6157_40556_000018_000000.wav",
+        "speaker_id": "LibriTTS_R-6157",
+        "content": "O hail to him whose locks his cheeks o'ershade, Who slew my life by cruel hard despight: Said I, \"Hast veiled the Morn in Night?\" He said, \"Nay, I but veil the Moon in hue of Night.\"",
+        "style_prompt": "M_p-normal_s-slow_e-low",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "very slow",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-6157_40556_000019_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/6157/40556/6157_40556_000019_000000.wav",
+        "speaker_id": "LibriTTS_R-6157",
+        "content": "Then they displayed Dunyazad in a second and a third and a fourth dress, and she paced forward like the rising sun, and swayed to and fro in the insolence of her beauty; and she was even as saith the poet of her in these couplets:--",
+        "style_prompt": "M_p-normal_s-slow_e-normal",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "very slow",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-6157_40556_000021_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/6157/40556/6157_40556_000021_000000.wav",
+        "speaker_id": "LibriTTS_R-6157",
+        "content": "Then they displayed Shahrazad in the third dress and the fourth and the fifth, and she became as she were a Ban branch snell of a thirsting gazelle, lovely of face and perfect in attributes of grace, even as saith of her one in these couplets:--",
+        "style_prompt": "M_p-normal_s-slow_e-normal",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "very slow",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-6157_40556_000027_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/6157/40556/6157_40556_000027_000000.wav",
+        "speaker_id": "LibriTTS_R-6157",
+        "content": "Thus also they did with her sister Dunyazad; and when they had made an end of the display, the King bestowed robes of honor on all who were present, and sent the brides to their own apartments.",
+        "style_prompt": "M_p-normal_s-slow_e-normal",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "slow",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-6157_40556_000027_000006",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/6157/40556/6157_40556_000027_000006.wav",
+        "speaker_id": "LibriTTS_R-6157",
+        "content": "The Minister kissed ground and prayed that they might be vouchsafed length of life: then he went in to his daughters, whilst the Eunuchs and Ushers walked before him, and saluted them and farewelled them.",
+        "style_prompt": "M_p-normal_s-slow_e-normal",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "slow",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-6157_40556_000027_000008",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/6157/40556/6157_40556_000027_000008.wav",
+        "speaker_id": "LibriTTS_R-6157",
+        "content": "So he entered the city, and they decorated the houses and it was a notable day.",
+        "style_prompt": "M_p-normal_s-normal_e-normal",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-6157_40556_000027_000010",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/6157/40556/6157_40556_000027_000010.wav",
+        "speaker_id": "LibriTTS_R-6157",
+        "content": "So he bestowed on them robes of honor and entreated them with distinction, and they made him Sultan over them.",
+        "style_prompt": "M_p-normal_s-slow_e-normal",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "very slow",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-6157_40556_000027_000016",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/6157/40556/6157_40556_000027_000016.wav",
+        "speaker_id": "LibriTTS_R-6157",
+        "content": "Then there reigned after them a wise ruler, who was just, keen witted, and accomplished, and loved tales and legends, especially those which chronicle the doings of Sovrans and Sultans, and he found in the treasury these marvelous stories and wondrous histories, contained in the thirty volumes aforesaid.",
+        "style_prompt": "M_p-normal_s-slow_e-low",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "very slow",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-6157_40556_000027_000017",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/6157/40556/6157_40556_000027_000017.wav",
+        "speaker_id": "LibriTTS_R-6157",
+        "content": "So he read in them a first book and a second and a third and so on to the last of them, and each book astounded and delighted him more than that which preceded it, till he came to the end of them.",
+        "style_prompt": "M_p-normal_s-slow_e-low",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "slow",
+        "energy": "low"
+    }
+]

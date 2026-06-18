@@ -1,0 +1,62 @@
+[
+    {
+        "item_name": "libritts-train-clean-360-408-122806-408_122806_000072_000003",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/408/122806/408_122806_000072_000003.wav",
+        "speaker_id": "LibriTTS-train-clean-360-408",
+        "content": "I will tell everything!",
+        "style_prompt": "Her treble voice complements her regular speech pace.",
+        "gender": "F",
+        "pitch": "high",
+        "speed": "normal",
+        "energy": "normal",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-360-408-122806-408_122806_000072_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/408/122806/408_122806_000072_000001.wav",
+        "speaker_id": "LibriTTS-train-clean-360-408",
+        "content": "\"I will not have it; I will not do it!",
+        "style_prompt": "A high-energy woman's voice carries a rapid, high-pitched cadence.",
+        "gender": "F",
+        "pitch": "high",
+        "speed": "high",
+        "energy": "high",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-360-408-122806-408_122806_000038_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/408/122806/408_122806_000038_000000.wav",
+        "speaker_id": "LibriTTS-train-clean-360-408",
+        "content": "\"But WHAT DID you see?",
+        "style_prompt": "Her treble voice flows naturally as she talks at a normal pace.",
+        "gender": "F",
+        "pitch": "high",
+        "speed": "normal",
+        "energy": "normal",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-360-408-122806-408_122806_000075_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/408/122806/408_122806_000075_000000.wav",
+        "speaker_id": "LibriTTS-train-clean-360-408",
+        "content": "\"But I will go first!\" said the shadow.",
+        "style_prompt": "Her voice is sharp, while her speaking speed remains moderate.",
+        "gender": "F",
+        "pitch": "high",
+        "speed": "normal",
+        "energy": "normal",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-360-408-122806-408_122806_000017_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/408/122806/408_122806_000017_000000.wav",
+        "speaker_id": "LibriTTS-train-clean-360-408",
+        "content": "\"Yes!",
+        "style_prompt": "Speaking with enthusiasm, she maintained a deliberate and high tone in her voice.",
+        "gender": "F",
+        "pitch": "high",
+        "speed": "low",
+        "energy": "high",
+        "emotion": "neutral"
+    }
+]

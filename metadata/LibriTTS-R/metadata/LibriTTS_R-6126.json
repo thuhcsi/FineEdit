@@ -1,0 +1,57 @@
+[
+    {
+        "item_name": "LibriTTS_R-6126_10992_000062_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/6126/10992/6126_10992_000062_000000.wav",
+        "speaker_id": "LibriTTS_R-6126",
+        "content": "Now a fox steals out from behind the gorse bushes.",
+        "style_prompt": "M_p-normal_s-slow_e-high",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "slow",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-6126_10992_000063_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/6126/10992/6126_10992_000063_000000.wav",
+        "speaker_id": "LibriTTS_R-6126",
+        "content": "Often, even at night, the church seems full of people.",
+        "style_prompt": "M_p-high_s-slow_e-normal",
+        "gender": "M",
+        "pitch": "high",
+        "speed": "slow",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-6126_10992_000063_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/6126/10992/6126_10992_000063_000001.wav",
+        "speaker_id": "LibriTTS_R-6126",
+        "content": "The pews are worn and greasy, and the cassocks in place, and the hymn books on the ledges. It is a ship with all its crew aboard.",
+        "style_prompt": "M_p-normal_s-normal_e-normal",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-6126_10992_000063_000002",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/6126/10992/6126_10992_000063_000002.wav",
+        "speaker_id": "LibriTTS_R-6126",
+        "content": "The timbers strain to hold the dead and the living, the ploughmen, the carpenters, the fox hunting gentlemen and the farmers smelling of mud and brandy.",
+        "style_prompt": "M_p-normal_s-slow_e-low",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "slow",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-6126_10992_000063_000003",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/6126/10992/6126_10992_000063_000003.wav",
+        "speaker_id": "LibriTTS_R-6126",
+        "content": "Their tongues join together in syllabling the sharp cut words, which for ever slice asunder time and the broad backed moors.",
+        "style_prompt": "M_p-normal_s-slow_e-high",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "slow",
+        "energy": "high"
+    }
+]

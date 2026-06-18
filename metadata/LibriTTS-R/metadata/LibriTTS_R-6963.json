@@ -1,0 +1,233 @@
+[
+    {
+        "item_name": "LibriTTS_R-6963_81511_000012_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/6963/81511/6963_81511_000012_000001.wav",
+        "speaker_id": "LibriTTS_R-6963",
+        "content": "On the other hand, those who have dwelt most emphatically on the distinction between prose and verse, prose and poetry, may sometimes have been tempted to limit the proper functions of prose too narrowly; and this again is at least false economy, as being, in effect, the renunciation of a certain means or faculty, in a world where after all we must needs make the most of things.",
+        "style_prompt": "M_p-normal_s-normal_e-low",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "very low"
+    },
+    {
+        "item_name": "LibriTTS_R-6963_81511_000012_000004",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/6963/81511/6963_81511_000012_000004.wav",
+        "speaker_id": "LibriTTS_R-6963",
+        "content": "To find in the poem, amid the flowers, the allusions, the mixed perspectives, of Lycidas for instance, the thought, the logical structure:--how wholesome! how delightful! as to identify in prose what we call the poetry, the imaginative power, not treating it as out of place and a kind of vagrant intruder, but by way of an estimate of its rights, that is, of its achieved powers, there.",
+        "style_prompt": "M_p-normal_s-normal_e-low",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "very low"
+    },
+    {
+        "item_name": "LibriTTS_R-6963_81511_000013_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/6963/81511/6963_81511_000013_000001.wav",
+        "speaker_id": "LibriTTS_R-6963",
+        "content": "In truth, his sense of prosaic excellence affected his verse rather than his prose, which is not only fervid, richly figured, poetic, as we say, but vitiated, all unconsciously, by many a scanning line.",
+        "style_prompt": "M_p-normal_s-normal_e-low",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "very low"
+    },
+    {
+        "item_name": "LibriTTS_R-6963_81511_000013_000002",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/6963/81511/6963_81511_000013_000002.wav",
+        "speaker_id": "LibriTTS_R-6963",
+        "content": "Setting up correctness, that humble merit of prose, as the central literary excellence, he is really a less correct writer than he may seem, still with an imperfect mastery of the relative pronoun.",
+        "style_prompt": "M_p-normal_s-normal_e-low",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-6963_81511_000015_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/6963/81511/6963_81511_000015_000000.wav",
+        "speaker_id": "LibriTTS_R-6963",
+        "content": "The line between fact and something quite different from external fact is, indeed, hard to draw.",
+        "style_prompt": "M_p-normal_s-normal_e-low",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-6963_81511_000015_000002",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/6963/81511/6963_81511_000015_000002.wav",
+        "speaker_id": "LibriTTS_R-6963",
+        "content": "In science, on the other hand, in history so far as it conforms to scientific rule, we have a literary domain where the imagination may be thought to be always an intruder.",
+        "style_prompt": "M_p-normal_s-normal_e-low",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-6963_81511_000015_000006",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/6963/81511/6963_81511_000015_000006.wav",
+        "speaker_id": "LibriTTS_R-6963",
+        "content": "So Gibbon moulds his unwieldy material to a preconceived view.",
+        "style_prompt": "M_p-normal_s-slow_e-high",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "slow",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-6963_81511_000015_000010",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/6963/81511/6963_81511_000015_000010.wav",
+        "speaker_id": "LibriTTS_R-6963",
+        "content": "And further, all beauty is in the long run only fineness of truth, or what we call expression, the finer accommodation of speech to that vision within.",
+        "style_prompt": "M_p-normal_s-slow_e-low",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "slow",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-6963_81511_000018_000006",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/6963/81511/6963_81511_000018_000006.wav",
+        "speaker_id": "LibriTTS_R-6963",
+        "content": "Exclusiones debitae-the exclusions, or rejections, which nature demands-we know how large a part these play, according to Bacon, in the science of nature.",
+        "style_prompt": "M_p-normal_s-normal_e-low",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "very low"
+    },
+    {
+        "item_name": "LibriTTS_R-6963_81511_000018_000007",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/6963/81511/6963_81511_000018_000007.wav",
+        "speaker_id": "LibriTTS_R-6963",
+        "content": "In a somewhat changed sense, we might say that the art of the scholar is summed up in the observance of those rejections demanded by the nature of his medium, the material he must use.",
+        "style_prompt": "M_p-normal_s-fast_e-normal",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "fast",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-6963_81511_000018_000008",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/6963/81511/6963_81511_000018_000008.wav",
+        "speaker_id": "LibriTTS_R-6963",
+        "content": "Alive to the value of an atmosphere in which every term finds its utmost degree of expression, and with all the jealousy of a lover of words, he will resist a constant tendency on the part of the majority of those who use them to efface the distinctions of language, the facility of writers often reinforcing in this respect the work of the vulgar.",
+        "style_prompt": "M_p-normal_s-normal_e-low",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-6963_81511_000020_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/6963/81511/6963_81511_000020_000001.wav",
+        "speaker_id": "LibriTTS_R-6963",
+        "content": "That living authority which language needs lies, in truth, in its scholars, who recognising always that every language possesses a genius, a very fastidious genius, of its own, expand at once and purify its very elements, which must needs change along with the changing thoughts of living people.",
+        "style_prompt": "M_p-normal_s-normal_e-low",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-6963_81511_000020_000003",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/6963/81511/6963_81511_000020_000003.wav",
+        "speaker_id": "LibriTTS_R-6963",
+        "content": "But he did it with the tact of a scholar also.",
+        "style_prompt": "M_p-high_s-normal_e-normal",
+        "gender": "M",
+        "pitch": "high",
+        "speed": "normal",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-6963_81511_000020_000005",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/6963/81511/6963_81511_000020_000005.wav",
+        "speaker_id": "LibriTTS_R-6963",
+        "content": "For many years to come its enterprise may well lie in the naturalisation of the vocabulary of science, so only it be under the eye of a sensitive scholarship-in a liberal naturalisation of the ideas of science too, for after all the chief stimulus of good style is to possess a full, rich, complex matter to grapple with.",
+        "style_prompt": "M_p-normal_s-normal_e-low",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "very low"
+    },
+    {
+        "item_name": "LibriTTS_R-6963_81511_000020_000006",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/6963/81511/6963_81511_000020_000006.wav",
+        "speaker_id": "LibriTTS_R-6963",
+        "content": "The literary artist, therefore, will be well aware of physical science; science also attaining, in its turn, its true literary ideal.",
+        "style_prompt": "M_p-normal_s-fast_e-low",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "fast",
+        "energy": "very low"
+    },
+    {
+        "item_name": "LibriTTS_R-6963_81511_000020_000009",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/6963/81511/6963_81511_000020_000009.wav",
+        "speaker_id": "LibriTTS_R-6963",
+        "content": "Yet we have known many things like this.",
+        "style_prompt": "M_p-normal_s-normal_e-normal",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-6963_81511_000022_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/6963/81511/6963_81511_000022_000000.wav",
+        "speaker_id": "LibriTTS_R-6963",
+        "content": "Different classes of persons, at different times, make, of course, very various demands upon literature.",
+        "style_prompt": "M_p-normal_s-normal_e-normal",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-6963_81511_000023_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/6963/81511/6963_81511_000023_000001.wav",
+        "speaker_id": "LibriTTS_R-6963",
+        "content": "But the true artist allows for it.",
+        "style_prompt": "M_p-normal_s-normal_e-low",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-6963_81511_000024_000002",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/6963/81511/6963_81511_000024_000002.wav",
+        "speaker_id": "LibriTTS_R-6963",
+        "content": "The elementary particles of language will be realised as colour and light and shade through his scholarly living in the full sense of them.",
+        "style_prompt": "M_p-normal_s-fast_e-normal",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "fast",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-6963_81511_000025_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/6963/81511/6963_81511_000025_000000.wav",
+        "speaker_id": "LibriTTS_R-6963",
+        "content": "So far I have been speaking of certain conditions of the literary art arising out of the medium or material in or upon which it works, the essential qualities of language and its aptitudes for contingent ornamentation, matters which define scholarship as science and good taste respectively.",
+        "style_prompt": "M_p-normal_s-fast_e-low",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "fast",
+        "energy": "very low"
+    },
+    {
+        "item_name": "LibriTTS_R-6963_81511_000025_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/6963/81511/6963_81511_000025_000001.wav",
+        "speaker_id": "LibriTTS_R-6963",
+        "content": "They are both subservient to a more intimate quality of good style: more intimate, as coming nearer to the artist himself.",
+        "style_prompt": "M_p-normal_s-normal_e-low",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "low"
+    }
+]

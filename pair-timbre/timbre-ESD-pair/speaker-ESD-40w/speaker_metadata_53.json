@@ -1,0 +1,920 @@
+[
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0018/Sad/0018_001265.wav",
+        "prompt_description": " Change the timbre to a feminine, young, magnetic, very fluent, slightly thick voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0016/Sad/0016_001234.wav",
+        "target_content": "We have been fine, haven't we?"
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0018/Sad/0018_001061.wav",
+        "prompt_description": " Change the timbre to a feminine, young, magnetic, very fluent, slightly thick voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0016/Sad/0016_001085.wav",
+        "target_content": "The name really is the agedaged man."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0015/Sad/0015_001084.wav",
+        "prompt_description": " Change the timbre to a feminine, young, magnetic, very fluent, slightly thick voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0016/Sad/0016_001276.wav",
+        "target_content": "And the next day. Nurse will be released."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0015/Sad/0015_001067.wav",
+        "prompt_description": " Change the timbre to a feminine, young, magnetic, very fluent, slightly thick voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0016/Sad/0016_001150.wav",
+        "target_content": "Well anyhow it didn't rain, he said."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0018/Sad/0018_001151.wav",
+        "prompt_description": " Change the timbre to a feminine, young, magnetic, very fluent, slightly thick voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0016/Sad/0016_001212.wav",
+        "target_content": "I lent George three pounds."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0016/Sad/0016_001260.wav",
+        "prompt_description": " Change the timbre to a feminine, very young, light, clear, slightly cute voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0018/Sad/0018_001384.wav",
+        "target_content": "Another one, ten thousand dollars."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0016/Sad/0016_001212.wav",
+        "prompt_description": " Change the timbre to a feminine, very young, light, clear, slightly cute voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0018/Sad/0018_001258.wav",
+        "target_content": "However, somebody killed something."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0016/Sad/0016_001265.wav",
+        "prompt_description": " Change the timbre to a feminine, very young, light, clear, slightly cute voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0018/Sad/0018_001258.wav",
+        "target_content": "However, somebody killed something."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0016/Sad/0016_001276.wav",
+        "prompt_description": " Change the timbre to a feminine, very young, light, clear, slightly cute voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0018/Sad/0018_001239.wav",
+        "target_content": "When such wanderers meet."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0015/Sad/0015_001151.wav",
+        "prompt_description": " Change the timbre to a feminine, young, magnetic, very fluent, slightly thick voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0016/Sad/0016_001214.wav",
+        "target_content": "His large mouth curled into a sneer."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0016/Sad/0016_001276.wav",
+        "prompt_description": " Change the timbre to a feminine, very young, light, clear, slightly cute voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0018/Sad/0018_001172.wav",
+        "target_content": "Am I an absolute pauper?"
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0018/Sad/0018_001061.wav",
+        "prompt_description": " Change the timbre to a feminine, young, magnetic, very fluent, slightly thick voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0016/Sad/0016_001219.wav",
+        "target_content": "Sam waved his arm vaguely."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0016/Sad/0016_001316.wav",
+        "prompt_description": " Change the timbre to a feminine, clear, slightly muffled, middle-aged, slightly thin, slightly elegant voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0015/Sad/0015_001166.wav",
+        "target_content": "No, I burst the balloon!"
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0016/Sad/0016_001340.wav",
+        "prompt_description": " Change the timbre to a feminine, clear, slightly muffled, middle-aged, slightly thin, slightly elegant voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0015/Sad/0015_001178.wav",
+        "target_content": "Put that rude grasshopper in jail!"
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0018/Sad/0018_001151.wav",
+        "prompt_description": " Change the timbre to a feminine, slightly deep, clear, slightly young, slightly calm voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0017/Sad/0017_001314.wav",
+        "target_content": "Slam the doors and wedge them!"
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0015/Sad/0015_001178.wav",
+        "prompt_description": " Change the timbre to a feminine, adult-like, magnetic, very elegant, relaxed voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0019/Sad/0019_001151.wav",
+        "target_content": "It's me piglit, help help!"
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0015/Sad/0015_001166.wav",
+        "prompt_description": " Change the timbre to a feminine, young, magnetic, very fluent, slightly thick voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0016/Sad/0016_001262.wav",
+        "target_content": "No thank you."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0017/Sad/0017_001314.wav",
+        "prompt_description": " Change the timbre to a feminine, very young, light, clear, slightly cute voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0018/Sad/0018_001060.wav",
+        "target_content": "A nauseous draught."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0015/Sad/0015_001096.wav",
+        "prompt_description": " Change the timbre to a feminine, very young, light, clear, slightly cute voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0018/Sad/0018_001383.wav",
+        "target_content": "You gain for nothing girl!"
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0015/Sad/0015_001178.wav",
+        "prompt_description": " Change the timbre to a feminine, young, magnetic, very fluent, slightly thick voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0016/Sad/0016_001085.wav",
+        "target_content": "The name really is the agedaged man."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0018/Sad/0018_001063.wav",
+        "prompt_description": " Change the timbre to a feminine, clear, slightly muffled, middle-aged, slightly thin, slightly elegant voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0015/Sad/0015_001067.wav",
+        "target_content": "Why has this egg not broken?"
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0015/Sad/0015_001096.wav",
+        "prompt_description": " Change the timbre to a feminine, young, magnetic, very fluent, slightly thick voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0016/Sad/0016_001276.wav",
+        "target_content": "And the next day. Nurse will be released."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0018/Sad/0018_001317.wav",
+        "prompt_description": " Change the timbre to a feminine, young, magnetic, very fluent, slightly thick voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0016/Sad/0016_001265.wav",
+        "target_content": "He likes dragons very much."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0016/Sad/0016_001214.wav",
+        "prompt_description": " Change the timbre to a feminine, very young, light, clear, slightly cute voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0018/Sad/0018_001394.wav",
+        "target_content": "Lucy, a clever farmer."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0018/Sad/0018_001394.wav",
+        "prompt_description": " Change the timbre to a feminine, clear, slightly muffled, middle-aged, slightly thin, slightly elegant voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0015/Sad/0015_001151.wav",
+        "target_content": "It's me piglit, help help!"
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0019/Sad/0019_001151.wav",
+        "prompt_description": " Change the timbre to a feminine, young, magnetic, very fluent, slightly thick voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0016/Sad/0016_001340.wav",
+        "target_content": "There goes the shawl again!"
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0016/Sad/0016_001380.wav",
+        "prompt_description": " Change the timbre to a feminine, clear, slightly muffled, middle-aged, slightly thin, slightly elegant voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0015/Sad/0015_001068.wav",
+        "target_content": "Then sadly it is much farther."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0015/Sad/0015_001166.wav",
+        "prompt_description": " Change the timbre to a feminine, young, magnetic, very fluent, slightly thick voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0016/Sad/0016_001311.wav",
+        "target_content": "After a while he perceived both giants."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0016/Sad/0016_001262.wav",
+        "prompt_description": " Change the timbre to a feminine, very young, light, clear, slightly cute voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0018/Sad/0018_001188.wav",
+        "target_content": "But one requires the explorer to furnish proofs."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0019/Sad/0019_001258.wav",
+        "prompt_description": " Change the timbre to a feminine, young, magnetic, very fluent, slightly thick voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0016/Sad/0016_001264.wav",
+        "target_content": "But what about this thing, sticky!"
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0016/Sad/0016_001150.wav",
+        "prompt_description": " Change the timbre to a feminine, very young, light, clear, slightly cute voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0018/Sad/0018_001362.wav",
+        "target_content": "Father has yellow eyes."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0018/Sad/0018_001304.wav",
+        "prompt_description": " Change the timbre to a feminine, adult-like, magnetic, very elegant, relaxed voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0019/Sad/0019_001151.wav",
+        "target_content": "It's me piglit, help help!"
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0015/Sad/0015_001284.wav",
+        "prompt_description": " Change the timbre to a feminine, young, magnetic, very fluent, slightly thick voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0016/Sad/0016_001262.wav",
+        "target_content": "No thank you."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0016/Sad/0016_001234.wav",
+        "prompt_description": " Change the timbre to a feminine, very young, light, clear, slightly cute voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0018/Sad/0018_001303.wav",
+        "target_content": "I have a soothsayer."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0016/Sad/0016_001311.wav",
+        "prompt_description": " Change the timbre to a feminine, very young, light, clear, slightly cute voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0018/Sad/0018_001151.wav",
+        "target_content": "It's me piglit, help help!"
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0015/Sad/0015_001178.wav",
+        "prompt_description": " Change the timbre to a feminine, young, magnetic, very fluent, slightly thick voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0016/Sad/0016_001340.wav",
+        "target_content": "There goes the shawl again!"
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0018/Sad/0018_001388.wav",
+        "prompt_description": " Change the timbre to a feminine, young, magnetic, very fluent, slightly thick voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0016/Sad/0016_001256.wav",
+        "target_content": "Still you owe it a duty."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0018/Sad/0018_001304.wav",
+        "prompt_description": " Change the timbre to a feminine, young, magnetic, very fluent, slightly thick voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0016/Sad/0016_001271.wav",
+        "target_content": "I am a selfish sinner."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0016/Sad/0016_001262.wav",
+        "prompt_description": " Change the timbre to a feminine, very young, light, clear, slightly cute voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0018/Sad/0018_001362.wav",
+        "target_content": "Father has yellow eyes."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0016/Sad/0016_001150.wav",
+        "prompt_description": " Change the timbre to a feminine, very young, light, clear, slightly cute voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0018/Sad/0018_001151.wav",
+        "target_content": "It's me piglit, help help!"
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0016/Sad/0016_001212.wav",
+        "prompt_description": " Change the timbre to a feminine, clear, slightly muffled, middle-aged, slightly thin, slightly elegant voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0015/Sad/0015_001084.wav",
+        "target_content": "A divine wrath made her blue eyes awful."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0015/Sad/0015_001166.wav",
+        "prompt_description": " Change the timbre to a feminine, very young, light, clear, slightly cute voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0018/Sad/0018_001090.wav",
+        "target_content": "In which fox loses a tail and its elder sister finds one."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0016/Sad/0016_001085.wav",
+        "prompt_description": " Change the timbre to a feminine, very young, light, clear, slightly cute voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0018/Sad/0018_001258.wav",
+        "target_content": "However, somebody killed something."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0018/Sad/0018_001249.wav",
+        "prompt_description": " Change the timbre to a feminine, young, magnetic, very fluent, slightly thick voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0016/Sad/0016_001271.wav",
+        "target_content": "I am a selfish sinner."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0018/Sad/0018_001394.wav",
+        "prompt_description": " Change the timbre to a feminine, young, magnetic, very fluent, slightly thick voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0016/Sad/0016_001260.wav",
+        "target_content": "It weighs seven point five kilogram."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0018/Sad/0018_001329.wav",
+        "prompt_description": " Change the timbre to a feminine, young, magnetic, very fluent, slightly thick voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0016/Sad/0016_001380.wav",
+        "target_content": "She keeps saying I'm hers."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0018/Sad/0018_001383.wav",
+        "prompt_description": " Change the timbre to a feminine, clear, slightly muffled, middle-aged, slightly thin, slightly elegant voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0015/Sad/0015_001067.wav",
+        "target_content": "Why has this egg not broken?"
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0018/Sad/0018_001060.wav",
+        "prompt_description": " Change the timbre to a feminine, young, magnetic, very fluent, slightly thick voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0016/Sad/0016_001276.wav",
+        "target_content": "And the next day. Nurse will be released."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0016/Sad/0016_001271.wav",
+        "prompt_description": " Change the timbre to a feminine, very young, light, clear, slightly cute voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0018/Sad/0018_001188.wav",
+        "target_content": "But one requires the explorer to furnish proofs."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0018/Sad/0018_001362.wav",
+        "prompt_description": " Change the timbre to a feminine, young, magnetic, very fluent, slightly thick voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0016/Sad/0016_001247.wav",
+        "target_content": "Fur flew through the air, teeth gnashed."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0016/Sad/0016_001247.wav",
+        "prompt_description": " Change the timbre to a feminine, very young, light, clear, slightly cute voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0018/Sad/0018_001060.wav",
+        "target_content": "A nauseous draught."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0016/Sad/0016_001340.wav",
+        "prompt_description": " Change the timbre to a feminine, very young, light, clear, slightly cute voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0018/Sad/0018_001090.wav",
+        "target_content": "In which fox loses a tail and its elder sister finds one."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0015/Sad/0015_001151.wav",
+        "prompt_description": " Change the timbre to a feminine, very young, light, clear, slightly cute voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0018/Sad/0018_001322.wav",
+        "target_content": "No admittance except on party business."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0018/Sad/0018_001060.wav",
+        "prompt_description": " Change the timbre to a feminine, young, magnetic, very fluent, slightly thick voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0016/Sad/0016_001234.wav",
+        "target_content": "We have been fine, haven't we?"
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0015/Sad/0015_001067.wav",
+        "prompt_description": " Change the timbre to a feminine, very young, light, clear, slightly cute voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0018/Sad/0018_001383.wav",
+        "target_content": "You gain for nothing girl!"
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0018/Sad/0018_001322.wav",
+        "prompt_description": " Change the timbre to a feminine, clear, slightly muffled, middle-aged, slightly thin, slightly elegant voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0015/Sad/0015_001284.wav",
+        "target_content": "Hurry up, hurry up!"
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0016/Sad/0016_001262.wav",
+        "prompt_description": " Change the timbre to a feminine, very young, light, clear, slightly cute voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0018/Sad/0018_001081.wav",
+        "target_content": "All smile were real and the happier，the more sincere ."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0016/Sad/0016_001340.wav",
+        "prompt_description": " Change the timbre to a feminine, clear, slightly muffled, middle-aged, slightly thin, slightly elegant voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0015/Sad/0015_001084.wav",
+        "target_content": "A divine wrath made her blue eyes awful."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0015/Sad/0015_001067.wav",
+        "prompt_description": " Change the timbre to a feminine, young, magnetic, very fluent, slightly thick voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0016/Sad/0016_001212.wav",
+        "target_content": "I lent George three pounds."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0016/Sad/0016_001316.wav",
+        "prompt_description": " Change the timbre to a feminine, clear, slightly muffled, middle-aged, slightly thin, slightly elegant voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0015/Sad/0015_001096.wav",
+        "target_content": "They'd never know I'd regular ran away."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0016/Sad/0016_001340.wav",
+        "prompt_description": " Change the timbre to a feminine, very young, light, clear, slightly cute voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0018/Sad/0018_001388.wav",
+        "target_content": "Paul's teeth ached because of lemon."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0018/Sad/0018_001170.wav",
+        "prompt_description": " Change the timbre to a feminine, clear, slightly muffled, middle-aged, slightly thin, slightly elegant voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0015/Sad/0015_001166.wav",
+        "target_content": "No, I burst the balloon!"
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0018/Sad/0018_001362.wav",
+        "prompt_description": " Change the timbre to a feminine, young, magnetic, very fluent, slightly thick voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0016/Sad/0016_001340.wav",
+        "target_content": "There goes the shawl again!"
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0018/Sad/0018_001249.wav",
+        "prompt_description": " Change the timbre to a feminine, adult-like, magnetic, very elegant, relaxed voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0019/Sad/0019_001151.wav",
+        "target_content": "It's me piglit, help help!"
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0018/Sad/0018_001388.wav",
+        "prompt_description": " Change the timbre to a feminine, adult-like, magnetic, very elegant, relaxed voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0019/Sad/0019_001258.wav",
+        "target_content": "However, somebody killed something."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0016/Sad/0016_001311.wav",
+        "prompt_description": " Change the timbre to a feminine, very young, light, clear, slightly cute voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0018/Sad/0018_001247.wav",
+        "target_content": "Fur flew through the air, teeth gnashed."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0018/Sad/0018_001170.wav",
+        "prompt_description": " Change the timbre to a feminine, clear, slightly muffled, middle-aged, slightly thin, slightly elegant voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0015/Sad/0015_001068.wav",
+        "target_content": "Then sadly it is much farther."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0016/Sad/0016_001256.wav",
+        "prompt_description": " Change the timbre to a feminine, very young, light, clear, slightly cute voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0018/Sad/0018_001239.wav",
+        "target_content": "When such wanderers meet."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0016/Sad/0016_001220.wav",
+        "prompt_description": " Change the timbre to a feminine, clear, slightly muffled, middle-aged, slightly thin, slightly elegant voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0015/Sad/0015_001096.wav",
+        "target_content": "They'd never know I'd regular ran away."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0016/Sad/0016_001214.wav",
+        "prompt_description": " Change the timbre to a feminine, clear, slightly muffled, middle-aged, slightly thin, slightly elegant voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0015/Sad/0015_001084.wav",
+        "target_content": "A divine wrath made her blue eyes awful."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0018/Sad/0018_001383.wav",
+        "prompt_description": " Change the timbre to a feminine, young, magnetic, very fluent, slightly thick voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0016/Sad/0016_001150.wav",
+        "target_content": "Well anyhow it didn't rain, he said."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0015/Sad/0015_001084.wav",
+        "prompt_description": " Change the timbre to a feminine, young, magnetic, very fluent, slightly thick voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0016/Sad/0016_001311.wav",
+        "target_content": "After a while he perceived both giants."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0018/Sad/0018_001062.wav",
+        "prompt_description": " Change the timbre to a feminine, slightly deep, clear, slightly young, slightly calm voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0017/Sad/0017_001314.wav",
+        "target_content": "Slam the doors and wedge them!"
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0015/Sad/0015_001166.wav",
+        "prompt_description": " Change the timbre to a feminine, young, magnetic, very fluent, slightly thick voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0016/Sad/0016_001154.wav",
+        "target_content": "Here am i whom you seek."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0018/Sad/0018_001322.wav",
+        "prompt_description": " Change the timbre to a feminine, young, magnetic, very fluent, slightly thick voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0016/Sad/0016_001085.wav",
+        "target_content": "The name really is the agedaged man."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0018/Sad/0018_001247.wav",
+        "prompt_description": " Change the timbre to a feminine, young, magnetic, very fluent, slightly thick voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0016/Sad/0016_001316.wav",
+        "target_content": "We may join with that power."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0016/Sad/0016_001247.wav",
+        "prompt_description": " Change the timbre to a feminine, very young, light, clear, slightly cute voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0018/Sad/0018_001311.wav",
+        "target_content": "After a while he perceived both giants."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0018/Sad/0018_001063.wav",
+        "prompt_description": " Change the timbre to a feminine, clear, slightly muffled, middle-aged, slightly thin, slightly elegant voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0015/Sad/0015_001068.wav",
+        "target_content": "Then sadly it is much farther."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0016/Sad/0016_001226.wav",
+        "prompt_description": " Change the timbre to a feminine, clear, slightly muffled, middle-aged, slightly thin, slightly elegant voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0015/Sad/0015_001084.wav",
+        "target_content": "A divine wrath made her blue eyes awful."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0018/Sad/0018_001322.wav",
+        "prompt_description": " Change the timbre to a feminine, adult-like, magnetic, very elegant, relaxed voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0019/Sad/0019_001258.wav",
+        "target_content": "However, somebody killed something."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0018/Sad/0018_001172.wav",
+        "prompt_description": " Change the timbre to a feminine, young, magnetic, very fluent, slightly thick voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0016/Sad/0016_001085.wav",
+        "target_content": "The name really is the agedaged man."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0015/Sad/0015_001178.wav",
+        "prompt_description": " Change the timbre to a feminine, young, magnetic, very fluent, slightly thick voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0016/Sad/0016_001150.wav",
+        "target_content": "Well anyhow it didn't rain, he said."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0016/Sad/0016_001234.wav",
+        "prompt_description": " Change the timbre to a feminine, clear, slightly muffled, middle-aged, slightly thin, slightly elegant voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0015/Sad/0015_001067.wav",
+        "target_content": "Why has this egg not broken?"
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0016/Sad/0016_001219.wav",
+        "prompt_description": " Change the timbre to a feminine, very young, light, clear, slightly cute voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0018/Sad/0018_001172.wav",
+        "target_content": "Am I an absolute pauper?"
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0016/Sad/0016_001341.wav",
+        "prompt_description": " Change the timbre to a feminine, very young, light, clear, slightly cute voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0018/Sad/0018_001170.wav",
+        "target_content": "Our King George is labourers."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0018/Sad/0018_001248.wav",
+        "prompt_description": " Change the timbre to a feminine, young, magnetic, very fluent, slightly thick voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0016/Sad/0016_001260.wav",
+        "target_content": "It weighs seven point five kilogram."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0015/Sad/0015_001068.wav",
+        "prompt_description": " Change the timbre to a feminine, very young, light, clear, slightly cute voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0018/Sad/0018_001303.wav",
+        "target_content": "I have a soothsayer."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0018/Sad/0018_001081.wav",
+        "prompt_description": " Change the timbre to a feminine, young, magnetic, very fluent, slightly thick voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0016/Sad/0016_001260.wav",
+        "target_content": "It weighs seven point five kilogram."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0016/Sad/0016_001276.wav",
+        "prompt_description": " Change the timbre to a feminine, clear, slightly muffled, middle-aged, slightly thin, slightly elegant voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0015/Sad/0015_001151.wav",
+        "target_content": "It's me piglit, help help!"
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0018/Sad/0018_001362.wav",
+        "prompt_description": " Change the timbre to a feminine, young, magnetic, very fluent, slightly thick voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0016/Sad/0016_001276.wav",
+        "target_content": "And the next day. Nurse will be released."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0015/Sad/0015_001068.wav",
+        "prompt_description": " Change the timbre to a feminine, young, magnetic, very fluent, slightly thick voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0016/Sad/0016_001234.wav",
+        "target_content": "We have been fine, haven't we?"
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0016/Sad/0016_001219.wav",
+        "prompt_description": " Change the timbre to a feminine, clear, slightly muffled, middle-aged, slightly thin, slightly elegant voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0015/Sad/0015_001166.wav",
+        "target_content": "No, I burst the balloon!"
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0018/Sad/0018_001388.wav",
+        "prompt_description": " Change the timbre to a feminine, young, magnetic, very fluent, slightly thick voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0016/Sad/0016_001282.wav",
+        "target_content": "Will call her Lily, for short."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0018/Sad/0018_001388.wav",
+        "prompt_description": " Change the timbre to a feminine, young, magnetic, very fluent, slightly thick voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0016/Sad/0016_001311.wav",
+        "target_content": "After a while he perceived both giants."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0018/Sad/0018_001317.wav",
+        "prompt_description": " Change the timbre to a feminine, young, magnetic, very fluent, slightly thick voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0016/Sad/0016_001247.wav",
+        "target_content": "Fur flew through the air, teeth gnashed."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0019/Sad/0019_001151.wav",
+        "prompt_description": " Change the timbre to a feminine, young, magnetic, very fluent, slightly thick voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0016/Sad/0016_001214.wav",
+        "target_content": "His large mouth curled into a sneer."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0019/Sad/0019_001258.wav",
+        "prompt_description": " Change the timbre to a feminine, very young, light, clear, slightly cute voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0018/Sad/0018_001303.wav",
+        "target_content": "I have a soothsayer."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0018/Sad/0018_001090.wav",
+        "prompt_description": " Change the timbre to a feminine, clear, slightly muffled, middle-aged, slightly thin, slightly elegant voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0015/Sad/0015_001084.wav",
+        "target_content": "A divine wrath made her blue eyes awful."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0018/Sad/0018_001258.wav",
+        "prompt_description": " Change the timbre to a feminine, young, magnetic, very fluent, slightly thick voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0016/Sad/0016_001212.wav",
+        "target_content": "I lent George three pounds."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0018/Sad/0018_001329.wav",
+        "prompt_description": " Change the timbre to a feminine, young, magnetic, very fluent, slightly thick voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0016/Sad/0016_001247.wav",
+        "target_content": "Fur flew through the air, teeth gnashed."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0015/Sad/0015_001151.wav",
+        "prompt_description": " Change the timbre to a feminine, very young, light, clear, slightly cute voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0018/Sad/0018_001304.wav",
+        "target_content": "She laughed."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0016/Sad/0016_001314.wav",
+        "prompt_description": " Change the timbre to a feminine, very young, light, clear, slightly cute voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0018/Sad/0018_001090.wav",
+        "target_content": "In which fox loses a tail and its elder sister finds one."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0016/Sad/0016_001224.wav",
+        "prompt_description": " Change the timbre to a feminine, very young, light, clear, slightly cute voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0018/Sad/0018_001388.wav",
+        "target_content": "Paul's teeth ached because of lemon."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0016/Sad/0016_001314.wav",
+        "prompt_description": " Change the timbre to a feminine, very young, light, clear, slightly cute voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0018/Sad/0018_001388.wav",
+        "target_content": "Paul's teeth ached because of lemon."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0018/Sad/0018_001322.wav",
+        "prompt_description": " Change the timbre to a feminine, young, magnetic, very fluent, slightly thick voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0016/Sad/0016_001224.wav",
+        "target_content": "I pay half a crown a week extra."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0018/Sad/0018_001172.wav",
+        "prompt_description": " Change the timbre to a feminine, young, magnetic, very fluent, slightly thick voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0016/Sad/0016_001247.wav",
+        "target_content": "Fur flew through the air, teeth gnashed."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0018/Sad/0018_001265.wav",
+        "prompt_description": " Change the timbre to a feminine, adult-like, magnetic, very elegant, relaxed voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0019/Sad/0019_001258.wav",
+        "target_content": "However, somebody killed something."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0015/Sad/0015_001166.wav",
+        "prompt_description": " Change the timbre to a feminine, very young, light, clear, slightly cute voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0018/Sad/0018_001384.wav",
+        "target_content": "Another one, ten thousand dollars."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0016/Sad/0016_001154.wav",
+        "prompt_description": " Change the timbre to a feminine, very young, light, clear, slightly cute voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0018/Sad/0018_001188.wav",
+        "target_content": "But one requires the explorer to furnish proofs."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0016/Sad/0016_001271.wav",
+        "prompt_description": " Change the timbre to a feminine, clear, slightly muffled, middle-aged, slightly thin, slightly elegant voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0015/Sad/0015_001284.wav",
+        "target_content": "Hurry up, hurry up!"
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0018/Sad/0018_001388.wav",
+        "prompt_description": " Change the timbre to a feminine, clear, slightly muffled, middle-aged, slightly thin, slightly elegant voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0015/Sad/0015_001284.wav",
+        "target_content": "Hurry up, hurry up!"
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0016/Sad/0016_001262.wav",
+        "prompt_description": " Change the timbre to a feminine, very young, light, clear, slightly cute voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0018/Sad/0018_001090.wav",
+        "target_content": "In which fox loses a tail and its elder sister finds one."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0016/Sad/0016_001212.wav",
+        "prompt_description": " Change the timbre to a feminine, very young, light, clear, slightly cute voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0018/Sad/0018_001322.wav",
+        "target_content": "No admittance except on party business."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0016/Sad/0016_001212.wav",
+        "prompt_description": " Change the timbre to a feminine, very young, light, clear, slightly cute voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0018/Sad/0018_001172.wav",
+        "target_content": "Am I an absolute pauper?"
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0018/Sad/0018_001060.wav",
+        "prompt_description": " Change the timbre to a feminine, young, magnetic, very fluent, slightly thick voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0016/Sad/0016_001316.wav",
+        "target_content": "We may join with that power."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0018/Sad/0018_001090.wav",
+        "prompt_description": " Change the timbre to a feminine, clear, slightly muffled, middle-aged, slightly thin, slightly elegant voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0015/Sad/0015_001166.wav",
+        "target_content": "No, I burst the balloon!"
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0015/Sad/0015_001166.wav",
+        "prompt_description": " Change the timbre to a feminine, very young, light, clear, slightly cute voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0018/Sad/0018_001388.wav",
+        "target_content": "Paul's teeth ached because of lemon."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0015/Sad/0015_001178.wav",
+        "prompt_description": " Change the timbre to a feminine, adult-like, magnetic, very elegant, relaxed voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0019/Sad/0019_001258.wav",
+        "target_content": "However, somebody killed something."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0016/Sad/0016_001265.wav",
+        "prompt_description": " Change the timbre to a feminine, very young, light, clear, slightly cute voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0018/Sad/0018_001329.wav",
+        "target_content": "These words behind the ears is nonsense."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0019/Sad/0019_001151.wav",
+        "prompt_description": " Change the timbre to a feminine, very young, light, clear, slightly cute voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0018/Sad/0018_001329.wav",
+        "target_content": "These words behind the ears is nonsense."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0018/Sad/0018_001388.wav",
+        "prompt_description": " Change the timbre to a feminine, clear, slightly muffled, middle-aged, slightly thin, slightly elegant voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0015/Sad/0015_001067.wav",
+        "target_content": "Why has this egg not broken?"
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0016/Sad/0016_001212.wav",
+        "prompt_description": " Change the timbre to a feminine, very young, light, clear, slightly cute voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0018/Sad/0018_001248.wav",
+        "target_content": "I'd shoot myself. a pause."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0018/Sad/0018_001249.wav",
+        "prompt_description": " Change the timbre to a feminine, clear, slightly muffled, middle-aged, slightly thin, slightly elegant voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0015/Sad/0015_001178.wav",
+        "target_content": "Put that rude grasshopper in jail!"
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0019/Sad/0019_001258.wav",
+        "prompt_description": " Change the timbre to a feminine, clear, slightly muffled, middle-aged, slightly thin, slightly elegant voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0015/Sad/0015_001151.wav",
+        "target_content": "It's me piglit, help help!"
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0018/Sad/0018_001362.wav",
+        "prompt_description": " Change the timbre to a feminine, young, magnetic, very fluent, slightly thick voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0016/Sad/0016_001271.wav",
+        "target_content": "I am a selfish sinner."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0019/Sad/0019_001151.wav",
+        "prompt_description": " Change the timbre to a feminine, young, magnetic, very fluent, slightly thick voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0016/Sad/0016_001212.wav",
+        "target_content": "I lent George three pounds."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0016/Sad/0016_001212.wav",
+        "prompt_description": " Change the timbre to a feminine, very young, light, clear, slightly cute voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0018/Sad/0018_001081.wav",
+        "target_content": "All smile were real and the happier，the more sincere ."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0015/Sad/0015_001084.wav",
+        "prompt_description": " Change the timbre to a feminine, very young, light, clear, slightly cute voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0018/Sad/0018_001172.wav",
+        "target_content": "Am I an absolute pauper?"
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0016/Sad/0016_001154.wav",
+        "prompt_description": " Change the timbre to a feminine, very young, light, clear, slightly cute voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0018/Sad/0018_001063.wav",
+        "target_content": "I have bunburyed all over goat on two separate occasions."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0015/Sad/0015_001151.wav",
+        "prompt_description": " Change the timbre to a feminine, young, magnetic, very fluent, slightly thick voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0016/Sad/0016_001276.wav",
+        "target_content": "And the next day. Nurse will be released."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0018/Sad/0018_001265.wav",
+        "prompt_description": " Change the timbre to a feminine, young, magnetic, very fluent, slightly thick voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0016/Sad/0016_001212.wav",
+        "target_content": "I lent George three pounds."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0019/Sad/0019_001151.wav",
+        "prompt_description": " Change the timbre to a feminine, very young, light, clear, slightly cute voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0018/Sad/0018_001062.wav",
+        "target_content": "Her shoes were like fishes."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0015/Sad/0015_001151.wav",
+        "prompt_description": " Change the timbre to a feminine, very young, light, clear, slightly cute voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0018/Sad/0018_001188.wav",
+        "target_content": "But one requires the explorer to furnish proofs."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0016/Sad/0016_001264.wav",
+        "prompt_description": " Change the timbre to a feminine, very young, light, clear, slightly cute voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0018/Sad/0018_001362.wav",
+        "target_content": "Father has yellow eyes."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0018/Sad/0018_001081.wav",
+        "prompt_description": " Change the timbre to a feminine, young, magnetic, very fluent, slightly thick voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0016/Sad/0016_001264.wav",
+        "target_content": "But what about this thing, sticky!"
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0016/Sad/0016_001282.wav",
+        "prompt_description": " Change the timbre to a feminine, very young, light, clear, slightly cute voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0018/Sad/0018_001303.wav",
+        "target_content": "I have a soothsayer."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0015/Sad/0015_001068.wav",
+        "prompt_description": " Change the timbre to a feminine, very young, light, clear, slightly cute voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0018/Sad/0018_001062.wav",
+        "target_content": "Her shoes were like fishes."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0018/Sad/0018_001329.wav",
+        "prompt_description": " Change the timbre to a feminine, young, magnetic, very fluent, slightly thick voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0016/Sad/0016_001212.wav",
+        "target_content": "I lent George three pounds."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0018/Sad/0018_001151.wav",
+        "prompt_description": " Change the timbre to a feminine, clear, slightly muffled, middle-aged, slightly thin, slightly elegant voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0015/Sad/0015_001084.wav",
+        "target_content": "A divine wrath made her blue eyes awful."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0016/Sad/0016_001154.wav",
+        "prompt_description": " Change the timbre to a feminine, clear, slightly muffled, middle-aged, slightly thin, slightly elegant voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0015/Sad/0015_001166.wav",
+        "target_content": "No, I burst the balloon!"
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0018/Sad/0018_001329.wav",
+        "prompt_description": " Change the timbre to a feminine, young, magnetic, very fluent, slightly thick voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0016/Sad/0016_001341.wav",
+        "target_content": "The end of February fourteenth."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0016/Sad/0016_001260.wav",
+        "prompt_description": " Change the timbre to a feminine, very young, light, clear, slightly cute voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0018/Sad/0018_001304.wav",
+        "target_content": "She laughed."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0016/Sad/0016_001224.wav",
+        "prompt_description": " Change the timbre to a feminine, adult-like, magnetic, very elegant, relaxed voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0019/Sad/0019_001258.wav",
+        "target_content": "However, somebody killed something."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0016/Sad/0016_001311.wav",
+        "prompt_description": " Change the timbre to a feminine, clear, slightly muffled, middle-aged, slightly thin, slightly elegant voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0015/Sad/0015_001284.wav",
+        "target_content": "Hurry up, hurry up!"
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0015/Sad/0015_001151.wav",
+        "prompt_description": " Change the timbre to a feminine, young, magnetic, very fluent, slightly thick voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0016/Sad/0016_001264.wav",
+        "target_content": "But what about this thing, sticky!"
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0016/Sad/0016_001220.wav",
+        "prompt_description": " Change the timbre to a feminine, slightly deep, clear, slightly young, slightly calm voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0017/Sad/0017_001314.wav",
+        "target_content": "Slam the doors and wedge them!"
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0016/Sad/0016_001154.wav",
+        "prompt_description": " Change the timbre to a feminine, very young, light, clear, slightly cute voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0018/Sad/0018_001383.wav",
+        "target_content": "You gain for nothing girl!"
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0015/Sad/0015_001284.wav",
+        "prompt_description": " Change the timbre to a feminine, young, magnetic, very fluent, slightly thick voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0016/Sad/0016_001386.wav",
+        "target_content": "Over them swooped the eagles."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0018/Sad/0018_001384.wav",
+        "prompt_description": " Change the timbre to a feminine, young, magnetic, very fluent, slightly thick voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0016/Sad/0016_001085.wav",
+        "target_content": "The name really is the agedaged man."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0015/Sad/0015_001166.wav",
+        "prompt_description": " Change the timbre to a feminine, young, magnetic, very fluent, slightly thick voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0016/Sad/0016_001085.wav",
+        "target_content": "The name really is the agedaged man."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0015/Sad/0015_001067.wav",
+        "prompt_description": " Change the timbre to a feminine, very young, light, clear, slightly cute voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0018/Sad/0018_001303.wav",
+        "target_content": "I have a soothsayer."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0016/Sad/0016_001311.wav",
+        "prompt_description": " Change the timbre to a feminine, very young, light, clear, slightly cute voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0018/Sad/0018_001061.wav",
+        "target_content": "Chapter ten a warm welcome."
+    },
+    {
+        "prompt_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0015/Sad/0015_001084.wav",
+        "prompt_description": " Change the timbre to a feminine, very young, light, clear, slightly cute voice.",
+        "target_wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0018/Sad/0018_001329.wav",
+        "target_content": "These words behind the ears is nonsense."
+    }
+]

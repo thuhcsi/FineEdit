@@ -1,0 +1,101 @@
+[
+    {
+        "item_name": "LibriTTS_R-7665_104978_000007_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/7665/104978/7665_104978_000007_000000.wav",
+        "speaker_id": "LibriTTS_R-7665",
+        "content": "\"You are discreet, and you evidently desire a position.",
+        "style_prompt": "M_p-normal_s-fast_e-low",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "very fast",
+        "energy": "very low"
+    },
+    {
+        "item_name": "LibriTTS_R-7665_104978_000007_000004",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/7665/104978/7665_104978_000007_000004.wav",
+        "speaker_id": "LibriTTS_R-7665",
+        "content": "You understand me?\"",
+        "style_prompt": "M_p-normal_s-normal_e-high",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-7665_104978_000009_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/7665/104978/7665_104978_000009_000000.wav",
+        "speaker_id": "LibriTTS_R-7665",
+        "content": "\"Not even to me,\" she emphasized.",
+        "style_prompt": "M_p-low_s-normal_e-normal",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-7665_104978_000012_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/7665/104978/7665_104978_000012_000001.wav",
+        "speaker_id": "LibriTTS_R-7665",
+        "content": "The difficulties will not be great to a discreet person.",
+        "style_prompt": "M_p-low_s-normal_e-normal",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-7665_104979_000001_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/7665/104979/7665_104979_000001_000000.wav",
+        "speaker_id": "LibriTTS_R-7665",
+        "content": "I knew all the current gossip about mrs Packard before I had parted with Miss Davies.",
+        "style_prompt": "M_p-low_s-fast_e-normal",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "fast",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-7665_104979_000001_000003",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/7665/104979/7665_104979_000001_000003.wav",
+        "speaker_id": "LibriTTS_R-7665",
+        "content": "In doing this she had walked into a fortune.",
+        "style_prompt": "M_p-normal_s-normal_e-normal",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-7665_104979_000044_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/7665/104979/7665_104979_000044_000001.wav",
+        "speaker_id": "LibriTTS_R-7665",
+        "content": "I have political enemies, of course men, who, influenced by party feeling, are not above attacking methods and possibly my official reputation; but personal ones-wretches willing to stab me in my home life and affections, that I can not believe.",
+        "style_prompt": "M_p-low_s-normal_e-low",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "very low"
+    },
+    {
+        "item_name": "LibriTTS_R-7665_104979_000053_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/7665/104979/7665_104979_000053_000000.wav",
+        "speaker_id": "LibriTTS_R-7665",
+        "content": "\"Well-yes.",
+        "style_prompt": "M_p-normal_s-slow_e-low",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "very slow",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-7665_104979_000062_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/7665/104979/7665_104979_000062_000000.wav",
+        "speaker_id": "LibriTTS_R-7665",
+        "content": "\"I doubt if mrs Packard more than knows of his presence.",
+        "style_prompt": "M_p-normal_s-normal_e-normal",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "normal"
+    }
+]

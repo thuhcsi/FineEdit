@@ -1,0 +1,90 @@
+[
+    {
+        "item_name": "LibriTTS_R-1081_128618_000003_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1081/128618/1081_128618_000003_000000.wav",
+        "speaker_id": "LibriTTS_R-1081",
+        "content": "FRIED PERCH-two",
+        "style_prompt": "M_p-low_s-slow_e-normal",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "very slow",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-1081_128618_000005_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1081/128618/1081_128618_000005_000000.wav",
+        "speaker_id": "LibriTTS_R-1081",
+        "content": "FRIED PERCH-three",
+        "style_prompt": "M_p-low_s-slow_e-normal",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "very slow",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-1081_128618_000007_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1081/128618/1081_128618_000007_000000.wav",
+        "speaker_id": "LibriTTS_R-1081",
+        "content": "BROILED PERCH",
+        "style_prompt": "M_p-normal_s-slow_e-low",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "very slow",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-1081_128618_000013_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1081/128618/1081_128618_000013_000000.wav",
+        "speaker_id": "LibriTTS_R-1081",
+        "content": "PERCH A L'ALLEMANDE",
+        "style_prompt": "M_p-normal_s-slow_e-high",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "slow",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-1081_128618_000023_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1081/128618/1081_128618_000023_000000.wav",
+        "speaker_id": "LibriTTS_R-1081",
+        "content": "PERCH A l a SICILY",
+        "style_prompt": "M_p-normal_s-fast_e-high",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "fast",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-1081_128618_000024_000003",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1081/128618/1081_128618_000024_000003.wav",
+        "speaker_id": "LibriTTS_R-1081",
+        "content": "Cook together four tablespoonfuls of butter and two of flour.",
+        "style_prompt": "M_p-normal_s-normal_e-low",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-1081_128618_000027_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1081/128618/1081_128618_000027_000000.wav",
+        "speaker_id": "LibriTTS_R-1081",
+        "content": "BAKED PERCH",
+        "style_prompt": "M_p-normal_s-normal_e-low",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "very low"
+    },
+    {
+        "item_name": "LibriTTS_R-1081_128618_000029_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1081/128618/1081_128618_000029_000000.wav",
+        "speaker_id": "LibriTTS_R-1081",
+        "content": "PERCH SALAD",
+        "style_prompt": "M_p-normal_s-slow_e-normal",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "very slow",
+        "energy": "normal"
+    }
+]

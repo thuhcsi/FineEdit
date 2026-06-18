@@ -1,0 +1,112 @@
+[
+    {
+        "item_name": "LibriTTS_R-652_129742_000010_000003",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/652/129742/652_129742_000010_000003.wav",
+        "speaker_id": "LibriTTS_R-652",
+        "content": "Use only the white inner stalks, serve with a cream dressing.",
+        "style_prompt": "M_p-low_s-normal_e-low",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-652_130737_000012_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/652/130737/652_130737_000012_000000.wav",
+        "speaker_id": "LibriTTS_R-652",
+        "content": "Amontillado, Montilo and Olorosa sherries.",
+        "style_prompt": "M_p-low_s-normal_e-low",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-652_130737_000021_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/652/130737/652_130737_000021_000000.wav",
+        "speaker_id": "LibriTTS_R-652",
+        "content": "Chateau Lafitte: Has beautiful color and delicate flavor.",
+        "style_prompt": "M_p-low_s-fast_e-normal",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "fast",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-652_130737_000029_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/652/130737/652_130737_000029_000000.wav",
+        "speaker_id": "LibriTTS_R-652",
+        "content": "Dreimanner: Similar to Brauneberger.",
+        "style_prompt": "M_p-low_s-normal_e-low",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-652_130737_000030_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/652/130737/652_130737_000030_000000.wav",
+        "speaker_id": "LibriTTS_R-652",
+        "content": "Deidesheimer: Similar to Brauneberger.",
+        "style_prompt": "M_p-low_s-fast_e-low",
+        "gender": "M",
+        "pitch": "very low",
+        "speed": "fast",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-652_130737_000031_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/652/130737/652_130737_000031_000000.wav",
+        "speaker_id": "LibriTTS_R-652",
+        "content": "Graffenberg: Light and pleasant.",
+        "style_prompt": "M_p-low_s-slow_e-low",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "slow",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-652_130737_000031_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/652/130737/652_130737_000031_000001.wav",
+        "speaker_id": "LibriTTS_R-652",
+        "content": "Good aroma.",
+        "style_prompt": "M_p-low_s-fast_e-high",
+        "gender": "M",
+        "pitch": "very low",
+        "speed": "very fast",
+        "energy": "very high"
+    },
+    {
+        "item_name": "LibriTTS_R-652_130737_000032_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/652/130737/652_130737_000032_000000.wav",
+        "speaker_id": "LibriTTS_R-652",
+        "content": "Johannisberger Schloss: One of the best of the German wines.",
+        "style_prompt": "M_p-low_s-fast_e-normal",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "fast",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-652_130737_000035_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/652/130737/652_130737_000035_000000.wav",
+        "speaker_id": "LibriTTS_R-652",
+        "content": "Lacrima Christi Spumanti: The finest Italian champagne.",
+        "style_prompt": "M_p-low_s-fast_e-low",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "fast",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-652_130737_000042_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/652/130737/652_130737_000042_000000.wav",
+        "speaker_id": "LibriTTS_R-652",
+        "content": "Barsac: Rich and good.",
+        "style_prompt": "M_p-low_s-slow_e-low",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "very slow",
+        "energy": "very low"
+    }
+]

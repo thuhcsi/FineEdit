@@ -1,0 +1,123 @@
+[
+    {
+        "item_name": "LibriTTS_R-210_129396_000010_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/210/129396/210_129396_000010_000001.wav",
+        "speaker_id": "LibriTTS_R-210",
+        "content": "Stupidity militant.",
+        "style_prompt": "M_p-low_s-normal_e-normal",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-210_129396_000029_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/210/129396/210_129396_000029_000001.wav",
+        "speaker_id": "LibriTTS_R-210",
+        "content": "Apparently.",
+        "style_prompt": "M_p-low_s-fast_e-low",
+        "gender": "M",
+        "pitch": "very low",
+        "speed": "very fast",
+        "energy": "very low"
+    },
+    {
+        "item_name": "LibriTTS_R-210_129396_000032_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/210/129396/210_129396_000032_000001.wav",
+        "speaker_id": "LibriTTS_R-210",
+        "content": "Propensitate of prejudice.",
+        "style_prompt": "M_p-low_s-fast_e-low",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "very fast",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-210_129396_000073_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/210/129396/210_129396_000073_000001.wav",
+        "speaker_id": "LibriTTS_R-210",
+        "content": "A reproduction of a work of art, by the artist that made the original.",
+        "style_prompt": "M_p-low_s-fast_e-low",
+        "gender": "M",
+        "pitch": "very low",
+        "speed": "very fast",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-210_129396_000087_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/210/129396/210_129396_000087_000001.wav",
+        "speaker_id": "LibriTTS_R-210",
+        "content": "Obstinate in a course that we approve.",
+        "style_prompt": "M_p-low_s-fast_e-low",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "fast",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-210_129396_000108_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/210/129396/210_129396_000108_000000.wav",
+        "speaker_id": "LibriTTS_R-210",
+        "content": "\"The Sturdy Beggar\"",
+        "style_prompt": "M_p-low_s-normal_e-high",
+        "gender": "M",
+        "pitch": "very low",
+        "speed": "normal",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-210_129396_000110_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/210/129396/210_129396_000110_000001.wav",
+        "speaker_id": "LibriTTS_R-210",
+        "content": "Benefactor; philanthropist.",
+        "style_prompt": "M_p-low_s-normal_e-low",
+        "gender": "M",
+        "pitch": "very low",
+        "speed": "normal",
+        "energy": "very low"
+    },
+    {
+        "item_name": "LibriTTS_R-210_129396_000114_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/210/129396/210_129396_000114_000000.wav",
+        "speaker_id": "LibriTTS_R-210",
+        "content": "What, what!",
+        "style_prompt": "M_p-low_s-slow_e-low",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "slow",
+        "energy": "very low"
+    },
+    {
+        "item_name": "LibriTTS_R-210_129396_000130_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/210/129396/210_129396_000130_000000.wav",
+        "speaker_id": "LibriTTS_R-210",
+        "content": "j p Morgan",
+        "style_prompt": "M_p-low_s-slow_e-high",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "very slow",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-210_129396_000151_000004",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/210/129396/210_129396_000151_000004.wav",
+        "speaker_id": "LibriTTS_R-210",
+        "content": "\"That,\" he said, \"is the story.\"",
+        "style_prompt": "M_p-low_s-slow_e-low",
+        "gender": "M",
+        "pitch": "very low",
+        "speed": "slow",
+        "energy": "very low"
+    },
+    {
+        "item_name": "LibriTTS_R-210_129396_000157_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/210/129396/210_129396_000157_000001.wav",
+        "speaker_id": "LibriTTS_R-210",
+        "content": "To destroy.",
+        "style_prompt": "M_p-low_s-slow_e-high",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "slow",
+        "energy": "very high"
+    }
+]

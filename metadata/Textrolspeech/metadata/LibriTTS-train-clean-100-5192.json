@@ -1,0 +1,26 @@
+[
+    {
+        "item_name": "libritts-train-clean-100-5192-19396-5192_19396_000029_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-100/5192/19396/5192_19396_000029_000000.wav",
+        "speaker_id": "LibriTTS-train-clean-100-5192",
+        "content": "By all that is priestly!",
+        "style_prompt": "Speaking at a moderate speed, the male speaker conveys enthusiasm with a normal pitch.",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "high",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-100-5192-19396-5192_19396_000026_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-100/5192/19396/5192_19396_000026_000000.wav",
+        "speaker_id": "LibriTTS-train-clean-100-5192",
+        "content": "--The duce take it! said my uncle Toby.",
+        "style_prompt": "Displaying normal energy, his rapid delivery is accompanied by a low vocal pitch.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "high",
+        "energy": "normal",
+        "emotion": "neutral"
+    }
+]

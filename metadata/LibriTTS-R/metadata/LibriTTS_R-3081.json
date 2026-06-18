@@ -1,0 +1,79 @@
+[
+    {
+        "item_name": "LibriTTS_R-3081_166546_000028_000002",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/3081/166546/3081_166546_000028_000002.wav",
+        "speaker_id": "LibriTTS_R-3081",
+        "content": "How quickly he disappeared!\"",
+        "style_prompt": "F_p-high_s-normal_e-normal",
+        "gender": "F",
+        "pitch": "very high",
+        "speed": "normal",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-3081_166546_000049_000005",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/3081/166546/3081_166546_000049_000005.wav",
+        "speaker_id": "LibriTTS_R-3081",
+        "content": "Perhaps you can.",
+        "style_prompt": "F_p-high_s-slow_e-high",
+        "gender": "F",
+        "pitch": "high",
+        "speed": "slow",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-3081_166546_000070_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/3081/166546/3081_166546_000070_000000.wav",
+        "speaker_id": "LibriTTS_R-3081",
+        "content": "\"So they tell me.\"",
+        "style_prompt": "F_p-high_s-normal_e-normal",
+        "gender": "F",
+        "pitch": "very high",
+        "speed": "normal",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-3081_166546_000071_000005",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/3081/166546/3081_166546_000071_000005.wav",
+        "speaker_id": "LibriTTS_R-3081",
+        "content": "What do you make of it, Gryce?\"",
+        "style_prompt": "F_p-high_s-normal_e-normal",
+        "gender": "F",
+        "pitch": "very high",
+        "speed": "normal",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-3081_166546_000096_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/3081/166546/3081_166546_000096_000000.wav",
+        "speaker_id": "LibriTTS_R-3081",
+        "content": "\"Yes.\"",
+        "style_prompt": "F_p-high_s-slow_e-normal",
+        "gender": "F",
+        "pitch": "very high",
+        "speed": "very slow",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-3081_166546_000097_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/3081/166546/3081_166546_000097_000000.wav",
+        "speaker_id": "LibriTTS_R-3081",
+        "content": "\"But the blood?",
+        "style_prompt": "F_p-high_s-slow_e-normal",
+        "gender": "F",
+        "pitch": "very high",
+        "speed": "slow",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-3081_166546_000101_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/3081/166546/3081_166546_000101_000001.wav",
+        "speaker_id": "LibriTTS_R-3081",
+        "content": "The weapon must still have been there.",
+        "style_prompt": "F_p-high_s-normal_e-normal",
+        "gender": "F",
+        "pitch": "very high",
+        "speed": "normal",
+        "energy": "normal"
+    }
+]

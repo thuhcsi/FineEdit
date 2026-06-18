@@ -1,0 +1,233 @@
+[
+    {
+        "item_name": "LibriTTS_R-3738_176680_000007_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/3738/176680/3738_176680_000007_000000.wav",
+        "speaker_id": "LibriTTS_R-3738",
+        "content": "\"Howdye, little girl!\" And the cat had got her tongue.",
+        "style_prompt": "F_p-low_s-normal_e-low",
+        "gender": "F",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-3738_176680_000007_000009",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/3738/176680/3738_176680_000007_000009.wav",
+        "speaker_id": "LibriTTS_R-3738",
+        "content": "What should she do?",
+        "style_prompt": "F_p-low_s-slow_e-high",
+        "gender": "F",
+        "pitch": "low",
+        "speed": "slow",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-3738_176680_000019_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/3738/176680/3738_176680_000019_000000.wav",
+        "speaker_id": "LibriTTS_R-3738",
+        "content": "\"Go home, I tell ye-Uncle Judd's shot.",
+        "style_prompt": "F_p-high_s-slow_e-normal",
+        "gender": "F",
+        "pitch": "very high",
+        "speed": "slow",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-3738_176680_000020_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/3738/176680/3738_176680_000020_000000.wav",
+        "speaker_id": "LibriTTS_R-3738",
+        "content": "\"No, no, NO!",
+        "style_prompt": "F_p-high_s-slow_e-low",
+        "gender": "F",
+        "pitch": "high",
+        "speed": "very slow",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-3738_176680_000022_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/3738/176680/3738_176680_000022_000000.wav",
+        "speaker_id": "LibriTTS_R-3738",
+        "content": "\"Dad!\" she said.",
+        "style_prompt": "F_p-normal_s-slow_e-low",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "very slow",
+        "energy": "very low"
+    },
+    {
+        "item_name": "LibriTTS_R-3738_176680_000024_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/3738/176680/3738_176680_000024_000000.wav",
+        "speaker_id": "LibriTTS_R-3738",
+        "content": "\"No-no!\"",
+        "style_prompt": "F_p-normal_s-slow_e-low",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "very slow",
+        "energy": "very low"
+    },
+    {
+        "item_name": "LibriTTS_R-3738_176682_000009_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/3738/176682/3738_176682_000009_000000.wav",
+        "speaker_id": "LibriTTS_R-3738",
+        "content": "There was more.",
+        "style_prompt": "F_p-normal_s-normal_e-normal",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-3738_176682_000014_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/3738/176682/3738_176682_000014_000000.wav",
+        "speaker_id": "LibriTTS_R-3738",
+        "content": "\"Sure!",
+        "style_prompt": "F_p-high_s-slow_e-low",
+        "gender": "F",
+        "pitch": "very high",
+        "speed": "very slow",
+        "energy": "very low"
+    },
+    {
+        "item_name": "LibriTTS_R-3738_176682_000018_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/3738/176682/3738_176682_000018_000000.wav",
+        "speaker_id": "LibriTTS_R-3738",
+        "content": "\"Well, see you again.",
+        "style_prompt": "F_p-high_s-slow_e-low",
+        "gender": "F",
+        "pitch": "high",
+        "speed": "slow",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-3738_176682_000026_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/3738/176682/3738_176682_000026_000000.wav",
+        "speaker_id": "LibriTTS_R-3738",
+        "content": "\"No, but one's comin'--Dave.\"",
+        "style_prompt": "F_p-normal_s-fast_e-low",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "fast",
+        "energy": "very low"
+    },
+    {
+        "item_name": "LibriTTS_R-3738_176682_000034_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/3738/176682/3738_176682_000034_000000.wav",
+        "speaker_id": "LibriTTS_R-3738",
+        "content": "\"Where you goin'?\"",
+        "style_prompt": "F_p-high_s-normal_e-high",
+        "gender": "F",
+        "pitch": "high",
+        "speed": "normal",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-3738_176682_000037_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/3738/176682/3738_176682_000037_000000.wav",
+        "speaker_id": "LibriTTS_R-3738",
+        "content": "\"I'm not worried.\"",
+        "style_prompt": "F_p-normal_s-normal_e-low",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-3738_176682_000038_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/3738/176682/3738_176682_000038_000000.wav",
+        "speaker_id": "LibriTTS_R-3738",
+        "content": "\"Well, you better be,\" said Budd sharply.",
+        "style_prompt": "F_p-low_s-slow_e-low",
+        "gender": "F",
+        "pitch": "low",
+        "speed": "slow",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-3738_176682_000044_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/3738/176682/3738_176682_000044_000000.wav",
+        "speaker_id": "LibriTTS_R-3738",
+        "content": "\"Look here, Jack, you're seein' things wrong.",
+        "style_prompt": "F_p-normal_s-slow_e-low",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "slow",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-3738_176682_000051_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/3738/176682/3738_176682_000051_000000.wav",
+        "speaker_id": "LibriTTS_R-3738",
+        "content": "\"Don't you worry, Jack.\"",
+        "style_prompt": "F_p-low_s-slow_e-normal",
+        "gender": "F",
+        "pitch": "low",
+        "speed": "slow",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-3738_176682_000052_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/3738/176682/3738_176682_000052_000000.wav",
+        "speaker_id": "LibriTTS_R-3738",
+        "content": "\"All right, Sam.\"",
+        "style_prompt": "F_p-low_s-slow_e-normal",
+        "gender": "F",
+        "pitch": "low",
+        "speed": "slow",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-3738_176682_000057_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/3738/176682/3738_176682_000057_000000.wav",
+        "speaker_id": "LibriTTS_R-3738",
+        "content": "\"I've heard.\"",
+        "style_prompt": "F_p-low_s-normal_e-low",
+        "gender": "F",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "very low"
+    },
+    {
+        "item_name": "LibriTTS_R-3738_176682_000064_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/3738/176682/3738_176682_000064_000000.wav",
+        "speaker_id": "LibriTTS_R-3738",
+        "content": "\"But I ain't.\"",
+        "style_prompt": "F_p-low_s-slow_e-low",
+        "gender": "F",
+        "pitch": "very low",
+        "speed": "slow",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-3738_176682_000067_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/3738/176682/3738_176682_000067_000000.wav",
+        "speaker_id": "LibriTTS_R-3738",
+        "content": "That was what Budd said.",
+        "style_prompt": "F_p-normal_s-slow_e-normal",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "slow",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-3738_176682_000067_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/3738/176682/3738_176682_000067_000001.wav",
+        "speaker_id": "LibriTTS_R-3738",
+        "content": "Well, had he given her a chance?",
+        "style_prompt": "F_p-high_s-normal_e-low",
+        "gender": "F",
+        "pitch": "high",
+        "speed": "normal",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-3738_176682_000075_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/3738/176682/3738_176682_000075_000000.wav",
+        "speaker_id": "LibriTTS_R-3738",
+        "content": "Hale choked.",
+        "style_prompt": "F_p-low_s-slow_e-normal",
+        "gender": "F",
+        "pitch": "low",
+        "speed": "very slow",
+        "energy": "normal"
+    }
+]

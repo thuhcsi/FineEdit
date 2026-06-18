@@ -1,0 +1,211 @@
+[
+    {
+        "item_name": "LibriTTS_R-1182_133396_000007_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1182/133396/1182_133396_000007_000000.wav",
+        "speaker_id": "LibriTTS_R-1182",
+        "content": "\"And what good would that do?\" said Fritz, the swineherd.",
+        "style_prompt": "M_p-normal_s-normal_e-low",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "very low"
+    },
+    {
+        "item_name": "LibriTTS_R-1182_133396_000009_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1182/133396/1182_133396_000009_000001.wav",
+        "speaker_id": "LibriTTS_R-1182",
+        "content": "\"How shall I find the Baron Conrad to bear a message to him, when our Baron has been looking for him in vain for two days past?\"",
+        "style_prompt": "M_p-high_s-normal_e-low",
+        "gender": "M",
+        "pitch": "high",
+        "speed": "normal",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-1182_133396_000011_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1182/133396/1182_133396_000011_000000.wav",
+        "speaker_id": "LibriTTS_R-1182",
+        "content": "\"I will have nothing to do with it!\" said Fritz, and he got up from the wooden block whereon he was sitting and stumped out of the house.",
+        "style_prompt": "M_p-normal_s-normal_e-low",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "very low"
+    },
+    {
+        "item_name": "LibriTTS_R-1182_133396_000011_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1182/133396/1182_133396_000011_000001.wav",
+        "speaker_id": "LibriTTS_R-1182",
+        "content": "But, then, Katherine had heard him talk in that way before, and knew, in spite of his saying \"no,\" that, sooner or later, he would do as she wished.",
+        "style_prompt": "M_p-high_s-fast_e-normal",
+        "gender": "M",
+        "pitch": "high",
+        "speed": "fast",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-1182_133396_000013_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1182/133396/1182_133396_000013_000000.wav",
+        "speaker_id": "LibriTTS_R-1182",
+        "content": "Rap tap tap!",
+        "style_prompt": "M_p-high_s-slow_e-low",
+        "gender": "M",
+        "pitch": "high",
+        "speed": "very slow",
+        "energy": "very low"
+    },
+    {
+        "item_name": "LibriTTS_R-1182_133396_000014_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1182/133396/1182_133396_000014_000000.wav",
+        "speaker_id": "LibriTTS_R-1182",
+        "content": "Presently, with a click, a little square wicket that pierced the door was opened, and a woman's face peered out through the iron bars.",
+        "style_prompt": "M_p-normal_s-normal_e-low",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "very low"
+    },
+    {
+        "item_name": "LibriTTS_R-1182_133396_000015_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1182/133396/1182_133396_000015_000000.wav",
+        "speaker_id": "LibriTTS_R-1182",
+        "content": "The one eyed Hans whipped off his leathern cap.",
+        "style_prompt": "M_p-normal_s-fast_e-normal",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "fast",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-1182_133396_000020_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1182/133396/1182_133396_000020_000000.wav",
+        "speaker_id": "LibriTTS_R-1182",
+        "content": "Hans held up a necklace of blue and white beads that glistened like jewels in the sun, and from them hung a gorgeous filigree cross.",
+        "style_prompt": "M_p-normal_s-normal_e-low",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-1182_133396_000026_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1182/133396/1182_133396_000026_000000.wav",
+        "speaker_id": "LibriTTS_R-1182",
+        "content": "\"The necklace,\" said the girl, in a frightened whisper.",
+        "style_prompt": "M_p-normal_s-fast_e-low",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "fast",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-1182_133396_000027_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1182/133396/1182_133396_000027_000001.wav",
+        "speaker_id": "LibriTTS_R-1182",
+        "content": "\"It's thine,\" said he, \"and now wilt thou not help me to a trade?\"",
+        "style_prompt": "M_p-high_s-normal_e-low",
+        "gender": "M",
+        "pitch": "high",
+        "speed": "normal",
+        "energy": "very low"
+    },
+    {
+        "item_name": "LibriTTS_R-1182_133396_000030_000004",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1182/133396/1182_133396_000030_000004.wav",
+        "speaker_id": "LibriTTS_R-1182",
+        "content": "Thou hussy!",
+        "style_prompt": "M_p-normal_s-slow_e-normal",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "very slow",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-1182_133396_000032_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1182/133396/1182_133396_000032_000000.wav",
+        "speaker_id": "LibriTTS_R-1182",
+        "content": "He settled the cap more firmly upon his head, spat upon his hands, and once more stooping in the fireplace, gave a leap, and up the chimney he went with a rattle of loose mortar and a black trickle of soot.",
+        "style_prompt": "M_p-normal_s-normal_e-low",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "very low"
+    },
+    {
+        "item_name": "LibriTTS_R-1182_133396_000033_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1182/133396/1182_133396_000033_000000.wav",
+        "speaker_id": "LibriTTS_R-1182",
+        "content": "By and by footsteps sounded outside the door.",
+        "style_prompt": "M_p-normal_s-normal_e-normal",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-1182_133396_000037_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1182/133396/1182_133396_000037_000000.wav",
+        "speaker_id": "LibriTTS_R-1182",
+        "content": "Suddenly a shower of mortar came rattling down the chimney.",
+        "style_prompt": "M_p-normal_s-normal_e-low",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-1182_133396_000037_000002",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1182/133396/1182_133396_000037_000002.wav",
+        "speaker_id": "LibriTTS_R-1182",
+        "content": "Bang! the door was clapped to and away they scurried like a flock of frightened rabbits.",
+        "style_prompt": "M_p-normal_s-normal_e-low",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-1182_134981_000009_000004",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1182/134981/1182_134981_000009_000004.wav",
+        "speaker_id": "LibriTTS_R-1182",
+        "content": "But Falada observed everything, and laid it all to heart.",
+        "style_prompt": "M_p-normal_s-normal_e-low",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-1182_134981_000016_000003",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1182/134981/1182_134981_000016_000003.wav",
+        "speaker_id": "LibriTTS_R-1182",
+        "content": "Then she spoke:",
+        "style_prompt": "M_p-high_s-normal_e-normal",
+        "gender": "M",
+        "pitch": "high",
+        "speed": "normal",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-1182_134981_000025_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1182/134981/1182_134981_000025_000000.wav",
+        "speaker_id": "LibriTTS_R-1182",
+        "content": "Then a puff of wind came and blew Curdken's hat far away, so that he had to run after it; and when he returned she had long finished putting up her golden locks, and he couldn't get any hair; so they watched the geese till it was dark.",
+        "style_prompt": "M_p-normal_s-normal_e-low",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-1182_134981_000027_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1182/134981/1182_134981_000027_000000.wav",
+        "speaker_id": "LibriTTS_R-1182",
+        "content": "\"'Oh!",
+        "style_prompt": "M_p-low_s-slow_e-low",
+        "gender": "M",
+        "pitch": "very low",
+        "speed": "very slow",
+        "energy": "very low"
+    }
+]

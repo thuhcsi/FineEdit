@@ -1,0 +1,26 @@
+[
+    {
+        "item_name": "libritts-train-clean-360-3187-168497-3187_168497_000021_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/3187/168497/3187_168497_000021_000000.wav",
+        "speaker_id": "LibriTTS-train-clean-360-3187",
+        "content": "WAR",
+        "style_prompt": "A calm and steady male voice, speaking at a slow pace with a low pitch and maintaining a normal level of energy.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "low",
+        "energy": "normal",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-360-3187-168497-3187_168497_000018_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/3187/168497/3187_168497_000018_000000.wav",
+        "speaker_id": "LibriTTS-train-clean-360-3187",
+        "content": "THE JOCOSE GODS",
+        "style_prompt": "Slow and deliberate speech of a deep and resonant male voice, instilling confidence with a normal energy.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "low",
+        "energy": "normal",
+        "emotion": "neutral"
+    }
+]

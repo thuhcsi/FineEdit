@@ -1,0 +1,62 @@
+[
+    {
+        "item_name": "libritts-train-clean-360-7518-86741-7518_86741_000043_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/7518/86741/7518_86741_000043_000000.wav",
+        "speaker_id": "LibriTTS-train-clean-360-7518",
+        "content": "\"Before or after, whichever you please.\"",
+        "style_prompt": "The deliberate and unhurried cadence of a deep-voiced male speaker creates a serene audio experience, speaking at a slow pace with normal energy.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "low",
+        "energy": "normal",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-360-7518-86741-7518_86741_000057_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/7518/86741/7518_86741_000057_000000.wav",
+        "speaker_id": "LibriTTS-train-clean-360-7518",
+        "content": "\"Yes, there is something I wish to see.\"",
+        "style_prompt": "Speaking with fervor, the man's voice remains low in pitch while radiating energy at a natural pace.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "high",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-360-7518-86741-7518_86741_000042_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/7518/86741/7518_86741_000042_000000.wav",
+        "speaker_id": "LibriTTS-train-clean-360-7518",
+        "content": "\"After the execution?\" cried Franz.",
+        "style_prompt": "With his low tone, the male speaker communicates high energy within a normal tempo.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "high",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-360-7518-86741-7518_86741_000007_000002",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/7518/86741/7518_86741_000007_000002.wav",
+        "speaker_id": "LibriTTS-train-clean-360-7518",
+        "content": "I have.",
+        "style_prompt": "Speaking with gusto, the male speaker's energetic delivery is accompanied by a deep, resonant tone.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "high",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-360-7518-86741-7518_86741_000064_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/7518/86741/7518_86741_000064_000000.wav",
+        "speaker_id": "LibriTTS-train-clean-360-7518",
+        "content": "\"How attentively he looked at you.\"",
+        "style_prompt": "Speaking with zest, the man's low-pitched voice maintains a natural speaking speed.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "high",
+        "emotion": "neutral"
+    }
+]

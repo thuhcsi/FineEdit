@@ -1,0 +1,79 @@
+[
+    {
+        "item_name": "LibriTTS_R-4572_112375_000001_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/4572/112375/4572_112375_000001_000001.wav",
+        "speaker_id": "LibriTTS_R-4572",
+        "content": "Lakshman's Speech.",
+        "style_prompt": "M_p-low_s-slow_e-normal",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "very slow",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-4572_112381_000007_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/4572/112381/4572_112381_000007_000001.wav",
+        "speaker_id": "LibriTTS_R-4572",
+        "content": "Angad's Counsel.",
+        "style_prompt": "M_p-normal_s-slow_e-normal",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "very slow",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-4572_112383_000003_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/4572/112383/4572_112383_000003_000001.wav",
+        "speaker_id": "LibriTTS_R-4572",
+        "content": "Tidings Of Sita.",
+        "style_prompt": "M_p-low_s-slow_e-normal",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "slow",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-4572_112383_000006_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/4572/112383/4572_112383_000006_000000.wav",
+        "speaker_id": "LibriTTS_R-4572",
+        "content": "He ceased.",
+        "style_prompt": "M_p-low_s-slow_e-normal",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "slow",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-4572_112383_000007_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/4572/112383/4572_112383_000007_000001.wav",
+        "speaker_id": "LibriTTS_R-4572",
+        "content": "Sampati's Story.",
+        "style_prompt": "M_p-low_s-slow_e-high",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "slow",
+        "energy": "very high"
+    },
+    {
+        "item_name": "LibriTTS_R-4572_112383_000011_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/4572/112383/4572_112383_000011_000001.wav",
+        "speaker_id": "LibriTTS_R-4572",
+        "content": "Sampati's Story.",
+        "style_prompt": "M_p-low_s-slow_e-high",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "slow",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-4572_64670_000001_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/4572/64670/4572_64670_000001_000001.wav",
+        "speaker_id": "LibriTTS_R-4572",
+        "content": "Guha And Bharat.",
+        "style_prompt": "M_p-low_s-fast_e-normal",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "fast",
+        "energy": "normal"
+    }
+]

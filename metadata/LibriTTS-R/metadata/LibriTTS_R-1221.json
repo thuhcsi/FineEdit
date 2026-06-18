@@ -1,0 +1,79 @@
+[
+    {
+        "item_name": "LibriTTS_R-1221_135766_000015_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1221/135766/1221_135766_000015_000000.wav",
+        "speaker_id": "LibriTTS_R-1221",
+        "content": "\"Child, what art thou?\" cried the mother.",
+        "style_prompt": "F_p-normal_s-slow_e-high",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "slow",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-1221_135766_000025_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1221/135766/1221_135766_000025_000001.wav",
+        "speaker_id": "LibriTTS_R-1221",
+        "content": "\"I have no Heavenly Father!\"",
+        "style_prompt": "F_p-normal_s-normal_e-high",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-1221_135766_000026_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1221/135766/1221_135766_000026_000000.wav",
+        "speaker_id": "LibriTTS_R-1221",
+        "content": "\"Hush, Pearl, hush!",
+        "style_prompt": "F_p-high_s-slow_e-high",
+        "gender": "F",
+        "pitch": "very high",
+        "speed": "very slow",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-1221_135766_000026_000005",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1221/135766/1221_135766_000026_000005.wav",
+        "speaker_id": "LibriTTS_R-1221",
+        "content": "Or, if not, thou strange and elfish child, whence didst thou come?\"",
+        "style_prompt": "F_p-normal_s-slow_e-normal",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "slow",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-1221_135766_000027_000002",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1221/135766/1221_135766_000027_000002.wav",
+        "speaker_id": "LibriTTS_R-1221",
+        "content": "\"It is thou that must tell me!\"",
+        "style_prompt": "F_p-normal_s-normal_e-high",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-1221_135767_000019_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1221/135767/1221_135767_000019_000001.wav",
+        "speaker_id": "LibriTTS_R-1221",
+        "content": "Look!",
+        "style_prompt": "F_p-high_s-slow_e-low",
+        "gender": "F",
+        "pitch": "very high",
+        "speed": "very slow",
+        "energy": "very low"
+    },
+    {
+        "item_name": "LibriTTS_R-1221_135767_000019_000002",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1221/135767/1221_135767_000019_000002.wav",
+        "speaker_id": "LibriTTS_R-1221",
+        "content": "Look!\"",
+        "style_prompt": "F_p-high_s-slow_e-low",
+        "gender": "F",
+        "pitch": "very high",
+        "speed": "very slow",
+        "energy": "very low"
+    }
+]

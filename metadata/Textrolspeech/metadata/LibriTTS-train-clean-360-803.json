@@ -1,0 +1,110 @@
+[
+    {
+        "item_name": "libritts-train-clean-360-803-139753-803_139753_000008_000005",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/803/139753/803_139753_000008_000005.wav",
+        "speaker_id": "LibriTTS-train-clean-360-803",
+        "content": "With cobbled agates were its streets a glory.",
+        "style_prompt": "The unhurried cadence of a low-pitched male voice, delivering words at a leisurely pace with a grounded and steady energy.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "low",
+        "energy": "normal",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-360-803-139753-803_139753_000008_000006",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/803/139753/803_139753_000008_000006.wav",
+        "speaker_id": "LibriTTS-train-clean-360-803",
+        "content": "Through small square panes of rose quartz the citizens looked from their houses.",
+        "style_prompt": "His vibrant and robust low pitch complements his naturally paced speech, brimming with enthusiasm.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "high",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-360-803-139753-803_139753_000008_000007",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/803/139753/803_139753_000008_000007.wav",
+        "speaker_id": "LibriTTS-train-clean-360-803",
+        "content": "To them as they looked abroad the World far off seemed happy.",
+        "style_prompt": "The man's deep voice and energetic speaking style maintain high energy at a natural speed.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "high",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-360-803-139752-803_139752_000001_000003",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/803/139752/803_139752_000001_000003.wav",
+        "speaker_id": "LibriTTS-train-clean-360-803",
+        "content": "His terms are moderate, so much cash down when the goods are delivered, so much in blackmail afterwards.",
+        "style_prompt": "A man with a deep, expressive voice speaks naturally with a regular speaking speed and energy.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "normal",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-360-803-139752-803_139752_000021_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/803/139752/803_139752_000021_000000.wav",
+        "speaker_id": "LibriTTS-train-clean-360-803",
+        "content": "\"Oh, no, my child\" (for such a question is childish).",
+        "style_prompt": "The male speaker speaks naturally, neither too fast nor too slow, with a deep pitch.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "normal",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-360-803-139752-803_139752_000005_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/803/139752/803_139752_000005_000001.wav",
+        "speaker_id": "LibriTTS-train-clean-360-803",
+        "content": "mrs Eggins, the caretaker, glanced up the street, and then she let them in, and left them to wait in the drawing room amongst furniture all mysterious with sheets.",
+        "style_prompt": "The man's voice maintains a natural rhythm, speaking with an average pace and regular energy.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "normal",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-360-803-139752-803_139752_000001_000008",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/803/139752/803_139752_000001_000008.wav",
+        "speaker_id": "LibriTTS-train-clean-360-803",
+        "content": "He has a way with tapestry; you would scarcely notice that the edges had been cut.",
+        "style_prompt": "The male speaker converses at a regular pace, emitting a low-pitched voice with normal enthusiasm.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "normal",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-360-803-139752-803_139752_000010_000004",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/803/139752/803_139752_000010_000004.wav",
+        "speaker_id": "LibriTTS-train-clean-360-803",
+        "content": "Five minutes before midnight Tommy Tonker, instructed by mr Nuth, who waited outside, came away with one pocketful of rings and shirt studs.",
+        "style_prompt": "Speaking with animation, his low-pitched voice carries his energy at a natural tempo.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "high",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-360-803-139752-803_139752_000015_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/803/139752/803_139752_000015_000001.wav",
+        "speaker_id": "LibriTTS-train-clean-360-803",
+        "content": "They did not speak of it there, and elsewhere it is unheard of.",
+        "style_prompt": "His deep vocal quality remains steady as he speaks with an average speaking speed and regular enthusiasm.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "normal",
+        "emotion": "neutral"
+    }
+]

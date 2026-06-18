@@ -1,0 +1,38 @@
+[
+    {
+        "item_name": "libritts-train-clean-360-1552-140651-1552_140651_000053_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/1552/140651/1552_140651_000053_000001.wav",
+        "speaker_id": "LibriTTS-train-clean-360-1552",
+        "content": "As the bee collects nectar and departs without injuring the flower, or its colour or scent, so let a sage dwell in his village.",
+        "style_prompt": "His deep vocal quality remains constant as he speaks with an average tempo and typical enthusiasm.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "normal",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-360-1552-141135-1552_141135_000013_000010",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/1552/141135/1552_141135_000013_000010.wav",
+        "speaker_id": "LibriTTS-train-clean-360-1552",
+        "content": "They failed both with powdered felspar and quartz.",
+        "style_prompt": "Speaking animatedly, he uses a regular pitch and infuses his words with high energy.",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "high",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-360-1552-141135-1552_141135_000015_000004",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/1552/141135/1552_141135_000015_000004.wav",
+        "speaker_id": "LibriTTS-train-clean-360-1552",
+        "content": "Even during our occasional visits to this part of South America, we heard of a ship, two churches, and a house having been struck.",
+        "style_prompt": "Speaking at a regular speed, the male speaker emanates a vivid high energy.",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "high",
+        "emotion": "neutral"
+    }
+]

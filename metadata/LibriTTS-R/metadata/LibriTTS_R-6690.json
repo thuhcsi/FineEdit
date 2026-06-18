@@ -1,0 +1,35 @@
+[
+    {
+        "item_name": "LibriTTS_R-6690_73073_000002_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/6690/73073/6690_73073_000002_000000.wav",
+        "speaker_id": "LibriTTS_R-6690",
+        "content": "one.",
+        "style_prompt": "M_p-low_s-fast_e-low",
+        "gender": "M",
+        "pitch": "very low",
+        "speed": "very fast",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-6690_73073_000012_000002",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/6690/73073/6690_73073_000012_000002.wav",
+        "speaker_id": "LibriTTS_R-6690",
+        "content": "Rutinius explains that it was not written down for a long time, but transmitted orally, kept secret, and used as a sort of password among the elect.",
+        "style_prompt": "M_p-normal_s-slow_e-high",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "slow",
+        "energy": "very high"
+    },
+    {
+        "item_name": "LibriTTS_R-6690_73075_000006_000002",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/6690/73075/6690_73075_000006_000002.wav",
+        "speaker_id": "LibriTTS_R-6690",
+        "content": "At times they display a divine simplicity.",
+        "style_prompt": "M_p-low_s-normal_e-high",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "very high"
+    }
+]

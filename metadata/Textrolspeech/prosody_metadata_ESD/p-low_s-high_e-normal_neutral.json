@@ -1,0 +1,41 @@
+[
+    {
+        "item_name": "Emotional Speech Dataset (ESD)-Emotion Speech Dataset-0011-Neutral-0011_000182",
+        "wav_path": "/zhiji-universal-cfs-sh/speech/prompt_based_data/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0011/Neutral/0011_000182.wav",
+        "speaker_id": "Emotional Speech Dataset (ESD)-Emotion Speech Dataset-0011",
+        "content": "Age forty five if a day a lie.",
+        "style_prompt": "With average energy, the male speaker employs swift speech with a low timbre.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "high",
+        "energy": "normal",
+        "emotion": "neutral",
+        "prosody_key": "p-low_s-high_e-normal_neutral"
+    },
+    {
+        "item_name": "Emotional Speech Dataset (ESD)-Emotion Speech Dataset-0011-Neutral-0011_000216",
+        "wav_path": "/zhiji-universal-cfs-sh/speech/prompt_based_data/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0011/Neutral/0011_000216.wav",
+        "speaker_id": "Emotional Speech Dataset (ESD)-Emotion Speech Dataset-0011",
+        "content": "well it isn't picked at all.",
+        "style_prompt": "The man's rapid-speaking style, featuring a low pitch, captures a sense of average energy.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "high",
+        "energy": "normal",
+        "emotion": "neutral",
+        "prosody_key": "p-low_s-high_e-normal_neutral"
+    },
+    {
+        "item_name": "Emotional Speech Dataset (ESD)-Emotion Speech Dataset-0011-Neutral-0011_000303",
+        "wav_path": "/zhiji-universal-cfs-sh/speech/prompt_based_data/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0011/Neutral/0011_000303.wav",
+        "speaker_id": "Emotional Speech Dataset (ESD)-Emotion Speech Dataset-0011",
+        "content": "I am loath to see him go.",
+        "style_prompt": "Speaking quickly, the man's voice carries a low pitch and maintains normal energy.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "high",
+        "energy": "normal",
+        "emotion": "neutral",
+        "prosody_key": "p-low_s-high_e-normal_neutral"
+    }
+]

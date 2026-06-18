@@ -1,0 +1,26 @@
+[
+    {
+        "item_name": "libritts-train-clean-360-1645-141819-1645_141819_000012_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/1645/141819/1645_141819_000012_000001.wav",
+        "speaker_id": "LibriTTS-train-clean-360-1645",
+        "content": "And he said, Yea, O king, they be whole.",
+        "style_prompt": "With a low pitch and regular speaking speed, his voice carries an overall low energy.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "low",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-360-1645-141819-1645_141819_000004_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/1645/141819/1645_141819_000004_000001.wav",
+        "speaker_id": "LibriTTS-train-clean-360-1645",
+        "content": "And Daniel said unto the king, Let it be according to thy word.",
+        "style_prompt": "His voice, combined with a regular rhythm, conveys an air of low vitality in his expression.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "low",
+        "emotion": "neutral"
+    }
+]

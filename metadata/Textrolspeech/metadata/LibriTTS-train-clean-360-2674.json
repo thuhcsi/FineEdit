@@ -1,0 +1,26 @@
+[
+    {
+        "item_name": "libritts-train-clean-360-2674-155968-2674_155968_000007_000002",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/2674/155968/2674_155968_000007_000002.wav",
+        "speaker_id": "LibriTTS-train-clean-360-2674",
+        "content": "Then a curious thing happened.",
+        "style_prompt": "The man's resonant low tone enhances his dynamic speaking style with high energy.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "high",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-360-2674-155968-2674_155968_000013_000007",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/2674/155968/2674_155968_000013_000007.wav",
+        "speaker_id": "LibriTTS-train-clean-360-2674",
+        "content": "This change has been made.\"",
+        "style_prompt": "The speaker's speedy delivery and low tone contribute to his normal energy projection.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "high",
+        "energy": "normal",
+        "emotion": "neutral"
+    }
+]

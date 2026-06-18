@@ -1,0 +1,26 @@
+[
+    {
+        "item_name": "libritts-train-clean-100-2764-36616-2764_36616_000039_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-100/2764/36616/2764_36616_000039_000000.wav",
+        "speaker_id": "LibriTTS-train-clean-100-2764",
+        "content": "Sir:",
+        "style_prompt": "She communicates at a leisurely pace, her pitch elevated, and her energy normal.",
+        "gender": "F",
+        "pitch": "high",
+        "speed": "low",
+        "energy": "normal",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-100-2764-36616-2764_36616_000035_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-100/2764/36616/2764_36616_000035_000000.wav",
+        "speaker_id": "LibriTTS-train-clean-100-2764",
+        "content": "Pierre Aronnax",
+        "style_prompt": "Her pitch is high, and she speaks slowly with normal energy levels.",
+        "gender": "F",
+        "pitch": "high",
+        "speed": "low",
+        "energy": "normal",
+        "emotion": "neutral"
+    }
+]

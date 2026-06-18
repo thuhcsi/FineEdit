@@ -1,0 +1,13 @@
+[
+    {
+        "item_name": "LibriTTS_R-2696_157636_000029_000003",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/2696/157636/2696_157636_000029_000003.wav",
+        "speaker_id": "LibriTTS_R-2696",
+        "content": "They sold many things besides coffee, and served a variety of purposes, but primarily they were temples of talk and good fellowship.",
+        "style_prompt": "M_p-high_s-fast_e-normal",
+        "gender": "M",
+        "pitch": "high",
+        "speed": "fast",
+        "energy": "normal"
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "item_name": "LibriTTS_R-3807_4923_000011_000003",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/3807/4923/3807_4923_000011_000003.wav",
+        "speaker_id": "LibriTTS_R-3807",
+        "content": "It's liberty we require.\"",
+        "style_prompt": "M_p-low_s-normal_e-high",
+        "gender": "M",
+        "pitch": "very low",
+        "speed": "normal",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-3807_4923_000014_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/3807/4923/3807_4923_000014_000001.wav",
+        "speaker_id": "LibriTTS_R-3807",
+        "content": "\"What, here?\"",
+        "style_prompt": "M_p-normal_s-slow_e-low",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "slow",
+        "energy": "very low"
+    },
+    {
+        "item_name": "LibriTTS_R-3807_4923_000021_000002",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/3807/4923/3807_4923_000021_000002.wav",
+        "speaker_id": "LibriTTS_R-3807",
+        "content": "He began to think that he was the victim of a nightmare.",
+        "style_prompt": "M_p-low_s-fast_e-normal",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "fast",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-3807_4923_000028_000002",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/3807/4923/3807_4923_000028_000002.wav",
+        "speaker_id": "LibriTTS_R-3807",
+        "content": "What do they mean to do next?\"",
+        "style_prompt": "M_p-normal_s-slow_e-high",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "slow",
+        "energy": "very high"
+    },
+    {
+        "item_name": "LibriTTS_R-3807_4923_000029_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/3807/4923/3807_4923_000029_000000.wav",
+        "speaker_id": "LibriTTS_R-3807",
+        "content": "The answer came pat to the question.",
+        "style_prompt": "M_p-normal_s-normal_e-high",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-3807_4923_000029_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/3807/4923/3807_4923_000029_000001.wav",
+        "speaker_id": "LibriTTS_R-3807",
+        "content": "From the dark hull of the brig broke a flash and a report, and a musket ball cut the water beside them with a chirping noise.",
+        "style_prompt": "M_p-low_s-normal_e-normal",
+        "gender": "M",
+        "pitch": "very low",
+        "speed": "normal",
+        "energy": "normal"
+    }
+]

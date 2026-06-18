@@ -1,0 +1,74 @@
+[
+    {
+        "item_name": "libritts-train-clean-100-7148-82991-7148_82991_000036_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-100/7148/82991/7148_82991_000036_000000.wav",
+        "speaker_id": "LibriTTS-train-clean-100-7148",
+        "content": "Awed by Mark's determined manner, the bystanders kept aloof.",
+        "style_prompt": "The girl's speech was slow, yet her energy was palpable.",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "low",
+        "energy": "high",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-100-7148-82991-7148_82991_000014_000003",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-100/7148/82991/7148_82991_000014_000003.wav",
+        "speaker_id": "LibriTTS-train-clean-100-7148",
+        "content": "In that year the young prince espoused Catherine of Arragon, our present queen, and soon afterwards died; whereupon the old king, not liking-for he loved his treasure better than his own flesh-to part with her dowry, gave her to his second son, Henry, our gracious sovereign, whom God preserve!",
+        "style_prompt": "With great energy, she maintains a regular speaking tone.",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "high",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-100-7148-82991-7148_82991_000045_000002",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-100/7148/82991/7148_82991_000045_000002.wav",
+        "speaker_id": "LibriTTS-train-clean-100-7148",
+        "content": "To the castle!",
+        "style_prompt": "A woman's normal-toned voice conveys high energy.",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "high",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-100-7148-82991-7148_82991_000039_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-100/7148/82991/7148_82991_000039_000001.wav",
+        "speaker_id": "LibriTTS-train-clean-100-7148",
+        "content": "\"Yield, fellow!\"",
+        "style_prompt": "She spoke with high energy, her pitch vibrant and lively.",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "low",
+        "energy": "high",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-100-7148-82991-7148_82991_000031_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-100/7148/82991/7148_82991_000031_000001.wav",
+        "speaker_id": "LibriTTS-train-clean-100-7148",
+        "content": "\"Why, Mark, you are clean crazed!\"",
+        "style_prompt": "Her voice is full of high energy as she speaks rapidly.",
+        "gender": "F",
+        "pitch": "high",
+        "speed": "normal",
+        "energy": "high",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-100-7148-82991-7148_82991_000031_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-100/7148/82991/7148_82991_000031_000000.wav",
+        "speaker_id": "LibriTTS-train-clean-100-7148",
+        "content": "\"A foolish wish,\" cried Bryan.",
+        "style_prompt": "Her high-pitched tone adds an energetic vibe to her speech.",
+        "gender": "F",
+        "pitch": "high",
+        "speed": "normal",
+        "energy": "high",
+        "emotion": "neutral"
+    }
+]

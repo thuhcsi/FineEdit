@@ -1,0 +1,222 @@
+[
+    {
+        "item_name": "LibriTTS_R-2162_185436_000000_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/2162/185436/2162_185436_000000_000000.wav",
+        "speaker_id": "LibriTTS_R-2162",
+        "content": "THE RELIC",
+        "style_prompt": "M_p-low_s-normal_e-low",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-2162_185436_000001_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/2162/185436/2162_185436_000001_000000.wav",
+        "speaker_id": "LibriTTS_R-2162",
+        "content": "It was upon an evening in Spain, but with nothing which that word evokes for us in the North-for it was merely a lessening of the light without dews, without mists, and without skies-that I came up a stony valley and saw against the random line of the plateau at its head the dome of a church.",
+        "style_prompt": "M_p-normal_s-normal_e-normal",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-2162_185436_000001_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/2162/185436/2162_185436_000001_000001.wav",
+        "speaker_id": "LibriTTS_R-2162",
+        "content": "The road I travelled was but faintly marked, and was often lost and mingled with the rough boulders and the sand, and in the shallow depression of the valley there were but a few stagnant pools.",
+        "style_prompt": "M_p-normal_s-normal_e-normal",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-2162_185436_000002_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/2162/185436/2162_185436_000002_000000.wav",
+        "speaker_id": "LibriTTS_R-2162",
+        "content": "The shape of the dome was Italian, and it should have stood in an Italian landscape, drier indeed than that to which Northerners are accustomed, but still surrounded by trees, and with a distance that could render things lightly blue.",
+        "style_prompt": "M_p-low_s-normal_e-low",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-2162_185436_000003_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/2162/185436/2162_185436_000003_000001.wav",
+        "speaker_id": "LibriTTS_R-2162",
+        "content": "It was now quite dark.",
+        "style_prompt": "M_p-low_s-normal_e-high",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-2162_185436_000003_000002",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/2162/185436/2162_185436_000003_000002.wav",
+        "speaker_id": "LibriTTS_R-2162",
+        "content": "The darkness had come suddenly, and, to make all things consonant, there was no moon and there were not any stars; clouds had risen of an even and menacing sort, and one could see no heaven.",
+        "style_prompt": "M_p-normal_s-normal_e-low",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "very low"
+    },
+    {
+        "item_name": "LibriTTS_R-2162_185436_000004_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/2162/185436/2162_185436_000004_000000.wav",
+        "speaker_id": "LibriTTS_R-2162",
+        "content": "In the presence of so wonderful a thing I forgot the object of my journey and the immediate care of the moment, and I went through the great doors that opened on the Place.",
+        "style_prompt": "M_p-low_s-fast_e-low",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "fast",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-2162_185436_000004_000002",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/2162/185436/2162_185436_000004_000002.wav",
+        "speaker_id": "LibriTTS_R-2162",
+        "content": "Already at Saragossa, and several times during my walking south from thence, I had noted that what the Spaniards did had a strange affinity to the work of Flanders.",
+        "style_prompt": "M_p-normal_s-normal_e-normal",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-2162_185436_000004_000005",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/2162/185436/2162_185436_000004_000005.wav",
+        "speaker_id": "LibriTTS_R-2162",
+        "content": "Both districts have been mingled in history, yet it is not the Spaniard who has invigorated the Delta of the Rhine and the high country to the south of it, nor the Walloons and the Flemings who have taught the Spaniards; but each of these highly separated peoples resembles the other when it comes to the outward expression of the soul: why, I cannot tell.",
+        "style_prompt": "M_p-normal_s-normal_e-low",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-2162_185436_000005_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/2162/185436/2162_185436_000005_000001.wav",
+        "speaker_id": "LibriTTS_R-2162",
+        "content": "Go to the earliest of the basilicas in Rome, and you will see that sacred enclosure standing in the middle of the edifice and taking up a certain proportion of the whole.",
+        "style_prompt": "M_p-low_s-fast_e-normal",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "fast",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-2162_185436_000005_000002",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/2162/185436/2162_185436_000005_000002.wav",
+        "speaker_id": "LibriTTS_R-2162",
+        "content": "We in the North, where the Faith lived uninterruptedly and, after the ninth century, with no great struggle, dwindled this feature and extended the open and popular space, keeping only the rood screen as a hint of what had once been the Secret Mysteries and the Initiations of our origins.",
+        "style_prompt": "M_p-low_s-normal_e-normal",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-2162_185436_000006_000002",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/2162/185436/2162_185436_000006_000002.wav",
+        "speaker_id": "LibriTTS_R-2162",
+        "content": "There was a young priest passing me at that moment, and I said to him in Latin of the common sort that I could speak no Spanish.",
+        "style_prompt": "M_p-low_s-normal_e-normal",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-2162_185436_000006_000003",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/2162/185436/2162_185436_000006_000003.wav",
+        "speaker_id": "LibriTTS_R-2162",
+        "content": "I asked him if he could speak to me slowly in Latin, as I was speaking to him.",
+        "style_prompt": "M_p-low_s-normal_e-low",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-2162_185436_000008_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/2162/185436/2162_185436_000008_000000.wav",
+        "speaker_id": "LibriTTS_R-2162",
+        "content": "To those inexperienced in the practice of such worship there might be more excuse for the novel impression which this sight suddenly produced upon me.",
+        "style_prompt": "M_p-low_s-normal_e-normal",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-2162_185436_000008_000002",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/2162/185436/2162_185436_000008_000002.wav",
+        "speaker_id": "LibriTTS_R-2162",
+        "content": "I wondered as I looked at that face whether he had fallen in protest against the Mohammedans, or, as have so many, in a Spanish endurance of torture, martyred by Pagans in the Pacific Seas.",
+        "style_prompt": "M_p-low_s-normal_e-normal",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-2162_185436_000009_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/2162/185436/2162_185436_000009_000001.wav",
+        "speaker_id": "LibriTTS_R-2162",
+        "content": "They next intoned the Salve Regina.",
+        "style_prompt": "M_p-normal_s-normal_e-high",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "very high"
+    },
+    {
+        "item_name": "LibriTTS_R-2162_185436_000009_000002",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/2162/185436/2162_185436_000009_000002.wav",
+        "speaker_id": "LibriTTS_R-2162",
+        "content": "But what an intonation!",
+        "style_prompt": "M_p-low_s-fast_e-high",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "fast",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-2162_185436_000010_000002",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/2162/185436/2162_185436_000010_000002.wav",
+        "speaker_id": "LibriTTS_R-2162",
+        "content": "Had I cared less for the human beings about me, so much suffering, so much national tradition of suffering would have revolted, as it did indeed appal, me.",
+        "style_prompt": "M_p-normal_s-normal_e-low",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "very low"
+    },
+    {
+        "item_name": "LibriTTS_R-2162_185436_000010_000003",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/2162/185436/2162_185436_000010_000003.wav",
+        "speaker_id": "LibriTTS_R-2162",
+        "content": "The chant came to an end, and the three gracious epithets in which it closes were full of wailing, and the children's voices were very high.",
+        "style_prompt": "M_p-low_s-normal_e-normal",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-2162_185436_000011_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/2162/185436/2162_185436_000011_000000.wav",
+        "speaker_id": "LibriTTS_R-2162",
+        "content": "Then the priest shut the doors and locked them, and a boy came and blew the candles out one by one, and I went out into the market place, fuller than ever of Spain.",
+        "style_prompt": "M_p-normal_s-normal_e-low",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "very low"
+    }
+]

@@ -1,0 +1,112 @@
+[
+    {
+        "item_name": "LibriTTS_R-332_128985_000001_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/332/128985/332_128985_000001_000000.wav",
+        "speaker_id": "LibriTTS_R-332",
+        "content": "The Story of Roc, the Brazilian",
+        "style_prompt": "M_p-normal_s-fast_e-low",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "fast",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-332_128985_000004_000004",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/332/128985/332_128985_000004_000004.wav",
+        "speaker_id": "LibriTTS_R-332",
+        "content": "This story, however, I regard with a great deal of doubt; it has been told of Saladin and many other wicked and famous men, but I do not believe it is an easy thing to frighten a child into going to sleep.",
+        "style_prompt": "M_p-low_s-normal_e-low",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-332_128985_000005_000004",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/332/128985/332_128985_000005_000004.wav",
+        "speaker_id": "LibriTTS_R-332",
+        "content": "It was his custom in the daytime to walk about, carrying a drawn cutlass, resting easily upon his arm, edge up, very much as a fine gentleman carries his high silk hat, and any one who should impertinently stare or endeavor to quell his high spirits in any other way, would probably have felt the edge of that cutlass descending rapidly through his physical organism.",
+        "style_prompt": "M_p-normal_s-normal_e-normal",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-332_128985_000008_000004",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/332/128985/332_128985_000008_000004.wav",
+        "speaker_id": "LibriTTS_R-332",
+        "content": "There is nothing horrible that has ever been written or told about the buccaneer life, which could not have been told about Roc, the Brazilian.",
+        "style_prompt": "M_p-normal_s-normal_e-high",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-332_128985_000008_000005",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/332/128985/332_128985_000008_000005.wav",
+        "speaker_id": "LibriTTS_R-332",
+        "content": "He was a typical pirate.",
+        "style_prompt": "M_p-high_s-fast_e-normal",
+        "gender": "M",
+        "pitch": "very high",
+        "speed": "very fast",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-332_128985_000012_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/332/128985/332_128985_000012_000000.wav",
+        "speaker_id": "LibriTTS_R-332",
+        "content": "When the pirate captain and his companions were brought before the Governor, he made no pretence of putting them to trial.",
+        "style_prompt": "M_p-normal_s-normal_e-normal",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-332_128985_000012_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/332/128985/332_128985_000012_000001.wav",
+        "speaker_id": "LibriTTS_R-332",
+        "content": "Buccaneers were outlawed by the Spanish, and were considered as wild beasts to be killed without mercy wherever caught.",
+        "style_prompt": "M_p-low_s-normal_e-high",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-332_128985_000026_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/332/128985/332_128985_000026_000000.wav",
+        "speaker_id": "LibriTTS_R-332",
+        "content": "But this downfall of a hero simply shows that Esquemeling, although he was a member of the piratical body, and was proud to consider himself a buccaneer, did not understand the true nature of a pirate.",
+        "style_prompt": "M_p-normal_s-normal_e-high",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-332_128985_000026_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/332/128985/332_128985_000026_000001.wav",
+        "speaker_id": "LibriTTS_R-332",
+        "content": "Under the brutality, the cruelty, the dishonesty, and the recklessness of the sea robbers of those days, there was nearly always meanness and cowardice.",
+        "style_prompt": "M_p-normal_s-normal_e-normal",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-332_128985_000026_000002",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/332/128985/332_128985_000026_000002.wav",
+        "speaker_id": "LibriTTS_R-332",
+        "content": "Roc, as we have said in the beginning of this sketch, was a typical pirate; under certain circumstances he showed himself to have all those brave and savage qualities which Esquemeling esteemed and revered, and under other circumstances he showed those other qualities which Esquemeling despised, but which are necessary to make up the true character of a pirate.",
+        "style_prompt": "M_p-normal_s-normal_e-normal",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "normal"
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "item_name": "LibriTTS_R-830_130728_000000_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/830/130728/830_130728_000000_000000.wav",
+        "speaker_id": "LibriTTS_R-830",
+        "content": "Artistic Japan",
+        "style_prompt": "F_p-normal_s-normal_e-low",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "very low"
+    },
+    {
+        "item_name": "LibriTTS_R-830_130728_000020_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/830/130728/830_130728_000020_000001.wav",
+        "speaker_id": "LibriTTS_R-830",
+        "content": "These are the recipes as he wrote them for us:",
+        "style_prompt": "F_p-normal_s-fast_e-normal",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "very fast",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-830_130728_000025_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/830/130728/830_130728_000025_000000.wav",
+        "speaker_id": "LibriTTS_R-830",
+        "content": "Select six nice fresh sand dabs.",
+        "style_prompt": "F_p-high_s-slow_e-normal",
+        "gender": "F",
+        "pitch": "high",
+        "speed": "very slow",
+        "energy": "normal"
+    }
+]

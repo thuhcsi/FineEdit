@@ -1,0 +1,134 @@
+[
+    {
+        "item_name": "LibriTTS_R-5063_32451_000012_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/5063/32451/5063_32451_000012_000000.wav",
+        "speaker_id": "LibriTTS_R-5063",
+        "content": "Lord Percy to the quarry went, To view the tender deere; Quoth he, \"Erle Douglas promised This day to meet me heere;",
+        "style_prompt": "F_p-high_s-slow_e-low",
+        "gender": "F",
+        "pitch": "high",
+        "speed": "slow",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-5063_32451_000029_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/5063/32451/5063_32451_000029_000000.wav",
+        "speaker_id": "LibriTTS_R-5063",
+        "content": "[Yet bides Earl Douglas on the bent, As Chieftain stout and good, As valiant Captain, all unmov'd The shock he firmly stood.",
+        "style_prompt": "F_p-high_s-slow_e-low",
+        "gender": "F",
+        "pitch": "high",
+        "speed": "very slow",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-5063_32451_000032_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/5063/32451/5063_32451_000032_000000.wav",
+        "speaker_id": "LibriTTS_R-5063",
+        "content": "And throwing strait their bows away, They grasp'd their swords so bright: And now sharp blows, a heavy shower, On shields and helmets light.]",
+        "style_prompt": "F_p-normal_s-slow_e-low",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "very slow",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-5063_32451_000048_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/5063/32451/5063_32451_000048_000000.wav",
+        "speaker_id": "LibriTTS_R-5063",
+        "content": "So thus did both these nobles dye, Whose courage none could staine; An English archer then perceiv'd The noble erle was slaine.",
+        "style_prompt": "F_p-normal_s-slow_e-normal",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "slow",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-5063_32451_000051_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/5063/32451/5063_32451_000051_000000.wav",
+        "speaker_id": "LibriTTS_R-5063",
+        "content": "This fight did last from breake of day Till setting of the sun; For when they rung the evening bell, The battel scarce was done.",
+        "style_prompt": "F_p-normal_s-slow_e-normal",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "very slow",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-5063_32451_000053_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/5063/32451/5063_32451_000053_000000.wav",
+        "speaker_id": "LibriTTS_R-5063",
+        "content": "And with Sir George and stout Sir james, Both knights of good account, Good Sir Ralph Rabby there was slaine, Whose prowesse did surmount.",
+        "style_prompt": "F_p-high_s-slow_e-normal",
+        "gender": "F",
+        "pitch": "high",
+        "speed": "slow",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-5063_32451_000057_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/5063/32451/5063_32451_000057_000000.wav",
+        "speaker_id": "LibriTTS_R-5063",
+        "content": "And the Lord Maxwell in like case Did with Erle Douglas dye; Of twenty hundred Scottish speres, Scarce fifty five did flye.",
+        "style_prompt": "F_p-high_s-slow_e-low",
+        "gender": "F",
+        "pitch": "high",
+        "speed": "very slow",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-5063_32451_000061_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/5063/32451/5063_32451_000061_000000.wav",
+        "speaker_id": "LibriTTS_R-5063",
+        "content": "This newes was brought to Eddenborrow, Where Scotlands king did raigne, That brave Erle Douglas suddenlye Was with an arrow slaine.",
+        "style_prompt": "F_p-high_s-slow_e-normal",
+        "gender": "F",
+        "pitch": "high",
+        "speed": "slow",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-5063_32451_000062_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/5063/32451/5063_32451_000062_000000.wav",
+        "speaker_id": "LibriTTS_R-5063",
+        "content": "\"O heavy newes,\" King james did say; \"Scottland can witnesse bee, I have not any captaine more Of such account as hee.\"",
+        "style_prompt": "F_p-high_s-slow_e-normal",
+        "gender": "F",
+        "pitch": "high",
+        "speed": "very slow",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-5063_32451_000064_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/5063/32451/5063_32451_000064_000000.wav",
+        "speaker_id": "LibriTTS_R-5063",
+        "content": "\"Now God be with him,\" said our king, \"Sith it will noe better bee; I trust I have, within my realme, Five hundred as good as hee.",
+        "style_prompt": "F_p-high_s-slow_e-low",
+        "gender": "F",
+        "pitch": "high",
+        "speed": "very slow",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-5063_32451_000066_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/5063/32451/5063_32451_000066_000000.wav",
+        "speaker_id": "LibriTTS_R-5063",
+        "content": "This vow full well the king perform'd After, at Humbledowne; In one day, fifty knights were slayne, With lordes of great renowne.",
+        "style_prompt": "F_p-normal_s-slow_e-normal",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "very slow",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-5063_32451_000068_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/5063/32451/5063_32451_000068_000000.wav",
+        "speaker_id": "LibriTTS_R-5063",
+        "content": "God save our king, and bless this land In plentye, joy, and peace; And grant henceforth, that foule debate 'Twixt noblemen may cease!",
+        "style_prompt": "F_p-normal_s-slow_e-low",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "very slow",
+        "energy": "low"
+    }
+]

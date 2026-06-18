@@ -1,0 +1,38 @@
+[
+    {
+        "item_name": "libritts-train-clean-360-830-130728-830_130728_000025_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/830/130728/830_130728_000025_000000.wav",
+        "speaker_id": "LibriTTS-train-clean-360-830",
+        "content": "Select six nice fresh sand dabs.",
+        "style_prompt": "She talks slowly with a higher tone, her energy level remaining in the normal range.",
+        "gender": "F",
+        "pitch": "high",
+        "speed": "low",
+        "energy": "normal",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-360-830-130728-830_130728_000000_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/830/130728/830_130728_000000_000000.wav",
+        "speaker_id": "LibriTTS-train-clean-360-830",
+        "content": "Artistic Japan",
+        "style_prompt": "Speaking at a deliberate pace, the woman's voice had a sharp pitch, yet her energy was subdued.",
+        "gender": "F",
+        "pitch": "high",
+        "speed": "low",
+        "energy": "low",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-360-830-130728-830_130728_000020_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/830/130728/830_130728_000020_000001.wav",
+        "speaker_id": "LibriTTS-train-clean-360-830",
+        "content": "These are the recipes as he wrote them for us:",
+        "style_prompt": "Rapid words escape her lips, each high-pitched.",
+        "gender": "F",
+        "pitch": "high",
+        "speed": "high",
+        "energy": "normal",
+        "emotion": "neutral"
+    }
+]

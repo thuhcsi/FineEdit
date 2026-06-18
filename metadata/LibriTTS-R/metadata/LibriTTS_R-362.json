@@ -1,0 +1,145 @@
+[
+    {
+        "item_name": "LibriTTS_R-362_123013_000002_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/362/123013/362_123013_000002_000001.wav",
+        "speaker_id": "LibriTTS_R-362",
+        "content": "I was put into the dog cart, and john went with his master.",
+        "style_prompt": "F_p-normal_s-normal_e-normal",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-362_123013_000003_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/362/123013/362_123013_000003_000000.wav",
+        "speaker_id": "LibriTTS_R-362",
+        "content": "The man at the gate said the river was rising fast, and he feared it would be a bad night.",
+        "style_prompt": "F_p-normal_s-slow_e-normal",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "slow",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-362_123013_000005_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/362/123013/362_123013_000005_000000.wav",
+        "speaker_id": "LibriTTS_R-362",
+        "content": "\"I wish we were well out of this wood,\" said my master.",
+        "style_prompt": "F_p-normal_s-slow_e-normal",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "slow",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-362_123013_000006_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/362/123013/362_123013_000006_000000.wav",
+        "speaker_id": "LibriTTS_R-362",
+        "content": "\"Yes, sir,\" said john, \"it would be rather awkward if one of these branches came down upon us.\"",
+        "style_prompt": "F_p-high_s-slow_e-high",
+        "gender": "F",
+        "pitch": "high",
+        "speed": "slow",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-362_123013_000010_000002",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/362/123013/362_123013_000010_000002.wav",
+        "speaker_id": "LibriTTS_R-362",
+        "content": "I dare not go forward, and I made a dead stop.",
+        "style_prompt": "F_p-low_s-slow_e-normal",
+        "gender": "F",
+        "pitch": "low",
+        "speed": "slow",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-362_123013_000013_000002",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/362/123013/362_123013_000013_000002.wav",
+        "speaker_id": "LibriTTS_R-362",
+        "content": "stop!\" he cried.",
+        "style_prompt": "F_p-high_s-normal_e-low",
+        "gender": "F",
+        "pitch": "very high",
+        "speed": "normal",
+        "energy": "very low"
+    },
+    {
+        "item_name": "LibriTTS_R-362_123013_000018_000002",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/362/123013/362_123013_000018_000002.wav",
+        "speaker_id": "LibriTTS_R-362",
+        "content": "I have been so anxious, fancying all sorts of things.",
+        "style_prompt": "F_p-high_s-slow_e-normal",
+        "gender": "F",
+        "pitch": "very high",
+        "speed": "slow",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-362_123047_000002_000003",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/362/123047/362_123047_000002_000003.wav",
+        "speaker_id": "LibriTTS_R-362",
+        "content": "\"'twas no use going twice when once would do, and he chose to get business forward.\"",
+        "style_prompt": "F_p-normal_s-normal_e-low",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "very low"
+    },
+    {
+        "item_name": "LibriTTS_R-362_123047_000004_000003",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/362/123047/362_123047_000004_000003.wav",
+        "speaker_id": "LibriTTS_R-362",
+        "content": "\"Get on, you lazy fellow,\" he said, \"or I'll make you.\"",
+        "style_prompt": "F_p-high_s-slow_e-normal",
+        "gender": "F",
+        "pitch": "high",
+        "speed": "very slow",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-362_123047_000011_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/362/123047/362_123047_000011_000000.wav",
+        "speaker_id": "LibriTTS_R-362",
+        "content": "\"Pray, stop; I think I can help you if you will let me.\"",
+        "style_prompt": "F_p-high_s-normal_e-low",
+        "gender": "F",
+        "pitch": "very high",
+        "speed": "normal",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-362_123047_000020_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/362/123047/362_123047_000020_000001.wav",
+        "speaker_id": "LibriTTS_R-362",
+        "content": "You won't put that rein on again, will you?\" for he was just going to hitch it up on the old plan.",
+        "style_prompt": "F_p-normal_s-slow_e-low",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "slow",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-362_123048_000012_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/362/123048/362_123048_000012_000000.wav",
+        "speaker_id": "LibriTTS_R-362",
+        "content": "\"Can your horse do it, or can't he?\" said the blustering man.",
+        "style_prompt": "F_p-normal_s-normal_e-normal",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-362_123048_000021_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/362/123048/362_123048_000021_000001.wav",
+        "speaker_id": "LibriTTS_R-362",
+        "content": "\"I have no meadows to nurse sick horses in-he might get well or he might not; that sort of thing don't suit my business; my plan is to work 'em as long as they'll go, and then sell 'em for what they'll fetch, at the knacker's or elsewhere.\"",
+        "style_prompt": "F_p-normal_s-slow_e-low",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "slow",
+        "energy": "low"
+    }
+]

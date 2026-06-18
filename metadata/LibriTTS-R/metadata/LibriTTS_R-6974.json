@@ -1,0 +1,112 @@
+[
+    {
+        "item_name": "LibriTTS_R-6974_258420_000014_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/6974/258420/6974_258420_000014_000000.wav",
+        "speaker_id": "LibriTTS_R-6974",
+        "content": "RENDERED INTO ENGLISH BLANK VERSE. BY",
+        "style_prompt": "M_p-low_s-slow_e-high",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "slow",
+        "energy": "very high"
+    },
+    {
+        "item_name": "LibriTTS_R-6974_258420_000015_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/6974/258420/6974_258420_000015_000000.wav",
+        "speaker_id": "LibriTTS_R-6974",
+        "content": "EDWARD EARL OF DERBY.",
+        "style_prompt": "M_p-low_s-slow_e-low",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "slow",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-6974_258420_000016_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/6974/258420/6974_258420_000016_000000.wav",
+        "speaker_id": "LibriTTS_R-6974",
+        "content": "PREFACE.",
+        "style_prompt": "M_p-high_s-normal_e-low",
+        "gender": "M",
+        "pitch": "very high",
+        "speed": "normal",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-6974_258420_000018_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/6974/258420/6974_258420_000018_000000.wav",
+        "speaker_id": "LibriTTS_R-6974",
+        "content": "Various causes, irrespective of any demerits of the work itself, forbid me to anticipate for this translation any extensive popularity.",
+        "style_prompt": "M_p-low_s-slow_e-low",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "slow",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-6974_258420_000020_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/6974/258420/6974_258420_000020_000000.wav",
+        "speaker_id": "LibriTTS_R-6974",
+        "content": "\"Dactylics call'st thou them?",
+        "style_prompt": "M_p-high_s-slow_e-high",
+        "gender": "M",
+        "pitch": "very high",
+        "speed": "very slow",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-6974_258420_000021_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/6974/258420/6974_258420_000021_000001.wav",
+        "speaker_id": "LibriTTS_R-6974",
+        "content": "Least of all can any other metre do full justice to the spirit and freedom of the various speeches, in which the old warriors give utterance, without disguise or restraint, to all their strong and genuine emotions.",
+        "style_prompt": "M_p-normal_s-slow_e-high",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "slow",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-6974_258420_000023_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/6974/258420/6974_258420_000023_000001.wav",
+        "speaker_id": "LibriTTS_R-6974",
+        "content": "Of the many deficiencies in my execution of this intention, I am but too conscious; whether I have been in any degree successful, must be left to the impartial decision of such of the Public as may honour this work with their perusal.",
+        "style_prompt": "M_p-low_s-slow_e-normal",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "slow",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-6974_258420_000024_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/6974/258420/6974_258420_000024_000000.wav",
+        "speaker_id": "LibriTTS_R-6974",
+        "content": "D.",
+        "style_prompt": "M_p-low_s-slow_e-low",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "very slow",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-6974_258420_000026_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/6974/258420/6974_258420_000026_000000.wav",
+        "speaker_id": "LibriTTS_R-6974",
+        "content": "NOTE TO THE FIFTH EDITION.",
+        "style_prompt": "M_p-normal_s-slow_e-normal",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "slow",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-6974_258420_000027_000002",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/6974/258420/6974_258420_000027_000002.wav",
+        "speaker_id": "LibriTTS_R-6974",
+        "content": "My thanks, therefore, are due to those critics, who, either publicly or privately, have called my attention to passages in which the sense of the Author has been either incorrectly or imperfectly rendered.",
+        "style_prompt": "M_p-normal_s-slow_e-normal",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "slow",
+        "energy": "normal"
+    }
+]

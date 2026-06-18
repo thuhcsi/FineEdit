@@ -1,0 +1,90 @@
+[
+    {
+        "item_name": "LibriTTS_R-7475_232691_000008_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/7475/232691/7475_232691_000008_000001.wav",
+        "speaker_id": "LibriTTS_R-7475",
+        "content": "If ye have, how can ye disbelieve on the Son of God?",
+        "style_prompt": "M_p-low_s-slow_e-high",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "slow",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-7475_232691_000013_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/7475/232691/7475_232691_000013_000001.wav",
+        "speaker_id": "LibriTTS_R-7475",
+        "content": "And many did look and live.",
+        "style_prompt": "M_p-low_s-slow_e-low",
+        "gender": "M",
+        "pitch": "very low",
+        "speed": "very slow",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-7475_232691_000014_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/7475/232691/7475_232691_000014_000001.wav",
+        "speaker_id": "LibriTTS_R-7475",
+        "content": "But there were many who were so hardened that they would not look, therefore they perished.",
+        "style_prompt": "M_p-low_s-normal_e-low",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-7475_232691_000017_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/7475/232691/7475_232691_000017_000001.wav",
+        "speaker_id": "LibriTTS_R-7475",
+        "content": "And behold, it will become a tree, springing up in you unto everlasting life.",
+        "style_prompt": "M_p-low_s-slow_e-normal",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "slow",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-7475_232691_000017_000002",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/7475/232691/7475_232691_000017_000002.wav",
+        "speaker_id": "LibriTTS_R-7475",
+        "content": "And then may God grant unto you that your burdens may be light, through the joy of his Son.",
+        "style_prompt": "M_p-low_s-slow_e-low",
+        "gender": "M",
+        "pitch": "very low",
+        "speed": "slow",
+        "energy": "very low"
+    },
+    {
+        "item_name": "LibriTTS_R-7475_232691_000017_000004",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/7475/232691/7475_232691_000017_000004.wav",
+        "speaker_id": "LibriTTS_R-7475",
+        "content": "Amen.",
+        "style_prompt": "M_p-low_s-normal_e-low",
+        "gender": "M",
+        "pitch": "very low",
+        "speed": "normal",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-7475_232691_000029_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/7475/232691/7475_232691_000029_000001.wav",
+        "speaker_id": "LibriTTS_R-7475",
+        "content": "Now, if a man murdereth, behold will our law, which is just, take the life of his brother?",
+        "style_prompt": "M_p-low_s-slow_e-low",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "slow",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-7475_232691_000052_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/7475/232691/7475_232691_000052_000001.wav",
+        "speaker_id": "LibriTTS_R-7475",
+        "content": "Nay, ye cannot say this; for that same spirit which doth possess your bodies at the time that ye go out of this life, that same spirit will have power to possess your body in that eternal world.",
+        "style_prompt": "M_p-low_s-slow_e-normal",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "slow",
+        "energy": "normal"
+    }
+]

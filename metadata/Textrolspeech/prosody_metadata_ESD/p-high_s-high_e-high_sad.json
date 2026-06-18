@@ -1,0 +1,41 @@
+[
+    {
+        "item_name": "Emotional Speech Dataset (ESD)-Emotion Speech Dataset-0018-Sad-0018_001400",
+        "wav_path": "/zhiji-universal-cfs-sh/speech/prompt_based_data/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0018/Sad/0018_001400.wav",
+        "speaker_id": "Emotional Speech Dataset (ESD)-Emotion Speech Dataset-0018",
+        "content": "Do you have anything in mind?",
+        "style_prompt": "With her heartbroken fast speaking speed and high energy, she invigorated the listeners.",
+        "gender": "F",
+        "pitch": "high",
+        "speed": "high",
+        "energy": "high",
+        "emotion": "sad",
+        "prosody_key": "p-high_s-high_e-high_sad"
+    },
+    {
+        "item_name": "Emotional Speech Dataset (ESD)-Emotion Speech Dataset-0018-Sad-0018_001376",
+        "wav_path": "/zhiji-universal-cfs-sh/speech/prompt_based_data/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0018/Sad/0018_001376.wav",
+        "speaker_id": "Emotional Speech Dataset (ESD)-Emotion Speech Dataset-0018",
+        "content": "They are made of wood.",
+        "style_prompt": "Speaking quickly and with enthusiasm, her disconsolate voice hits high notes.",
+        "gender": "F",
+        "pitch": "high",
+        "speed": "high",
+        "energy": "high",
+        "emotion": "sad",
+        "prosody_key": "p-high_s-high_e-high_sad"
+    },
+    {
+        "item_name": "Emotional Speech Dataset (ESD)-Emotion Speech Dataset-0018-Sad-0018_001397",
+        "wav_path": "/zhiji-universal-cfs-sh/speech/prompt_based_data/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0018/Sad/0018_001397.wav",
+        "speaker_id": "Emotional Speech Dataset (ESD)-Emotion Speech Dataset-0018",
+        "content": "What are you waiting for? man.",
+        "style_prompt": "With high energy and speed, her sad voice resonates at a high pitch.",
+        "gender": "F",
+        "pitch": "high",
+        "speed": "high",
+        "energy": "high",
+        "emotion": "sad",
+        "prosody_key": "p-high_s-high_e-high_sad"
+    }
+]

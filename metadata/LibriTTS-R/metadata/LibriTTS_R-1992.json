@@ -1,0 +1,145 @@
+[
+    {
+        "item_name": "LibriTTS_R-1992_141719_000012_000004",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1992/141719/1992_141719_000012_000004.wav",
+        "speaker_id": "LibriTTS_R-1992",
+        "content": "His Armour was made of pure Gold, enamell'd with Green.",
+        "style_prompt": "F_p-normal_s-slow_e-high",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "slow",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-1992_141719_000012_000009",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1992/141719/1992_141719_000012_000009.wav",
+        "speaker_id": "LibriTTS_R-1992",
+        "content": "The Esquires, who were the Attendants, ran to his Assistance, and with a Sneer remounted him.",
+        "style_prompt": "F_p-normal_s-normal_e-normal",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-1992_141719_000012_000010",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1992/141719/1992_141719_000012_000010.wav",
+        "speaker_id": "LibriTTS_R-1992",
+        "content": "The fourth Combatant catch'd hold of his Left Leg, and unhors'd him again.",
+        "style_prompt": "F_p-normal_s-normal_e-high",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-1992_141719_000013_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1992/141719/1992_141719_000013_000000.wav",
+        "speaker_id": "LibriTTS_R-1992",
+        "content": "The other Champions play'd their Parts much better; and all came off with Credit.",
+        "style_prompt": "F_p-normal_s-slow_e-normal",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "slow",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-1992_141719_000013_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1992/141719/1992_141719_000013_000001.wav",
+        "speaker_id": "LibriTTS_R-1992",
+        "content": "Some conquer'd two of their Antagonists, and others were so far successful as to get the better of three.",
+        "style_prompt": "F_p-normal_s-normal_e-high",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-1992_141719_000013_000005",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1992/141719/1992_141719_000013_000005.wav",
+        "speaker_id": "LibriTTS_R-1992",
+        "content": "Those of the former white as Snow.",
+        "style_prompt": "F_p-normal_s-normal_e-normal",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-1992_141719_000014_000004",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1992/141719/1992_141719_000014_000004.wav",
+        "speaker_id": "LibriTTS_R-1992",
+        "content": "Victory! in favour of the Champion in white.",
+        "style_prompt": "F_p-normal_s-normal_e-normal",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-1992_141719_000014_000007",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1992/141719/1992_141719_000014_000007.wav",
+        "speaker_id": "LibriTTS_R-1992",
+        "content": "Now, behold the two Chieftains upon their Legs, commencing a new Trial of Skill! where they seem'd to get the better of each other alternately; for both were strong, and both were active.",
+        "style_prompt": "F_p-normal_s-normal_e-normal",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-1992_141719_000014_000013",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1992/141719/1992_141719_000014_000013.wav",
+        "speaker_id": "LibriTTS_R-1992",
+        "content": "The Queen was perfectly transported. The two Champions were reconducted to their separate Lodges, as the others had been before them, in Conformity to the Laws prescrib'd. Several Mutes were order'd to wait on the Champions, and carry them some proper Refreshment.",
+        "style_prompt": "F_p-normal_s-fast_e-normal",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "fast",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-1992_141719_000016_000007",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1992/141719/1992_141719_000016_000007.wav",
+        "speaker_id": "LibriTTS_R-1992",
+        "content": "He grew quite out of Patience at last, and cut his Way thro' the insulting Mob, with his Rival's Sabre; but he did not know what Measures to pursue, or how to rectify so gross a Mistake.",
+        "style_prompt": "F_p-normal_s-normal_e-high",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-1992_141719_000016_000013",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1992/141719/1992_141719_000016_000013.wav",
+        "speaker_id": "LibriTTS_R-1992",
+        "content": "He carried the Point so far at last, as to murmur at the unequal Dispensations of Divine Providence; and was tempted to believe, that all Occurrences were govern'd by a malignant Destiny, which never fail'd to oppress the Virtuous, and always crown'd the Actions of such Villains as the green Knight, with uncommon Success.",
+        "style_prompt": "F_p-normal_s-normal_e-normal",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-1992_141719_000016_000014",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1992/141719/1992_141719_000016_000014.wav",
+        "speaker_id": "LibriTTS_R-1992",
+        "content": "In one of his frantick Fits, he put on the green Armour, that had created him such a World of Disgrace.",
+        "style_prompt": "F_p-normal_s-normal_e-high",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-1992_141719_000016_000015",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1992/141719/1992_141719_000016_000015.wav",
+        "speaker_id": "LibriTTS_R-1992",
+        "content": "A Merchant happening to pass by, he sold it to him for a Trifle, and took in Exchange nothing more than a Mantle, and a Cap.",
+        "style_prompt": "F_p-normal_s-normal_e-normal",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "normal"
+    }
+]

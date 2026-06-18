@@ -1,0 +1,26 @@
+[
+    {
+        "item_name": "libritts-train-clean-360-4926-23311-4926_23311_000072_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/4926/23311/4926_23311_000072_000000.wav",
+        "speaker_id": "LibriTTS-train-clean-360-4926",
+        "content": "\"Your daughter did you call her?",
+        "style_prompt": "Speaking at a frenzied pace, her pitch reaches new heights.",
+        "gender": "F",
+        "pitch": "high",
+        "speed": "high",
+        "energy": "high",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-360-4926-23281-4926_23281_000049_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/4926/23281/4926_23281_000049_000001.wav",
+        "speaker_id": "LibriTTS-train-clean-360-4926",
+        "content": "He answered,",
+        "style_prompt": "Her high-energy presentation is complemented by her naturally high-pitched voice.",
+        "gender": "F",
+        "pitch": "high",
+        "speed": "normal",
+        "energy": "high",
+        "emotion": "neutral"
+    }
+]

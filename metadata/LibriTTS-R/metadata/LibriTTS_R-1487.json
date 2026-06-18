@@ -1,0 +1,178 @@
+[
+    {
+        "item_name": "LibriTTS_R-1487_133273_000000_000004",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1487/133273/1487_133273_000000_000004.wav",
+        "speaker_id": "LibriTTS_R-1487",
+        "content": "He may make, but he cannot conclude, a treaty; he may designate, but he cannot appoint, a public officer.",
+        "style_prompt": "M_p-normal_s-normal_e-low",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-1487_133273_000000_000006",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1487/133273/1487_133273_000000_000006.wav",
+        "speaker_id": "LibriTTS_R-1487",
+        "content": "The President of the United States is responsible for his actions; but the person of the King is declared inviolable by the French Charter.",
+        "style_prompt": "M_p-high_s-normal_e-normal",
+        "gender": "M",
+        "pitch": "high",
+        "speed": "normal",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-1487_133273_000003_000003",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1487/133273/1487_133273_000003_000003.wav",
+        "speaker_id": "LibriTTS_R-1487",
+        "content": "The fundamental principle of legislation-a principle essentially republican-is the same in both countries, although its consequences may be different, and its results more or less extensive. Whence I am led to conclude that France with its King is nearer akin to a republic than the Union with its President is to a monarchy.",
+        "style_prompt": "M_p-high_s-normal_e-low",
+        "gender": "M",
+        "pitch": "high",
+        "speed": "normal",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-1487_133273_000014_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1487/133273/1487_133273_000014_000000.wav",
+        "speaker_id": "LibriTTS_R-1487",
+        "content": "Why The President Of The United States Does Not Require The Majority Of The Two Houses In Order To Carry On The Government It is an established axiom in Europe that a constitutional King cannot persevere in a system of government which is opposed by the two other branches of the legislature.",
+        "style_prompt": "M_p-high_s-fast_e-low",
+        "gender": "M",
+        "pitch": "high",
+        "speed": "fast",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-1487_133273_000016_000004",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1487/133273/1487_133273_000016_000004.wav",
+        "speaker_id": "LibriTTS_R-1487",
+        "content": "In Europe, harmony must reign between the Crown and the other branches of the legislature, because a collision between them may prove serious; in America, this harmony is not indispensable, because such a collision is impossible.",
+        "style_prompt": "M_p-high_s-normal_e-low",
+        "gender": "M",
+        "pitch": "high",
+        "speed": "normal",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-1487_133273_000017_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1487/133273/1487_133273_000017_000000.wav",
+        "speaker_id": "LibriTTS_R-1487",
+        "content": "Election Of The President",
+        "style_prompt": "M_p-normal_s-normal_e-normal",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-1487_133273_000020_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1487/133273/1487_133273_000020_000000.wav",
+        "speaker_id": "LibriTTS_R-1487",
+        "content": "It is clear that the greater the privileges of the executive authority are, the greater is the temptation; the more the ambition of the candidates is excited, the more warmly are their interests espoused by a throng of partisans who hope to share the power when their patron has won the prize.",
+        "style_prompt": "M_p-normal_s-fast_e-normal",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "fast",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-1487_133273_000020_000004",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1487/133273/1487_133273_000020_000004.wav",
+        "speaker_id": "LibriTTS_R-1487",
+        "content": "To reduce hereditary royalty to the condition of an elective authority, the only means that I am acquainted with are to circumscribe its sphere of action beforehand, gradually to diminish its prerogatives, and to accustom the people to live without its protection.",
+        "style_prompt": "M_p-high_s-fast_e-normal",
+        "gender": "M",
+        "pitch": "high",
+        "speed": "fast",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-1487_133273_000026_000004",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1487/133273/1487_133273_000026_000004.wav",
+        "speaker_id": "LibriTTS_R-1487",
+        "content": "In America the President exercises a certain influence on State affairs, but he does not conduct them; the preponderating power is vested in the representatives of the whole nation.",
+        "style_prompt": "M_p-high_s-normal_e-normal",
+        "gender": "M",
+        "pitch": "high",
+        "speed": "normal",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-1487_133273_000026_000005",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1487/133273/1487_133273_000026_000005.wav",
+        "speaker_id": "LibriTTS_R-1487",
+        "content": "The political maxims of the country depend therefore on the mass of the people, not on the President alone; and consequently in America the elective system has no very prejudicial influence on the fixed principles of the Government.",
+        "style_prompt": "M_p-high_s-fast_e-normal",
+        "gender": "M",
+        "pitch": "high",
+        "speed": "fast",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-1487_133273_000029_000002",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1487/133273/1487_133273_000029_000002.wav",
+        "speaker_id": "LibriTTS_R-1487",
+        "content": "In America society is so constituted that it can stand without assistance upon its own basis; nothing is to be feared from the pressure of external dangers, and the election of the President is a cause of agitation, but not of ruin.",
+        "style_prompt": "M_p-high_s-normal_e-normal",
+        "gender": "M",
+        "pitch": "high",
+        "speed": "normal",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-1487_133273_000033_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1487/133273/1487_133273_000033_000001.wav",
+        "speaker_id": "LibriTTS_R-1487",
+        "content": "The nation possessed two of the main causes of internal peace; it was a new country, but it was inhabited by a people grown old in the exercise of freedom.",
+        "style_prompt": "M_p-high_s-normal_e-normal",
+        "gender": "M",
+        "pitch": "high",
+        "speed": "normal",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-1487_133273_000034_000005",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1487/133273/1487_133273_000034_000005.wav",
+        "speaker_id": "LibriTTS_R-1487",
+        "content": "This mode of election rendered a majority more probable; for the fewer the electors are, the greater is the chance of their coming to a final decision.",
+        "style_prompt": "M_p-high_s-fast_e-normal",
+        "gender": "M",
+        "pitch": "high",
+        "speed": "fast",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-1487_133273_000040_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1487/133273/1487_133273_000040_000001.wav",
+        "speaker_id": "LibriTTS_R-1487",
+        "content": "Ten of these elections took place simultaneously by the votes of the special electors in the different States.",
+        "style_prompt": "M_p-high_s-fast_e-high",
+        "gender": "M",
+        "pitch": "high",
+        "speed": "fast",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-1487_133273_000040_000002",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1487/133273/1487_133273_000040_000002.wav",
+        "speaker_id": "LibriTTS_R-1487",
+        "content": "The House of Representatives has only twice exercised its conditional privilege of deciding in cases of uncertainty; the first time was at the election of mr Jefferson in eighteen o one; the second was in eighteen twenty five, when mr Quincy Adams was named.",
+        "style_prompt": "M_p-high_s-normal_e-normal",
+        "gender": "M",
+        "pitch": "high",
+        "speed": "normal",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-1487_133273_000043_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1487/133273/1487_133273_000043_000000.wav",
+        "speaker_id": "LibriTTS_R-1487",
+        "content": "The Election may be considered as a national crisis-Why?--Passions of the people-Anxiety of the President-Calm which succeeds the agitation of the election.",
+        "style_prompt": "M_p-normal_s-normal_e-low",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "low"
+    }
+]

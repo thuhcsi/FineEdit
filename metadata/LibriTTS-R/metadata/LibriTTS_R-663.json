@@ -1,0 +1,134 @@
+[
+    {
+        "item_name": "LibriTTS_R-663_128990_000007_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/663/128990/663_128990_000007_000000.wav",
+        "speaker_id": "LibriTTS_R-663",
+        "content": "Now the eight ships with their demon crews sailed away over the lake toward Maracaibo.",
+        "style_prompt": "M_p-normal_s-normal_e-normal",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-663_128990_000007_000004",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/663/128990/663_128990_000007_000004.wav",
+        "speaker_id": "LibriTTS_R-663",
+        "content": "The money was paid, the cattle were put on board the ships, and to the unspeakable relief of the citizens, the pirate fleet sailed away from the harbor.",
+        "style_prompt": "M_p-low_s-normal_e-low",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-663_128990_000009_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/663/128990/663_128990_000009_000000.wav",
+        "speaker_id": "LibriTTS_R-663",
+        "content": "They did not go directly to Tortuga, but stopped at a little island near Hispaniola, which was inhabited by French buccaneers, and this delay was made entirely for the purpose of dividing the booty.",
+        "style_prompt": "M_p-low_s-normal_e-normal",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-663_128990_000010_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/663/128990/663_128990_000010_000000.wav",
+        "speaker_id": "LibriTTS_R-663",
+        "content": "Before the regular allotment of shares was made, the claims of the wounded were fully satisfied according to their established code.",
+        "style_prompt": "M_p-low_s-fast_e-low",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "fast",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-663_128990_000013_000004",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/663/128990/663_128990_000013_000004.wav",
+        "speaker_id": "LibriTTS_R-663",
+        "content": "They robbed Indians, they robbed villages; they devastated little towns, taking everything that they cared for, and burning what they did not want, and treating the people they captured with viler cruelties than any in which the buccaneers had yet indulged.",
+        "style_prompt": "M_p-low_s-normal_e-low",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-663_128990_000015_000002",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/663/128990/663_128990_000015_000002.wav",
+        "speaker_id": "LibriTTS_R-663",
+        "content": "If they could find nothing else, they might at least catch fish.",
+        "style_prompt": "M_p-low_s-normal_e-low",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-663_128990_000016_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/663/128990/663_128990_000016_000000.wav",
+        "speaker_id": "LibriTTS_R-663",
+        "content": "After a time the buccaneers got back to their fleet and remained on the coast about three months, waiting for some expected Spanish ships, which they hoped to capture.",
+        "style_prompt": "M_p-low_s-slow_e-low",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "slow",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-663_128990_000017_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/663/128990/663_128990_000017_000000.wav",
+        "speaker_id": "LibriTTS_R-663",
+        "content": "Now L'Olonnois proposed to his men that they should sail for Guatemala, but he met with an unexpected obstacle; the buccaneers who had enlisted under him had expected to make great fortunes in this expedition, but their high hopes had not been realized.",
+        "style_prompt": "M_p-low_s-normal_e-low",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-663_128990_000018_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/663/128990/663_128990_000018_000001.wav",
+        "speaker_id": "LibriTTS_R-663",
+        "content": "This was a serious undertaking, but it was all they could do.",
+        "style_prompt": "M_p-low_s-normal_e-normal",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-663_128990_000018_000002",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/663/128990/663_128990_000018_000002.wav",
+        "speaker_id": "LibriTTS_R-663",
+        "content": "They could not swim away, and their ship was of no use to them as she was.",
+        "style_prompt": "M_p-low_s-normal_e-low",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-663_128991_000001_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/663/128991/663_128991_000001_000000.wav",
+        "speaker_id": "LibriTTS_R-663",
+        "content": "Chapter sixteen",
+        "style_prompt": "M_p-low_s-slow_e-normal",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "very slow",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-663_128991_000018_000002",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/663/128991/663_128991_000018_000002.wav",
+        "speaker_id": "LibriTTS_R-663",
+        "content": "Thus prepared, this able commander knew just what to do.",
+        "style_prompt": "M_p-low_s-normal_e-low",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "low"
+    }
+]

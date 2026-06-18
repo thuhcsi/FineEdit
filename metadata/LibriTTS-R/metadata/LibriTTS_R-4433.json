@@ -1,0 +1,13 @@
+[
+    {
+        "item_name": "LibriTTS_R-4433_16802_000025_000005",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/4433/16802/4433_16802_000025_000005.wav",
+        "speaker_id": "LibriTTS_R-4433",
+        "content": "Compare ALLOW.",
+        "style_prompt": "M_p-normal_s-normal_e-normal",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "normal"
+    }
+]

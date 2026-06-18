@@ -1,0 +1,24 @@
+[
+    {
+        "item_name": "LibriTTS_R-147_125761_000008_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/147/125761/147_125761_000008_000000.wav",
+        "speaker_id": "LibriTTS_R-147",
+        "content": "THE MANCIPLE'S TALE.",
+        "style_prompt": "M_p-normal_s-slow_e-high",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "slow",
+        "energy": "very high"
+    },
+    {
+        "item_name": "LibriTTS_R-147_125761_000009_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/147/125761/147_125761_000009_000000.wav",
+        "speaker_id": "LibriTTS_R-147",
+        "content": "THE PROLOGUE.",
+        "style_prompt": "M_p-low_s-fast_e-normal",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "fast",
+        "energy": "normal"
+    }
+]

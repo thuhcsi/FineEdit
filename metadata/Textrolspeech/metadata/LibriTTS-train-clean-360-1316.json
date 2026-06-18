@@ -1,0 +1,98 @@
+[
+    {
+        "item_name": "libritts-train-clean-360-1316-132800-1316_132800_000011_000011",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/1316/132800/1316_132800_000011_000011.wav",
+        "speaker_id": "LibriTTS-train-clean-360-1316",
+        "content": "james could not be King in effect: but he must still continue to be King in semblance.",
+        "style_prompt": "In his usual deep voice, he engages in conversation, maintaining an average tempo and energy level.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "normal",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-360-1316-132800-1316_132800_000007_000002",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/1316/132800/1316_132800_000007_000002.wav",
+        "speaker_id": "LibriTTS-train-clean-360-1316",
+        "content": "Three of these bodies consisted of Tories.",
+        "style_prompt": "His voice flows smoothly in its deep timbre as he maintains a natural rhythm and regular energy.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "normal",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-360-1316-132800-1316_132800_000008_000004",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/1316/132800/1316_132800_000008_000004.wav",
+        "speaker_id": "LibriTTS-train-clean-360-1316",
+        "content": "His victory, by relieving the nation from the strong dread of Popish tyranny, had deprived him of half his influence.",
+        "style_prompt": "His voice is low-pitched, and he speaks with a comfortable speed and natural energy.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "normal",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-360-1316-132800-1316_132800_000010_000010",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/1316/132800/1316_132800_000010_000010.wav",
+        "speaker_id": "LibriTTS-train-clean-360-1316",
+        "content": "For what satisfactory guarantee could he give?",
+        "style_prompt": "With high energy, his low-pitched voice resonates at a natural speaking rate.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "high",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-360-1316-132800-1316_132800_000010_000006",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/1316/132800/1316_132800_000010_000006.wav",
+        "speaker_id": "LibriTTS-train-clean-360-1316",
+        "content": "Their old theory, sound or unsound, was at least complete and coherent.",
+        "style_prompt": "In his customary deep voice, he engages listeners with conversation at an average tempo, demonstrating regular energy levels.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "normal",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-360-1316-132800-1316_132800_000004_000006",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/1316/132800/1316_132800_000004_000006.wav",
+        "speaker_id": "LibriTTS-train-clean-360-1316",
+        "content": "He then withdrew, and left them to deliberate unrestrained by his presence.",
+        "style_prompt": "His energetic speech is underscored by a low, rich voice as he maintains a natural pace of speaking.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "high",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-360-1316-132800-1316_132800_000003_000004",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/1316/132800/1316_132800_000003_000004.wav",
+        "speaker_id": "LibriTTS-train-clean-360-1316",
+        "content": "He importuned his priests for comfort, prayed, confessed, and communicated: but his faith was weak; and he owned that, in spite of all his devotions, the strong terrors of death were upon him.",
+        "style_prompt": "The male addresses others in his customary low-pitched tone, speaking at a regular pace and usual liveliness.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "normal",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-360-1316-132782-1316_132782_000012_000008",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/1316/132782/1316_132782_000012_000008.wav",
+        "speaker_id": "LibriTTS-train-clean-360-1316",
+        "content": "I hardly see my way.",
+        "style_prompt": "In a display of high energy, the man's low-pitched voice conveys his thoughts in a lightning-fast speaking style.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "high",
+        "energy": "high",
+        "emotion": "neutral"
+    }
+]

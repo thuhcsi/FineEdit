@@ -1,0 +1,167 @@
+[
+    {
+        "item_name": "LibriTTS_R-1498_140040_000005_000004",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1498/140040/1498_140040_000005_000004.wav",
+        "speaker_id": "LibriTTS_R-1498",
+        "content": "She felt instinctively that this was wrong and mean, and whenever the feeling of remorse was strong within her she made a desperate effort to please her grim and difficult relative.",
+        "style_prompt": "F_p-normal_s-fast_e-normal",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "fast",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-1498_140040_000005_000006",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1498/140040/1498_140040_000005_000006.wav",
+        "speaker_id": "LibriTTS_R-1498",
+        "content": "The searching look of the eyes, the sharp voice, the hard knotty fingers, the thin straight lips, the long silences, the \"front piece\" that didn't match her hair, the very obvious \"parting\" that seemed sewed in with linen thread on black net,--there was not a single item that appealed to Rebecca.",
+        "style_prompt": "F_p-normal_s-normal_e-normal",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-1498_140040_000011_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1498/140040/1498_140040_000011_000000.wav",
+        "speaker_id": "LibriTTS_R-1498",
+        "content": "\"I know.",
+        "style_prompt": "F_p-high_s-slow_e-high",
+        "gender": "F",
+        "pitch": "very high",
+        "speed": "slow",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-1498_140040_000011_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1498/140040/1498_140040_000011_000001.wav",
+        "speaker_id": "LibriTTS_R-1498",
+        "content": "But mr Watson says he'll take back part of it, and let us have pink and blue for the same price.\"",
+        "style_prompt": "F_p-high_s-normal_e-normal",
+        "gender": "F",
+        "pitch": "very high",
+        "speed": "normal",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-1498_140040_000032_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1498/140040/1498_140040_000032_000000.wav",
+        "speaker_id": "LibriTTS_R-1498",
+        "content": "\"What princes?",
+        "style_prompt": "F_p-high_s-slow_e-low",
+        "gender": "F",
+        "pitch": "very high",
+        "speed": "slow",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-1498_140041_000001_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1498/140041/1498_140041_000001_000000.wav",
+        "speaker_id": "LibriTTS_R-1498",
+        "content": "RIVERBORO SECRETS",
+        "style_prompt": "F_p-high_s-normal_e-normal",
+        "gender": "F",
+        "pitch": "very high",
+        "speed": "normal",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-1498_140041_000009_000002",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1498/140041/1498_140041_000009_000002.wav",
+        "speaker_id": "LibriTTS_R-1498",
+        "content": "First they had it I wanted to marry the minister, and when he took a wife in Standish I was known to be disappointed.",
+        "style_prompt": "F_p-high_s-fast_e-high",
+        "gender": "F",
+        "pitch": "high",
+        "speed": "fast",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-1498_140041_000014_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1498/140041/1498_140041_000014_000001.wav",
+        "speaker_id": "LibriTTS_R-1498",
+        "content": "Let me wipe off that strawberry jam over your mouth.\"",
+        "style_prompt": "F_p-high_s-normal_e-high",
+        "gender": "F",
+        "pitch": "high",
+        "speed": "normal",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-1498_140041_000025_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1498/140041/1498_140041_000025_000000.wav",
+        "speaker_id": "LibriTTS_R-1498",
+        "content": "\"I'll take that piece of coral away from you, and I THINK I shall slap you besides!\"",
+        "style_prompt": "F_p-high_s-slow_e-normal",
+        "gender": "F",
+        "pitch": "high",
+        "speed": "slow",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-1498_140041_000026_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1498/140041/1498_140041_000026_000000.wav",
+        "speaker_id": "LibriTTS_R-1498",
+        "content": "\"You wouldn't darst,\" retorted Minnie.",
+        "style_prompt": "F_p-normal_s-slow_e-normal",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "slow",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-1498_140041_000026_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1498/140041/1498_140041_000026_000001.wav",
+        "speaker_id": "LibriTTS_R-1498",
+        "content": "\"If you do, I'll tell my mother and the teacher, so there!\"",
+        "style_prompt": "F_p-high_s-normal_e-high",
+        "gender": "F",
+        "pitch": "high",
+        "speed": "normal",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-1498_140041_000028_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1498/140041/1498_140041_000028_000001.wav",
+        "speaker_id": "LibriTTS_R-1498",
+        "content": "\"She THREATENED me,\" whispered Minnie, \"but I never believe a word she says.\"",
+        "style_prompt": "F_p-low_s-slow_e-low",
+        "gender": "F",
+        "pitch": "low",
+        "speed": "slow",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-1498_140041_000030_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1498/140041/1498_140041_000030_000001.wav",
+        "speaker_id": "LibriTTS_R-1498",
+        "content": "This was the note:--",
+        "style_prompt": "F_p-high_s-slow_e-high",
+        "gender": "F",
+        "pitch": "high",
+        "speed": "slow",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-1498_140041_000033_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1498/140041/1498_140041_000033_000000.wav",
+        "speaker_id": "LibriTTS_R-1498",
+        "content": "R. Randall.",
+        "style_prompt": "F_p-normal_s-slow_e-high",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "very slow",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-1498_140041_000034_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1498/140041/1498_140041_000034_000000.wav",
+        "speaker_id": "LibriTTS_R-1498",
+        "content": "The effect of this piece of doggerel was entirely convincing, and for days afterwards whenever Minnie met the Simpsons even a mile from the brick house she shuddered and held her peace.",
+        "style_prompt": "F_p-normal_s-normal_e-normal",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "normal"
+    }
+]

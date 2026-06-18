@@ -1,0 +1,178 @@
+[
+    {
+        "item_name": "LibriTTS_R-1639_132848_000008_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1639/132848/1639_132848_000008_000000.wav",
+        "speaker_id": "LibriTTS_R-1639",
+        "content": "Then they set forth, but the news of their coming ran swifter still, and Rhiannon and Kieva, wife of Pryderi, made haste to prepare a feast for them.",
+        "style_prompt": "M_p-low_s-slow_e-normal",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "slow",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-1639_132848_000013_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1639/132848/1639_132848_000013_000000.wav",
+        "speaker_id": "LibriTTS_R-1639",
+        "content": "'What craft shall we follow?' asked Pryderi.",
+        "style_prompt": "M_p-normal_s-normal_e-normal",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-1639_132848_000014_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1639/132848/1639_132848_000014_000000.wav",
+        "speaker_id": "LibriTTS_R-1639",
+        "content": "'We will make shields,' answered Manawyddan.",
+        "style_prompt": "M_p-normal_s-normal_e-high",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-1639_132848_000017_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1639/132848/1639_132848_000017_000000.wav",
+        "speaker_id": "LibriTTS_R-1639",
+        "content": "'Let us take to making shoes,' said Manawyddan, 'for there are not any among the shoemakers bold enough to fight us.'",
+        "style_prompt": "M_p-low_s-normal_e-high",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-1639_132848_000044_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1639/132848/1639_132848_000044_000000.wav",
+        "speaker_id": "LibriTTS_R-1639",
+        "content": "'A thief,' he answered, 'that I caught robbing me.'",
+        "style_prompt": "M_p-low_s-normal_e-low",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-1639_132848_000056_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1639/132848/1639_132848_000056_000000.wav",
+        "speaker_id": "LibriTTS_R-1639",
+        "content": "'From singing in England; but wherefore dost thou ask?'",
+        "style_prompt": "M_p-normal_s-normal_e-normal",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-1639_132848_000058_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1639/132848/1639_132848_000058_000001.wav",
+        "speaker_id": "LibriTTS_R-1639",
+        "content": "'And what work art thou upon?'",
+        "style_prompt": "M_p-low_s-slow_e-normal",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "slow",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-1639_132848_000060_000002",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1639/132848/1639_132848_000060_000002.wav",
+        "speaker_id": "LibriTTS_R-1639",
+        "content": "Let it go free.'",
+        "style_prompt": "M_p-normal_s-slow_e-low",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "slow",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-1639_132848_000066_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1639/132848/1639_132848_000066_000000.wav",
+        "speaker_id": "LibriTTS_R-1639",
+        "content": "'Good day to thee, lord; and what art thou doing?'",
+        "style_prompt": "M_p-normal_s-slow_e-high",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "slow",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-1639_132848_000076_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1639/132848/1639_132848_000076_000000.wav",
+        "speaker_id": "LibriTTS_R-1639",
+        "content": "'What work art thou upon?' asked the bishop, drawing rein.",
+        "style_prompt": "M_p-normal_s-normal_e-low",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-1639_132848_000085_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1639/132848/1639_132848_000085_000000.wav",
+        "speaker_id": "LibriTTS_R-1639",
+        "content": "'I will not set it free.'",
+        "style_prompt": "M_p-normal_s-normal_e-high",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-1639_133290_000007_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1639/133290/1639_133290_000007_000001.wav",
+        "speaker_id": "LibriTTS_R-1639",
+        "content": "Some of these peculiarities are known, the others may easily be pointed out; but I shall confine myself to the most prominent amongst them.",
+        "style_prompt": "M_p-low_s-fast_e-low",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "fast",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-1639_133290_000008_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1639/133290/1639_133290_000008_000000.wav",
+        "speaker_id": "LibriTTS_R-1639",
+        "content": "The Americans have no neighbors, and consequently they have no great wars, or financial crises, or inroads, or conquest to dread; they require neither great taxes, nor great armies, nor great generals; and they have nothing to fear from a scourge which is more formidable to republics than all these evils combined, namely, military glory.",
+        "style_prompt": "M_p-low_s-normal_e-low",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "very low"
+    },
+    {
+        "item_name": "LibriTTS_R-1639_133290_000008_000004",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1639/133290/1639_133290_000008_000004.wav",
+        "speaker_id": "LibriTTS_R-1639",
+        "content": "Now the people which is thus carried away by the illusions of glory is unquestionably the most cold and calculating, the most unmilitary (if I may use the expression), and the most prosaic of all the peoples of the earth.",
+        "style_prompt": "M_p-low_s-normal_e-low",
+        "gender": "M",
+        "pitch": "very low",
+        "speed": "normal",
+        "energy": "very low"
+    },
+    {
+        "item_name": "LibriTTS_R-1639_133290_000016_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1639/133290/1639_133290_000016_000001.wav",
+        "speaker_id": "LibriTTS_R-1639",
+        "content": "At that same period North America was discovered, as if it had been kept in reserve by the Deity, and had just risen from beneath the waters of the deluge.",
+        "style_prompt": "M_p-low_s-fast_e-normal",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "fast",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-1639_133290_000028_000004",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1639/133290/1639_133290_000028_000004.wav",
+        "speaker_id": "LibriTTS_R-1639",
+        "content": "The Americans frequently term what we should call cupidity a laudable industry; and they blame as faint heartedness what we consider to be the virtue of moderate desires.",
+        "style_prompt": "M_p-low_s-fast_e-normal",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "fast",
+        "energy": "normal"
+    }
+]

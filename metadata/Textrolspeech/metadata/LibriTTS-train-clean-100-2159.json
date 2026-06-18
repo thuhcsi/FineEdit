@@ -1,0 +1,98 @@
+[
+    {
+        "item_name": "libritts-train-clean-100-2159-179157-2159_179157_000006_000009",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-100/2159/179157/2159_179157_000006_000009.wav",
+        "speaker_id": "LibriTTS-train-clean-100-2159",
+        "content": "It crackled like a mighty fire.",
+        "style_prompt": "The male speaker's low-pitched voice exudes vitality, maintaining a regular speaking speed.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "high",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-100-2159-179154-2159_179154_000008_000003",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-100/2159/179154/2159_179154_000008_000003.wav",
+        "speaker_id": "LibriTTS-train-clean-100-2159",
+        "content": "Try.",
+        "style_prompt": "The deliberate slowness and low pitch of the male voice infuse the audio with a serene and steady energy.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "low",
+        "energy": "normal",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-100-2159-179154-2159_179154_000019_000003",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-100/2159/179154/2159_179154_000019_000003.wav",
+        "speaker_id": "LibriTTS-train-clean-100-2159",
+        "content": "In doing this, he set his coat on fire, when he trampled it under foot.",
+        "style_prompt": "The man addresses others with his deep and resonant voice, engaging in conversation at a moderate pace and typical vitality.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "normal",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-100-2159-179154-2159_179154_000012_000004",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-100/2159/179154/2159_179154_000012_000004.wav",
+        "speaker_id": "LibriTTS-train-clean-100-2159",
+        "content": "Then he stopped.",
+        "style_prompt": "The unhurried, low-pitched style of the male voice carries a tranquil energy with a touch of natural vibrancy.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "low",
+        "energy": "normal",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-100-2159-179154-2159_179154_000008_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-100/2159/179154/2159_179154_000008_000001.wav",
+        "speaker_id": "LibriTTS-train-clean-100-2159",
+        "content": "They are fast.",
+        "style_prompt": "His animated delivery is matched by a low pitch, and he speaks with a regular tempo.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "high",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-100-2159-179154-2159_179154_000014_000005",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-100/2159/179154/2159_179154_000014_000005.wav",
+        "speaker_id": "LibriTTS-train-clean-100-2159",
+        "content": "He sarcastically asked him if he \"didn't want the earth.\"",
+        "style_prompt": "The man's low-pitched voice carries a natural cadence, speaking at a regular speed and usual energy level.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "normal",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-100-2159-179154-2159_179154_000012_000006",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-100/2159/179154/2159_179154_000012_000006.wav",
+        "speaker_id": "LibriTTS-train-clean-100-2159",
+        "content": "He stood there, stooping, eyes set, and vacant, fast asleep.",
+        "style_prompt": "Each word, softly spoken by the male voice with a slow speaking speed, resonates at a low pitch, creating an audio experience that embraces tranquility and a relaxed atmosphere.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "low",
+        "energy": "low",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-100-2159-179156-2159_179156_000013_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-100/2159/179156/2159_179156_000013_000000.wav",
+        "speaker_id": "LibriTTS-train-clean-100-2159",
+        "content": "A slow movement was tried (the Valhalla motif).",
+        "style_prompt": "A male speaker, with a low-pitched voice, speaks at a leisurely pace, exuding a sense of low energy.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "low",
+        "energy": "low",
+        "emotion": "neutral"
+    }
+]

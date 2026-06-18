@@ -1,0 +1,28 @@
+[
+    {
+        "item_name": "Emotional Speech Dataset (ESD)-Emotion Speech Dataset-0013-Angry-0013_000363",
+        "wav_path": "/zhiji-universal-cfs-sh/speech/prompt_based_data/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Angry/0013_000363.wav",
+        "speaker_id": "Emotional Speech Dataset (ESD)-Emotion Speech Dataset-0013",
+        "content": "I have bunburyed all over goat on two separate occasions.",
+        "style_prompt": "A deliberate and unhurried speaking style of a male, characterized by his outraged low pitch and a relaxed energy in his delivery.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "low",
+        "energy": "normal",
+        "emotion": "angry",
+        "prosody_key": "p-low_s-low_e-normal_angry"
+    },
+    {
+        "item_name": "Emotional Speech Dataset (ESD)-Emotion Speech Dataset-0013-Angry-0013_000549",
+        "wav_path": "/zhiji-universal-cfs-sh/speech/prompt_based_data/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Angry/0013_000549.wav",
+        "speaker_id": "Emotional Speech Dataset (ESD)-Emotion Speech Dataset-0013",
+        "content": "Captain Tom receives an angry letter.",
+        "style_prompt": "The relaxed and deliberate speech of a livid man, with a deep voice and normal energy, creating a calming effect.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "low",
+        "energy": "normal",
+        "emotion": "angry",
+        "prosody_key": "p-low_s-low_e-normal_angry"
+    }
+]

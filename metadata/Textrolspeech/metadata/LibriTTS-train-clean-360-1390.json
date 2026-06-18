@@ -1,0 +1,74 @@
+[
+    {
+        "item_name": "libritts-train-clean-360-1390-130493-1390_130493_000015_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/1390/130493/1390_130493_000015_000000.wav",
+        "speaker_id": "LibriTTS-train-clean-360-1390",
+        "content": "Tethered to earth",
+        "style_prompt": "With a hushed tone, she talks at a typical pace.",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "low",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-360-1390-130494-1390_130494_000082_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/1390/130494/1390_130494_000082_000000.wav",
+        "speaker_id": "LibriTTS-train-clean-360-1390",
+        "content": "The preternatural pomposities of the pulpit",
+        "style_prompt": "Speaking gently and at a slow pace, she made herself heard.",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "low",
+        "energy": "low",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-360-1390-130494-1390_130494_000087_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/1390/130494/1390_130494_000087_000000.wav",
+        "speaker_id": "LibriTTS-train-clean-360-1390",
+        "content": "The purple vaulted night",
+        "style_prompt": "She communicates in a calm tone, her pitch average.",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "low",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-360-1390-130494-1390_130494_000021_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/1390/130494/1390_130494_000021_000000.wav",
+        "speaker_id": "LibriTTS-train-clean-360-1390",
+        "content": "The lights winked",
+        "style_prompt": "Her voice is barely above a whisper, but she maintains her pace.",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "low",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-360-1390-130494-1390_130494_000102_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/1390/130494/1390_130494_000102_000000.wav",
+        "speaker_id": "LibriTTS-train-clean-360-1390",
+        "content": "The rosy twilight of boyhood",
+        "style_prompt": "The girl's energy is low, yet her whispering speed is ordinary.",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "low",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-360-1390-130495-1390_130495_000058_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/1390/130495/1390_130495_000058_000000.wav",
+        "speaker_id": "LibriTTS-train-clean-360-1390",
+        "content": "They escaped the baffled eye",
+        "style_prompt": "Her words flowed gently, her speaking speed slow.",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "low",
+        "energy": "low",
+        "emotion": "neutral"
+    }
+]

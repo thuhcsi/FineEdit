@@ -1,0 +1,24 @@
+[
+    {
+        "item_name": "LibriTTS_R-3187_168497_000018_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/3187/168497/3187_168497_000018_000000.wav",
+        "speaker_id": "LibriTTS_R-3187",
+        "content": "THE JOCOSE GODS",
+        "style_prompt": "M_p-low_s-normal_e-normal",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-3187_168497_000021_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/3187/168497/3187_168497_000021_000000.wav",
+        "speaker_id": "LibriTTS_R-3187",
+        "content": "WAR",
+        "style_prompt": "M_p-low_s-slow_e-low",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "very slow",
+        "energy": "very low"
+    }
+]

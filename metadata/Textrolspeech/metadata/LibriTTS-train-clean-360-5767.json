@@ -1,0 +1,122 @@
+[
+    {
+        "item_name": "libritts-train-clean-360-5767-48579-5767_48579_000007_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/5767/48579/5767_48579_000007_000000.wav",
+        "speaker_id": "LibriTTS-train-clean-360-5767",
+        "content": "She said, It hath reached me, O auspicious King, that Ala al Din continued, \"So he packed me fifty loads of goods and gave me ten thousand dinars, wherewith I set out for Baghdad; but when I reached the Lion's Copse, the wild Arabs came out against me and took all my goods and monies.",
+        "style_prompt": "The man's deep voice and energetic speaking style maintain high energy at a natural speed.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "high",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-360-5767-48579-5767_48579_000013_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/5767/48579/5767_48579_000013_000000.wav",
+        "speaker_id": "LibriTTS-train-clean-360-5767",
+        "content": "Thereupon she came forward, swinging her haunches and gracefully swaying a shape the handiwork of Him whose boons are hidden; and each of them stole one glance of the eyes that cost them a thousand sighs.",
+        "style_prompt": "Speaking with animation, his low-pitched voice carries his energy at a natural tempo.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "high",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-360-5767-48579-5767_48579_000001_000004",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/5767/48579/5767_48579_000001_000004.wav",
+        "speaker_id": "LibriTTS-train-clean-360-5767",
+        "content": "Now is thy time!\" And behold, a scorpion stung the Badawi in the palm and he cried out, saying, \"Help, O Arabs!",
+        "style_prompt": "The man's dynamic delivery, paired with his low-pitched voice, is complemented by a regular speaking tempo.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "high",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-360-5767-48579-5767_48579_000018_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/5767/48579/5767_48579_000018_000000.wav",
+        "speaker_id": "LibriTTS-train-clean-360-5767",
+        "content": "When it was the Two Hundred and Fifty seventh Night,",
+        "style_prompt": "The man's discourse is marked by an energetic delivery, a blend of low-pitched voice and rapid-speaking speed.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "high",
+        "energy": "high",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-360-5767-48579-5767_48579_000007_000002",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/5767/48579/5767_48579_000007_000002.wav",
+        "speaker_id": "LibriTTS-train-clean-360-5767",
+        "content": "Now he loveth her, but she loatheth him; and when he chanced to take an oath of triple divorcement and broke it, forthright she left him.",
+        "style_prompt": "In his conversation, the man's low-pitched vocal notes blend seamlessly with his high-powered delivery and standard speech pace.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "high",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-360-5767-48579-5767_48579_000000_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/5767/48579/5767_48579_000000_000000.wav",
+        "speaker_id": "LibriTTS-train-clean-360-5767",
+        "content": "When it was the Two Hundred and Fifty fifth Night,",
+        "style_prompt": "With a burst of energy, the man's low-pitched voice propels his rapid-speaking style.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "high",
+        "energy": "high",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-360-5767-48579-5767_48579_000015_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/5767/48579/5767_48579_000015_000000.wav",
+        "speaker_id": "LibriTTS-train-clean-360-5767",
+        "content": "And when she drew near him, and there remained but two paces between them, he recited these two couplets,",
+        "style_prompt": "The male speaker's low pitch and dynamic speaking style reflect high energy in conjunction with a regular pace.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "high",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-360-5767-48579-5767_48579_000005_000002",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/5767/48579/5767_48579_000005_000002.wav",
+        "speaker_id": "LibriTTS-train-clean-360-5767",
+        "content": "The old man replied, \"Did I not forbid thee, many a time, when the oath of divorce was always in thy mouth, as it were Holy Writ?\"",
+        "style_prompt": "The man's dynamic speech, paired with a low timbre, creates a high-energy interaction at a standard pace of talking.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "high",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-360-5767-48579-5767_48579_000005_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/5767/48579/5767_48579_000005_000001.wav",
+        "speaker_id": "LibriTTS-train-clean-360-5767",
+        "content": "Now one was an old man of comely face and the other a youth; and he heard the younger say to the elder, \"O my uncle,, I conjure thee by Allah, give me back my cousin!\"",
+        "style_prompt": "The man's enthusiastic dialogue, characterized by a low pitch, flows naturally in terms of speed.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "high",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-360-5767-48579-5767_48579_000009_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/5767/48579/5767_48579_000009_000000.wav",
+        "speaker_id": "LibriTTS-train-clean-360-5767",
+        "content": "And when he heard her chant these lines he ended his recitation of the chapter, and began also to sing and repeated the following couplet,",
+        "style_prompt": "A man's low-pitched voice conveys high energy naturally with a normal tempo.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "high",
+        "emotion": "neutral"
+    }
+]

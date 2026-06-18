@@ -1,0 +1,112 @@
+[
+    {
+        "item_name": "LibriTTS_R-7445_94526_000000_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/7445/94526/7445_94526_000000_000001.wav",
+        "speaker_id": "LibriTTS_R-7445",
+        "content": "But after making all proper allowances, he still appears to have been a weak prince, and unfit for government, less for want of natural parts and capacity, than of solid judgment and a good education.",
+        "style_prompt": "F_p-high_s-fast_e-normal",
+        "gender": "F",
+        "pitch": "high",
+        "speed": "fast",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-7445_94526_000001_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/7445/94526/7445_94526_000001_000000.wav",
+        "speaker_id": "LibriTTS_R-7445",
+        "content": "On comparing the conduct and events of this reign with those of the preceding, we shall find equal reason to admire Edward and to blame Richard; but the circumstance of opposition, surely, will not lie in the strict regard paid by the former to national privileges, and the neglect of them by the latter.",
+        "style_prompt": "F_p-normal_s-fast_e-normal",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "fast",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-7445_94526_000001_000006",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/7445/94526/7445_94526_000001_000006.wav",
+        "speaker_id": "LibriTTS_R-7445",
+        "content": "But Richard, because he was detected in consulting and deliberating with the judges on the lawfulness of restoring the constitution, found his barons immediately in arms against him; was deprived of his liberty; saw his favorites, his ministers, his tutor, butchered before his face, or banished and attainted; and was obliged to give way to all this violence.",
+        "style_prompt": "F_p-high_s-fast_e-normal",
+        "gender": "F",
+        "pitch": "high",
+        "speed": "fast",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-7445_94526_000005_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/7445/94526/7445_94526_000005_000001.wav",
+        "speaker_id": "LibriTTS_R-7445",
+        "content": "john Wickliffe, a secular priest, educated at Oxford, began in the latter end of Edward the third. to spread the doctrine of reformation by his discourses, sermons, and writings; and he made many disciples among men of all ranks and stations.",
+        "style_prompt": "F_p-normal_s-normal_e-high",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-7445_94526_000026_000002",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/7445/94526/7445_94526_000026_000002.wav",
+        "speaker_id": "LibriTTS_R-7445",
+        "content": "The French cardinals, as soon as they recovered their liberty, fled from Rome, and protesting against the forced election, chose Robert, son of the count of Geneva, who took the name of Clement the seventh., and resided at Avignon.",
+        "style_prompt": "F_p-high_s-fast_e-low",
+        "gender": "F",
+        "pitch": "high",
+        "speed": "fast",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-7445_94526_000026_000004",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/7445/94526/7445_94526_000026_000004.wav",
+        "speaker_id": "LibriTTS_R-7445",
+        "content": "The court of France adhered to Clement, and was followed by its allies, the king of Castile and the king of Scotland: England of course was thrown into the other party, and declared for Urban.",
+        "style_prompt": "F_p-normal_s-fast_e-low",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "fast",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-7445_94526_000026_000006",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/7445/94526/7445_94526_000026_000006.wav",
+        "speaker_id": "LibriTTS_R-7445",
+        "content": "But this circumstance, though it weakened the papal authority, had not so great an effect as might naturally be imagined.",
+        "style_prompt": "F_p-normal_s-fast_e-high",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "fast",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-7445_94526_000030_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/7445/94526/7445_94526_000030_000000.wav",
+        "speaker_id": "LibriTTS_R-7445",
+        "content": "This preamble contains a true picture of the state of the kingdom.",
+        "style_prompt": "F_p-normal_s-fast_e-high",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "fast",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-7445_94526_000030_000003",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/7445/94526/7445_94526_000030_000003.wav",
+        "speaker_id": "LibriTTS_R-7445",
+        "content": "They wore public badges, by which their confederacy was distinguished.",
+        "style_prompt": "F_p-high_s-fast_e-normal",
+        "gender": "F",
+        "pitch": "high",
+        "speed": "fast",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-7445_94526_000030_000006",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/7445/94526/7445_94526_000030_000006.wav",
+        "speaker_id": "LibriTTS_R-7445",
+        "content": "Hence the perpetual turbulence, disorders, factions, and civil wars of those times: hence the small regard paid to a character, or the opinion of the public: hence the large discretionary prerogatives of the crown, and the danger which might have ensued from the too great limitation of them.",
+        "style_prompt": "F_p-high_s-fast_e-normal",
+        "gender": "F",
+        "pitch": "high",
+        "speed": "fast",
+        "energy": "normal"
+    }
+]

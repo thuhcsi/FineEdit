@@ -1,0 +1,13 @@
+[
+    {
+        "item_name": "LibriTTS_R-2085_147971_000032_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/2085/147971/2085_147971_000032_000000.wav",
+        "speaker_id": "LibriTTS_R-2085",
+        "content": "\"Very well.",
+        "style_prompt": "F_p-normal_s-fast_e-high",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "very fast",
+        "energy": "very high"
+    }
+]

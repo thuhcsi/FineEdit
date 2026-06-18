@@ -1,0 +1,112 @@
+[
+    {
+        "item_name": "LibriTTS_R-2812_160187_000001_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/2812/160187/2812_160187_000001_000001.wav",
+        "speaker_id": "LibriTTS_R-2812",
+        "content": "Our eyes beheld Messiah certainly now come, so long Expected of our fathers; we have heard His words, his wisdom full of grace and truth. 'Now, now, for sure, deliverance is at hand; The kingdom shall to Israel be restored:' Thus we rejoiced, but soon our joy is turned Into perplexity and new amaze. For whither is he gone?",
+        "style_prompt": "M_p-high_s-normal_e-normal",
+        "gender": "M",
+        "pitch": "high",
+        "speed": "normal",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-2812_160187_000001_000002",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/2812/160187/2812_160187_000001_000002.wav",
+        "speaker_id": "LibriTTS_R-2812",
+        "content": "what accident Hath rapt him from us?",
+        "style_prompt": "M_p-high_s-slow_e-low",
+        "gender": "M",
+        "pitch": "high",
+        "speed": "slow",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-2812_160187_000001_000006",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/2812/160187/2812_160187_000001_000006.wav",
+        "speaker_id": "LibriTTS_R-2812",
+        "content": "But now, Full grown to man, acknowledged, as I hear, By john the Baptist, and in public shewn, Son owned from Heaven by his Father's voice, I looked for some great change.",
+        "style_prompt": "M_p-high_s-normal_e-high",
+        "gender": "M",
+        "pitch": "high",
+        "speed": "normal",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-2812_160187_000001_000007",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/2812/160187/2812_160187_000001_000007.wav",
+        "speaker_id": "LibriTTS_R-2812",
+        "content": "To honour?",
+        "style_prompt": "M_p-high_s-fast_e-normal",
+        "gender": "M",
+        "pitch": "very high",
+        "speed": "very fast",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-2812_160187_000001_000010",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/2812/160187/2812_160187_000001_000010.wav",
+        "speaker_id": "LibriTTS_R-2812",
+        "content": "Some great intent Conceals him.",
+        "style_prompt": "M_p-high_s-slow_e-high",
+        "gender": "M",
+        "pitch": "very high",
+        "speed": "slow",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-2812_160187_000001_000011",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/2812/160187/2812_160187_000001_000011.wav",
+        "speaker_id": "LibriTTS_R-2812",
+        "content": "When twelve years he scarce had seen, I lost him, but so found as well I saw He could not lose himself, but went about His Father's business.",
+        "style_prompt": "M_p-high_s-normal_e-high",
+        "gender": "M",
+        "pitch": "very high",
+        "speed": "normal",
+        "energy": "very high"
+    },
+    {
+        "item_name": "LibriTTS_R-2812_160187_000001_000015",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/2812/160187/2812_160187_000001_000015.wav",
+        "speaker_id": "LibriTTS_R-2812",
+        "content": "But these haunts Delight not all.",
+        "style_prompt": "M_p-high_s-slow_e-high",
+        "gender": "M",
+        "pitch": "high",
+        "speed": "slow",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-2812_160187_000001_000022",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/2812/160187/2812_160187_000001_000022.wav",
+        "speaker_id": "LibriTTS_R-2812",
+        "content": "Four times ten days I have passed Wandering this woody maze, and human food Nor tasted, nor had appetite.",
+        "style_prompt": "M_p-normal_s-slow_e-normal",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "slow",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-2812_160187_000001_000023",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/2812/160187/2812_160187_000001_000023.wav",
+        "speaker_id": "LibriTTS_R-2812",
+        "content": "That fast To virtue I impute not, or count part Of what I suffer here.",
+        "style_prompt": "M_p-normal_s-normal_e-low",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-2812_160187_000001_000025",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/2812/160187/2812_160187_000001_000025.wav",
+        "speaker_id": "LibriTTS_R-2812",
+        "content": "Yet God Can satisfy that need some other way, Though hunger still remain.",
+        "style_prompt": "M_p-normal_s-slow_e-normal",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "slow",
+        "energy": "normal"
+    }
+]

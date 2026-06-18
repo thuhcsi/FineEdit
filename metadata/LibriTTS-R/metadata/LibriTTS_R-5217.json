@@ -1,0 +1,233 @@
+[
+    {
+        "item_name": "LibriTTS_R-5217_24510_000001_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/5217/24510/5217_24510_000001_000000.wav",
+        "speaker_id": "LibriTTS_R-5217",
+        "content": "CHAPTER seven",
+        "style_prompt": "F_p-high_s-slow_e-low",
+        "gender": "F",
+        "pitch": "high",
+        "speed": "slow",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-5217_24510_000002_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/5217/24510/5217_24510_000002_000000.wav",
+        "speaker_id": "LibriTTS_R-5217",
+        "content": "TWO FAMOUS VERSIONS OF THE SCRIPTURES",
+        "style_prompt": "F_p-high_s-slow_e-normal",
+        "gender": "F",
+        "pitch": "very high",
+        "speed": "slow",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-5217_24510_000004_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/5217/24510/5217_24510_000004_000000.wav",
+        "speaker_id": "LibriTTS_R-5217",
+        "content": "By the blue waters of the Mediterranean Sea, on the coast of Egypt, lies Alexandria, a busy and prosperous city of to day.",
+        "style_prompt": "F_p-high_s-normal_e-low",
+        "gender": "F",
+        "pitch": "high",
+        "speed": "normal",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-5217_24510_000010_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/5217/24510/5217_24510_000010_000001.wav",
+        "speaker_id": "LibriTTS_R-5217",
+        "content": "They longed as earnestly as ever to hear about Him, and to read in His Book; but what was to be done?",
+        "style_prompt": "F_p-high_s-fast_e-normal",
+        "gender": "F",
+        "pitch": "very high",
+        "speed": "fast",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-5217_24510_000010_000003",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/5217/24510/5217_24510_000010_000003.wav",
+        "speaker_id": "LibriTTS_R-5217",
+        "content": "Must the little ones, therefore, grow up in ignorance of the Word of God?",
+        "style_prompt": "F_p-high_s-normal_e-normal",
+        "gender": "F",
+        "pitch": "high",
+        "speed": "normal",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-5217_24510_000011_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/5217/24510/5217_24510_000011_000000.wav",
+        "speaker_id": "LibriTTS_R-5217",
+        "content": "This was impossible.",
+        "style_prompt": "F_p-high_s-normal_e-normal",
+        "gender": "F",
+        "pitch": "very high",
+        "speed": "normal",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-5217_24510_000012_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/5217/24510/5217_24510_000012_000000.wav",
+        "speaker_id": "LibriTTS_R-5217",
+        "content": "This was a wonderful proof of the Bible's living power.",
+        "style_prompt": "F_p-high_s-fast_e-high",
+        "gender": "F",
+        "pitch": "high",
+        "speed": "fast",
+        "energy": "very high"
+    },
+    {
+        "item_name": "LibriTTS_R-5217_24510_000014_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/5217/24510/5217_24510_000014_000000.wav",
+        "speaker_id": "LibriTTS_R-5217",
+        "content": "Now, however, it is believed that the Jews of Alexandria did the work entirely themselves, although their Greek Bible is still called the 'Septuagint'--that is, 'The Scriptures of the Seventy'--in memory of the old tradition.",
+        "style_prompt": "F_p-high_s-normal_e-normal",
+        "gender": "F",
+        "pitch": "very high",
+        "speed": "normal",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-5217_24510_000019_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/5217/24510/5217_24510_000019_000000.wav",
+        "speaker_id": "LibriTTS_R-5217",
+        "content": "The Jews of old divided all dwellers on the earth into two classes: the Jews-that is, themselves; the Gentiles-that is, all the other nations.",
+        "style_prompt": "F_p-high_s-slow_e-low",
+        "gender": "F",
+        "pitch": "high",
+        "speed": "slow",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-5217_24510_000025_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/5217/24510/5217_24510_000025_000000.wav",
+        "speaker_id": "LibriTTS_R-5217",
+        "content": "The Bible was now no longer locked up in a language which was already half forgotten.",
+        "style_prompt": "F_p-high_s-normal_e-high",
+        "gender": "F",
+        "pitch": "high",
+        "speed": "normal",
+        "energy": "very high"
+    },
+    {
+        "item_name": "LibriTTS_R-5217_24510_000025_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/5217/24510/5217_24510_000025_000001.wav",
+        "speaker_id": "LibriTTS_R-5217",
+        "content": "With this Greek translation its world-wide work had begun!",
+        "style_prompt": "F_p-high_s-slow_e-normal",
+        "gender": "F",
+        "pitch": "high",
+        "speed": "slow",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-5217_24510_000033_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/5217/24510/5217_24510_000033_000000.wav",
+        "speaker_id": "LibriTTS_R-5217",
+        "content": "The Samaritans, however, in their hatred of everything Jewish, refused to follow their example.",
+        "style_prompt": "F_p-high_s-fast_e-normal",
+        "gender": "F",
+        "pitch": "very high",
+        "speed": "fast",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-5217_24510_000033_000002",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/5217/24510/5217_24510_000033_000002.wav",
+        "speaker_id": "LibriTTS_R-5217",
+        "content": "The Jews accepted these Books as inspired; therefore the Samaritans rejected them.",
+        "style_prompt": "F_p-high_s-fast_e-normal",
+        "gender": "F",
+        "pitch": "very high",
+        "speed": "fast",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-5217_24510_000036_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/5217/24510/5217_24510_000036_000000.wav",
+        "speaker_id": "LibriTTS_R-5217",
+        "content": "Yet these hidden Samaritan documents, falsified as they had been, have had a work to do for God's Word within comparatively recent times.",
+        "style_prompt": "F_p-high_s-normal_e-low",
+        "gender": "F",
+        "pitch": "high",
+        "speed": "normal",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-5217_24510_000038_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/5217/24510/5217_24510_000038_000000.wav",
+        "speaker_id": "LibriTTS_R-5217",
+        "content": "Other copies soon afterwards came to light: the world had rediscovered the Samaritan Bible!",
+        "style_prompt": "F_p-high_s-fast_e-low",
+        "gender": "F",
+        "pitch": "very high",
+        "speed": "fast",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-5217_24510_000039_000002",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/5217/24510/5217_24510_000039_000002.wav",
+        "speaker_id": "LibriTTS_R-5217",
+        "content": "They are kept in a silver cylinder, covered with crimson satin, heavily embroidered with gold.",
+        "style_prompt": "F_p-high_s-fast_e-normal",
+        "gender": "F",
+        "pitch": "very high",
+        "speed": "fast",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-5217_24510_000043_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/5217/24510/5217_24510_000043_000001.wav",
+        "speaker_id": "LibriTTS_R-5217",
+        "content": "According to the Samaritans, Moses was the only true prophet.",
+        "style_prompt": "F_p-high_s-fast_e-low",
+        "gender": "F",
+        "pitch": "very high",
+        "speed": "fast",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-5217_24510_000047_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/5217/24510/5217_24510_000047_000000.wav",
+        "speaker_id": "LibriTTS_R-5217",
+        "content": "Not merely a different translation, remember, for the Bible should be the same in every language, but a Book of the Law in which some of the words had been changed and the original meaning destroyed.",
+        "style_prompt": "F_p-high_s-fast_e-normal",
+        "gender": "F",
+        "pitch": "very high",
+        "speed": "fast",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-5217_24510_000048_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/5217/24510/5217_24510_000048_000001.wav",
+        "speaker_id": "LibriTTS_R-5217",
+        "content": "twenty.)",
+        "style_prompt": "F_p-normal_s-fast_e-low",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "very fast",
+        "energy": "very low"
+    },
+    {
+        "item_name": "LibriTTS_R-5217_24510_000049_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/5217/24510/5217_24510_000049_000000.wav",
+        "speaker_id": "LibriTTS_R-5217",
+        "content": "The Saviour had not said so, but she felt sure that He, as a Jew, would certainly contradict the old traditions of his countrymen.",
+        "style_prompt": "F_p-high_s-normal_e-normal",
+        "gender": "F",
+        "pitch": "very high",
+        "speed": "normal",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-5217_24510_000050_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/5217/24510/5217_24510_000050_000000.wav",
+        "speaker_id": "LibriTTS_R-5217",
+        "content": "But the Lord Jesus Christ had come to show the world that it was no longer a question of this mountain or that.",
+        "style_prompt": "F_p-high_s-normal_e-high",
+        "gender": "F",
+        "pitch": "high",
+        "speed": "normal",
+        "energy": "high"
+    }
+]

@@ -1,0 +1,178 @@
+[
+    {
+        "item_name": "LibriTTS_R-90_121085_000033_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/90/121085/90_121085_000033_000000.wav",
+        "speaker_id": "LibriTTS_R-90",
+        "content": "\"Well?\"",
+        "style_prompt": "M_p-high_s-slow_e-low",
+        "gender": "M",
+        "pitch": "very high",
+        "speed": "very slow",
+        "energy": "very low"
+    },
+    {
+        "item_name": "LibriTTS_R-90_121085_000047_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/90/121085/90_121085_000047_000000.wav",
+        "speaker_id": "LibriTTS_R-90",
+        "content": "\"There!",
+        "style_prompt": "M_p-high_s-normal_e-high",
+        "gender": "M",
+        "pitch": "very high",
+        "speed": "normal",
+        "energy": "very high"
+    },
+    {
+        "item_name": "LibriTTS_R-90_121085_000050_000003",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/90/121085/90_121085_000050_000003.wav",
+        "speaker_id": "LibriTTS_R-90",
+        "content": "I found the tenant.",
+        "style_prompt": "M_p-high_s-fast_e-high",
+        "gender": "M",
+        "pitch": "high",
+        "speed": "fast",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-90_121085_000051_000007",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/90/121085/90_121085_000051_000007.wav",
+        "speaker_id": "LibriTTS_R-90",
+        "content": "Night arrived; I allowed it to become quite dark.",
+        "style_prompt": "M_p-high_s-fast_e-normal",
+        "gender": "M",
+        "pitch": "high",
+        "speed": "very fast",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-90_121085_000054_000002",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/90/121085/90_121085_000054_000002.wav",
+        "speaker_id": "LibriTTS_R-90",
+        "content": "I went to work.",
+        "style_prompt": "M_p-high_s-fast_e-high",
+        "gender": "M",
+        "pitch": "high",
+        "speed": "fast",
+        "energy": "very high"
+    },
+    {
+        "item_name": "LibriTTS_R-90_121085_000079_000002",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/90/121085/90_121085_000079_000002.wav",
+        "speaker_id": "LibriTTS_R-90",
+        "content": "They traced her to Chalons, and there they lost her.\"",
+        "style_prompt": "M_p-high_s-normal_e-high",
+        "gender": "M",
+        "pitch": "high",
+        "speed": "normal",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-90_121085_000080_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/90/121085/90_121085_000080_000000.wav",
+        "speaker_id": "LibriTTS_R-90",
+        "content": "\"They lost her?\"",
+        "style_prompt": "M_p-high_s-slow_e-high",
+        "gender": "M",
+        "pitch": "very high",
+        "speed": "slow",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-90_121085_000081_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/90/121085/90_121085_000081_000001.wav",
+        "speaker_id": "LibriTTS_R-90",
+        "content": "\"And this is all?\" said she; \"and you stopped there?\"",
+        "style_prompt": "M_p-high_s-normal_e-normal",
+        "gender": "M",
+        "pitch": "very high",
+        "speed": "normal",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-90_121085_000085_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/90/121085/90_121085_000085_000000.wav",
+        "speaker_id": "LibriTTS_R-90",
+        "content": "\"no\"",
+        "style_prompt": "M_p-high_s-slow_e-normal",
+        "gender": "M",
+        "pitch": "very high",
+        "speed": "very slow",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-90_121085_000089_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/90/121085/90_121085_000089_000000.wav",
+        "speaker_id": "LibriTTS_R-90",
+        "content": "\"Yes, doubtless.\"",
+        "style_prompt": "M_p-high_s-slow_e-high",
+        "gender": "M",
+        "pitch": "very high",
+        "speed": "very slow",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-90_121085_000094_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/90/121085/90_121085_000094_000001.wav",
+        "speaker_id": "LibriTTS_R-90",
+        "content": "Do you keep a journal?\"",
+        "style_prompt": "M_p-high_s-fast_e-high",
+        "gender": "M",
+        "pitch": "very high",
+        "speed": "very fast",
+        "energy": "very high"
+    },
+    {
+        "item_name": "LibriTTS_R-90_130566_000006_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/90/130566/90_130566_000006_000001.wav",
+        "speaker_id": "LibriTTS_R-90",
+        "content": "So she took them to him and asked him to keep them till her child was born; and no one was present at the time but the headman's wife.",
+        "style_prompt": "M_p-normal_s-normal_e-normal",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-90_130566_000006_000004",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/90/130566/90_130566_000006_000004.wav",
+        "speaker_id": "LibriTTS_R-90",
+        "content": "You must have had witnesses in such a business.\" And they drove her out.",
+        "style_prompt": "M_p-low_s-normal_e-normal",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-90_130566_000008_000002",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/90/130566/90_130566_000008_000002.wav",
+        "speaker_id": "LibriTTS_R-90",
+        "content": "Then the headman was dumbfounded and reluctantly brought out five gold pieces and gave them to the woman.",
+        "style_prompt": "M_p-low_s-normal_e-normal",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-90_130566_000010_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/90/130566/90_130566_000010_000001.wav",
+        "speaker_id": "LibriTTS_R-90",
+        "content": "On the way he met a man who asked him where he was going and he answered that he was going to make a petition to Singh Chando.",
+        "style_prompt": "M_p-normal_s-normal_e-normal",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-90_130566_000010_000002",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/90/130566/90_130566_000010_000002.wav",
+        "speaker_id": "LibriTTS_R-90",
+        "content": "\"Then,\" said the man, \"make a petition for me also.",
+        "style_prompt": "M_p-low_s-normal_e-high",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "high"
+    }
+]

@@ -1,0 +1,54 @@
+[
+    {
+        "item_name": "Emotional Speech Dataset (ESD)-Emotion Speech Dataset-0016-Sad-0016_001286",
+        "wav_path": "/zhiji-universal-cfs-sh/speech/prompt_based_data/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0016/Sad/0016_001286.wav",
+        "speaker_id": "Emotional Speech Dataset (ESD)-Emotion Speech Dataset-0016",
+        "content": "How rash you are!",
+        "style_prompt": "With an energetic approach, she spoke slowly and distinctly, her miserable voice high.",
+        "gender": "F",
+        "pitch": "high",
+        "speed": "low",
+        "energy": "high",
+        "emotion": "sad",
+        "prosody_key": "p-high_s-low_e-high_sad"
+    },
+    {
+        "item_name": "Emotional Speech Dataset (ESD)-Emotion Speech Dataset-0016-Sad-0016_001221",
+        "wav_path": "/zhiji-universal-cfs-sh/speech/prompt_based_data/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0016/Sad/0016_001221.wav",
+        "speaker_id": "Emotional Speech Dataset (ESD)-Emotion Speech Dataset-0016",
+        "content": "I say neither yea nor nay.",
+        "style_prompt": "With deliberate slowness, she conveyed her depressed enthusiasm through a high-pitched tone.",
+        "gender": "F",
+        "pitch": "high",
+        "speed": "low",
+        "energy": "high",
+        "emotion": "sad",
+        "prosody_key": "p-high_s-low_e-high_sad"
+    },
+    {
+        "item_name": "Emotional Speech Dataset (ESD)-Emotion Speech Dataset-0018-Sad-0018_001284",
+        "wav_path": "/zhiji-universal-cfs-sh/speech/prompt_based_data/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0018/Sad/0018_001284.wav",
+        "speaker_id": "Emotional Speech Dataset (ESD)-Emotion Speech Dataset-0018",
+        "content": "Hurry up, hurry up!",
+        "style_prompt": "The gloomy woman spoke slowly and loudly in a high tone.",
+        "gender": "F",
+        "pitch": "high",
+        "speed": "low",
+        "energy": "high",
+        "emotion": "sad",
+        "prosody_key": "p-high_s-low_e-high_sad"
+    },
+    {
+        "item_name": "Emotional Speech Dataset (ESD)-Emotion Speech Dataset-0018-Sad-0018_001391",
+        "wav_path": "/zhiji-universal-cfs-sh/speech/prompt_based_data/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0018/Sad/0018_001391.wav",
+        "speaker_id": "Emotional Speech Dataset (ESD)-Emotion Speech Dataset-0018",
+        "content": "Enough,you a foolish chatter.",
+        "style_prompt": "Her high-pitched voice added vibrancy to her depressed slow and deliberate speech, creating a dynamic delivery.",
+        "gender": "F",
+        "pitch": "high",
+        "speed": "low",
+        "energy": "high",
+        "emotion": "sad",
+        "prosody_key": "p-high_s-low_e-high_sad"
+    }
+]

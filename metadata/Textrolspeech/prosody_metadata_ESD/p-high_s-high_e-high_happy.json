@@ -1,0 +1,67 @@
+[
+    {
+        "item_name": "Emotional Speech Dataset (ESD)-Emotion Speech Dataset-0019-Happy-0019_000830",
+        "wav_path": "/zhiji-universal-cfs-sh/speech/prompt_based_data/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0019/Happy/0019_000830.wav",
+        "speaker_id": "Emotional Speech Dataset (ESD)-Emotion Speech Dataset-0019",
+        "content": "And would spoil my joke.",
+        "style_prompt": "With her joyful fast-paced speech and high-energy tone, she captivates the audience.",
+        "gender": "F",
+        "pitch": "high",
+        "speed": "high",
+        "energy": "high",
+        "emotion": "happy",
+        "prosody_key": "p-high_s-high_e-high_happy"
+    },
+    {
+        "item_name": "Emotional Speech Dataset (ESD)-Emotion Speech Dataset-0019-Happy-0019_000749",
+        "wav_path": "/zhiji-universal-cfs-sh/speech/prompt_based_data/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0019/Happy/0019_000749.wav",
+        "speaker_id": "Emotional Speech Dataset (ESD)-Emotion Speech Dataset-0019",
+        "content": "Then we all say aha!",
+        "style_prompt": "The pleasing girl's rapid, high-pitched speech fills the room with vibrant energy.",
+        "gender": "F",
+        "pitch": "high",
+        "speed": "high",
+        "energy": "high",
+        "emotion": "happy",
+        "prosody_key": "p-high_s-high_e-high_happy"
+    },
+    {
+        "item_name": "Emotional Speech Dataset (ESD)-Emotion Speech Dataset-0019-Happy-0019_000868",
+        "wav_path": "/zhiji-universal-cfs-sh/speech/prompt_based_data/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0019/Happy/0019_000868.wav",
+        "speaker_id": "Emotional Speech Dataset (ESD)-Emotion Speech Dataset-0019",
+        "content": "I said you looked like an egg, sir.",
+        "style_prompt": "Speaking with fervor and speed, her ecstatic high-pitched voice captivates.",
+        "gender": "F",
+        "pitch": "high",
+        "speed": "high",
+        "energy": "high",
+        "emotion": "happy",
+        "prosody_key": "p-high_s-high_e-high_happy"
+    },
+    {
+        "item_name": "Emotional Speech Dataset (ESD)-Emotion Speech Dataset-0019-Happy-0019_000937",
+        "wav_path": "/zhiji-universal-cfs-sh/speech/prompt_based_data/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0019/Happy/0019_000937.wav",
+        "speaker_id": "Emotional Speech Dataset (ESD)-Emotion Speech Dataset-0019",
+        "content": "What would they do at the end of the year?",
+        "style_prompt": "Speaking at a lightning pace, her joyful voice is full of vigor.",
+        "gender": "F",
+        "pitch": "high",
+        "speed": "high",
+        "energy": "high",
+        "emotion": "happy",
+        "prosody_key": "p-high_s-high_e-high_happy"
+    },
+    {
+        "item_name": "Emotional Speech Dataset (ESD)-Emotion Speech Dataset-0019-Happy-0019_000748",
+        "wav_path": "/zhiji-universal-cfs-sh/speech/prompt_based_data/TextrolSpeech/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0019/Happy/0019_000748.wav",
+        "speaker_id": "Emotional Speech Dataset (ESD)-Emotion Speech Dataset-0019",
+        "content": "You are not a runaway,who are you?",
+        "style_prompt": "A high-energy woman spoke quickly, her pleasing voice pitched high.",
+        "gender": "F",
+        "pitch": "high",
+        "speed": "high",
+        "energy": "high",
+        "emotion": "happy",
+        "prosody_key": "p-high_s-high_e-high_happy"
+    }
+]

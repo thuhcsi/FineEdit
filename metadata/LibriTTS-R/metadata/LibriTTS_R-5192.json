@@ -1,0 +1,24 @@
+[
+    {
+        "item_name": "LibriTTS_R-5192_19396_000026_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/5192/19396/5192_19396_000026_000000.wav",
+        "speaker_id": "LibriTTS_R-5192",
+        "content": "--The duce take it! said my uncle Toby.",
+        "style_prompt": "M_p-low_s-normal_e-low",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-5192_19396_000029_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/5192/19396/5192_19396_000029_000000.wav",
+        "speaker_id": "LibriTTS_R-5192",
+        "content": "By all that is priestly!",
+        "style_prompt": "M_p-high_s-slow_e-high",
+        "gender": "M",
+        "pitch": "high",
+        "speed": "slow",
+        "energy": "high"
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "item_name": "LibriTTS_R-2499_156153_000000_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/2499/156153/2499_156153_000000_000000.wav",
+        "speaker_id": "LibriTTS_R-2499",
+        "content": "SNOW BOUND.",
+        "style_prompt": "M_p-normal_s-slow_e-normal",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "very slow",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-2499_156153_000006_000004",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/2499/156153/2499_156153_000006_000004.wav",
+        "speaker_id": "LibriTTS_R-2499",
+        "content": "She early embraced the doctrine of the Second Advent, and felt it her duty to proclaim the Lord's speedy coming.",
+        "style_prompt": "M_p-high_s-normal_e-low",
+        "gender": "M",
+        "pitch": "very high",
+        "speed": "normal",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-2499_156153_000006_000007",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/2499/156153/2499_156153_000006_000007.wav",
+        "speaker_id": "LibriTTS_R-2499",
+        "content": "At the time referred to in Snow Bound she was boarding at the Rocks Village about two miles from us.",
+        "style_prompt": "M_p-high_s-slow_e-normal",
+        "gender": "M",
+        "pitch": "very high",
+        "speed": "slow",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-2499_156153_000007_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/2499/156153/2499_156153_000007_000000.wav",
+        "speaker_id": "LibriTTS_R-2499",
+        "content": "In my boyhood, in our lonely farm house, we had scanty sources of information; few books and only a small weekly newspaper.",
+        "style_prompt": "M_p-high_s-slow_e-low",
+        "gender": "M",
+        "pitch": "very high",
+        "speed": "slow",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-2499_156153_000007_000003",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/2499/156153/2499_156153_000007_000003.wav",
+        "speaker_id": "LibriTTS_R-2499",
+        "content": "My father when a young man had traversed the wilderness to Canada, and could tell us of his adventures with Indians and wild beasts, and of his sojourn in the French villages.",
+        "style_prompt": "M_p-high_s-slow_e-low",
+        "gender": "M",
+        "pitch": "very high",
+        "speed": "slow",
+        "energy": "very low"
+    },
+    {
+        "item_name": "LibriTTS_R-2499_156155_000002_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/2499/156155/2499_156155_000002_000000.wav",
+        "speaker_id": "LibriTTS_R-2499",
+        "content": "Rest from all bitter thoughts and things! How many a poor one's blessing went With thee beneath the low green tent Whose curtain never outward swings!",
+        "style_prompt": "M_p-high_s-slow_e-low",
+        "gender": "M",
+        "pitch": "very high",
+        "speed": "very slow",
+        "energy": "very low"
+    }
+]

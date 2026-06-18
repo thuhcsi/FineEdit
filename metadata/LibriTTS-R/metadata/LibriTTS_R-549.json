@@ -1,0 +1,222 @@
+[
+    {
+        "item_name": "LibriTTS_R-549_126410_000002_000003",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/549/126410/549_126410_000002_000003.wav",
+        "speaker_id": "LibriTTS_R-549",
+        "content": "Ask for a good fat Megatherium and have done with it.'",
+        "style_prompt": "F_p-high_s-normal_e-normal",
+        "gender": "F",
+        "pitch": "very high",
+        "speed": "normal",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-549_126410_000006_000003",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/549/126410/549_126410_000006_000003.wav",
+        "speaker_id": "LibriTTS_R-549",
+        "content": "Good bye.'",
+        "style_prompt": "F_p-normal_s-fast_e-low",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "very fast",
+        "energy": "very low"
+    },
+    {
+        "item_name": "LibriTTS_R-549_126410_000008_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/549/126410/549_126410_000008_000000.wav",
+        "speaker_id": "LibriTTS_R-549",
+        "content": "'I'll tell you what,' said the Psammead suddenly, shooting out its long snail's eyes - 'I'm getting tired of you — all of you.",
+        "style_prompt": "F_p-low_s-normal_e-low",
+        "gender": "F",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-549_126410_000010_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/549/126410/549_126410_000010_000000.wav",
+        "speaker_id": "LibriTTS_R-549",
+        "content": "'He does grow,' said Anthea.",
+        "style_prompt": "F_p-normal_s-slow_e-low",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "very slow",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-549_126410_000013_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/549/126410/549_126410_000013_000000.wav",
+        "speaker_id": "LibriTTS_R-549",
+        "content": "'Grow up some day!' said Cyril bitterly, plumping the Lamb down on the grass.",
+        "style_prompt": "F_p-low_s-normal_e-low",
+        "gender": "F",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "very low"
+    },
+    {
+        "item_name": "LibriTTS_R-549_126410_000013_000002",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/549/126410/549_126410_000013_000002.wav",
+        "speaker_id": "LibriTTS_R-549",
+        "content": "I wish to goodness he would -'",
+        "style_prompt": "F_p-high_s-slow_e-normal",
+        "gender": "F",
+        "pitch": "high",
+        "speed": "slow",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-549_126410_000014_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/549/126410/549_126410_000014_000000.wav",
+        "speaker_id": "LibriTTS_R-549",
+        "content": "'OH, take care!' cried Anthea in an agony of apprehension.",
+        "style_prompt": "F_p-high_s-normal_e-low",
+        "gender": "F",
+        "pitch": "high",
+        "speed": "normal",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-549_126410_000014_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/549/126410/549_126410_000014_000001.wav",
+        "speaker_id": "LibriTTS_R-549",
+        "content": "But it was too late — like music to a song her words and Cyril's came out together — Anthea - 'Oh, take care!' Cyril - 'Grow up now!'",
+        "style_prompt": "F_p-normal_s-slow_e-low",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "slow",
+        "energy": "very low"
+    },
+    {
+        "item_name": "LibriTTS_R-549_126410_000016_000002",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/549/126410/549_126410_000016_000002.wav",
+        "speaker_id": "LibriTTS_R-549",
+        "content": "You boys might wish as well!' They all wished hard, for the sight was enough to dismay the most heartless.",
+        "style_prompt": "F_p-high_s-normal_e-low",
+        "gender": "F",
+        "pitch": "high",
+        "speed": "normal",
+        "energy": "very low"
+    },
+    {
+        "item_name": "LibriTTS_R-549_126410_000016_000005",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/549/126410/549_126410_000016_000005.wav",
+        "speaker_id": "LibriTTS_R-549",
+        "content": "Their own Lamb!",
+        "style_prompt": "F_p-high_s-slow_e-high",
+        "gender": "F",
+        "pitch": "very high",
+        "speed": "very slow",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-549_126410_000022_000004",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/549/126410/549_126410_000022_000004.wav",
+        "speaker_id": "LibriTTS_R-549",
+        "content": "I can see it.",
+        "style_prompt": "F_p-low_s-fast_e-low",
+        "gender": "F",
+        "pitch": "low",
+        "speed": "fast",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-549_126410_000026_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/549/126410/549_126410_000026_000001.wav",
+        "speaker_id": "LibriTTS_R-549",
+        "content": "What's the giddy hour?",
+        "style_prompt": "F_p-normal_s-normal_e-normal",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-549_126410_000026_000002",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/549/126410/549_126410_000026_000002.wav",
+        "speaker_id": "LibriTTS_R-549",
+        "content": "You'll be late for your grub!'",
+        "style_prompt": "F_p-high_s-slow_e-normal",
+        "gender": "F",
+        "pitch": "high",
+        "speed": "slow",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-549_126410_000029_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/549/126410/549_126410_000029_000000.wav",
+        "speaker_id": "LibriTTS_R-549",
+        "content": "'What about your grub, though?' asked Jane.",
+        "style_prompt": "F_p-normal_s-slow_e-low",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "slow",
+        "energy": "very low"
+    },
+    {
+        "item_name": "LibriTTS_R-549_126410_000042_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/549/126410/549_126410_000042_000001.wav",
+        "speaker_id": "LibriTTS_R-549",
+        "content": "You might let Bobs and me come with you — even if you don't want the girls.'",
+        "style_prompt": "F_p-normal_s-normal_e-low",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-549_126410_000049_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/549/126410/549_126410_000049_000001.wav",
+        "speaker_id": "LibriTTS_R-549",
+        "content": "'Look here.'",
+        "style_prompt": "F_p-normal_s-fast_e-low",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "very fast",
+        "energy": "very low"
+    },
+    {
+        "item_name": "LibriTTS_R-549_126410_000074_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/549/126410/549_126410_000074_000000.wav",
+        "speaker_id": "LibriTTS_R-549",
+        "content": "'Oh, Lamb! how can you?' cried Jane - 'when you know perfectly well you're our own little baby brother that we're so fond of.",
+        "style_prompt": "F_p-high_s-normal_e-normal",
+        "gender": "F",
+        "pitch": "very high",
+        "speed": "normal",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-549_126410_000074_000003",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/549/126410/549_126410_000074_000003.wav",
+        "speaker_id": "LibriTTS_R-549",
+        "content": "You see, he's sort of under a spell — enchanted — you know what I mean!'",
+        "style_prompt": "F_p-high_s-normal_e-normal",
+        "gender": "F",
+        "pitch": "very high",
+        "speed": "normal",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-549_126410_000082_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/549/126410/549_126410_000082_000001.wav",
+        "speaker_id": "LibriTTS_R-549",
+        "content": "'You shall say whatever you like in the morning — if you can,' she added in a whisper. It was a gloomy party that went home through the soft evening.",
+        "style_prompt": "F_p-normal_s-fast_e-low",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "fast",
+        "energy": "very low"
+    },
+    {
+        "item_name": "LibriTTS_R-549_126410_000085_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/549/126410/549_126410_000085_000000.wav",
+        "speaker_id": "LibriTTS_R-549",
+        "content": "'Come to his own Martha, then — a precious poppet!'",
+        "style_prompt": "F_p-high_s-normal_e-low",
+        "gender": "F",
+        "pitch": "very high",
+        "speed": "normal",
+        "energy": "low"
+    }
+]

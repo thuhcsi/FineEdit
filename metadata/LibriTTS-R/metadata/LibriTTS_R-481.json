@@ -1,0 +1,145 @@
+[
+    {
+        "item_name": "LibriTTS_R-481_123719_000002_000012",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/481/123719/481_123719_000002_000012.wav",
+        "speaker_id": "LibriTTS_R-481",
+        "content": "And even more contemptible than that is my making this remark now.",
+        "style_prompt": "M_p-low_s-normal_e-normal",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-481_123720_000005_000003",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/481/123720/481_123720_000005_000003.wav",
+        "speaker_id": "LibriTTS_R-481",
+        "content": "I had not been treated like that even at school, though they all hated me.",
+        "style_prompt": "M_p-low_s-fast_e-high",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "fast",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-481_123720_000006_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/481/123720/481_123720_000006_000001.wav",
+        "speaker_id": "LibriTTS_R-481",
+        "content": "This Zverkov had been all the time at school with me too.",
+        "style_prompt": "M_p-normal_s-slow_e-normal",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "slow",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-481_123720_000006_000015",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/481/123720/481_123720_000006_000015.wav",
+        "speaker_id": "LibriTTS_R-481",
+        "content": "I got the better of him on that occasion, but though Zverkov was stupid he was lively and impudent, and so laughed it off, and in such a way that my victory was not really complete; the laugh was on his side.",
+        "style_prompt": "M_p-low_s-normal_e-low",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-481_123720_000026_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/481/123720/481_123720_000026_000001.wav",
+        "speaker_id": "LibriTTS_R-481",
+        "content": "\"It's not an official gathering.\"",
+        "style_prompt": "M_p-normal_s-normal_e-high",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-481_123720_000032_000003",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/481/123720/481_123720_000032_000003.wav",
+        "speaker_id": "LibriTTS_R-481",
+        "content": "Please don't...\"",
+        "style_prompt": "M_p-high_s-slow_e-normal",
+        "gender": "M",
+        "pitch": "very high",
+        "speed": "slow",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-481_123720_000033_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/481/123720/481_123720_000033_000001.wav",
+        "speaker_id": "LibriTTS_R-481",
+        "content": "As he walked he began to stamp with his heels.",
+        "style_prompt": "M_p-normal_s-normal_e-low",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-481_123720_000038_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/481/123720/481_123720_000038_000001.wav",
+        "speaker_id": "LibriTTS_R-481",
+        "content": "Of course I had better not go; of course, I must just snap my fingers at them.",
+        "style_prompt": "M_p-normal_s-normal_e-low",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "very low"
+    },
+    {
+        "item_name": "LibriTTS_R-481_123720_000041_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/481/123720/481_123720_000041_000001.wav",
+        "speaker_id": "LibriTTS_R-481",
+        "content": "But I will talk about that fellow, about that plague of mine, another time.",
+        "style_prompt": "M_p-low_s-fast_e-normal",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "fast",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-481_123720_000043_000003",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/481/123720/481_123720_000043_000003.wav",
+        "speaker_id": "LibriTTS_R-481",
+        "content": "My schoolfellows met me with spiteful and merciless jibes because I was not like any of them.",
+        "style_prompt": "M_p-low_s-normal_e-normal",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-481_123720_000044_000007",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/481/123720/481_123720_000044_000007.wav",
+        "speaker_id": "LibriTTS_R-481",
+        "content": "I stole the brushes to clean them from the passage, being careful he should not detect it, for fear of his contempt.",
+        "style_prompt": "M_p-low_s-fast_e-low",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "fast",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-481_123720_000044_000024",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/481/123720/481_123720_000044_000024.wav",
+        "speaker_id": "LibriTTS_R-481",
+        "content": "Oh, how I prayed for the day to pass quickly!",
+        "style_prompt": "M_p-normal_s-normal_e-normal",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-481_123720_000044_000026",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/481/123720/481_123720_000044_000026.wav",
+        "speaker_id": "LibriTTS_R-481",
+        "content": "At last my wretched little clock hissed out five.",
+        "style_prompt": "M_p-low_s-slow_e-low",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "slow",
+        "energy": "low"
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "item_name": "LibriTTS_R-1290_135762_000001_000002",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1290/135762/1290_135762_000001_000002.wav",
+        "speaker_id": "LibriTTS_R-1290",
+        "content": "But, in that early severity of the Puritan character, an inference of this kind could not so indubitably be drawn.",
+        "style_prompt": "F_p-low_s-fast_e-low",
+        "gender": "F",
+        "pitch": "very low",
+        "speed": "very fast",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-1290_135762_000005_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1290/135762/1290_135762_000005_000001.wav",
+        "speaker_id": "LibriTTS_R-1290",
+        "content": "\"At the very least, they should have put the brand of a hot iron on Hester Prynne's forehead.",
+        "style_prompt": "F_p-low_s-fast_e-low",
+        "gender": "F",
+        "pitch": "very low",
+        "speed": "fast",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-1290_135762_000005_000004",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1290/135762/1290_135762_000005_000004.wav",
+        "speaker_id": "LibriTTS_R-1290",
+        "content": "Why, look you, she may cover it with a brooch, or such like heathenish adornment, and so walk the streets as brave as ever!\"",
+        "style_prompt": "F_p-normal_s-normal_e-low",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-1290_135762_000007_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1290/135762/1290_135762_000007_000001.wav",
+        "speaker_id": "LibriTTS_R-1290",
+        "content": "\"This woman has brought shame upon us all, and ought to die; is there not law for it?",
+        "style_prompt": "F_p-low_s-normal_e-low",
+        "gender": "F",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "very low"
+    },
+    {
+        "item_name": "LibriTTS_R-1290_135762_000008_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1290/135762/1290_135762_000008_000001.wav",
+        "speaker_id": "LibriTTS_R-1290",
+        "content": "That is the hardest word yet!",
+        "style_prompt": "F_p-normal_s-slow_e-normal",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "slow",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-1290_135762_000015_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1290/135762/1290_135762_000015_000001.wav",
+        "speaker_id": "LibriTTS_R-1290",
+        "content": "\"Make way, good people-make way, in the King's name!\" cried he.",
+        "style_prompt": "F_p-low_s-slow_e-low",
+        "gender": "F",
+        "pitch": "low",
+        "speed": "slow",
+        "energy": "low"
+    }
+]

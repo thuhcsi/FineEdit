@@ -1,0 +1,211 @@
+[
+    {
+        "item_name": "LibriTTS_R-636_123163_000003_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/636/123163/636_123163_000003_000000.wav",
+        "speaker_id": "LibriTTS_R-636",
+        "content": "To Bake a Rock Fish.",
+        "style_prompt": "F_p-normal_s-slow_e-normal",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "slow",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-636_123163_000009_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/636/123163/636_123163_000009_000000.wav",
+        "speaker_id": "LibriTTS_R-636",
+        "content": "To Bake a Fresh Shad.",
+        "style_prompt": "F_p-low_s-slow_e-low",
+        "gender": "F",
+        "pitch": "low",
+        "speed": "slow",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-636_123163_000010_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/636/123163/636_123163_000010_000000.wav",
+        "speaker_id": "LibriTTS_R-636",
+        "content": "Make a stuffing of bread, butter, salt, pepper and parsley; fill a large shad with this, and bake it in a stove or oven.",
+        "style_prompt": "F_p-normal_s-slow_e-low",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "slow",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-636_123163_000015_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/636/123163/636_123163_000015_000000.wav",
+        "speaker_id": "LibriTTS_R-636",
+        "content": "To Stew Clams.",
+        "style_prompt": "F_p-high_s-slow_e-high",
+        "gender": "F",
+        "pitch": "high",
+        "speed": "very slow",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-636_123163_000024_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/636/123163/636_123163_000024_000000.wav",
+        "speaker_id": "LibriTTS_R-636",
+        "content": "To Boil Salt Salmon.",
+        "style_prompt": "F_p-normal_s-slow_e-normal",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "slow",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-636_123163_000027_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/636/123163/636_123163_000027_000001.wav",
+        "speaker_id": "LibriTTS_R-636",
+        "content": "A fat shad is very nice boiled, although rock and bass are preferred generally; when done, take it up on a fish dish, and cover it with egg sauce or drawn butter and parsley.",
+        "style_prompt": "F_p-normal_s-normal_e-low",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-636_123163_000028_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/636/123163/636_123163_000028_000000.wav",
+        "speaker_id": "LibriTTS_R-636",
+        "content": "To Stew Terrapins.",
+        "style_prompt": "F_p-high_s-slow_e-normal",
+        "gender": "F",
+        "pitch": "high",
+        "speed": "slow",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-636_123163_000032_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/636/123163/636_123163_000032_000000.wav",
+        "speaker_id": "LibriTTS_R-636",
+        "content": "Another Way.",
+        "style_prompt": "F_p-normal_s-fast_e-high",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "fast",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-636_123163_000034_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/636/123163/636_123163_000034_000000.wav",
+        "speaker_id": "LibriTTS_R-636",
+        "content": "Scolloped Oysters.",
+        "style_prompt": "F_p-normal_s-slow_e-low",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "slow",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-636_123163_000044_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/636/123163/636_123163_000044_000000.wav",
+        "speaker_id": "LibriTTS_R-636",
+        "content": "A Rich Oyster Pie.",
+        "style_prompt": "F_p-normal_s-slow_e-normal",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "slow",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-636_123163_000051_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/636/123163/636_123163_000051_000000.wav",
+        "speaker_id": "LibriTTS_R-636",
+        "content": "Plain Oyster Pie.",
+        "style_prompt": "F_p-normal_s-slow_e-normal",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "very slow",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-636_123163_000058_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/636/123163/636_123163_000058_000000.wav",
+        "speaker_id": "LibriTTS_R-636",
+        "content": "Wash and drain the oysters, and put them in salt and water, that will bear an egg; let them scald till plump, and put them in a glass jar, with some cloves and whole peppers, and when cold cover them with vinegar.",
+        "style_prompt": "F_p-normal_s-slow_e-normal",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "slow",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-636_123163_000061_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/636/123163/636_123163_000061_000000.wav",
+        "speaker_id": "LibriTTS_R-636",
+        "content": "A Dish of Poached Eggs.",
+        "style_prompt": "F_p-normal_s-slow_e-low",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "slow",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-636_123163_000067_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/636/123163/636_123163_000067_000000.wav",
+        "speaker_id": "LibriTTS_R-636",
+        "content": "Omelet.",
+        "style_prompt": "F_p-normal_s-fast_e-low",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "very fast",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-636_128310_000019_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/636/128310/636_128310_000019_000000.wav",
+        "speaker_id": "LibriTTS_R-636",
+        "content": "\"Saying your prayers!",
+        "style_prompt": "F_p-high_s-slow_e-high",
+        "gender": "F",
+        "pitch": "very high",
+        "speed": "very slow",
+        "energy": "very high"
+    },
+    {
+        "item_name": "LibriTTS_R-636_128310_000021_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/636/128310/636_128310_000021_000000.wav",
+        "speaker_id": "LibriTTS_R-636",
+        "content": "\"You weren't.",
+        "style_prompt": "F_p-high_s-slow_e-low",
+        "gender": "F",
+        "pitch": "very high",
+        "speed": "slow",
+        "energy": "very low"
+    },
+    {
+        "item_name": "LibriTTS_R-636_128310_000025_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/636/128310/636_128310_000025_000000.wav",
+        "speaker_id": "LibriTTS_R-636",
+        "content": "\"Worth no more than that,\" repeated mr Cruncher.",
+        "style_prompt": "F_p-normal_s-slow_e-low",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "slow",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-636_128310_000030_000003",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/636/128310/636_128310_000030_000003.wav",
+        "speaker_id": "LibriTTS_R-636",
+        "content": "Keep still!\"",
+        "style_prompt": "F_p-high_s-slow_e-low",
+        "gender": "F",
+        "pitch": "high",
+        "speed": "very slow",
+        "energy": "very low"
+    },
+    {
+        "item_name": "LibriTTS_R-636_128331_000016_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/636/128331/636_128331_000016_000000.wav",
+        "speaker_id": "LibriTTS_R-636",
+        "content": "\"Not dead!",
+        "style_prompt": "F_p-normal_s-slow_e-low",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "very slow",
+        "energy": "very low"
+    }
+]

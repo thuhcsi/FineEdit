@@ -1,0 +1,178 @@
+[
+    {
+        "item_name": "LibriTTS_R-19_198_000000_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/19/198/19_198_000000_000000.wav",
+        "speaker_id": "LibriTTS_R-19",
+        "content": "This is a LibriVox recording.",
+        "style_prompt": "F_p-normal_s-normal_e-high",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-19_198_000000_000002",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/19/198/19_198_000000_000002.wav",
+        "speaker_id": "LibriTTS_R-19",
+        "content": "For more information, or to volunteer, please visit librivox dot org.",
+        "style_prompt": "F_p-low_s-normal_e-low",
+        "gender": "F",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-19_198_000004_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/19/198/19_198_000004_000000.wav",
+        "speaker_id": "LibriTTS_R-19",
+        "content": "by",
+        "style_prompt": "F_p-low_s-slow_e-low",
+        "gender": "F",
+        "pitch": "very low",
+        "speed": "very slow",
+        "energy": "very low"
+    },
+    {
+        "item_name": "LibriTTS_R-19_198_000007_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/19/198/19_198_000007_000000.wav",
+        "speaker_id": "LibriTTS_R-19",
+        "content": "THIS little work was finished in the year eighteen o three, and intended for immediate publication.",
+        "style_prompt": "F_p-normal_s-normal_e-high",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-19_198_000010_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/19/198/19_198_000010_000000.wav",
+        "speaker_id": "LibriTTS_R-19",
+        "content": "Such was Catherine Morland at ten.",
+        "style_prompt": "F_p-normal_s-slow_e-high",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "slow",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-19_198_000010_000003",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/19/198/19_198_000010_000003.wav",
+        "speaker_id": "LibriTTS_R-19",
+        "content": "\"Catherine grows quite a good looking girl-she is almost pretty today,\" were words which caught her ears now and then; and how welcome were the sounds!",
+        "style_prompt": "F_p-normal_s-normal_e-normal",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-19_198_000012_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/19/198/19_198_000012_000000.wav",
+        "speaker_id": "LibriTTS_R-19",
+        "content": "From Pope, she learnt to censure those who",
+        "style_prompt": "F_p-normal_s-slow_e-high",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "slow",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-19_198_000016_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/19/198/19_198_000016_000000.wav",
+        "speaker_id": "LibriTTS_R-19",
+        "content": "From Thompson, that-",
+        "style_prompt": "F_p-normal_s-slow_e-high",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "slow",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-19_198_000020_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/19/198/19_198_000020_000000.wav",
+        "speaker_id": "LibriTTS_R-19",
+        "content": "That",
+        "style_prompt": "F_p-low_s-slow_e-low",
+        "gender": "F",
+        "pitch": "low",
+        "speed": "very slow",
+        "energy": "very low"
+    },
+    {
+        "item_name": "LibriTTS_R-19_198_000024_000005",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/19/198/19_198_000024_000005.wav",
+        "speaker_id": "LibriTTS_R-19",
+        "content": "This was strange indeed!",
+        "style_prompt": "F_p-low_s-slow_e-high",
+        "gender": "F",
+        "pitch": "low",
+        "speed": "very slow",
+        "energy": "very high"
+    },
+    {
+        "item_name": "LibriTTS_R-19_227_000000_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/19/227/19_227_000000_000000.wav",
+        "speaker_id": "LibriTTS_R-19",
+        "content": "CHAPTER thirty",
+        "style_prompt": "F_p-low_s-normal_e-normal",
+        "gender": "F",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-19_227_000003_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/19/227/19_227_000003_000000.wav",
+        "speaker_id": "LibriTTS_R-19",
+        "content": "Catherine took up her work directly, saying, in a dejected voice, that \"her head did not run upon Bath-much.\"",
+        "style_prompt": "F_p-normal_s-slow_e-normal",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "slow",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-19_227_000004_000003",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/19/227/19_227_000004_000003.wav",
+        "speaker_id": "LibriTTS_R-19",
+        "content": "I did not quite like, at breakfast, to hear you talk so much about the French bread at Northanger.\"",
+        "style_prompt": "F_p-normal_s-normal_e-normal",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-19_227_000005_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/19/227/19_227_000005_000000.wav",
+        "speaker_id": "LibriTTS_R-19",
+        "content": "\"I am sure I do not care about the bread.",
+        "style_prompt": "F_p-high_s-fast_e-high",
+        "gender": "F",
+        "pitch": "high",
+        "speed": "fast",
+        "energy": "very high"
+    },
+    {
+        "item_name": "LibriTTS_R-19_227_000008_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/19/227/19_227_000008_000000.wav",
+        "speaker_id": "LibriTTS_R-19",
+        "content": "He was not ill inclined to obey this request, for, though his heart was greatly relieved by such unlooked for mildness, it was not just at that moment in his power to say anything to the purpose.",
+        "style_prompt": "F_p-normal_s-normal_e-high",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-19_227_000012_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/19/227/19_227_000012_000000.wav",
+        "speaker_id": "LibriTTS_R-19",
+        "content": "john Thorpe had first misled him.",
+        "style_prompt": "F_p-normal_s-slow_e-high",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "slow",
+        "energy": "high"
+    }
+]

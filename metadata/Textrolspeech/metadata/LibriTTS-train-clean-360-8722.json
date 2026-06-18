@@ -1,0 +1,50 @@
+[
+    {
+        "item_name": "libritts-train-clean-360-8722-296473-8722_296473_000030_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/8722/296473/8722_296473_000030_000000.wav",
+        "speaker_id": "LibriTTS-train-clean-360-8722",
+        "content": "\"The wandering Cat gets many a rap.\"",
+        "style_prompt": "A woman with a loud sound and spirited tone.",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "high",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-360-8722-296473-8722_296473_000046_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/8722/296473/8722_296473_000046_000000.wav",
+        "speaker_id": "LibriTTS-train-clean-360-8722",
+        "content": "Again:--",
+        "style_prompt": "With slow articulation and a deep pitch, her fervor was apparent.",
+        "gender": "F",
+        "pitch": "low",
+        "speed": "low",
+        "energy": "high",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-360-8722-296473-8722_296473_000017_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/8722/296473/8722_296473_000017_000000.wav",
+        "speaker_id": "LibriTTS-train-clean-360-8722",
+        "content": "\"A Cat may look at a king.\"",
+        "style_prompt": "Filled with energy, she speaks quickly and loudly, with a normal pitch.",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "high",
+        "energy": "high",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-360-8722-296473-8722_296473_000020_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/8722/296473/8722_296473_000020_000000.wav",
+        "speaker_id": "LibriTTS-train-clean-360-8722",
+        "content": "\"When candles are out, all Cats are grey.\" Otherwise, \"Joan is as good as my Lady in the dark.\"",
+        "style_prompt": "A woman with dynamic speech and normal vocal pace.",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "high",
+        "emotion": "neutral"
+    }
+]

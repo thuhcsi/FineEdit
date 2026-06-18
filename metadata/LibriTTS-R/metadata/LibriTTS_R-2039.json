@@ -1,0 +1,13 @@
+[
+    {
+        "item_name": "LibriTTS_R-2039_141209_000021_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/2039/141209/2039_141209_000021_000000.wav",
+        "speaker_id": "LibriTTS_R-2039",
+        "content": "\"Where is the Doctor?\" I asked.",
+        "style_prompt": "M_p-low_s-fast_e-high",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "very fast",
+        "energy": "high"
+    }
+]

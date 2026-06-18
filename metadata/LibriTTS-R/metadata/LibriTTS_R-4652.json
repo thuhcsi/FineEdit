@@ -1,0 +1,68 @@
+[
+    {
+        "item_name": "LibriTTS_R-4652_27525_000004_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/4652/27525/4652_27525_000004_000000.wav",
+        "speaker_id": "LibriTTS_R-4652",
+        "content": "A Prayer in Spring",
+        "style_prompt": "F_p-normal_s-slow_e-high",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "very slow",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-4652_27525_000006_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/4652/27525/4652_27525_000006_000000.wav",
+        "speaker_id": "LibriTTS_R-4652",
+        "content": "Flower gathering",
+        "style_prompt": "F_p-normal_s-normal_e-normal",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-4652_27525_000008_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/4652/27525/4652_27525_000008_000000.wav",
+        "speaker_id": "LibriTTS_R-4652",
+        "content": "Rose Pogonias",
+        "style_prompt": "F_p-normal_s-slow_e-high",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "very slow",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-4652_27525_000010_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/4652/27525/4652_27525_000010_000000.wav",
+        "speaker_id": "LibriTTS_R-4652",
+        "content": "Asking for Roses",
+        "style_prompt": "F_p-high_s-slow_e-high",
+        "gender": "F",
+        "pitch": "high",
+        "speed": "slow",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-4652_27525_000012_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/4652/27525/4652_27525_000012_000000.wav",
+        "speaker_id": "LibriTTS_R-4652",
+        "content": "Waiting Afield at Dusk",
+        "style_prompt": "F_p-normal_s-slow_e-normal",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "slow",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-4652_27525_000014_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/4652/27525/4652_27525_000014_000000.wav",
+        "speaker_id": "LibriTTS_R-4652",
+        "content": "In a Vale",
+        "style_prompt": "F_p-normal_s-slow_e-high",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "slow",
+        "energy": "high"
+    }
+]

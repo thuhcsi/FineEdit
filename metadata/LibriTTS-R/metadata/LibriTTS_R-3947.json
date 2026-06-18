@@ -1,0 +1,90 @@
+[
+    {
+        "item_name": "LibriTTS_R-3947_13260_000008_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/3947/13260/3947_13260_000008_000000.wav",
+        "speaker_id": "LibriTTS_R-3947",
+        "content": "\"It is true.",
+        "style_prompt": "F_p-normal_s-slow_e-normal",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "slow",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-3947_13262_000004_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/3947/13262/3947_13262_000004_000000.wav",
+        "speaker_id": "LibriTTS_R-3947",
+        "content": "\"Yes.",
+        "style_prompt": "F_p-normal_s-slow_e-high",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "very slow",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-3947_13262_000019_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/3947/13262/3947_13262_000019_000000.wav",
+        "speaker_id": "LibriTTS_R-3947",
+        "content": "Rollin was relieved when Rachel spoke.",
+        "style_prompt": "F_p-normal_s-fast_e-high",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "fast",
+        "energy": "very high"
+    },
+    {
+        "item_name": "LibriTTS_R-3947_13262_000019_000010",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/3947/13262/3947_13262_000019_000010.wav",
+        "speaker_id": "LibriTTS_R-3947",
+        "content": "One thing I have found out.",
+        "style_prompt": "F_p-normal_s-normal_e-high",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "very high"
+    },
+    {
+        "item_name": "LibriTTS_R-3947_13262_000020_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/3947/13262/3947_13262_000020_000000.wav",
+        "speaker_id": "LibriTTS_R-3947",
+        "content": "Rollin spoke with enthusiasm.",
+        "style_prompt": "F_p-normal_s-slow_e-high",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "slow",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-3947_13262_000022_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/3947/13262/3947_13262_000022_000000.wav",
+        "speaker_id": "LibriTTS_R-3947",
+        "content": "Rollin trembled.",
+        "style_prompt": "F_p-normal_s-normal_e-high",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-3947_13262_000022_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/3947/13262/3947_13262_000022_000001.wav",
+        "speaker_id": "LibriTTS_R-3947",
+        "content": "His agitation was greater than he could control. Rachel could not help seeing it.",
+        "style_prompt": "F_p-normal_s-normal_e-normal",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-3947_13262_000022_000003",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/3947/13262/3947_13262_000022_000003.wav",
+        "speaker_id": "LibriTTS_R-3947",
+        "content": "At last Rollin said: \"I thank you.",
+        "style_prompt": "F_p-normal_s-slow_e-normal",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "very slow",
+        "energy": "normal"
+    }
+]

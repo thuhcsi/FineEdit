@@ -1,0 +1,134 @@
+[
+    {
+        "item_name": "LibriTTS_R-7339_86765_000038_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/7339/86765/7339_86765_000038_000000.wav",
+        "speaker_id": "LibriTTS_R-7339",
+        "content": "\"In stock?\"",
+        "style_prompt": "M_p-low_s-slow_e-normal",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "very slow",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-7339_86765_000042_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/7339/86765/7339_86765_000042_000000.wav",
+        "speaker_id": "LibriTTS_R-7339",
+        "content": "\"Yes.\"",
+        "style_prompt": "M_p-low_s-slow_e-high",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "very slow",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-7339_86804_000012_000004",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/7339/86804/7339_86804_000012_000004.wav",
+        "speaker_id": "LibriTTS_R-7339",
+        "content": "What for?--that they may try, a month hence, to marry me again; and to whom?--M.",
+        "style_prompt": "M_p-low_s-slow_e-low",
+        "gender": "M",
+        "pitch": "very low",
+        "speed": "slow",
+        "energy": "very low"
+    },
+    {
+        "item_name": "LibriTTS_R-7339_86804_000012_000005",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/7339/86804/7339_86804_000012_000005.wav",
+        "speaker_id": "LibriTTS_R-7339",
+        "content": "Debray, perhaps, as it was once proposed.",
+        "style_prompt": "M_p-low_s-slow_e-low",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "slow",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-7339_86804_000017_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/7339/86804/7339_86804_000017_000000.wav",
+        "speaker_id": "LibriTTS_R-7339",
+        "content": "\"Yes.\"",
+        "style_prompt": "M_p-low_s-slow_e-low",
+        "gender": "M",
+        "pitch": "very low",
+        "speed": "very slow",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-7339_86804_000018_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/7339/86804/7339_86804_000018_000000.wav",
+        "speaker_id": "LibriTTS_R-7339",
+        "content": "\"Our passport?\"",
+        "style_prompt": "M_p-low_s-slow_e-low",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "slow",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-7339_86804_000021_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/7339/86804/7339_86804_000021_000000.wav",
+        "speaker_id": "LibriTTS_R-7339",
+        "content": "\"M.",
+        "style_prompt": "M_p-high_s-normal_e-normal",
+        "gender": "M",
+        "pitch": "high",
+        "speed": "normal",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-7339_86804_000022_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/7339/86804/7339_86804_000022_000001.wav",
+        "speaker_id": "LibriTTS_R-7339",
+        "content": "How did you get this passport?\"",
+        "style_prompt": "M_p-low_s-slow_e-normal",
+        "gender": "M",
+        "pitch": "very low",
+        "speed": "slow",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-7339_86804_000035_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/7339/86804/7339_86804_000035_000001.wav",
+        "speaker_id": "LibriTTS_R-7339",
+        "content": "\"But I cannot,\" said she; \"I am not strong enough; do you shut it.\"",
+        "style_prompt": "M_p-low_s-normal_e-low",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-7339_86804_000039_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/7339/86804/7339_86804_000039_000000.wav",
+        "speaker_id": "LibriTTS_R-7339",
+        "content": "\"Will you dress here?\"",
+        "style_prompt": "M_p-low_s-normal_e-high",
+        "gender": "M",
+        "pitch": "very low",
+        "speed": "normal",
+        "energy": "very high"
+    },
+    {
+        "item_name": "LibriTTS_R-7339_86804_000044_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/7339/86804/7339_86804_000044_000000.wav",
+        "speaker_id": "LibriTTS_R-7339",
+        "content": "\"Come and help me.\"",
+        "style_prompt": "M_p-normal_s-normal_e-high",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-7339_86804_000051_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/7339/86804/7339_86804_000051_000000.wav",
+        "speaker_id": "LibriTTS_R-7339",
+        "content": "\"What are you looking at?\"",
+        "style_prompt": "M_p-normal_s-fast_e-normal",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "very fast",
+        "energy": "normal"
+    }
+]

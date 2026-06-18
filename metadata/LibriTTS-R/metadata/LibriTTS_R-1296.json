@@ -1,0 +1,35 @@
+[
+    {
+        "item_name": "LibriTTS_R-1296_138074_000064_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1296/138074/1296_138074_000064_000000.wav",
+        "speaker_id": "LibriTTS_R-1296",
+        "content": "\"What is it?\"",
+        "style_prompt": "F_p-high_s-normal_e-low",
+        "gender": "F",
+        "pitch": "very high",
+        "speed": "normal",
+        "energy": "very low"
+    },
+    {
+        "item_name": "LibriTTS_R-1296_138074_000066_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1296/138074/1296_138074_000066_000000.wav",
+        "speaker_id": "LibriTTS_R-1296",
+        "content": "\"Why shouldn't she?\"",
+        "style_prompt": "F_p-normal_s-slow_e-low",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "very slow",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-1296_138074_000083_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1296/138074/1296_138074_000083_000000.wav",
+        "speaker_id": "LibriTTS_R-1296",
+        "content": "\"Really?\"",
+        "style_prompt": "F_p-high_s-fast_e-low",
+        "gender": "F",
+        "pitch": "very high",
+        "speed": "fast",
+        "energy": "very low"
+    }
+]

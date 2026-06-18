@@ -1,0 +1,98 @@
+[
+    {
+        "item_name": "libritts-train-clean-100-1081-128618-1081_128618_000013_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-100/1081/128618/1081_128618_000013_000000.wav",
+        "speaker_id": "LibriTTS-train-clean-100-1081",
+        "content": "PERCH A L'ALLEMANDE",
+        "style_prompt": "A deliberate and passionate male speaker with a slow tempo and a resonant voice.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "low",
+        "energy": "high",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-100-1081-128618-1081_128618_000003_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-100/1081/128618/1081_128618_000003_000000.wav",
+        "speaker_id": "LibriTTS-train-clean-100-1081",
+        "content": "FRIED PERCH-two",
+        "style_prompt": "Speaking with zest, the man's low-pitched voice maintains a natural speaking speed.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "high",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-100-1081-128618-1081_128618_000005_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-100/1081/128618/1081_128618_000005_000000.wav",
+        "speaker_id": "LibriTTS-train-clean-100-1081",
+        "content": "FRIED PERCH-three",
+        "style_prompt": "The deliberate and slow-speaking male voice resonates with a deep pitch, emanating a vibrant high energy.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "low",
+        "energy": "high",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-100-1081-128618-1081_128618_000027_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-100/1081/128618/1081_128618_000027_000000.wav",
+        "speaker_id": "LibriTTS-train-clean-100-1081",
+        "content": "BAKED PERCH",
+        "style_prompt": "The speaker's pitch remains average as he converses with regular speed and energy.",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "normal",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-100-1081-128618-1081_128618_000024_000003",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-100/1081/128618/1081_128618_000024_000003.wav",
+        "speaker_id": "LibriTTS-train-clean-100-1081",
+        "content": "Cook together four tablespoonfuls of butter and two of flour.",
+        "style_prompt": "His deep voice adds depth to his high-energy conversation while maintaining a normal speaking speed.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "high",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-100-1081-128618-1081_128618_000023_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-100/1081/128618/1081_128618_000023_000000.wav",
+        "speaker_id": "LibriTTS-train-clean-100-1081",
+        "content": "PERCH A l a SICILY",
+        "style_prompt": "The boy's energetic delivery features rapid, low-pitched speech filled with high energy.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "high",
+        "energy": "high",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-100-1081-128618-1081_128618_000029_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-100/1081/128618/1081_128618_000029_000000.wav",
+        "speaker_id": "LibriTTS-train-clean-100-1081",
+        "content": "PERCH SALAD",
+        "style_prompt": "The man's deliberate pace and low pitch couldn't suppress his high energy.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "low",
+        "energy": "high",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-100-1081-128618-1081_128618_000007_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-100/1081/128618/1081_128618_000007_000000.wav",
+        "speaker_id": "LibriTTS-train-clean-100-1081",
+        "content": "BROILED PERCH",
+        "style_prompt": "A low-pitched male voice delivering an energetic performance at a relaxed pace.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "low",
+        "energy": "high",
+        "emotion": "neutral"
+    }
+]

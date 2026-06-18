@@ -1,0 +1,90 @@
+[
+    {
+        "item_name": "LibriTTS_R-1260_139266_000002_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1260/139266/1260_139266_000002_000000.wav",
+        "speaker_id": "LibriTTS_R-1260",
+        "content": "thirty one",
+        "style_prompt": "M_p-normal_s-normal_e-high",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-1260_139266_000006_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1260/139266/1260_139266_000006_000000.wav",
+        "speaker_id": "LibriTTS_R-1260",
+        "content": "thirty three",
+        "style_prompt": "M_p-low_s-slow_e-normal",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "very slow",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-1260_139266_000010_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1260/139266/1260_139266_000010_000000.wav",
+        "speaker_id": "LibriTTS_R-1260",
+        "content": "thirty five",
+        "style_prompt": "M_p-low_s-slow_e-high",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "very slow",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-1260_139266_000012_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1260/139266/1260_139266_000012_000000.wav",
+        "speaker_id": "LibriTTS_R-1260",
+        "content": "thirty six",
+        "style_prompt": "M_p-normal_s-slow_e-low",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "slow",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-1260_139266_000014_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1260/139266/1260_139266_000014_000000.wav",
+        "speaker_id": "LibriTTS_R-1260",
+        "content": "thirty seven",
+        "style_prompt": "M_p-low_s-fast_e-high",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "fast",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-1260_139266_000016_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1260/139266/1260_139266_000016_000000.wav",
+        "speaker_id": "LibriTTS_R-1260",
+        "content": "thirty eight",
+        "style_prompt": "M_p-normal_s-slow_e-normal",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "slow",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-1260_139266_000018_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1260/139266/1260_139266_000018_000000.wav",
+        "speaker_id": "LibriTTS_R-1260",
+        "content": "thirty nine",
+        "style_prompt": "M_p-normal_s-slow_e-high",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "slow",
+        "energy": "very high"
+    },
+    {
+        "item_name": "LibriTTS_R-1260_139272_000019_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1260/139272/1260_139272_000019_000000.wav",
+        "speaker_id": "LibriTTS_R-1260",
+        "content": "The forward violet thus did I chide: Sweet thief, whence didst thou steal thy sweet that smells, If not from my love's breath?",
+        "style_prompt": "M_p-normal_s-slow_e-low",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "very slow",
+        "energy": "low"
+    }
+]

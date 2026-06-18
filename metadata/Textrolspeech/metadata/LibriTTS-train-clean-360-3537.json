@@ -1,0 +1,86 @@
+[
+    {
+        "item_name": "libritts-train-clean-360-3537-5704-3537_5704_000001_000007",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/3537/5704/3537_5704_000001_000007.wav",
+        "speaker_id": "LibriTTS-train-clean-360-3537",
+        "content": "When seen in the perspective of half a dozen years or more, the best of our fashions strike us as grotesque, if not unsightly.",
+        "style_prompt": "Speaking with a regular pace, she shares her thoughts.",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "normal",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-360-3537-5704-3537_5704_000001_000003",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/3537/5704/3537_5704_000001_000003.wav",
+        "speaker_id": "LibriTTS-train-clean-360-3537",
+        "content": "The prevailing fashion is felt to be beautiful.",
+        "style_prompt": "Speaking naturally, she maintains a normal pace.",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "normal",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-360-3537-5704-3537_5704_000008_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/3537/5704/3537_5704_000008_000001.wav",
+        "speaker_id": "LibriTTS-train-clean-360-3537",
+        "content": "This is the priestly class.",
+        "style_prompt": "Low volume, but she speaks at a regular pace.",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "low",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-360-3537-5704-3537_5704_000001_000004",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/3537/5704/3537_5704_000001_000004.wav",
+        "speaker_id": "LibriTTS-train-clean-360-3537",
+        "content": "This is due partly to the relief it affords in being different from what went before it, partly to its being reputable.",
+        "style_prompt": "The girl's pitch is normal, yet her energy is hushed.",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "low",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-360-3537-5704-3537_5704_000001_000002",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/3537/5704/3537_5704_000001_000002.wav",
+        "speaker_id": "LibriTTS-train-clean-360-3537",
+        "content": "A new style comes into vogue and remains in favor for a season, and, at least so long as it is a novelty, people very generally find the new style attractive.",
+        "style_prompt": "She communicates quietly, her pitch ordinary.",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "low",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-360-3537-5704-3537_5704_000008_000005",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/3537/5704/3537_5704_000008_000005.wav",
+        "speaker_id": "LibriTTS-train-clean-360-3537",
+        "content": "The shaven face of the priest is a further item to the same effect.",
+        "style_prompt": "Her voice is hushed as she speaks at a regular pace.",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "low",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-360-3537-5704-3537_5704_000008_000003",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/3537/5704/3537_5704_000008_000003.wav",
+        "speaker_id": "LibriTTS-train-clean-360-3537",
+        "content": "Even more strikingly than the everyday habit of the priest, the vestments, properly so called, are ornate, grotesque, inconvenient, and, at least ostensibly, comfortless to the point of distress.",
+        "style_prompt": "She spoke at a leisurely pace, her tone calm and subdued.",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "low",
+        "energy": "low",
+        "emotion": "neutral"
+    }
+]

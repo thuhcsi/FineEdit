@@ -1,0 +1,24 @@
+[
+    {
+        "item_name": "LibriTTS_R-2195_150894_000000_000002",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/2195/150894/2195_150894_000000_000002.wav",
+        "speaker_id": "LibriTTS_R-2195",
+        "content": "what country claims your birth? What seek you, strangers, on our Libyan earth?\"",
+        "style_prompt": "M_p-high_s-slow_e-low",
+        "gender": "M",
+        "pitch": "high",
+        "speed": "very slow",
+        "energy": "very low"
+    },
+    {
+        "item_name": "LibriTTS_R-2195_150894_000007_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/2195/150894/2195_150894_000007_000000.wav",
+        "speaker_id": "LibriTTS_R-2195",
+        "content": "\"O queen!",
+        "style_prompt": "M_p-normal_s-slow_e-low",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "very slow",
+        "energy": "low"
+    }
+]

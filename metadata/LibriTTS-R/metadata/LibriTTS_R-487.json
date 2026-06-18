@@ -1,0 +1,24 @@
+[
+    {
+        "item_name": "LibriTTS_R-487_129440_000004_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/487/129440/487_129440_000004_000001.wav",
+        "speaker_id": "LibriTTS_R-487",
+        "content": "Awake My fairest, my espous'd, my latest found, Heav'ns last best gift, my ever new delight, Awake, the morning shines, and the fresh field Calls us, we lose the prime, to mark how spring Our tended Plants, how blows the Citron Grove, What drops the Myrrhe, and what the balmie Reed, How Nature paints her colours, how the Bee Sits on the Bloom extracting liquid sweet.",
+        "style_prompt": "M_p-high_s-slow_e-normal",
+        "gender": "M",
+        "pitch": "high",
+        "speed": "slow",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-487_129440_000018_000002",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/487/129440/487_129440_000018_000002.wav",
+        "speaker_id": "LibriTTS_R-487",
+        "content": "On whom the Angel HAILE Bestowd, the holy salutation us'd Long after to blest MARIE, second EVE.",
+        "style_prompt": "M_p-high_s-normal_e-normal",
+        "gender": "M",
+        "pitch": "high",
+        "speed": "normal",
+        "energy": "normal"
+    }
+]

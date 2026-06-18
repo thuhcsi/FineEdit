@@ -1,0 +1,86 @@
+[
+    {
+        "item_name": "libritts-train-clean-360-3001-160952-3001_160952_000013_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/3001/160952/3001_160952_000013_000000.wav",
+        "speaker_id": "LibriTTS-train-clean-360-3001",
+        "content": "\"Little goat, if you're able, Come and deck my pretty table.\"",
+        "style_prompt": "Speaking loudly, her pitch remains in a normal range.",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "high",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-360-3001-160952-3001_160952_000044_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/3001/160952/3001_160952_000044_000000.wav",
+        "speaker_id": "LibriTTS-train-clean-360-3001",
+        "content": "\"Three Eyes,\" said the mother, \"climb up, and try what you can do; perhaps you will be able to see better with your three eyes than One Eye can.\"",
+        "style_prompt": "Speaking with excitement, her pitch remains normal.",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "high",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-360-3001-160952-3001_160952_000008_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/3001/160952/3001_160952_000008_000000.wav",
+        "speaker_id": "LibriTTS-train-clean-360-3001",
+        "content": "\"'Little goat, if you're able, Pray deck out my table,'",
+        "style_prompt": "Despite her loud voice, her speaking speed is normal.",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "high",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-360-3001-160952-3001_160952_000037_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/3001/160952/3001_160952_000037_000000.wav",
+        "speaker_id": "LibriTTS-train-clean-360-3001",
+        "content": "On saying this the wise woman vanished.",
+        "style_prompt": "Speaking at a normal pace, her energy is palpable.",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "high",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-360-3001-160952-3001_160952_000024_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/3001/160952/3001_160952_000024_000000.wav",
+        "speaker_id": "LibriTTS-train-clean-360-3001",
+        "content": "\"Little goat, when you are able, Come and clear away my table.\"",
+        "style_prompt": "Her speech radiates energy, while her tone remains normal.",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "high",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-360-3001-160952-3001_160952_000010_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/3001/160952/3001_160952_000010_000000.wav",
+        "speaker_id": "LibriTTS-train-clean-360-3001",
+        "content": "\"'Little goat, when you're able, Remove my nice table,'",
+        "style_prompt": "Her regular tone carries the energy in her words.",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "high",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-360-3001-160952-3001_160952_000015_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/3001/160952/3001_160952_000015_000000.wav",
+        "speaker_id": "LibriTTS-train-clean-360-3001",
+        "content": "\"Little goat, when you're able, Remove my nice table.\"",
+        "style_prompt": "Speaking with passion, her tone remains normal.",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "high",
+        "emotion": "neutral"
+    }
+]

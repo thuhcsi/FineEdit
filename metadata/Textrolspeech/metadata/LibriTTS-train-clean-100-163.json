@@ -1,0 +1,26 @@
+[
+    {
+        "item_name": "libritts-train-clean-100-163-122947-163_122947_000016_000003",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-100/163/122947/163_122947_000016_000003.wav",
+        "speaker_id": "LibriTTS-train-clean-100-163",
+        "content": "But let us not be afraid!",
+        "style_prompt": "With a deep pitch, the man's vocal delivery maintains a common rhythm, though his energy remains subdued.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "low",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-100-163-122947-163_122947_000015_000008",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-100/163/122947/163_122947_000015_000008.wav",
+        "speaker_id": "LibriTTS-train-clean-100-163",
+        "content": "Is not life a hundred times too short for us-to bore ourselves?",
+        "style_prompt": "His voice exhibits a low tonal quality as he speaks at a regular tempo, yet his energy remains muted.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "low",
+        "emotion": "neutral"
+    }
+]

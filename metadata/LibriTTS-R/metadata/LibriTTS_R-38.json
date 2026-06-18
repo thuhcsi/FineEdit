@@ -1,0 +1,134 @@
+[
+    {
+        "item_name": "LibriTTS_R-38_121024_000031_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/38/121024/38_121024_000031_000000.wav",
+        "speaker_id": "LibriTTS_R-38",
+        "content": "The day passed away in utter silence-night came without recurrence of the noise.",
+        "style_prompt": "M_p-low_s-normal_e-normal",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-38_121024_000041_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/38/121024/38_121024_000041_000001.wav",
+        "speaker_id": "LibriTTS_R-38",
+        "content": "Day came, the jailer entered.",
+        "style_prompt": "M_p-normal_s-normal_e-normal",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-38_121024_000065_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/38/121024/38_121024_000065_000000.wav",
+        "speaker_id": "LibriTTS_R-38",
+        "content": "\"A Frenchman.\"",
+        "style_prompt": "M_p-normal_s-normal_e-low",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-38_121024_000069_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/38/121024/38_121024_000069_000000.wav",
+        "speaker_id": "LibriTTS_R-38",
+        "content": "\"A sailor.\"",
+        "style_prompt": "M_p-high_s-fast_e-high",
+        "gender": "M",
+        "pitch": "high",
+        "speed": "fast",
+        "energy": "very high"
+    },
+    {
+        "item_name": "LibriTTS_R-38_121024_000073_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/38/121024/38_121024_000073_000000.wav",
+        "speaker_id": "LibriTTS_R-38",
+        "content": "\"I am innocent.\"",
+        "style_prompt": "M_p-high_s-fast_e-high",
+        "gender": "M",
+        "pitch": "high",
+        "speed": "fast",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-38_121024_000076_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/38/121024/38_121024_000076_000000.wav",
+        "speaker_id": "LibriTTS_R-38",
+        "content": "\"What!",
+        "style_prompt": "M_p-high_s-slow_e-low",
+        "gender": "M",
+        "pitch": "high",
+        "speed": "very slow",
+        "energy": "very low"
+    },
+    {
+        "item_name": "LibriTTS_R-38_121024_000087_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/38/121024/38_121024_000087_000000.wav",
+        "speaker_id": "LibriTTS_R-38",
+        "content": "\"A corridor.\"",
+        "style_prompt": "M_p-normal_s-fast_e-high",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "fast",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-38_121024_000093_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/38/121024/38_121024_000093_000000.wav",
+        "speaker_id": "LibriTTS_R-38",
+        "content": "\"But then you would be close to the sea?\"",
+        "style_prompt": "M_p-high_s-fast_e-high",
+        "gender": "M",
+        "pitch": "high",
+        "speed": "fast",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-38_121024_000099_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/38/121024/38_121024_000099_000000.wav",
+        "speaker_id": "LibriTTS_R-38",
+        "content": "\"All?\"",
+        "style_prompt": "M_p-high_s-slow_e-normal",
+        "gender": "M",
+        "pitch": "high",
+        "speed": "very slow",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-38_121024_000109_000002",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/38/121024/38_121024_000109_000002.wav",
+        "speaker_id": "LibriTTS_R-38",
+        "content": "Wait.\"",
+        "style_prompt": "M_p-normal_s-fast_e-low",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "very fast",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-38_121024_000110_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/38/121024/38_121024_000110_000000.wav",
+        "speaker_id": "LibriTTS_R-38",
+        "content": "\"How long?\"",
+        "style_prompt": "M_p-normal_s-slow_e-high",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "very slow",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-38_121024_000114_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/38/121024/38_121024_000114_000000.wav",
+        "speaker_id": "LibriTTS_R-38",
+        "content": "\"Then you will love me.",
+        "style_prompt": "M_p-high_s-slow_e-high",
+        "gender": "M",
+        "pitch": "high",
+        "speed": "slow",
+        "energy": "high"
+    }
+]

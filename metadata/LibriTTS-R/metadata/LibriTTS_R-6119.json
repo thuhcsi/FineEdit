@@ -1,0 +1,24 @@
+[
+    {
+        "item_name": "LibriTTS_R-6119_48032_000036_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/6119/48032/6119_48032_000036_000000.wav",
+        "speaker_id": "LibriTTS_R-6119",
+        "content": "\"What's that for?",
+        "style_prompt": "M_p-high_s-slow_e-low",
+        "gender": "M",
+        "pitch": "very high",
+        "speed": "very slow",
+        "energy": "very low"
+    },
+    {
+        "item_name": "LibriTTS_R-6119_48032_000041_000005",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/6119/48032/6119_48032_000041_000005.wav",
+        "speaker_id": "LibriTTS_R-6119",
+        "content": "He said:",
+        "style_prompt": "M_p-high_s-normal_e-low",
+        "gender": "M",
+        "pitch": "very high",
+        "speed": "normal",
+        "energy": "low"
+    }
+]

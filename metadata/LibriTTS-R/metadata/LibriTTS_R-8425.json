@@ -1,0 +1,134 @@
+[
+    {
+        "item_name": "LibriTTS_R-8425_246962_000007_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/8425/246962/8425_246962_000007_000000.wav",
+        "speaker_id": "LibriTTS_R-8425",
+        "content": "HELEN AND THE CURATE.",
+        "style_prompt": "M_p-normal_s-fast_e-normal",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "fast",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-8425_287387_000004_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/8425/287387/8425_287387_000004_000000.wav",
+        "speaker_id": "LibriTTS_R-8425",
+        "content": "CHAPTER eight",
+        "style_prompt": "M_p-high_s-normal_e-low",
+        "gender": "M",
+        "pitch": "high",
+        "speed": "normal",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-8425_291444_000001_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/8425/291444/8425_291444_000001_000000.wav",
+        "speaker_id": "LibriTTS_R-8425",
+        "content": "TO THE PUBLIC.",
+        "style_prompt": "M_p-normal_s-slow_e-low",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "slow",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-8425_292520_000006_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/8425/292520/8425_292520_000006_000000.wav",
+        "speaker_id": "LibriTTS_R-8425",
+        "content": "Dark, with crumbling railing and planks, The bridge leads into the sunset. Across it many lonely figures, Their eyes a flare with the sunset, Their faces glowing with its colors, Tramp past me through the evening.",
+        "style_prompt": "M_p-high_s-slow_e-normal",
+        "gender": "M",
+        "pitch": "high",
+        "speed": "slow",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-8425_292520_000012_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/8425/292520/8425_292520_000012_000000.wav",
+        "speaker_id": "LibriTTS_R-8425",
+        "content": "The crowd thins, the players are alone; In their faith's raucous monotone, Loud with gaudy angels, tinsel cherubim, A drum pounds out the hymn.",
+        "style_prompt": "M_p-high_s-slow_e-high",
+        "gender": "M",
+        "pitch": "high",
+        "speed": "very slow",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-8425_292520_000013_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/8425/292520/8425_292520_000013_000000.wav",
+        "speaker_id": "LibriTTS_R-8425",
+        "content": "INCARNATION",
+        "style_prompt": "M_p-normal_s-slow_e-high",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "slow",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-8425_292520_000022_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/8425/292520/8425_292520_000022_000000.wav",
+        "speaker_id": "LibriTTS_R-8425",
+        "content": "Monotonously the solemn reeds Waved to our passing; Ahead the canal shimmered, blotched green by the water weeds. With a grinding swing And see saw of sound, The steamer slunk down the canal.",
+        "style_prompt": "M_p-high_s-slow_e-low",
+        "gender": "M",
+        "pitch": "high",
+        "speed": "slow",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-8425_292520_000024_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/8425/292520/8425_292520_000024_000000.wav",
+        "speaker_id": "LibriTTS_R-8425",
+        "content": "That night from a dingy hotel room, I saw the moon, like a golden gong, Redly loom Across the lake; like a golden gong In a temple, which a priest ere long Will strike into throbbing song, To wake some silent twinkling city to prayer. The lake waves were flakes of red gold, Burnished to copper, Gold, red as the tangled gleam Of sunlight in your hair.",
+        "style_prompt": "M_p-high_s-slow_e-normal",
+        "gender": "M",
+        "pitch": "high",
+        "speed": "very slow",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-8425_292520_000033_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/8425/292520/8425_292520_000033_000000.wav",
+        "speaker_id": "LibriTTS_R-8425",
+        "content": "NIGHT PIECE",
+        "style_prompt": "M_p-normal_s-slow_e-normal",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "very slow",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-8425_292520_000034_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/8425/292520/8425_292520_000034_000000.wav",
+        "speaker_id": "LibriTTS_R-8425",
+        "content": "A silver web has the moon spun, A silver web upon all the sky, Where the frail stars quiver, every one Like tangled gnats that hum and die.",
+        "style_prompt": "M_p-high_s-slow_e-high",
+        "gender": "M",
+        "pitch": "high",
+        "speed": "slow",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-8425_292520_000038_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/8425/292520/8425_292520_000038_000000.wav",
+        "speaker_id": "LibriTTS_R-8425",
+        "content": "And that other night, When the river rippled with faint spears Of street lights vaguely reflected.",
+        "style_prompt": "M_p-high_s-slow_e-low",
+        "gender": "M",
+        "pitch": "high",
+        "speed": "slow",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-8425_292520_000038_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/8425/292520/8425_292520_000038_000001.wav",
+        "speaker_id": "LibriTTS_R-8425",
+        "content": "Grey The evening, like an opal; low, A grey moon shrouded in sea fog: Air pregnant with spring; rasp of my steps Beside the lapping water; within The dark.",
+        "style_prompt": "M_p-high_s-slow_e-low",
+        "gender": "M",
+        "pitch": "high",
+        "speed": "very slow",
+        "energy": "very low"
+    }
+]

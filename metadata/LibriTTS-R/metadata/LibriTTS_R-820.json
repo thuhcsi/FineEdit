@@ -1,0 +1,13 @@
+[
+    {
+        "item_name": "LibriTTS_R-820_123133_000014_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/820/123133/820_123133_000014_000001.wav",
+        "speaker_id": "LibriTTS_R-820",
+        "content": "I transcribe it word for word:",
+        "style_prompt": "M_p-normal_s-slow_e-high",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "slow",
+        "energy": "high"
+    }
+]

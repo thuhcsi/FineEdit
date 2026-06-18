@@ -1,0 +1,38 @@
+[
+    {
+        "item_name": "libritts-train-clean-360-2498-134786-2498_134786_000025_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/2498/134786/2498_134786_000025_000000.wav",
+        "speaker_id": "LibriTTS-train-clean-360-2498",
+        "content": "\"Iron has a taste.\"",
+        "style_prompt": "With vibrant energy, her voice resonates in a treble range.",
+        "gender": "F",
+        "pitch": "high",
+        "speed": "normal",
+        "energy": "high",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-360-2498-134786-2498_134786_000009_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/2498/134786/2498_134786_000009_000000.wav",
+        "speaker_id": "LibriTTS-train-clean-360-2498",
+        "content": "\"Great, good God!",
+        "style_prompt": "With her vibrant high-pitched voice, she communicates energetically.",
+        "gender": "F",
+        "pitch": "high",
+        "speed": "normal",
+        "energy": "high",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-360-2498-134816-2498_134816_000019_000013",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/2498/134816/2498_134816_000019_000013.wav",
+        "speaker_id": "LibriTTS-train-clean-360-2498",
+        "content": "Yes. Carry?",
+        "style_prompt": "With high energy, she opted for a slow speaking speed and a high pitch.",
+        "gender": "F",
+        "pitch": "high",
+        "speed": "low",
+        "energy": "high",
+        "emotion": "neutral"
+    }
+]

@@ -1,0 +1,57 @@
+[
+    {
+        "item_name": "LibriTTS_R-408_122806_000017_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/408/122806/408_122806_000017_000000.wav",
+        "speaker_id": "LibriTTS_R-408",
+        "content": "\"Yes!",
+        "style_prompt": "F_p-high_s-slow_e-high",
+        "gender": "F",
+        "pitch": "very high",
+        "speed": "very slow",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-408_122806_000038_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/408/122806/408_122806_000038_000000.wav",
+        "speaker_id": "LibriTTS_R-408",
+        "content": "\"But WHAT DID you see?",
+        "style_prompt": "F_p-high_s-slow_e-normal",
+        "gender": "F",
+        "pitch": "high",
+        "speed": "very slow",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-408_122806_000072_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/408/122806/408_122806_000072_000001.wav",
+        "speaker_id": "LibriTTS_R-408",
+        "content": "\"I will not have it; I will not do it!",
+        "style_prompt": "F_p-high_s-slow_e-high",
+        "gender": "F",
+        "pitch": "very high",
+        "speed": "slow",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-408_122806_000072_000003",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/408/122806/408_122806_000072_000003.wav",
+        "speaker_id": "LibriTTS_R-408",
+        "content": "I will tell everything!",
+        "style_prompt": "F_p-high_s-fast_e-normal",
+        "gender": "F",
+        "pitch": "high",
+        "speed": "very fast",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-408_122806_000075_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/408/122806/408_122806_000075_000000.wav",
+        "speaker_id": "LibriTTS_R-408",
+        "content": "\"But I will go first!\" said the shadow.",
+        "style_prompt": "F_p-high_s-slow_e-low",
+        "gender": "F",
+        "pitch": "high",
+        "speed": "slow",
+        "energy": "low"
+    }
+]

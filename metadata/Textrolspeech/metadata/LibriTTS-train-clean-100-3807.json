@@ -1,0 +1,74 @@
+[
+    {
+        "item_name": "libritts-train-clean-100-3807-4923-3807_4923_000029_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-100/3807/4923/3807_4923_000029_000000.wav",
+        "speaker_id": "LibriTTS-train-clean-100-3807",
+        "content": "The answer came pat to the question.",
+        "style_prompt": "His voice, pitched low, carries an invigorating energy as he addresses his audience at a moderate pace.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "high",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-100-3807-4923-3807_4923_000014_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-100/3807/4923/3807_4923_000014_000001.wav",
+        "speaker_id": "LibriTTS-train-clean-100-3807",
+        "content": "\"What, here?\"",
+        "style_prompt": "The low-pitched male voice, speaking slowly and with enthusiasm, emanates a pulsating high energy.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "low",
+        "energy": "high",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-100-3807-4923-3807_4923_000021_000002",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-100/3807/4923/3807_4923_000021_000002.wav",
+        "speaker_id": "LibriTTS-train-clean-100-3807",
+        "content": "He began to think that he was the victim of a nightmare.",
+        "style_prompt": "Speaking in a rapid, lively manner, the male speaker's voice has a low pitch.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "high",
+        "energy": "high",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-100-3807-4923-3807_4923_000028_000002",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-100/3807/4923/3807_4923_000028_000002.wav",
+        "speaker_id": "LibriTTS-train-clean-100-3807",
+        "content": "What do they mean to do next?\"",
+        "style_prompt": "The male speaker exudes enthusiasm as he delivers his fast-paced discourse with a low-pitched voice.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "high",
+        "energy": "high",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-100-3807-4923-3807_4923_000011_000003",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-100/3807/4923/3807_4923_000011_000003.wav",
+        "speaker_id": "LibriTTS-train-clean-100-3807",
+        "content": "It's liberty we require.\"",
+        "style_prompt": "The boy's enthusiastic speech, complemented by a resonant low voice, is paced naturally.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "high",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-100-3807-4923-3807_4923_000029_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-100/3807/4923/3807_4923_000029_000001.wav",
+        "speaker_id": "LibriTTS-train-clean-100-3807",
+        "content": "From the dark hull of the brig broke a flash and a report, and a musket ball cut the water beside them with a chirping noise.",
+        "style_prompt": "His low-pitched voice adds gravitas to his rapid and high-energy speaking pace.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "high",
+        "energy": "high",
+        "emotion": "neutral"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "item_name": "libritts-train-clean-360-157-121907-157_121907_000016_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/157/121907/157_121907_000016_000000.wav",
+        "speaker_id": "LibriTTS-train-clean-360-157",
+        "content": "'Is good, then?'",
+        "style_prompt": "With unwavering energy, his rapid-fire speech resonates in a low-pitched, resonant tone.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "high",
+        "energy": "high",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-360-157-121907-157_121907_000017_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/157/121907/157_121907_000017_000000.wav",
+        "speaker_id": "LibriTTS-train-clean-360-157",
+        "content": "'Of course.'",
+        "style_prompt": "His low-pitched voice resonates with vigor as he maintains a steady, high-energy speaking pace.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "high",
+        "emotion": "neutral"
+    }
+]

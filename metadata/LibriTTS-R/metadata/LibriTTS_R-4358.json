@@ -1,0 +1,211 @@
+[
+    {
+        "item_name": "LibriTTS_R-4358_20034_000003_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/4358/20034/4358_20034_000003_000001.wav",
+        "speaker_id": "LibriTTS_R-4358",
+        "content": "For my part, I see no necessary connection between discomfort and devotion.",
+        "style_prompt": "M_p-low_s-slow_e-high",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "slow",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-4358_20034_000004_000002",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/4358/20034/4358_20034_000004_000002.wav",
+        "speaker_id": "LibriTTS_R-4358",
+        "content": "The singing seats, projecting from the central portion of the gallery, furnished me with another hebdomadal study, in large gilt letters of antique awkwardness, which so impressed themselves on my mind that I see them now.",
+        "style_prompt": "M_p-low_s-slow_e-normal",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "slow",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-4358_20034_000004_000003",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/4358/20034/4358_20034_000004_000003.wav",
+        "speaker_id": "LibriTTS_R-4358",
+        "content": "This was the golden legend: \"BUILT, seventeen seventy.",
+        "style_prompt": "M_p-low_s-slow_e-low",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "very slow",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-4358_20034_000004_000004",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/4358/20034/4358_20034_000004_000004.wav",
+        "speaker_id": "LibriTTS_R-4358",
+        "content": "ENLARGED, seventeen ninety five.\" I remember hearing a wag propose to add as another remarkable fact, \"SCOURED, eighteen eighteen.\"",
+        "style_prompt": "M_p-low_s-slow_e-low",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "slow",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-4358_20034_000005_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/4358/20034/4358_20034_000005_000000.wav",
+        "speaker_id": "LibriTTS_R-4358",
+        "content": "Opposite to the singing seats towered the pulpit, from which the clergyman looked down upon us like a sparrow upon the house top.",
+        "style_prompt": "M_p-low_s-normal_e-high",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-4358_20034_000006_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/4358/20034/4358_20034_000006_000001.wav",
+        "speaker_id": "LibriTTS_R-4358",
+        "content": "But in winter the vast airy space had a peculiar and searching chill.",
+        "style_prompt": "M_p-low_s-slow_e-normal",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "very slow",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-4358_20034_000006_000003",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/4358/20034/4358_20034_000006_000003.wav",
+        "speaker_id": "LibriTTS_R-4358",
+        "content": "The minister stood upon a heated slab of soap stone.",
+        "style_prompt": "M_p-low_s-slow_e-high",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "slow",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-4358_20034_000007_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/4358/20034/4358_20034_000007_000001.wav",
+        "speaker_id": "LibriTTS_R-4358",
+        "content": "The chorister, even, was frequently among the missing, but was charitably supposed to be subject to the ague. Efforts were made to prevail upon the elderly part of the parish to permit the introduction of stoves with long funnels.",
+        "style_prompt": "M_p-low_s-normal_e-normal",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-4358_20034_000007_000003",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/4358/20034/4358_20034_000007_000003.wav",
+        "speaker_id": "LibriTTS_R-4358",
+        "content": "Their fathers had worshipped in the cold, and their sons might.",
+        "style_prompt": "M_p-low_s-slow_e-normal",
+        "gender": "M",
+        "pitch": "very low",
+        "speed": "very slow",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-4358_20034_000007_000008",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/4358/20034/4358_20034_000007_000008.wav",
+        "speaker_id": "LibriTTS_R-4358",
+        "content": "The stoves were provided, and an uncommonly full attendance the next Sabbath showed the very general interest the matter had excited.",
+        "style_prompt": "M_p-low_s-normal_e-high",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-4358_20034_000007_000009",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/4358/20034/4358_20034_000007_000009.wav",
+        "speaker_id": "LibriTTS_R-4358",
+        "content": "How would it seem?",
+        "style_prompt": "M_p-low_s-slow_e-high",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "very slow",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-4358_20034_000007_000010",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/4358/20034/4358_20034_000007_000010.wav",
+        "speaker_id": "LibriTTS_R-4358",
+        "content": "Would any one faint?",
+        "style_prompt": "M_p-normal_s-fast_e-normal",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "fast",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-4358_20034_000008_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/4358/20034/4358_20034_000008_000001.wav",
+        "speaker_id": "LibriTTS_R-4358",
+        "content": "No one could see across the church, and the minister loomed up, as if in a dense fog; all eyes were fountains of tears.",
+        "style_prompt": "M_p-low_s-slow_e-normal",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "very slow",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-4358_44937_000005_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/4358/44937/4358_44937_000005_000000.wav",
+        "speaker_id": "LibriTTS_R-4358",
+        "content": "CHAPTER sixteen",
+        "style_prompt": "M_p-normal_s-slow_e-normal",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "very slow",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-4358_44937_000006_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/4358/44937/4358_44937_000006_000000.wav",
+        "speaker_id": "LibriTTS_R-4358",
+        "content": "ARTS AT HULL HOUSE",
+        "style_prompt": "M_p-normal_s-slow_e-normal",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "very slow",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-4358_44937_000010_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/4358/44937/4358_44937_000010_000000.wav",
+        "speaker_id": "LibriTTS_R-4358",
+        "content": "The exhibits afforded pathetic evidence that the older immigrants do not expect the solace of art in this country; an Italian expressed great surprise when he found that we, although Americans, still liked pictures, and said quite naively that he didn't know that Americans cared for anything but dollars-that looking at pictures was something people only did in Italy.",
+        "style_prompt": "M_p-normal_s-normal_e-normal",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-4358_44937_000019_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/4358/44937/4358_44937_000019_000000.wav",
+        "speaker_id": "LibriTTS_R-4358",
+        "content": "\"Who was it made the coal? Our God as well as theirs.\"",
+        "style_prompt": "M_p-normal_s-slow_e-high",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "very slow",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-4358_44937_000020_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/4358/44937/4358_44937_000020_000000.wav",
+        "speaker_id": "LibriTTS_R-4358",
+        "content": "seemed to relieve the tension of the moment.",
+        "style_prompt": "M_p-normal_s-normal_e-high",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "very high"
+    },
+    {
+        "item_name": "LibriTTS_R-4358_44937_000021_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/4358/44937/4358_44937_000021_000000.wav",
+        "speaker_id": "LibriTTS_R-4358",
+        "content": "\"The roaring of the wheels has filled my ears, The clashing and the clamor shut me in, Myself, my soul, in chaos disappears, I cannot think or feel amid the din.\"",
+        "style_prompt": "M_p-normal_s-slow_e-normal",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "very slow",
+        "energy": "normal"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "item_name": "libritts-train-clean-360-1536-137608-1536_137608_000016_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/1536/137608/1536_137608_000016_000000.wav",
+        "speaker_id": "LibriTTS-train-clean-360-1536",
+        "content": "CHAPTER twenty.",
+        "style_prompt": "His low-pitched voice and leisurely speech couldn't detract from the boy's vibrant energy.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "low",
+        "energy": "high",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-360-1536-137608-1536_137608_000007_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/1536/137608/1536_137608_000007_000000.wav",
+        "speaker_id": "LibriTTS-train-clean-360-1536",
+        "content": "CHAPTER eighteen.",
+        "style_prompt": "The man's deliberate pacing and low tone couldn't quell his high energy.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "low",
+        "energy": "high",
+        "emotion": "neutral"
+    }
+]

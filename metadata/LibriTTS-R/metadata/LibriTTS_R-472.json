@@ -1,0 +1,112 @@
+[
+    {
+        "item_name": "LibriTTS_R-472_129979_000010_000002",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/472/129979/472_129979_000010_000002.wav",
+        "speaker_id": "LibriTTS_R-472",
+        "content": "Not above ten miles, I dare say.\"",
+        "style_prompt": "F_p-normal_s-fast_e-normal",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "fast",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-472_129979_000012_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/472/129979/472_129979_000012_000001.wav",
+        "speaker_id": "LibriTTS_R-472",
+        "content": "there is not much difference.",
+        "style_prompt": "F_p-low_s-fast_e-low",
+        "gender": "F",
+        "pitch": "low",
+        "speed": "very fast",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-472_129979_000017_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/472/129979/472_129979_000017_000000.wav",
+        "speaker_id": "LibriTTS_R-472",
+        "content": "\"My dear,\" said he to his lady, \"it is very provoking that we should be so few.",
+        "style_prompt": "F_p-normal_s-normal_e-low",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-472_129979_000021_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/472/129979/472_129979_000021_000000.wav",
+        "speaker_id": "LibriTTS_R-472",
+        "content": "\"My love you contradict every body,\" said his wife with her usual laugh.",
+        "style_prompt": "F_p-high_s-slow_e-low",
+        "gender": "F",
+        "pitch": "high",
+        "speed": "slow",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-472_129979_000033_000003",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/472/129979/472_129979_000033_000003.wav",
+        "speaker_id": "LibriTTS_R-472",
+        "content": "He declares he won't.",
+        "style_prompt": "F_p-high_s-fast_e-high",
+        "gender": "F",
+        "pitch": "very high",
+        "speed": "fast",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-472_129979_000040_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/472/129979/472_129979_000040_000000.wav",
+        "speaker_id": "LibriTTS_R-472",
+        "content": "\"Well-I am so glad you do.",
+        "style_prompt": "F_p-normal_s-normal_e-normal",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-472_129979_000044_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/472/129979/472_129979_000044_000000.wav",
+        "speaker_id": "LibriTTS_R-472",
+        "content": "\"Don't pretend to deny it, because you know it is what every body talks of.",
+        "style_prompt": "F_p-high_s-fast_e-normal",
+        "gender": "F",
+        "pitch": "very high",
+        "speed": "fast",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-472_129979_000048_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/472/129979/472_129979_000048_000000.wav",
+        "speaker_id": "LibriTTS_R-472",
+        "content": "\"But I do assure you it was so, for all that, and I will tell you how it happened.",
+        "style_prompt": "F_p-high_s-fast_e-normal",
+        "gender": "F",
+        "pitch": "very high",
+        "speed": "fast",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-472_129979_000058_000002",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/472/129979/472_129979_000058_000002.wav",
+        "speaker_id": "LibriTTS_R-472",
+        "content": "It is so delightful that you should live at the cottage!",
+        "style_prompt": "F_p-normal_s-fast_e-low",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "very fast",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-472_129994_000032_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/472/129994/472_129994_000032_000000.wav",
+        "speaker_id": "LibriTTS_R-472",
+        "content": "\"I think, Elinor,\" she presently added, \"we must employ Edward to take care of us in our return to Barton.",
+        "style_prompt": "F_p-high_s-fast_e-normal",
+        "gender": "F",
+        "pitch": "high",
+        "speed": "fast",
+        "energy": "normal"
+    }
+]

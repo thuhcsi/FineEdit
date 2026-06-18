@@ -1,0 +1,98 @@
+[
+    {
+        "item_name": "libritts-train-clean-100-3947-13262-3947_13262_000019_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-100/3947/13262/3947_13262_000019_000000.wav",
+        "speaker_id": "LibriTTS-train-clean-100-3947",
+        "content": "Rollin was relieved when Rachel spoke.",
+        "style_prompt": "The woman's high-energy speech maintains her normal pitch.",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "high",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-100-3947-13262-3947_13262_000004_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-100/3947/13262/3947_13262_000004_000000.wav",
+        "speaker_id": "LibriTTS-train-clean-100-3947",
+        "content": "\"Yes.",
+        "style_prompt": "Speaking slowly, she managed to project a very loud and energetic voice.",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "low",
+        "energy": "high",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-100-3947-13260-3947_13260_000008_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-100/3947/13260/3947_13260_000008_000000.wav",
+        "speaker_id": "LibriTTS-train-clean-100-3947",
+        "content": "\"It is true.",
+        "style_prompt": "The woman's voice is lively, and her tone is normal.",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "high",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-100-3947-13262-3947_13262_000019_000010",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-100/3947/13262/3947_13262_000019_000010.wav",
+        "speaker_id": "LibriTTS-train-clean-100-3947",
+        "content": "One thing I have found out.",
+        "style_prompt": "The girl's volume is turned up, yet her tone is unchanged.",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "high",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-100-3947-13262-3947_13262_000022_000003",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-100/3947/13262/3947_13262_000022_000003.wav",
+        "speaker_id": "LibriTTS-train-clean-100-3947",
+        "content": "At last Rollin said: \"I thank you.",
+        "style_prompt": "The woman's voice conveys enthusiasm with a regular tone.",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "high",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-100-3947-13262-3947_13262_000022_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-100/3947/13262/3947_13262_000022_000000.wav",
+        "speaker_id": "LibriTTS-train-clean-100-3947",
+        "content": "Rollin trembled.",
+        "style_prompt": "A woman's shouts were both slow and filled with vibrant energy.",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "low",
+        "energy": "high",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-100-3947-13262-3947_13262_000020_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-100/3947/13262/3947_13262_000020_000000.wav",
+        "speaker_id": "LibriTTS-train-clean-100-3947",
+        "content": "Rollin spoke with enthusiasm.",
+        "style_prompt": "A woman's lively pitch complemented her measured speech.",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "low",
+        "energy": "high",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-100-3947-13262-3947_13262_000022_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-100/3947/13262/3947_13262_000022_000001.wav",
+        "speaker_id": "LibriTTS-train-clean-100-3947",
+        "content": "His agitation was greater than he could control. Rachel could not help seeing it.",
+        "style_prompt": "A woman with vivacious sound and normal tone.",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "high",
+        "emotion": "neutral"
+    }
+]

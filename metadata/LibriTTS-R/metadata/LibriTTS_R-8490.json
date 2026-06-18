@@ -1,0 +1,200 @@
+[
+    {
+        "item_name": "LibriTTS_R-8490_284268_000004_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/8490/284268/8490_284268_000004_000001.wav",
+        "speaker_id": "LibriTTS_R-8490",
+        "content": "His knife was on his belt.",
+        "style_prompt": "M_p-normal_s-slow_e-normal",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "slow",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-8490_284268_000014_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/8490/284268/8490_284268_000014_000000.wav",
+        "speaker_id": "LibriTTS_R-8490",
+        "content": "That was true.",
+        "style_prompt": "M_p-normal_s-slow_e-high",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "very slow",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-8490_284268_000014_000003",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/8490/284268/8490_284268_000014_000003.wav",
+        "speaker_id": "LibriTTS_R-8490",
+        "content": "He spoke again:",
+        "style_prompt": "M_p-normal_s-normal_e-normal",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-8490_284268_000015_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/8490/284268/8490_284268_000015_000000.wav",
+        "speaker_id": "LibriTTS_R-8490",
+        "content": "\"If you care not because some spoke against you, what is the trouble?",
+        "style_prompt": "M_p-high_s-slow_e-normal",
+        "gender": "M",
+        "pitch": "very high",
+        "speed": "very slow",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-8490_284268_000026_000002",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/8490/284268/8490_284268_000026_000002.wav",
+        "speaker_id": "LibriTTS_R-8490",
+        "content": "Let us hope this is a good fight.\"",
+        "style_prompt": "M_p-high_s-slow_e-high",
+        "gender": "M",
+        "pitch": "very high",
+        "speed": "very slow",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-8490_284269_000003_000003",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/8490/284269/8490_284269_000003_000003.wav",
+        "speaker_id": "LibriTTS_R-8490",
+        "content": "Their packs bore tanned skins, fruit of the saguaro cactus, edible roots of the mescal plant, and other trade goods.",
+        "style_prompt": "M_p-normal_s-slow_e-low",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "very slow",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-8490_284269_000013_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/8490/284269/8490_284269_000013_000001.wav",
+        "speaker_id": "LibriTTS_R-8490",
+        "content": "All these soldier police were mounted and armed, and their snapping black eyes were filled with hatred for Apaches.",
+        "style_prompt": "M_p-normal_s-normal_e-high",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-8490_284269_000016_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/8490/284269/8490_284269_000016_000001.wav",
+        "speaker_id": "LibriTTS_R-8490",
+        "content": "You may enter.\"",
+        "style_prompt": "M_p-high_s-fast_e-normal",
+        "gender": "M",
+        "pitch": "very high",
+        "speed": "fast",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-8490_284269_000018_000002",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/8490/284269/8490_284269_000018_000002.wav",
+        "speaker_id": "LibriTTS_R-8490",
+        "content": "His body was dirty.",
+        "style_prompt": "M_p-normal_s-slow_e-high",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "slow",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-8490_284269_000020_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/8490/284269/8490_284269_000020_000001.wav",
+        "speaker_id": "LibriTTS_R-8490",
+        "content": "\"See, Senor Apache?",
+        "style_prompt": "M_p-high_s-slow_e-high",
+        "gender": "M",
+        "pitch": "very high",
+        "speed": "slow",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-8490_284269_000021_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/8490/284269/8490_284269_000021_000001.wav",
+        "speaker_id": "LibriTTS_R-8490",
+        "content": "The peddler called anxiously, \"Will you give me some mescal?\"",
+        "style_prompt": "M_p-high_s-slow_e-high",
+        "gender": "M",
+        "pitch": "very high",
+        "speed": "slow",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-8490_284269_000023_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/8490/284269/8490_284269_000023_000000.wav",
+        "speaker_id": "LibriTTS_R-8490",
+        "content": "\"Some tobacco?\" the eagle's captor wailed.",
+        "style_prompt": "M_p-normal_s-slow_e-normal",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "slow",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-8490_284269_000026_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/8490/284269/8490_284269_000026_000000.wav",
+        "speaker_id": "LibriTTS_R-8490",
+        "content": "The amazed Apaches halted and gaped.",
+        "style_prompt": "M_p-normal_s-slow_e-normal",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "slow",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-8490_284269_000030_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/8490/284269/8490_284269_000030_000001.wav",
+        "speaker_id": "LibriTTS_R-8490",
+        "content": "He took out his pouch of gold.",
+        "style_prompt": "M_p-normal_s-slow_e-high",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "slow",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-8490_284269_000033_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/8490/284269/8490_284269_000033_000000.wav",
+        "speaker_id": "LibriTTS_R-8490",
+        "content": "Geronimo dropped the still half filled pouch of gold into the dust and forgot it.",
+        "style_prompt": "M_p-normal_s-slow_e-normal",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "slow",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-8490_284269_000035_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/8490/284269/8490_284269_000035_000000.wav",
+        "speaker_id": "LibriTTS_R-8490",
+        "content": "\"This way.\"",
+        "style_prompt": "M_p-high_s-normal_e-normal",
+        "gender": "M",
+        "pitch": "high",
+        "speed": "normal",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-8490_284269_000037_000003",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/8490/284269/8490_284269_000037_000003.wav",
+        "speaker_id": "LibriTTS_R-8490",
+        "content": "And two girl children.",
+        "style_prompt": "M_p-normal_s-slow_e-high",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "very slow",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-8490_284269_000038_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/8490/284269/8490_284269_000038_000001.wav",
+        "speaker_id": "LibriTTS_R-8490",
+        "content": "\"I know not from where!",
+        "style_prompt": "M_p-high_s-slow_e-high",
+        "gender": "M",
+        "pitch": "high",
+        "speed": "slow",
+        "energy": "very high"
+    }
+]

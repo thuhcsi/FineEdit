@@ -1,6 +1,6 @@
 # FineEdit: A Structured Paired Dataset for Controllable TTS
 
-[![Paper](https://img.shields.io/badge/Paper-Interspeech%202026-blue)](https://thuhcsi.github.io/interspeech2026-FineCombo-TTS)
+[![Paper](https://img.shields.io/badge/Paper-Interspeech%202026-blue)](https://arxiv.org/abs/2606.19209)
 [![Demo](https://img.shields.io/badge/Demo-FineCombo--TTS-orange)](https://thuhcsi.github.io/interspeech2026-FineCombo-TTS)
 
 **FineEdit** is a large-scale, structured paired English speech dataset constructed to support **FineCombo-TTS** (Interspeech 2026). It is specifically designed for learning precise relative acoustic attribute control in text-to-speech synthesis.
@@ -26,15 +26,15 @@ Due to GitHub's file size limits, the large **augmented audio files** are hosted
 ### 1. FineEdit Components
 | Component | Format | Source | Download Link |
 | :--- | :--- | :--- | :--- |
-| **Paired Metadata** | `.json` | GitHub | [Browse Repo](./) |
-| **Augmentation Scripts** | `.sh` | GitHub | [Browse `code-change-prosody/`](./code-change-prosody/) |
+| **Paired Metadata** | `.json` | GitHub | [Browse Repo](#) |
+| **Augmentation Scripts** | `.sh` | GitHub | [Browse `code-change-prosody/`](code-change-prosody) |
 | **Prosody Audio Pack** | `.tar.gz` | Google Drive | [👉 Download from Google Drive](YOUR_GOOGLE_DRIVE_LINK_HERE) |
 
 ### 2. Upstream Source Datasets
 To fully utilize the metadata or replicate the full data environment, you can access the original source datasets here:
-* **LibriTTS-R**: [Official Link](https://www.openslr.org/141/)
-* **LibriTTS-P**: [Official Link](https://github.com/line/LibriTTS-P)
-* **TextrolSpeech**: [Official Link](https://github.com/jishengpeng/TextrolSpeech)
+* **LibriTTS-R**: [https://www.openslr.org/141/](https://www.openslr.org/141/)
+* **LibriTTS-P**: [https://github.com/line/LibriTTS-P](https://github.com/line/LibriTTS-P)
+* **TextrolSpeech**: [https://github.com/jishengpeng/TextrolSpeech](https://github.com/jishengpeng/TextrolSpeech)
 
 ---
 
@@ -45,7 +45,7 @@ If you find this dataset or project helpful, please cite our Interspeech 2026 pa
 ```bibtex
 @inproceedings{zhou2026finecombo,
   title={FineCombo-TTS: Collaborative and Precise Controllable Speech Synthesis Using Text Descriptions and Reference Speech},
-  author={Zhou, Shuoyi and Zhou, Yixuan and Yang, Peiji Sus, Hu, Yifan and Zhong, Yicheng and Wang, Zhisheng and Wu, Zhiyong},
+  author={Zhou, Shuoyi and Zhou, Yixuan and Yang, Peiji and, Hu, Yifan and Zhong, Yicheng and Wang, Zhisheng and Wu, Zhiyong},
   booktitle={Interspeech},
   year={2026}
 }

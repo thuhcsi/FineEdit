@@ -1,0 +1,101 @@
+[
+    {
+        "item_name": "LibriTTS_R-803_139752_000001_000003",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/803/139752/803_139752_000001_000003.wav",
+        "speaker_id": "LibriTTS_R-803",
+        "content": "His terms are moderate, so much cash down when the goods are delivered, so much in blackmail afterwards.",
+        "style_prompt": "M_p-low_s-normal_e-low",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-803_139752_000001_000008",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/803/139752/803_139752_000001_000008.wav",
+        "speaker_id": "LibriTTS_R-803",
+        "content": "He has a way with tapestry; you would scarcely notice that the edges had been cut.",
+        "style_prompt": "M_p-low_s-normal_e-low",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-803_139752_000005_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/803/139752/803_139752_000005_000001.wav",
+        "speaker_id": "LibriTTS_R-803",
+        "content": "mrs Eggins, the caretaker, glanced up the street, and then she let them in, and left them to wait in the drawing room amongst furniture all mysterious with sheets.",
+        "style_prompt": "M_p-low_s-slow_e-low",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "slow",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-803_139752_000010_000004",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/803/139752/803_139752_000010_000004.wav",
+        "speaker_id": "LibriTTS_R-803",
+        "content": "Five minutes before midnight Tommy Tonker, instructed by mr Nuth, who waited outside, came away with one pocketful of rings and shirt studs.",
+        "style_prompt": "M_p-low_s-slow_e-low",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "slow",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-803_139752_000015_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/803/139752/803_139752_000015_000001.wav",
+        "speaker_id": "LibriTTS_R-803",
+        "content": "They did not speak of it there, and elsewhere it is unheard of.",
+        "style_prompt": "M_p-low_s-normal_e-low",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-803_139752_000021_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/803/139752/803_139752_000021_000000.wav",
+        "speaker_id": "LibriTTS_R-803",
+        "content": "\"Oh, no, my child\" (for such a question is childish).",
+        "style_prompt": "M_p-low_s-slow_e-normal",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "very slow",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-803_139753_000008_000005",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/803/139753/803_139753_000008_000005.wav",
+        "speaker_id": "LibriTTS_R-803",
+        "content": "With cobbled agates were its streets a glory.",
+        "style_prompt": "M_p-low_s-slow_e-low",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "slow",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-803_139753_000008_000006",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/803/139753/803_139753_000008_000006.wav",
+        "speaker_id": "LibriTTS_R-803",
+        "content": "Through small square panes of rose quartz the citizens looked from their houses.",
+        "style_prompt": "M_p-low_s-slow_e-high",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "slow",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-803_139753_000008_000007",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/803/139753/803_139753_000008_000007.wav",
+        "speaker_id": "LibriTTS_R-803",
+        "content": "To them as they looked abroad the World far off seemed happy.",
+        "style_prompt": "M_p-low_s-slow_e-normal",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "slow",
+        "energy": "normal"
+    }
+]

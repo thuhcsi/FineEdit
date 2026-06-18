@@ -1,0 +1,79 @@
+[
+    {
+        "item_name": "LibriTTS_R-1473_135657_000000_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1473/135657/1473_135657_000000_000000.wav",
+        "speaker_id": "LibriTTS_R-1473",
+        "content": "OF LIBERTY AND NECESSITY.",
+        "style_prompt": "M_p-normal_s-fast_e-low",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "very fast",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-1473_135657_000001_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1473/135657/1473_135657_000001_000000.wav",
+        "speaker_id": "LibriTTS_R-1473",
+        "content": "PART one",
+        "style_prompt": "M_p-low_s-slow_e-normal",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "slow",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-1473_135657_000011_000002",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1473/135657/1473_135657_000011_000002.wav",
+        "speaker_id": "LibriTTS_R-1473",
+        "content": "Such a uniformity in every particular, is found in no part of nature.",
+        "style_prompt": "M_p-normal_s-fast_e-normal",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "fast",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-1473_135657_000018_000002",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1473/135657/1473_135657_000018_000002.wav",
+        "speaker_id": "LibriTTS_R-1473",
+        "content": "He also expects that, when he carries his goods to market, and offers them at a reasonable price, he shall find purchasers, and shall be able, by the money he acquires, to engage others to supply him with those commodities which are requisite for his subsistence.",
+        "style_prompt": "M_p-normal_s-fast_e-normal",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "fast",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-1473_135657_000021_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1473/135657/1473_135657_000021_000001.wav",
+        "speaker_id": "LibriTTS_R-1473",
+        "content": "I shall therefore change the suppositions.",
+        "style_prompt": "M_p-normal_s-fast_e-high",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "fast",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-1473_135657_000025_000004",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1473/135657/1473_135657_000025_000004.wav",
+        "speaker_id": "LibriTTS_R-1473",
+        "content": "For these are plain and acknowledged matters of fact.",
+        "style_prompt": "M_p-normal_s-normal_e-high",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-1473_135657_000027_000002",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1473/135657/1473_135657_000027_000002.wav",
+        "speaker_id": "LibriTTS_R-1473",
+        "content": "But if the foregoing explication of the matter be received, this must be absolutely impracticable.",
+        "style_prompt": "M_p-normal_s-fast_e-low",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "fast",
+        "energy": "low"
+    }
+]

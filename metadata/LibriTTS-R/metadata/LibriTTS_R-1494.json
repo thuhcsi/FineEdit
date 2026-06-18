@@ -1,0 +1,178 @@
+[
+    {
+        "item_name": "LibriTTS_R-1494_138315_000001_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1494/138315/1494_138315_000001_000000.wav",
+        "speaker_id": "LibriTTS_R-1494",
+        "content": "CHAPTER forty seven",
+        "style_prompt": "M_p-low_s-fast_e-normal",
+        "gender": "M",
+        "pitch": "very low",
+        "speed": "fast",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-1494_138315_000002_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1494/138315/1494_138315_000002_000000.wav",
+        "speaker_id": "LibriTTS_R-1494",
+        "content": "ADVENTURES BY THE SHORE",
+        "style_prompt": "M_p-low_s-normal_e-high",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-1494_138315_000003_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1494/138315/1494_138315_000003_000000.wav",
+        "speaker_id": "LibriTTS_R-1494",
+        "content": "Troy wandered along towards the south.",
+        "style_prompt": "M_p-low_s-normal_e-high",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-1494_138315_000003_000002",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1494/138315/1494_138315_000003_000002.wav",
+        "speaker_id": "LibriTTS_R-1494",
+        "content": "The sad accessories of Fanny's end confronted him as vivid pictures which threatened to be indelible, and made life in Bathsheba's house intolerable.",
+        "style_prompt": "M_p-low_s-normal_e-low",
+        "gender": "M",
+        "pitch": "very low",
+        "speed": "normal",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-1494_138315_000003_000003",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1494/138315/1494_138315_000003_000003.wav",
+        "speaker_id": "LibriTTS_R-1494",
+        "content": "At three in the afternoon he found himself at the foot of a slope more than a mile in length, which ran to the ridge of a range of hills lying parallel with the shore, and forming a monotonous barrier between the basin of cultivated country inland and the wilder scenery of the coast.",
+        "style_prompt": "M_p-low_s-normal_e-normal",
+        "gender": "M",
+        "pitch": "very low",
+        "speed": "normal",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-1494_138315_000003_000005",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1494/138315/1494_138315_000003_000005.wav",
+        "speaker_id": "LibriTTS_R-1494",
+        "content": "Throughout the length of this narrow and irksome inclined plane not a sign of life was visible on this garish afternoon.",
+        "style_prompt": "M_p-low_s-slow_e-low",
+        "gender": "M",
+        "pitch": "very low",
+        "speed": "slow",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-1494_138315_000003_000007",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1494/138315/1494_138315_000003_000007.wav",
+        "speaker_id": "LibriTTS_R-1494",
+        "content": "The air was warm and muggy, and the top seemed to recede as he approached.",
+        "style_prompt": "M_p-low_s-normal_e-low",
+        "gender": "M",
+        "pitch": "very low",
+        "speed": "normal",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-1494_138315_000004_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1494/138315/1494_138315_000004_000000.wav",
+        "speaker_id": "LibriTTS_R-1494",
+        "content": "At last he reached the summit, and a wide and novel prospect burst upon him with an effect almost like that of the Pacific upon Balboa's gaze.",
+        "style_prompt": "M_p-low_s-slow_e-low",
+        "gender": "M",
+        "pitch": "very low",
+        "speed": "slow",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-1494_138315_000004_000002",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1494/138315/1494_138315_000004_000002.wav",
+        "speaker_id": "LibriTTS_R-1494",
+        "content": "Nothing moved in sky, land, or sea, except a frill of milkwhite foam along the nearer angles of the shore, shreds of which licked the contiguous stones like tongues.",
+        "style_prompt": "M_p-low_s-slow_e-low",
+        "gender": "M",
+        "pitch": "very low",
+        "speed": "slow",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-1494_138315_000005_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1494/138315/1494_138315_000005_000000.wav",
+        "speaker_id": "LibriTTS_R-1494",
+        "content": "He descended and came to a small basin of sea enclosed by the cliffs. Troy's nature freshened within him; he thought he would rest and bathe here before going farther.",
+        "style_prompt": "M_p-low_s-slow_e-low",
+        "gender": "M",
+        "pitch": "very low",
+        "speed": "slow",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-1494_138315_000005_000002",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1494/138315/1494_138315_000005_000002.wav",
+        "speaker_id": "LibriTTS_R-1494",
+        "content": "Troy found himself carried to the left and then round in a swoop out to sea.",
+        "style_prompt": "M_p-low_s-slow_e-low",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "very slow",
+        "energy": "very low"
+    },
+    {
+        "item_name": "LibriTTS_R-1494_138315_000006_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1494/138315/1494_138315_000006_000000.wav",
+        "speaker_id": "LibriTTS_R-1494",
+        "content": "He now recollected the place and its sinister character.",
+        "style_prompt": "M_p-low_s-normal_e-normal",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-1494_138315_000006_000002",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1494/138315/1494_138315_000006_000002.wav",
+        "speaker_id": "LibriTTS_R-1494",
+        "content": "Not a boat of any kind was at present within sight, but far in the distance Budmouth lay upon the sea, as it were quietly regarding his efforts, and beside the town the harbour showed its position by a dim meshwork of ropes and spars.",
+        "style_prompt": "M_p-low_s-slow_e-low",
+        "gender": "M",
+        "pitch": "very low",
+        "speed": "slow",
+        "energy": "very low"
+    },
+    {
+        "item_name": "LibriTTS_R-1494_138315_000007_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1494/138315/1494_138315_000007_000000.wav",
+        "speaker_id": "LibriTTS_R-1494",
+        "content": "All Troy's vigour spasmodically revived to prolong the struggle yet a little further.",
+        "style_prompt": "M_p-low_s-slow_e-high",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "slow",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-1494_138315_000007_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1494/138315/1494_138315_000007_000001.wav",
+        "speaker_id": "LibriTTS_R-1494",
+        "content": "Swimming with his right arm, he held up his left to hail them, splashing upon the waves, and shouting with all his might. From the position of the setting sun his white form was distinctly visible upon the now deep hued bosom of the sea to the east of the boat, and the men saw him at once.",
+        "style_prompt": "M_p-low_s-slow_e-low",
+        "gender": "M",
+        "pitch": "very low",
+        "speed": "slow",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-1494_138315_000007_000002",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/1494/138315/1494_138315_000007_000002.wav",
+        "speaker_id": "LibriTTS_R-1494",
+        "content": "Backing their oars and putting the boat about, they pulled towards him with a will, and in five or six minutes from the time of his first halloo, two of the sailors hauled him in over the stern.",
+        "style_prompt": "M_p-low_s-slow_e-low",
+        "gender": "M",
+        "pitch": "very low",
+        "speed": "slow",
+        "energy": "low"
+    }
+]

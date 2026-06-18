@@ -1,0 +1,46 @@
+[
+    {
+        "item_name": "LibriTTS_R-7657_104717_000011_000004",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/7657/104717/7657_104717_000011_000004.wav",
+        "speaker_id": "LibriTTS_R-7657",
+        "content": "It was filial tenderness that gave the name.",
+        "style_prompt": "F_p-normal_s-normal_e-high",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "very high"
+    },
+    {
+        "item_name": "LibriTTS_R-7657_104717_000015_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/7657/104717/7657_104717_000015_000001.wav",
+        "speaker_id": "LibriTTS_R-7657",
+        "content": "I make but a poor figure at composition, my head is much too fickle, my thoughts are running after birds' eggs, play and trifles till I get vexed with myself.",
+        "style_prompt": "F_p-normal_s-normal_e-normal",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-7657_104717_000029_000012",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/7657/104717/7657_104717_000029_000012.wav",
+        "speaker_id": "LibriTTS_R-7657",
+        "content": "It almost seems a mistake, but it was not.",
+        "style_prompt": "F_p-normal_s-normal_e-normal",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-7657_104717_000030_000004",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/7657/104717/7657_104717_000030_000004.wav",
+        "speaker_id": "LibriTTS_R-7657",
+        "content": "But still",
+        "style_prompt": "F_p-high_s-slow_e-low",
+        "gender": "F",
+        "pitch": "high",
+        "speed": "very slow",
+        "energy": "low"
+    }
+]

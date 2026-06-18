@@ -1,0 +1,74 @@
+[
+    {
+        "item_name": "libritts-train-clean-360-1290-135762-1290_135762_000005_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/1290/135762/1290_135762_000005_000001.wav",
+        "speaker_id": "LibriTTS-train-clean-360-1290",
+        "content": "\"At the very least, they should have put the brand of a hot iron on Hester Prynne's forehead.",
+        "style_prompt": "Quickly and with her usual tone, she communicated.",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "high",
+        "energy": "normal",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-360-1290-135762-1290_135762_000008_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/1290/135762/1290_135762_000008_000001.wav",
+        "speaker_id": "LibriTTS-train-clean-360-1290",
+        "content": "That is the hardest word yet!",
+        "style_prompt": "Speaking swiftly and passionately, her voice exudes high-pitched, energetic fervor.",
+        "gender": "F",
+        "pitch": "high",
+        "speed": "normal",
+        "energy": "high",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-360-1290-135762-1290_135762_000007_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/1290/135762/1290_135762_000007_000001.wav",
+        "speaker_id": "LibriTTS-train-clean-360-1290",
+        "content": "\"This woman has brought shame upon us all, and ought to die; is there not law for it?",
+        "style_prompt": "She spoke quickly in her customary manner.",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "high",
+        "energy": "normal",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-360-1290-135762-1290_135762_000001_000002",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/1290/135762/1290_135762_000001_000002.wav",
+        "speaker_id": "LibriTTS-train-clean-360-1290",
+        "content": "But, in that early severity of the Puritan character, an inference of this kind could not so indubitably be drawn.",
+        "style_prompt": "Expressing herself naturally, she maintains a regular pace.",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "normal",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-360-1290-135762-1290_135762_000015_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/1290/135762/1290_135762_000015_000001.wav",
+        "speaker_id": "LibriTTS-train-clean-360-1290",
+        "content": "\"Make way, good people-make way, in the King's name!\" cried he.",
+        "style_prompt": "Speaking with high energy and a regular pitch, she commands attention.",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "high",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-360-1290-135762-1290_135762_000005_000004",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/1290/135762/1290_135762_000005_000004.wav",
+        "speaker_id": "LibriTTS-train-clean-360-1290",
+        "content": "Why, look you, she may cover it with a brooch, or such like heathenish adornment, and so walk the streets as brave as ever!\"",
+        "style_prompt": "With normal energy, she maintains a voice that's decidedly high in pitch.",
+        "gender": "F",
+        "pitch": "high",
+        "speed": "normal",
+        "energy": "normal",
+        "emotion": "neutral"
+    }
+]

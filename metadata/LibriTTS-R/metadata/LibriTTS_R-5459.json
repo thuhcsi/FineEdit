@@ -1,0 +1,46 @@
+[
+    {
+        "item_name": "LibriTTS_R-5459_41260_000030_000016",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/5459/41260/5459_41260_000030_000016.wav",
+        "speaker_id": "LibriTTS_R-5459",
+        "content": "The Estate near Aberdeen which my brother possesses by the bounty of his great Uncle independant of Sir George, was entirely sufficient to support him and my Sister in Elegance and Ease.",
+        "style_prompt": "M_p-high_s-normal_e-normal",
+        "gender": "M",
+        "pitch": "high",
+        "speed": "normal",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-5459_41260_000030_000018",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/5459/41260/5459_41260_000030_000018.wav",
+        "speaker_id": "LibriTTS_R-5459",
+        "content": "After the birth of Louisa however, which one would have thought would have strengthened her regard for Lesley, the mask she had so long supported was by degrees thrown aside, and as probably she then thought herself secure in the affection of her Husband (which did indeed appear if possible augmented by the birth of his Child) she seemed to take no pains to prevent that affection from ever diminushing.",
+        "style_prompt": "M_p-high_s-slow_e-normal",
+        "gender": "M",
+        "pitch": "very high",
+        "speed": "slow",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-5459_41260_000030_000021",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/5459/41260/5459_41260_000030_000021.wav",
+        "speaker_id": "LibriTTS_R-5459",
+        "content": "You know the sad end of all Lesleys connubial happiness; I will not repeat it-.",
+        "style_prompt": "M_p-high_s-normal_e-high",
+        "gender": "M",
+        "pitch": "very high",
+        "speed": "normal",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-5459_41260_000030_000023",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/5459/41260/5459_41260_000030_000023.wav",
+        "speaker_id": "LibriTTS_R-5459",
+        "content": "I do not doubt but that the healthy air of the Bristol downs will intirely remove it, by erasing from her Mind the remembrance of Henry.",
+        "style_prompt": "M_p-high_s-normal_e-normal",
+        "gender": "M",
+        "pitch": "very high",
+        "speed": "normal",
+        "energy": "normal"
+    }
+]

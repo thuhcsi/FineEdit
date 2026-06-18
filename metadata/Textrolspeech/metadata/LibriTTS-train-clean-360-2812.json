@@ -1,0 +1,122 @@
+[
+    {
+        "item_name": "libritts-train-clean-360-2812-160187-2812_160187_000001_000010",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/2812/160187/2812_160187_000001_000010.wav",
+        "speaker_id": "LibriTTS-train-clean-360-2812",
+        "content": "Some great intent Conceals him.",
+        "style_prompt": "His voice held a regular pitch as he engaged in dialogue at a normal tempo with average energy.",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "normal",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-360-2812-160187-2812_160187_000001_000015",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/2812/160187/2812_160187_000001_000015.wav",
+        "speaker_id": "LibriTTS-train-clean-360-2812",
+        "content": "But these haunts Delight not all.",
+        "style_prompt": "The male speaker's deep tone imparts his thoughts with a balanced level of enthusiasm and at a normal speed.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "normal",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-360-2812-160187-2812_160187_000001_000023",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/2812/160187/2812_160187_000001_000023.wav",
+        "speaker_id": "LibriTTS-train-clean-360-2812",
+        "content": "That fast To virtue I impute not, or count part Of what I suffer here.",
+        "style_prompt": "Speaking in a calm, deep voice, the male communicator maintains a normal speaking rate and energy.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "normal",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-360-2812-160187-2812_160187_000001_000022",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/2812/160187/2812_160187_000001_000022.wav",
+        "speaker_id": "LibriTTS-train-clean-360-2812",
+        "content": "Four times ten days I have passed Wandering this woody maze, and human food Nor tasted, nor had appetite.",
+        "style_prompt": "His vibrant and robust low pitch complements his naturally paced speech, brimming with enthusiasm.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "high",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-360-2812-160187-2812_160187_000001_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/2812/160187/2812_160187_000001_000001.wav",
+        "speaker_id": "LibriTTS-train-clean-360-2812",
+        "content": "Our eyes beheld Messiah certainly now come, so long Expected of our fathers; we have heard His words, his wisdom full of grace and truth. 'Now, now, for sure, deliverance is at hand; The kingdom shall to Israel be restored:' Thus we rejoiced, but soon our joy is turned Into perplexity and new amaze. For whither is he gone?",
+        "style_prompt": "With a touch of high energy, the man delivers his message with normal pitch and speed.",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "high",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-360-2812-160187-2812_160187_000001_000025",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/2812/160187/2812_160187_000001_000025.wav",
+        "speaker_id": "LibriTTS-train-clean-360-2812",
+        "content": "Yet God Can satisfy that need some other way, Though hunger still remain.",
+        "style_prompt": "The man's low-pitched voice maintains an even speaking tempo, creating an overall sense of low energy.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "low",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-360-2812-160187-2812_160187_000001_000002",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/2812/160187/2812_160187_000001_000002.wav",
+        "speaker_id": "LibriTTS-train-clean-360-2812",
+        "content": "what accident Hath rapt him from us?",
+        "style_prompt": "The male speaker engages with fervor, maintaining a normal pitch while speaking rapidly and with high energy.",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "high",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-360-2812-160187-2812_160187_000001_000011",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/2812/160187/2812_160187_000001_000011.wav",
+        "speaker_id": "LibriTTS-train-clean-360-2812",
+        "content": "When twelve years he scarce had seen, I lost him, but so found as well I saw He could not lose himself, but went about His Father's business.",
+        "style_prompt": "The man engages in fast-paced speech with a normal pitch, exuding average energy.",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "high",
+        "energy": "normal",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-360-2812-160187-2812_160187_000001_000007",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/2812/160187/2812_160187_000001_000007.wav",
+        "speaker_id": "LibriTTS-train-clean-360-2812",
+        "content": "To honour?",
+        "style_prompt": "The speaker, male, uses quick speech, normal pitch, and a dash of regular energy.",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "high",
+        "energy": "normal",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-360-2812-160187-2812_160187_000001_000006",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-360/2812/160187/2812_160187_000001_000006.wav",
+        "speaker_id": "LibriTTS-train-clean-360-2812",
+        "content": "But now, Full grown to man, acknowledged, as I hear, By john the Baptist, and in public shewn, Son owned from Heaven by his Father's voice, I looked for some great change.",
+        "style_prompt": "A male speaker's normal pitch doesn't hinder his enthusiastic speech.",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "high",
+        "emotion": "neutral"
+    }
+]

@@ -1,0 +1,167 @@
+[
+    {
+        "item_name": "LibriTTS_R-3576_138058_000010_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/3576/138058/3576_138058_000010_000001.wav",
+        "speaker_id": "LibriTTS_R-3576",
+        "content": "Who is touching me and untrussing me?\"",
+        "style_prompt": "F_p-normal_s-fast_e-high",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "fast",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-3576_138058_000013_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/3576/138058/3576_138058_000013_000000.wav",
+        "speaker_id": "LibriTTS_R-3576",
+        "content": "\"It will not do to leave it to thy courtesy, Sancho,\" said Don Quixote, \"for thou art hard of heart and, though a clown, tender of flesh;\" and at the same time he strove and struggled to untie him.",
+        "style_prompt": "F_p-low_s-slow_e-low",
+        "gender": "F",
+        "pitch": "very low",
+        "speed": "slow",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-3576_138058_000018_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/3576/138058/3576_138058_000018_000001.wav",
+        "speaker_id": "LibriTTS_R-3576",
+        "content": "He trembled with fear and made for another tree, where the very same thing happened to him, and he fell a shouting, calling upon Don Quixote to come and protect him.",
+        "style_prompt": "F_p-low_s-normal_e-low",
+        "gender": "F",
+        "pitch": "very low",
+        "speed": "normal",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-3576_138058_000018_000002",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/3576/138058/3576_138058_000018_000002.wav",
+        "speaker_id": "LibriTTS_R-3576",
+        "content": "Don Quixote did so, and asked him what had happened to him, and what he was afraid of.",
+        "style_prompt": "F_p-low_s-fast_e-low",
+        "gender": "F",
+        "pitch": "low",
+        "speed": "fast",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-3576_138058_000019_000002",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/3576/138058/3576_138058_000019_000002.wav",
+        "speaker_id": "LibriTTS_R-3576",
+        "content": "He saw that his squires (for so they call those who follow that trade) were about to rifle Sancho Panza, but he ordered them to desist and was at once obeyed, so the girdle escaped.",
+        "style_prompt": "F_p-low_s-normal_e-low",
+        "gender": "F",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-3576_138058_000019_000003",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/3576/138058/3576_138058_000019_000003.wav",
+        "speaker_id": "LibriTTS_R-3576",
+        "content": "He wondered to see the lance leaning against the tree, the shield on the ground, and Don Quixote in armour and dejected, with the saddest and most melancholy face that sadness itself could produce; and going up to him he said, \"Be not so cast down, good man, for you have not fallen into the hands of any inhuman Busiris, but into Roque Guinart's, which are more merciful than cruel.\"",
+        "style_prompt": "F_p-low_s-slow_e-low",
+        "gender": "F",
+        "pitch": "low",
+        "speed": "slow",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-3576_138058_000024_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/3576/138058/3576_138058_000024_000001.wav",
+        "speaker_id": "LibriTTS_R-3576",
+        "content": "Give me my horse and arms, and wait for me here; I will go in quest of this knight, and dead or alive I will make him keep his word plighted to so great beauty.\"",
+        "style_prompt": "F_p-low_s-normal_e-low",
+        "gender": "F",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-3576_138058_000033_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/3576/138058/3576_138058_000033_000000.wav",
+        "speaker_id": "LibriTTS_R-3576",
+        "content": "\"What are you talking about, man?\" said one of the bystanders; \"I have got them, and they are not worth three reals.\"",
+        "style_prompt": "F_p-low_s-slow_e-normal",
+        "gender": "F",
+        "pitch": "low",
+        "speed": "slow",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-3576_138058_000037_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/3576/138058/3576_138058_000037_000000.wav",
+        "speaker_id": "LibriTTS_R-3576",
+        "content": "Upon this Sancho remarked, \"From what I have seen here, justice is such a good thing that there is no doing without it, even among the thieves themselves.\"",
+        "style_prompt": "F_p-normal_s-normal_e-low",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-3576_138058_000039_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/3576/138058/3576_138058_000039_000000.wav",
+        "speaker_id": "LibriTTS_R-3576",
+        "content": "At this instant one or two of those squires who were posted as sentinels on the roads, to watch who came along them and report what passed to their chief, came up and said, \"Senor, there is a great troop of people not far off coming along the road to Barcelona.\"",
+        "style_prompt": "F_p-low_s-normal_e-normal",
+        "gender": "F",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-3576_138058_000042_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/3576/138058/3576_138058_000042_000000.wav",
+        "speaker_id": "LibriTTS_R-3576",
+        "content": "\"Well then, away with you all,\" said Roque, \"and bring them here to me at once without letting one of them escape.\"",
+        "style_prompt": "F_p-normal_s-normal_e-normal",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-3576_138058_000044_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/3576/138058/3576_138058_000044_000001.wav",
+        "speaker_id": "LibriTTS_R-3576",
+        "content": "And if you have any desire to shorten the journey and put yourself easily in the way of salvation, come with me, and I will show you how to become a knight errant, a calling wherein so many hardships and mishaps are encountered that if they be taken as penances they will lodge you in heaven in a trice.\"",
+        "style_prompt": "F_p-normal_s-normal_e-normal",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-3576_138058_000046_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/3576/138058/3576_138058_000046_000000.wav",
+        "speaker_id": "LibriTTS_R-3576",
+        "content": "And now the squires despatched to make the prize came up, bringing with them two gentlemen on horseback, two pilgrims on foot, and a coach full of women with some six servants on foot and on horseback in attendance on them, and a couple of muleteers whom the gentlemen had with them.",
+        "style_prompt": "F_p-low_s-slow_e-low",
+        "gender": "F",
+        "pitch": "low",
+        "speed": "slow",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-3576_138058_000048_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/3576/138058/3576_138058_000048_000000.wav",
+        "speaker_id": "LibriTTS_R-3576",
+        "content": "\"So then,\" said Roque Guinart, \"we have got here nine hundred crowns and sixty reals; my soldiers must number some sixty; see how much there falls to each, for I am a bad arithmetician.\" As soon as the robbers heard this they raised a shout of \"Long life to Roque Guinart, in spite of the lladres that seek his ruin!\"",
+        "style_prompt": "F_p-normal_s-slow_e-normal",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "slow",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-3576_138058_000051_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/3576/138058/3576_138058_000051_000000.wav",
+        "speaker_id": "LibriTTS_R-3576",
+        "content": "One of the squires observed in his mixture of Gascon and Catalan, \"This captain of ours would make a better friar than highwayman; if he wants to be so generous another time, let it be with his own property and not ours.\"",
+        "style_prompt": "F_p-low_s-normal_e-normal",
+        "gender": "F",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "normal"
+    }
+]

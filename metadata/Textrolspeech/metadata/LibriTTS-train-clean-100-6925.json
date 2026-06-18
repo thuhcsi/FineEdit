@@ -1,0 +1,110 @@
+[
+    {
+        "item_name": "libritts-train-clean-100-6925-80680-6925_80680_000010_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-100/6925/80680/6925_80680_000010_000000.wav",
+        "speaker_id": "LibriTTS-train-clean-100-6925",
+        "content": "'Nonsense!' snapped the queen.",
+        "style_prompt": "A male speaker speaks with a deep voice, brimming with high energy at a regular pace.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "high",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-100-6925-80680-6925_80680_000012_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-100/6925/80680/6925_80680_000012_000000.wav",
+        "speaker_id": "LibriTTS-train-clean-100-6925",
+        "content": "'As you like,' answered the queen, 'there isn't any doubt which it was.'",
+        "style_prompt": "The man's fast-paced delivery, coupled with his low-pitched voice, captures attention.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "high",
+        "energy": "high",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-100-6925-80680-6925_80680_000051_000002",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-100/6925/80680/6925_80680_000051_000002.wav",
+        "speaker_id": "LibriTTS-train-clean-100-6925",
+        "content": "Help me! help me!'",
+        "style_prompt": "A sense of high energy accompanies the male speaker's slow and intense speech, with a regular pitch.",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "low",
+        "energy": "high",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-100-6925-80680-6925_80680_000006_000002",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-100/6925/80680/6925_80680_000006_000002.wav",
+        "speaker_id": "LibriTTS-train-clean-100-6925",
+        "content": "It was only a jackal.'",
+        "style_prompt": "The male speaker's delivery combines a deep tone with lightning-fast speech and boundless enthusiasm.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "high",
+        "energy": "high",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-100-6925-80680-6925_80680_000063_000002",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-100/6925/80680/6925_80680_000063_000002.wav",
+        "speaker_id": "LibriTTS-train-clean-100-6925",
+        "content": "Help me! help me!'",
+        "style_prompt": "Speaking at an average pace, the man's high-energy delivery captivates.",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "high",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-100-6925-80680-6925_80680_000006_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-100/6925/80680/6925_80680_000006_000000.wav",
+        "speaker_id": "LibriTTS-train-clean-100-6925",
+        "content": "'Tiger?' replied the queen.",
+        "style_prompt": "A man's vibrant voice conveys high energy while he speaks with a low-pitched tone at a natural speed.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "high",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-100-6925-80680-6925_80680_000007_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-100/6925/80680/6925_80680_000007_000000.wav",
+        "speaker_id": "LibriTTS-train-clean-100-6925",
+        "content": "'I tell you it was a tiger,' said the king.",
+        "style_prompt": "With a deep and resonant tone, his speech rapidly gains high energy.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "high",
+        "energy": "high",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-100-6925-80680-6925_80680_000081_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-100/6925/80680/6925_80680_000081_000000.wav",
+        "speaker_id": "LibriTTS-train-clean-100-6925",
+        "content": "'In prison,' replied the farmer; 'if your majesty will clear this court of the jackals I will explain.'",
+        "style_prompt": "His low-pitched voice resonates with enthusiasm as he speaks with a natural tempo.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "high",
+        "emotion": "neutral"
+    },
+    {
+        "item_name": "libritts-train-clean-100-6925-80680-6925_80680_000005_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/TextrolSpeech/LibriTTS/LibriTTS/train-clean-100/6925/80680/6925_80680_000005_000000.wav",
+        "speaker_id": "LibriTTS-train-clean-100-6925",
+        "content": "'Listen to that tiger!' remarked the king.",
+        "style_prompt": "With high spirits, the male speaker delivers his message in a low pitch and natural pace.",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "high",
+        "emotion": "neutral"
+    }
+]

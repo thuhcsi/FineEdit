@@ -1,0 +1,101 @@
+[
+    {
+        "item_name": "LibriTTS_R-4236_8927_000004_000003",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/4236/8927/4236_8927_000004_000003.wav",
+        "speaker_id": "LibriTTS_R-4236",
+        "content": "There were also, as a class apart, the bruisers, which did not lacerate the flesh, but only crushed the bone.",
+        "style_prompt": "M_p-normal_s-normal_e-normal",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-4236_8927_000006_000003",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/4236/8927/4236_8927_000006_000003.wav",
+        "speaker_id": "LibriTTS_R-4236",
+        "content": "The wound brought on lockjaw, of which he died.",
+        "style_prompt": "M_p-normal_s-slow_e-high",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "very slow",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-4236_8927_000013_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/4236/8927/4236_8927_000013_000000.wav",
+        "speaker_id": "LibriTTS_R-4236",
+        "content": "\"What's that?\" said Suke, starting up in bed.",
+        "style_prompt": "M_p-normal_s-slow_e-low",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "slow",
+        "energy": "very low"
+    },
+    {
+        "item_name": "LibriTTS_R-4236_8927_000015_000002",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/4236/8927/4236_8927_000015_000002.wav",
+        "speaker_id": "LibriTTS_R-4236",
+        "content": "Hark!\"",
+        "style_prompt": "M_p-high_s-slow_e-low",
+        "gender": "M",
+        "pitch": "very high",
+        "speed": "very slow",
+        "energy": "very low"
+    },
+    {
+        "item_name": "LibriTTS_R-4236_8927_000018_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/4236/8927/4236_8927_000018_000000.wav",
+        "speaker_id": "LibriTTS_R-4236",
+        "content": "Tim was puzzled.",
+        "style_prompt": "M_p-normal_s-normal_e-normal",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-4236_8927_000024_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/4236/8927/4236_8927_000024_000001.wav",
+        "speaker_id": "LibriTTS_R-4236",
+        "content": "Thus far it was according to Tim's conjecture.",
+        "style_prompt": "M_p-low_s-fast_e-high",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "fast",
+        "energy": "high"
+    },
+    {
+        "item_name": "LibriTTS_R-4236_8927_000029_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/4236/8927/4236_8927_000029_000000.wav",
+        "speaker_id": "LibriTTS_R-4236",
+        "content": "The man trap was thrown; and between its jaws was part of a woman's clothing-a patterned silk skirt-gripped with such violence that the iron teeth had passed through it, skewering its tissue in a score of places.",
+        "style_prompt": "M_p-low_s-normal_e-low",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-4236_8927_000033_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/4236/8927/4236_8927_000033_000001.wav",
+        "speaker_id": "LibriTTS_R-4236",
+        "content": "Right and left of the narrow pass between the oaks were dense bushes; and now from behind these a female figure glided, whose appearance even in the gloom was, though graceful in outline, noticeably strange.",
+        "style_prompt": "M_p-low_s-normal_e-low",
+        "gender": "M",
+        "pitch": "low",
+        "speed": "normal",
+        "energy": "low"
+    },
+    {
+        "item_name": "LibriTTS_R-4236_8927_000049_000001",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/4236/8927/4236_8927_000049_000001.wav",
+        "speaker_id": "LibriTTS_R-4236",
+        "content": "They went on together.",
+        "style_prompt": "M_p-normal_s-fast_e-high",
+        "gender": "M",
+        "pitch": "normal",
+        "speed": "very fast",
+        "energy": "very high"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "item_name": "LibriTTS_R-4846_18524_000011_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/4846/18524/4846_18524_000011_000000.wav",
+        "speaker_id": "LibriTTS_R-4846",
+        "content": "\"Oh, it's so far up in the air,\" answered old mr King.",
+        "style_prompt": "F_p-normal_s-normal_e-normal",
+        "gender": "F",
+        "pitch": "normal",
+        "speed": "normal",
+        "energy": "normal"
+    },
+    {
+        "item_name": "LibriTTS_R-4846_18524_000087_000000",
+        "wav_path": "/apdcephfs_qy3/share_1474453/shuoyizhou/data_preprocess/LibriTTS-R/LibriTTS_R/4846/18524/4846_18524_000087_000000.wav",
+        "speaker_id": "LibriTTS_R-4846",
+        "content": "\"Not a bit,\" said Tom.",
+        "style_prompt": "F_p-high_s-slow_e-low",
+        "gender": "F",
+        "pitch": "high",
+        "speed": "slow",
+        "energy": "low"
+    }
+]
